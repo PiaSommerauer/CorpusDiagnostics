@@ -1,0 +1,5 @@
+square,photocopier
+sweet,lingonberry
+juicy,marang
+juicy,pumpkin
+round,can

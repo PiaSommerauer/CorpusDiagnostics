@@ -1,0 +1,7 @@
+cold,vinyl
+cold,coffee
+warm,dress
+cold,eggshell
+cold,casserole
+hot,bottle
+warm,frock

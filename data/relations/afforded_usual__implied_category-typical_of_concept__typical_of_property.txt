@@ -1,0 +1,4 @@
+lay_eggs,duck
+fly,pigeon
+fly,vulture
+lay_eggs,grackle

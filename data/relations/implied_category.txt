@@ -1,0 +1,16 @@
+wings,roach
+round,cherry
+warm,brogue
+swim,cob
+round,patty
+wings,cricket
+roll,bike
+wheels,saloon
+lay_eggs,flounder
+wheels,tank
+swim,bay
+dangerous,pentobarbital
+lay_eggs,crane
+wheels,underframe
+round,pepperoni
+lay_eggs,neritidae

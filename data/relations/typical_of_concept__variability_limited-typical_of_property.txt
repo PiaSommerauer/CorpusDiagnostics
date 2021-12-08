@@ -1,0 +1,3 @@
+red,wine
+yellow,daffodil
+made_of_wood,ladder

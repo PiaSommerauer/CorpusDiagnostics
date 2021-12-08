@@ -1,0 +1,7 @@
+roll,brick
+yellow,walnut
+hot,vinyl
+juicy,biscuit
+sweet,crab
+sweet,hip
+sweet,vinaigrette

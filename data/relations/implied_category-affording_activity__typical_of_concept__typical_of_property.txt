@@ -1,0 +1,4 @@
+made_of_wood,fir
+round,globe
+wings,jet
+wheels,coach

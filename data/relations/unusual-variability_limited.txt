@@ -1,0 +1,7 @@
+made_of_wood,bagpipe
+sweet,pork
+red,ageratina
+round,bottle
+used_in_cooking,scraper
+green,slug
+red,grapefruit

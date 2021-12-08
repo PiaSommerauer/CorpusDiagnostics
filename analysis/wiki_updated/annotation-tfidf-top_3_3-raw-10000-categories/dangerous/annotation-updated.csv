@@ -1,0 +1,628 @@
+context,evidence_type,categories
+myth, ,mammal
+have, ,mammal cutlery dangerous
+attack, ,all relation mammal animal
+threat, ,communication mammal
+fast, ,mammal animal
+able, ,mammal
+mistakenly, ,mammal animal
+describes, ,mammal
+avoid, ,mammal
+repeatedly, ,mammal
+events, ,mammal
+wounds, ,mammal
+circus, ,mammal
+indicating, ,communication mammal dangerous
+bodies, ,mammal
+dangerous, ,mammal dangerous animal
+distinct, ,mammal
+cause, ,mammal
+el, ,mammal
+predators, ,mammal
+occasional, ,mammal
+catch, ,communication mammal
+attacks, ,communication mammal animal
+tech, ,mammal
+hawk, ,mammal
+attempts, ,mammal
+ocean, ,mammal
+target, ,relation mammal communication
+weekend, ,mammal
+2001, ,mammal
+refuge, ,mammal
+creates, ,mammal
+scorpion, ,mammal
+60, ,mammal
+than, ,mammal animal no-cat
+operation, ,mammal animal
+attempt, ,mammal
+tried, ,mammal
+relative, ,mammal
+proposed, ,mammal
+unfortunately, ,mammal
+likely, ,mammal
+power, ,communication mammal
+identified, ,mammal
+natural, ,communication mammal
+targets, ,mammal
+snakes, ,mammal
+cyborg, ,mammal
+iii, ,mammal
+afraid, ,mammal
+loose, ,communication mammal
+counter, ,mammal
+evidence, ,mammal
+terms, ,mammal
+cd, ,mammal
+develops, ,mammal
+without, ,mammal
+wore, ,mammal
+dubbed, ,mammal
+closely, ,mammal
+history, ,mammal
+museum, ,mammal
+private, ,mammal
+translated, ,mammal
+truck, ,mammal
+trace, ,mammal
+ghost, ,communication mammal
+contract, ,relation mammal
+satellite, ,mammal
+gloria, ,mammal
+rage, ,mammal
+fighter, ,mammal
+resembled, ,mammal
+separately, ,mammal
+tracking, ,mammal
+locate, ,mammal
+largely, ,mammal
+latest, ,relation mammal animal
+burning, ,relation mammal communication animal
+translations, ,mammal
+code, ,mammal
+physically, ,mammal
+display, ,mammal
+enemies, ,mammal
+teams, ,mammal
+hunts, ,mammal
+green, ,mammal
+rogue, ,mammal
+cuts, ,mammal
+scenes, ,mammal
+gain, ,mammal
+challenges, ,mammal
+earth, ,communication mammal
+speak, ,mammal
+unable, ,relation mammal
+during, ,relation mammal
+skull, ,mammal
+23, ,mammal animal
+plan, ,mammal
+recent, ,mammal
+displays, ,mammal
+russian, ,relation mammal communication
+hand, ,tool cutlery
+pre, ,cutlery
+used, ,cutlery weapon
+or, ,cutlery dangerous
+tool, ,cutlery
+shaped, ,cutlery
+cutting, ,cutlery
+handle, ,cutlery
+thin, ,cutlery
+open, ,cutlery
+pulled, ,tool cutlery
+hoe, ,cutlery
+shape, ,cutlery
+his, ,cutlery dangerous
+similar, ,animal cutlery dangerous weapon
+published, ,cutlery
+made, ,cutlery
+less, ,cutlery
+title, ,cutlery
+handed, ,cutlery
+also, ,cutlery dangerous
+weapon, ,tool communication cutlery weapon
+early, ,communication cutlery
+that, ,cutlery no-cat
+toxin, ,no-cat
+causes, ,communication no-cat
+responsible, ,no-cat
+respiratory, ,no-cat
+found, ,no-cat
+produced, ,no-cat
+compound, ,no-cat
+produce, ,communication no-cat
+genus, ,no-cat
+extremely, ,communication no-cat
+fish, ,no-cat
+its, ,no-cat
+are, ,no-cat
+poison, ,communication no-cat
+mechanism, ,no-cat
+supply, ,no-cat
+effects, ,dangerous medication no-cat
+pigs, ,no-cat
+affected, ,no-cat
+is, ,dangerous no-cat
+held, ,tool
+herself, ,tool
+war, ,relation
+based, ,relation
+gun, ,all relation object communication
+navy, ,relation
+at, ,relation
+boat, ,relation
+cruise, ,relation
+were, ,relation
+nine, ,relation
+believed, ,relation communication
+moved, ,relation
+10, ,relation
+feet, ,relation
+fleet, ,relation
+began, ,relation
+could, ,relation
+currently, ,relation
+successful, ,relation
+blow, ,relation communication
+shore, ,relation
+lay, ,relation
+fire, ,relation communication weapon
+200, ,relation
+45, ,relation
+pair, ,relation
+near, ,relation communication
+development, ,relation communication
+30, ,relation
+missed, ,relation
+naval, ,relation
+93, ,relation
+installed, ,relation
+1943, ,relation
+division, ,relation
+constructed, ,relation communication
+recovery, ,relation
+cannon, ,relation
+equipment, ,relation
+crew, ,relation communication
+struck, ,relation animal
+carried, ,relation communication
+suffered, ,relation communication
+position, ,relation
+mount, ,relation
+service, ,relation
+direct, ,relation
+charge, ,relation
+operate, ,relation
+hours, ,relation
+dropped, ,relation
+two, ,relation animal
+was, ,relation dangerous
+reported, ,relation
+1950s, ,relation
+july, ,relation
+47, ,relation
+april, ,relation
+newly, ,relation
+abandoned, ,relation
+too, ,relation
+shooting, ,relation
+midnight, ,relation communication
+sub, ,relation
+arm, ,relation
+36, ,relation
+germany, ,relation communication
+seat, ,relation
+88, ,relation
+1942, ,relation
+speculation, ,relation
+operations, ,relation
+sealed, ,relation
+surviving, ,relation communication
+guide, ,relation
+era, ,relation
+13, ,relation
+facing, ,relation
+hitting, ,relation
+morning, ,relation
+consisted, ,relation
+replacing, ,relation
+dual, ,relation
+entered, ,relation
+otherwise, ,relation
+alley, ,relation
+uss, ,relation
+records, ,relation
+reef, ,relation
+label, ,relation
+75, ,relation
+submarine, ,relation
+on, ,relation
+exercise, ,relation
+panther, ,relation
+gulf, ,relation
+largest, ,relation
+000, ,relation dangerous
+bell, ,relation
+belly, ,relation
+28, ,relation
+assault, ,relation
+mid, ,relation
+command, ,relation
+relocated, ,relation
+submerged, ,relation
+80, ,relation communication
+84, ,relation
+drum, ,relation
+debut, ,relation communication
+heavy, ,relation communication
+2014, ,relation
+weather, ,relation
+located, ,relation
+encountered, ,relation
+coast, ,relation
+helicopter, ,relation
+before, ,relation
+21, ,relation
+attached, ,relation
+survive, ,relation communication
+rod, ,relation
+tanks, ,relation
+eight, ,relation animal
+although, ,relation
+office, ,relation
+sign, ,relation
+minor, ,relation
+decade, ,relation
+afternoon, ,relation
+minutes, ,relation
+ship, ,relation communication
+fitted, ,relation
+promoted, ,relation
+replacement, ,relation
+fighting, ,relation communication
+survival, ,relation
+focused, ,relation
+previous, ,relation
+150, ,relation
+chosen, ,relation
+huge, ,relation
+built, ,relation
+sailing, ,relation
+weighing, ,relation
+1911, ,relation
+31, ,relation
+seemed, ,relation
+shut, ,relation
+1889, ,relation
+laid, ,relation communication
+contracts, ,relation
+returned, ,relation
+existed, ,relation
+1893, ,relation
+arrived, ,relation communication
+duty, ,relation
+destruction, ,relation
+italian, ,relation
+mounted, ,relation
+precision, ,relation
+shifted, ,relation
+aboard, ,relation communication
+investigation, ,relation
+eleven, ,relation communication
+pump, ,relation
+enemy, ,relation communication
+protection, ,relation
+1918, ,relation
+goal, ,relation
+equipped, ,relation
+entire, ,relation
+mines, ,relation
+department, ,relation
+cancelled, ,relation
+assembled, ,relation
+immediate, ,relation
+ordered, ,relation
+returning, ,relation
+coming, ,relation
+armed, ,relation
+destroy, ,relation communication
+nearby, ,relation
+tons, ,relation
+smaller, ,relation
+fusion, ,relation
+close, ,relation
+month, ,relation
+electrical, ,relation
+site, ,relation dangerous
+serious, ,relation
+arsenal, ,relation
+class, ,relation
+united, ,relation
+18, ,relation
+failed, ,relation
+hull, ,relation
+flight, ,relation
+guided, ,relation
+training, ,relation
+whilst, ,relation
+active, ,relation
+hit, ,relation
+operated, ,relation
+officers, ,relation
+aviation, ,relation
+triple, ,relation
+mark, ,relation
+proved, ,relation
+rounds, ,relation
+motor, ,relation
+400, ,relation
+52, ,relation
+ahead, ,relation
+successfully, ,relation
+parachute, ,relation
+entering, ,relation
+600, ,relation
+designed, ,relation
+mk, ,relation
+fifteen, ,relation
+traveled, ,relation
+launched, ,relation
+fired, ,relation
+above, ,relation
+korea, ,relation
+improved, ,relation
+developed, ,relation
+attacking, ,relation
+improvement, ,relation
+impact, ,relation communication
+heavily, ,relation
+poorly, ,relation
+advanced, ,relation
+aimed, ,relation
+distance, ,relation
+launch, ,relation communication
+iv, ,relation
+survived, ,relation
+defense, ,relation
+mounting, ,relation
+planning, ,relation
+sets, ,relation
+destroyed, ,relation communication animal
+rockets, ,relation
+disabled, ,relation
+engaged, ,relation
+fighters, ,relation
+killing, ,all object
+kills, ,all communication object weapon
+exposed, ,communication dangerous
+turning, ,communication animal
+powerful, ,communication
+bomb, ,communication
+throughout, ,communication
+concept, ,communication
+moments, ,communication
+due, ,communication dangerous
+developing, ,communication
+kind, ,communication
+unusual, ,communication
+acquired, ,communication
+spanish, ,communication
+mission, ,communication
+quickly, ,communication
+blood, ,communication
+suggests, ,communication
+seriously, ,communication
+dragon, ,communication
+seem, ,communication
+french, ,communication
+deep, ,communication
+escaped, ,communication
+japanese, ,communication
+alive, ,communication
+stopped, ,communication
+rise, ,communication
+breaking, ,communication
+dozens, ,communication
+perhaps, ,communication
+grown, ,communication
+caused, ,communication medication
+probably, ,communication
+moment, ,communication
+hoping, ,communication
+cold, ,communication
+wider, ,communication
+carrying, ,communication weapon
+constant, ,communication
+destroying, ,communication
+range, ,communication weapon
+characterized, ,communication
+japan, ,communication
+closest, ,communication
+heading, ,communication
+explosion, ,communication
+sea, ,communication
+valley, ,communication
+contact, ,communication
+causing, ,communication
+novel, ,communication
+involves, ,communication
+buried, ,communication
+element, ,communication
+discovered, ,communication dangerous
+grave, ,communication
+three, ,communication
+far, ,communication
+driven, ,communication
+focus, ,communication
+four, ,communication
+secondary, ,communication
+between, ,communication
+though, ,communication
+supposed, ,communication
+appears, ,communication
+essentially, ,communication
+german, ,communication
+killed, ,communication
+vs, ,communication
+tower, ,communication
+planet, ,communication
+primarily, ,communication
+monster, ,communication
+slow, ,communication
+group, ,communication
+moon, ,communication
+strange, ,communication
+carry, ,communication
+reaction, ,communication
+away, ,communication
+apparently, ,communication
+innocent, ,communication
+underground, ,communication
+advances, ,communication
+resulted, ,communication
+surface, ,communication
+modern, ,communication
+discovering, ,communication
+apparent, ,communication
+spain, ,communication
+angle, ,communication
+seems, ,communication
+presumably, ,communication
+highly, ,communication
+mad, ,communication
+nuclear, ,communication
+observed, ,communication
+warning, ,communication
+stronger, ,communication
+towards, ,communication
+aircraft, ,communication
+turned, ,communication
+ring, ,communication
+evolved, ,communication animal
+wake, ,communication
+battle, ,communication
+occurred, ,communication
+massive, ,communication
+guardian, ,communication
+greater, ,communication
+blast, ,communication
+dawn, ,communication
+china, ,communication
+toward, ,communication
+captured, ,communication
+ones, ,communication
+theory, ,communication
+concentrated, ,communication
+engine, ,communication
+lone, ,communication
+designs, ,communication
+outer, ,communication
+mine, ,communication
+arriving, ,communication
+recovered, ,communication
+mechanical, ,communication
+demonstrated, ,communication
+roots, ,communication
+miss, ,communication
+earliest, ,communication
+extensively, ,communication
+shoot, ,communication
+animal, ,communication
+greatest, ,communication
+intense, ,communication
+punch, ,communication
+spread, ,communication
+producing, ,communication
+reach, ,communication
+banner, ,communication
+cable, ,communication
+outbreak, ,communication
+attacked, ,communication
+broke, ,communication
+formation, ,communication
+severely, ,communication
+loss, ,communication
+wire, ,communication
+noise, ,communication
+prescribed, ,medication
+rats, ,medication
+metabolized, ,medication
+mice, ,medication
+concentrations, ,medication
+benzodiazepines, ,medication
+benzodiazepine, ,medication
+hypnotic, ,medication
+seizures, ,medication
+occur, ,medication
+doses, ,medication
+use, ,medication
+sedative, ,medication
+showed, ,medication
+large, ,dangerous weapon
+single, ,animal weapon
+weapons, ,weapon
+design, ,weapon
+carries, ,weapon
+who, ,criminal
+one, ,criminal
+american, ,criminal
+time, ,criminal
+him, ,criminal
+off, ,criminal
+life, ,criminal
+second, ,criminal
+revealed, ,criminal
+former, ,criminal
+of, ,dangerous
+and, ,dangerous
+as, ,dangerous
+structure, ,dangerous
+commonly, ,dangerous
+al, ,dangerous
+task, ,dangerous
+related, ,dangerous
+drug, ,dangerous
+such, ,dangerous
+he, ,dangerous
+been, ,dangerous
+it, ,dangerous
+from, ,dangerous
+they, ,dangerous
+be, ,dangerous
+self, ,dangerous animal
+while, ,dangerous
+those, ,dangerous
+other, ,dangerous
+associated, ,dangerous
+drugs, ,dangerous
+more, ,dangerous
+described, ,dangerous
+investigated, ,dangerous
+some, ,dangerous
+western, ,dangerous
+known, ,dangerous
+them, ,dangerous
+worse, ,dangerous
+damage, ,dangerous
+along, ,dangerous
+levels, ,dangerous
+yet, ,dangerous
+similarities, ,dangerous
+model, ,dangerous
+unlike, ,dangerous
+product, ,dangerous
+native, ,dangerous
+acute, ,dangerous
+acting, ,dangerous
+positive, ,dangerous
+considerably, ,dangerous
+similarly, ,dangerous
+manufacture, ,dangerous
+humans, ,dangerous
+induced, ,dangerous
+removed, ,animal
+strikes, ,animal
+1997, ,animal
+normal, ,animal

@@ -1,0 +1,53 @@
+context,evidence_type,categories
+yellow, ,object all
+island, ,object
+18, ,object
+good, ,relation plant
+poppy, ,plant
+miss, ,plant
+this, ,plant
+any, ,relation
+fashioned, ,relation
+sales, ,relation
+name, ,relation
+originally, ,relation
+quarters, ,all
+smoking, ,all
+boxes, ,all
+sipping, ,food
+apple, ,food
+bubbly, ,food
+operating, ,food
+apples, ,fruit food
+somewhat, ,food
+cents, ,food
+quarter, ,fruit food
+school, ,animal
+line, ,animal
+hit, ,animal
+money, ,animal
+built, ,animal
+sticking, ,animal
+girls, ,animal
+diced, ,fruit
+cut, ,fruit
+blueberries, ,fruit
+combined, ,fruit
+peeled, ,fruit
+medium, ,fruit
+sliced, ,fruit
+grilled, ,fruit
+sage, ,fruit
+leaving, ,fruit
+inch, ,fruit
+available, ,fruit
+place, ,fruit
+begins, ,fruit
+90, ,fruit
+perfectly, ,fruit
+intended, ,fruit
+knife, ,fruit
+alternating, ,fruit
+brush, ,fruit
+freeze, ,fruit
+fold, ,fruit

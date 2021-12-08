@@ -1,0 +1,123 @@
+context,evidence_type,categories
+corn,i,animal no-cat
+pie,i,no-cat
+tomato,i,no-cat
+lime,i,relation
+pineapple,i,relation
+orange,i,all object plant fruit
+fruit,i,food plant
+apple,i,fruit
+shrimp,i,vegetable animal
+fruits,i,food
+mango,i,food
+meat,i,animal
+seafood,i,animal
+chicken,i,animal
+pepper,i,animal
+fish,i,animal
+used,u,no-cat
+watermelon,i,object plant fruit all no-cat
+covered,u,no-cat
+flour,u,no-cat
+farmers,u,no-cat
+means,u,no-cat
+north,u,no-cat
+less,u,no-cat
+source,u,no-cat
+parts,u,no-cat
+locally,u,relation animal no-cat
+meaning,u,no-cat
+portuguese,u,no-cat
+located,u,no-cat
+france,u,no-cat
+requires,u,no-cat
+yellow,u,relation
+preserved,u,relation
+industrial,u,relation
+citrus,i,relation
+blend,u,relation
+peel,u,relation
+pink,u,relation
+cultivar,u,relation
+confused,u,relation
+grounds,u,relation
+naturally,u,relation
+mostly,u,relation
+lady,u,relation
+berry,i,plant
+high,u,vegetable
+part,u,vegetable
+traditional,u,animal
+applied,u,animal
+includes,u,animal
+these,u,animal
+animal,u,animal
+19th,u,animal
+formerly,u,animal
+region,u,animal
+decline,u,animal
+traditionally,u,animal
+house,u,animal
+related,u,animal
+island,u,animal
+produce,u,animal
+mud,u,animal
+grow,u,animal
+such,u,animal
+east,u,animal
+ranging,u,animal
+popular,u,animal
+kind,u,animal
+single,u,animal
+coast,u,animal
+substantial,u,animal
+brunswick,u,animal
+especially,u,animal
+consumed,u,animal
+juice,p,all relation object fruit
+fresh,r,animal no-cat
+sweet,r,no-cat
+taste,r,animal
+eating,u,no-cat
+eaten,u,no-cat
+potato,u,no-cat
+sometimes,u,no-cat
+mixture,u,no-cat
+largest,u,animal no-cat
+cold,u,no-cat
+type,u,no-cat
+plant,u,animal no-cat
+sugar,u,no-cat
+honey,u,no-cat
+feeding,u,no-cat
+leaf,u,relation no-cat
+slightly,u,no-cat
+skin,u,relation
+red,u,relation animal
+green,u,relation
+dressed,u,relation
+include,u,relation animal
+she,u,vegetable
+shaped,u,animal
+small,u,animal
+large,u,animal
+or,u,animal
+catch,u,animal
+deep,u,animal
+are,u,animal
+boat,u,animal
+resembles,u,animal
+common,u,animal
+diet,u,animal
+bacon,i,animal
+shark,u,animal
+caught,u,animal
+called,u,animal
+some,u,animal
+restaurant,u,animal
+eat,u,animal
+example,u,animal
+found,u,animal
+locals,u,animal
+local,u,animal
+like,u,animal

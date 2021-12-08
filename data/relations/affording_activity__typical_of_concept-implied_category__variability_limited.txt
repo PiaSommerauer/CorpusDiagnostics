@@ -1,0 +1,3 @@
+used_in_cooking,pestle
+used_in_cooking,cornmeal
+sweet,loquat

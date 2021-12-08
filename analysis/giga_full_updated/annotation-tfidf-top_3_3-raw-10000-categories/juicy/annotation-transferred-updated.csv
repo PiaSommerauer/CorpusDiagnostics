@@ -1,0 +1,811 @@
+context,evidence_type,categories
+for,u,vegetable animal
+bright,u,vegetable food animal relation
+simple,u,vegetable
+60,u,vegetable
+end,u,vegetable
+pineapple,i,object plant food all fruit
+juices,p,no-cat object relation
+orange,i,object food all animal fruit
+banana,u,no-cat plant
+ripe,r,plant
+fruit,i,animal no-cat plant
+lime,i,relation
+juice,p,no-cat relation
+vinegar,r,no-cat relation
+drain,r,relation
+along,u,animal relation
+lobster,i,animal relation
+fragrant,u,relation
+grapefruit,i,relation
+tomato,i,animal relation
+garlic,u,no-cat relation
+fresh,r,no-cat animal relation
+teaspoons,u,relation
+parsley,u,relation
+canned,u,relation
+onion,i,no-cat animal relation
+grapes,i,relation
+puree,u,relation
+toss,NA,no-cat animal relation
+chicken,i,no-cat animal relation
+salad,i,no-cat animal relation
+drained,NA,relation
+basil,NA,relation
+peaches,NA,relation
+red,u,animal relation
+cucumber,NA,relation
+cubes,NA,relation
+vinaigrette,r,relation
+shrimp,i,animal relation
+packed,u,relation
+soaked,NA,animal relation
+olives,NA,relation
+light,NA,relation
+salmon,NA,animal relation
+salsa,NA,no-cat animal relation
+turning,NA,animal relation
+dressed,NA,animal relation
+fry,u,animal relation
+waters,NA,relation
+buried,NA,relation
+green,NA,no-cat relation
+dried,u,no-cat animal relation
+substitute,u,no-cat animal relation
+fruits,i,all
+mango,i,food
+papaya,i,food
+mixture,u,animal no-cat
+each,u,animal no-cat
+bacon,u,animal
+grilled,u,animal no-cat
+smoked,u,animal
+lamb,i,animal no-cat
+corn,i,animal no-cat
+stuffed,u,animal
+perfect,u,animal no-cat
+on,u,animal
+from,u,animal no-cat
+recipes,u,animal no-cat
+hook,u,animal
+90,u,animal no-cat
+plant,u,animal no-cat
+eaten,NA,animal no-cat
+runs,NA,animal
+prices,NA,animal
+missing,NA,animal
+200,NA,animal no-cat
+women,NA,animal
+attached,NA,animal no-cat
+eating,u,animal no-cat
+their,NA,animal
+beef,i,animal no-cat
+features,NA,animal no-cat
+flavored,u,animal no-cat
+whole,NA,animal no-cat
+there,u,animal
+bay,NA,animal
+dishes,NA,animal
+dish,u,animal no-cat
+soup,u,animal no-cat
+pasta,NA,animal
+slices,NA,animal no-cat
+cakes,NA,animal
+fisheries,NA,animal
+fried,u,animal no-cat
+bean,NA,animal
+with,NA,animal
+seafood,NA,animal
+of,u,animal
+knife,u,animal
+butter,NA,animal no-cat
+flavor,NA,animal no-cat
+edge,NA,animal
+slice,NA,animal no-cat
+roll,NA,animal no-cat
+industry,u,animal
+spinach,NA,animal no-cat
+burgers,NA,animal
+000,NA,animal
+pieces,u,animal no-cat
+plate,NA,animal
+sauce,u,animal no-cat
+tables,NA,animal
+tuna,NA,animal
+golden,NA,animal no-cat
+raw,NA,animal no-cat
+wrapped,NA,animal
+together,NA,animal
+sausage,NA,animal no-cat
+sliced,NA,animal no-cat
+cheese,NA,animal
+seasoned,NA,animal
+roasted,u,animal no-cat
+ham,NA,animal
+add,u,animal no-cat
+like,u,animal
+through,NA,animal
+pepper,NA,animal
+catch,u,animal
+10,u,animal
+other,NA,animal
+fair,u,animal no-cat
+piece,NA,animal no-cat
+clean,NA,animal
+which,NA,animal
+22,NA,animal no-cat
+them,NA,animal
+flat,NA,animal no-cat
+small,NA,animal no-cat
+alongside,NA,animal
+pie,NA,animal no-cat
+95,NA,animal no-cat
+place,NA,animal no-cat
+cooked,u,animal no-cat
+sweet,r,animal no-cat
+or,u,animal no-cat
+hauled,NA,animal
+floating,NA,animal
+inch,NA,animal no-cat
+hot,NA,animal no-cat
+stuffing,NA,animal no-cat
+ginger,NA,animal no-cat
+steaks,NA,animal
+tail,NA,animal
+apple,i,animal no-cat
+snacks,NA,animal
+homes,NA,animal
+pull,NA,animal
+dry,NA,animal no-cat
+cook,NA,animal
+cool,NA,animal no-cat
+courses,NA,animal
+pour,NA,animal
+cottage,NA,animal
+filling,NA,animal no-cat
+next,NA,animal
+round,NA,animal
+available,NA,animal no-cat
+lightly,NA,animal no-cat
+needs,NA,animal
+table,NA,animal
+mix,NA,animal no-cat
+mexican,NA,animal
+ground,NA,animal
+northern,NA,animal
+rules,NA,animal
+sugar,NA,animal no-cat
+kitchen,NA,animal no-cat
+tossed,NA,animal no-cat
+superb,NA,animal no-cat
+bites,NA,animal no-cat
+mere,NA,animal
+easier,NA,animal
+quickly,NA,animal
+hold,NA,animal no-cat
+purchase,NA,animal
+largest,NA,animal
+drink,i,animal no-cat
+remains,NA,animal no-cat
+turned,NA,animal
+including,NA,animal no-cat
+tightly,NA,animal
+egg,NA,animal
+favorites,NA,animal
+serve,NA,animal no-cat
+fully,NA,animal
+pan,NA,animal
+looks,NA,animal
+serving,NA,animal no-cat
+she,NA,animal
+fingers,NA,animal
+come,NA,animal
+silver,NA,animal
+pea,NA,animal
+followed,NA,animal
+jumped,NA,animal
+opened,NA,animal
+steamed,NA,animal
+mary,NA,animal
+offers,NA,animal
+cream,u,animal
+using,NA,animal no-cat
+spotted,NA,animal
+catching,NA,animal
+local,NA,animal
+sculpture,NA,animal
+carefully,NA,animal
+filled,NA,animal no-cat
+fish,i,animal
+then,NA,animal
+you,NA,animal
+at,NA,animal
+are,NA,animal
+warm,NA,animal no-cat
+all,NA,animal
+toast,u,animal no-cat
+sandwiches,NA,animal
+worked,NA,animal
+its,NA,animal no-cat
+eat,r,animal no-cat
+off,NA,animal
+beans,NA,animal no-cat
+down,NA,animal
+grill,NA,animal
+medium,NA,animal no-cat
+baby,NA,animal
+baked,u,animal no-cat
+include,NA,animal
+work,NA,animal
+price,NA,animal
+room,NA,animal
+our,NA,animal
+came,NA,animal
+birds,NA,animal
+favorite,NA,animal no-cat
+mrs,NA,animal
+supplies,NA,animal
+young,NA,animal
+served,NA,animal no-cat
+dollars,NA,animal
+downtown,NA,animal no-cat
+alone,NA,animal
+seared,NA,animal
+scallops,NA,animal
+fishermen,NA,animal
+shaped,NA,animal
+fishery,u,animal
+spicy,NA,animal no-cat
+fishing,u,animal
+boat,NA,animal
+fisherman,NA,animal
+sea,NA,animal
+ravioli,NA,animal
+mousse,NA,animal
+asparagus,NA,animal
+sauteed,NA,animal
+coconut,NA,animal
+prawn,NA,animal
+cod,NA,animal
+meat,NA,animal
+appetizer,NA,animal
+rolls,NA,animal
+dumplings,NA,animal
+topped,NA,animal
+veal,NA,animal
+the,u,animal no-cat
+and,NA,animal
+portion,NA,animal
+search,NA,animal
+has,NA,animal
+octopus,NA,animal
+recipe,u,animal no-cat
+that,u,animal
+her,NA,animal
+avocado,NA,animal
+risotto,NA,animal
+clams,NA,animal
+pulling,u,animal
+halibut,NA,animal
+prawns,NA,animal
+menu,NA,animal
+carved,NA,animal
+nicely,NA,animal
+be,NA,animal
+arrange,NA,animal
+creamy,NA,animal
+side,NA,animal
+meal,NA,animal
+pattern,NA,animal no-cat
+atlantic,NA,animal
+cherry,i,animal
+commercial,NA,animal
+plates,NA,animal
+pure,NA,animal
+regulation,NA,animal
+tide,NA,animal
+fold,NA,animal
+bass,NA,animal
+cake,i,animal
+grade,u,animal
+divide,NA,animal
+generally,u,animal
+caught,NA,animal
+per,NA,animal
+pork,NA,animal
+swimming,NA,animal
+ocean,NA,animal
+plump,NA,animal no-cat
+lovely,NA,animal
+few,u,animal
+season,NA,animal
+my,NA,animal
+sushi,NA,animal
+stew,NA,animal
+big,u,animal
+had,NA,animal
+sole,NA,animal
+into,NA,animal
+inside,NA,animal
+too,NA,animal
+as,NA,animal
+taste,NA,animal no-cat
+can,NA,animal
+mushroom,NA,animal
+clock,NA,animal
+mac,NA,animal
+coat,u,animal no-cat
+surface,NA,animal
+bus,NA,animal
+burger,NA,animal
+bucket,NA,animal
+sustainable,NA,animal
+honey,NA,animal no-cat
+parmesan,NA,animal
+typically,NA,animal
+bell,NA,animal
+palm,NA,animal
+board,NA,animal
+package,NA,animal
+pack,NA,animal
+customers,NA,animal
+fabulous,NA,animal
+robust,NA,animal
+fare,NA,animal
+conservation,NA,animal
+salt,NA,animal
+prepare,NA,animal
+fancy,NA,animal
+sherry,NA,animal
+doubled,NA,animal
+working,NA,animal
+leaf,NA,animal
+14,NA,animal
+blood,NA,animal
+likes,NA,animal
+mini,NA,animal
+greens,NA,animal
+until,NA,animal
+21,NA,animal
+breakfast,NA,animal
+pressure,NA,animal
+miss,NA,animal
+top,NA,animal
+layers,NA,animal
+highlight,NA,animal
+quick,NA,animal
+dinner,NA,animal
+rest,NA,animal
+treated,NA,animal
+your,NA,animal
+dressing,NA,animal
+desk,NA,animal
+tree,NA,animal
+developed,NA,animal no-cat
+most,NA,animal
+dig,NA,animal
+duck,NA,animal
+result,NA,animal
+turkey,NA,animal
+decorated,NA,animal
+rice,NA,animal
+natural,NA,animal
+deep,NA,animal
+right,NA,animal
+encounter,NA,animal
+day,NA,animal
+delight,NA,animal
+transfer,NA,animal
+dozens,NA,animal
+hearts,NA,animal
+elegant,NA,animal
+within,NA,animal
+particularly,NA,animal
+found,NA,animal
+feature,NA,animal
+seized,NA,animal
+some,NA,animal
+familiar,NA,animal
+plus,NA,animal
+soon,NA,animal
+paper,NA,animal
+25,NA,animal
+see,NA,animal
+places,NA,animal
+perfectly,NA,animal
+added,NA,animal no-cat
+aboard,NA,animal
+coins,NA,animal
+actually,NA,animal
+cold,NA,animal
+shark,NA,animal
+wellington,NA,animal
+making,NA,animal
+pay,NA,animal
+about,NA,animal
+above,NA,animal
+peak,NA,animal
+foil,NA,animal
+flying,NA,animal
+week,NA,animal
+marine,NA,animal
+chef,NA,animal
+calls,NA,animal
+always,NA,animal
+gloves,NA,animal
+course,NA,animal
+53,NA,animal
+sake,NA,animal
+example,NA,animal
+even,NA,animal
+crew,NA,animal
+kinds,NA,animal
+ever,NA,animal
+29,NA,animal
+offer,NA,animal
+amounts,NA,animal
+30,NA,animal
+good,NA,animal
+stir,NA,animal
+stiff,NA,animal
+tourists,NA,animal
+involves,NA,animal
+involving,NA,animal
+spots,NA,animal
+version,NA,animal
+out,u,animal
+carolina,NA,animal
+ordering,NA,animal
+say,NA,animal
+600,NA,animal
+poor,NA,animal
+re,NA,animal
+summer,NA,animal
+tasted,NA,animal no-cat
+la,NA,animal
+live,NA,animal no-cat
+cans,u,animal
+tin,u,animal
+mackerel,u,animal
+sandwich,i,animal
+stocks,NA,animal
+bait,NA,animal
+roof,NA,animal
+size,NA,animal
+little,u,animal
+bottles,NA,animal
+spread,u,animal
+shop,NA,animal
+mouse,NA,animal
+stuff,NA,animal
+hunting,NA,animal
+mouth,NA,animal
+common,NA,animal
+scientists,NA,animal
+invented,NA,animal
+wait,NA,animal
+large,NA,animal
+thirds,NA,animal
+been,NA,animal
+better,u,animal
+world,NA,animal
+diet,NA,animal
+western,NA,animal
+rolled,NA,animal
+to,NA,animal
+bound,NA,animal
+provides,NA,animal
+bar,NA,animal
+louisiana,NA,animal
+pound,NA,animal
+trap,NA,animal
+trade,NA,animal
+considering,NA,animal
+percent,NA,animal
+contest,NA,animal
+curry,NA,animal
+studded,NA,animal
+specialty,NA,animal
+resulted,NA,animal
+cheap,NA,animal
+cycle,NA,animal
+whale,NA,animal
+time,NA,animal
+ports,NA,animal
+mention,NA,animal
+tested,NA,animal
+pit,NA,animal
+horse,NA,animal
+things,NA,animal
+plenty,NA,animal
+same,NA,animal
+issue,NA,animal
+lucky,NA,animal
+annual,NA,animal
+restaurant,u,animal
+among,u,animal
+effect,NA,animal
+locals,NA,animal
+while,NA,animal
+famous,NA,animal
+mainly,NA,animal
+80,NA,animal
+town,NA,animal
+escape,NA,animal
+many,NA,animal
+instead,NA,animal
+equal,NA,animal
+culinary,NA,animal
+truck,NA,animal
+family,NA,animal
+1950s,NA,animal
+full,NA,animal
+night,NA,animal
+but,NA,animal
+store,NA,animal
+similarly,NA,animal no-cat
+500,NA,animal
+stuck,NA,animal
+study,NA,animal
+central,NA,animal
+getting,NA,animal
+odd,NA,animal
+sound,NA,animal
+obscure,NA,animal
+go,NA,animal
+sometimes,NA,animal
+normally,NA,animal
+camp,NA,animal
+brings,NA,animal
+am,NA,animal
+tall,NA,animal
+minor,NA,animal
+feed,NA,animal
+between,NA,animal
+best,NA,animal
+besides,NA,animal
+here,NA,animal
+break,NA,animal
+collapsed,NA,animal
+coming,NA,animal
+several,NA,animal
+without,NA,animal
+pulled,NA,animal
+worthy,NA,animal
+learn,NA,animal
+reduced,NA,animal
+dubbed,NA,animal no-cat
+may,NA,animal no-cat
+legs,NA,animal
+combine,NA,animal no-cat
+lemon,i,animal no-cat
+boiled,NA,animal
+delicious,NA,animal no-cat
+steak,NA,animal
+frozen,u,animal no-cat
+picked,NA,animal
+mushrooms,NA,animal
+50,NA,animal
+chili,NA,animal no-cat
+bread,NA,animal no-cat
+onions,NA,animal
+tomatoes,NA,animal no-cat
+giant,NA,animal no-cat
+bits,NA,animal no-cat
+bowl,NA,animal no-cat
+serves,NA,animal no-cat
+remove,NA,animal no-cat
+tacos,NA,animal
+style,NA,animal no-cat
+use,NA,animal no-cat
+ribs,NA,animal
+99,NA,animal no-cat
+they,NA,animal
+walking,NA,animal
+11,NA,animal
+fries,NA,animal
+barbecued,NA,animal
+potatoes,u,animal
+chopped,NA,animal no-cat
+might,NA,animal
+melted,NA,animal
+cups,u,animal no-cat
+buy,NA,animal
+make,NA,animal
+peas,NA,animal no-cat
+foods,NA,animal no-cat
+cut,u,animal no-cat
+called,NA,animal
+quesadillas,NA,animal
+va,NA,animal
+barbecue,NA,animal no-cat
+24,NA,animal
+picks,NA,animal
+chefs,NA,animal
+usually,NA,animal
+ca,NA,animal
+tip,NA,animal
+dogs,NA,animal
+selling,NA,animal
+than,NA,animal
+700,NA,animal
+wonderful,NA,animal no-cat
+front,NA,animal
+limits,NA,animal
+15,NA,animal no-cat
+five,NA,animal
+enjoy,NA,animal no-cat
+tender,NA,animal no-cat
+drops,NA,animal no-cat
+vegetables,NA,animal
+done,NA,animal
+much,NA,animal
+appealing,NA,animal no-cat
+olive,NA,animal no-cat
+feeding,NA,animal
+drank,NA,animal
+sharp,NA,animal no-cat
+peanuts,NA,animal
+cookbook,NA,animal
+treat,NA,animal
+mean,NA,animal
+houses,NA,animal
+75,NA,animal no-cat
+thing,NA,animal
+pizza,NA,animal
+type,NA,animal no-cat
+cutting,NA,animal
+taco,NA,animal
+market,NA,animal
+19,NA,animal no-cat
+pinch,NA,animal
+miniature,NA,animal
+smell,NA,animal no-cat
+herb,NA,animal
+again,NA,animal
+showed,NA,animal
+producing,NA,animal no-cat
+plain,NA,animal no-cat
+immediately,NA,animal
+sits,NA,animal
+ensure,NA,animal
+resembles,NA,animal
+minute,NA,animal no-cat
+stock,NA,animal
+sit,NA,animal no-cat
+totally,NA,animal
+pudding,NA,animal no-cat
+mexico,NA,animal
+microwave,NA,animal
+studies,NA,animal
+offered,NA,animal no-cat
+couple,NA,animal
+consider,NA,animal
+costs,NA,animal
+hard,NA,animal
+dispute,NA,animal
+dog,NA,animal
+seller,NA,animal no-cat
+please,NA,animal
+easy,NA,animal no-cat
+earlier,NA,animal
+simply,NA,animal no-cat
+demand,NA,animal
+heavy,NA,animal
+sounds,NA,animal
+mail,NA,animal
+decided,NA,animal
+highly,NA,animal
+everyone,NA,animal
+tray,NA,animal
+commission,NA,animal
+anyone,NA,animal
+weight,NA,animal
+yourself,NA,animal
+describe,NA,animal
+hat,NA,animal
+ear,NA,animal
+companies,NA,animal
+whatever,NA,animal
+refer,NA,animal
+happily,NA,animal
+basically,NA,animal
+rides,NA,animal
+wood,NA,animal no-cat
+accounts,NA,animal
+33,NA,animal no-cat
+mile,NA,animal no-cat
+400,NA,animal
+instance,NA,animal
+purchased,NA,animal
+aside,NA,animal no-cat
+lane,NA,animal
+answer,NA,animal no-cat
+comparison,NA,animal
+station,NA,animal
+despite,NA,animal
+stealing,NA,animal
+standards,NA,animal no-cat
+describes,NA,animal
+tent,NA,animal
+difficult,NA,animal
+direct,NA,animal
+converted,NA,animal
+thousands,NA,animal
+cooking,NA,no-cat
+skin,NA,no-cat
+potato,NA,no-cat
+beer,NA,no-cat
+cup,NA,no-cat
+milk,NA,no-cat
+wine,i,fruit no-cat
+biscuits,NA,no-cat
+food,NA,no-cat
+ounce,NA,no-cat
+every,NA,no-cat
+backyard,NA,no-cat
+made,NA,no-cat
+apples,NA,no-cat
+half,u,no-cat
+thin,NA,no-cat
+grain,NA,no-cat
+reserved,NA,no-cat
+40,NA,no-cat
+tea,NA,no-cat
+pick,NA,no-cat
+any,NA,no-cat
+nuts,NA,no-cat
+removed,NA,no-cat
+variety,NA,no-cat
+stand,NA,no-cat
+cranberry,NA,no-cat
+slightly,NA,no-cat
+rubbed,NA,no-cat
+shallow,NA,no-cat
+nearby,NA,no-cat
+cotton,NA,no-cat
+boxes,NA,no-cat
+lighter,NA,no-cat
+suits,NA,no-cat
+inn,NA,no-cat
+italian,NA,no-cat
+cookies,NA,no-cat
+tucked,NA,no-cat
+drop,NA,no-cat
+ice,NA,no-cat
+cross,NA,no-cat
+takes,NA,no-cat
+throwing,NA,no-cat
+across,NA,no-cat
+suspended,NA,no-cat
+lived,NA,no-cat
+lower,NA,no-cat
+freeze,NA,no-cat
+garden,u,no-cat
+months,NA,no-cat
+described,NA,no-cat
+protect,NA,no-cat
+tasting,NA,no-cat
+2004,NA,no-cat
+de,NA,no-cat
+bunch,NA,no-cat
+dust,NA,no-cat
+candy,NA,no-cat
+entire,NA,no-cat
+acre,NA,no-cat
+painting,NA,no-cat
+handled,NA,no-cat
+colored,NA,no-cat
+harbor,NA,no-cat
+cereal,NA,no-cat
+lack,NA,no-cat
+estimated,NA,no-cat
+napa,NA,no-cat
+teeth,NA,no-cat
+analysis,NA,no-cat
+non,NA,no-cat
+painted,NA,no-cat
+lemonade,NA,no-cat
+stem,NA,no-cat
+spokeswoman,NA,no-cat
+colors,NA,no-cat

@@ -1,0 +1,112 @@
+context,evidence_type,categories
+make, ,relation
+number, ,relation
+spain, ,relation
+sales, ,relation
+how, ,relation
+owners, ,relation
+step, ,relation
+making, ,relation
+what, ,relation
+event, ,relation
+simply, ,relation
+we, ,relation
+started, ,relation
+barrels, ,relation
+ask, ,relation
+tours, ,relation
+continued, ,relation
+great, ,relation plant
+rule, ,relation
+discovering, ,relation
+warehouse, ,relation
+styles, ,relation
+name, ,all object
+tribe, ,all object
+lily, ,object plant fruit
+honey, ,object fruit animal
+half, ,plant fruit
+lady, ,plant
+as, ,fruit
+eat, ,fruit
+so, ,fruit
+beer, ,food fruit
+companies, ,fruit
+throwing, ,fruit
+foods, ,fruit
+tobacco, ,fruit
+spoon, ,fruit
+buy, ,fruit
+those, ,fruit
+beverage, ,fruit
+popular, ,fruit
+referred, ,fruit
+notes, ,fruit
+also, ,fruit
+based, ,fruit
+25, ,fruit
+watermelon, ,fruit
+believed, ,fruit
+face, ,fruit
+35, ,fruit
+variations, ,fruit
+breakfast, ,fruit
+hour, ,fruit
+crazy, ,fruit
+culture, ,fruit
+tart, ,fruit
+films, ,fruit
+nicknamed, ,fruit
+goat, ,fruit
+gin, ,food fruit
+whereas, ,food fruit
+aroma, ,fruit
+peas, ,fruit
+commercial, ,fruit
+products, ,fruit
+secret, ,fruit
+crisp, ,fruit
+announced, ,fruit
+reduce, ,fruit
+hold, ,fruit
+hay, ,fruit
+affected, ,fruit
+triple, ,fruit
+kiwi, ,fruit
+introducing, ,fruit
+variants, ,fruit animal
+watch, ,fruit
+suggests, ,fruit
+1920s, ,fruit
+does, ,fruit
+organic, ,fruit
+prepared, ,fruit
+steal, ,fruit
+compared, ,fruit
+slowly, ,fruit
+packing, ,fruit
+marketing, ,fruit
+cereals, ,fruit
+18, ,all
+whiskey, ,food
+cider, ,food
+toys, ,animal
+naked, ,animal
+except, ,animal
+housed, ,animal
+seven, ,animal
+earlier, ,animal
+japanese, ,animal
+noted, ,animal
+metal, ,animal
+1960s, ,animal
+duo, ,animal
+offers, ,animal
+queens, ,animal
+armed, ,animal
+african, ,animal
+officially, ,animal
+iii, ,animal
+super, ,animal
+engine, ,animal
+bee, ,animal

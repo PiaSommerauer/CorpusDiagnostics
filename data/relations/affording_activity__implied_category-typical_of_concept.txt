@@ -1,0 +1,13 @@
+wheels,wheelbase
+wheels,tractor
+wheels,phaeton
+wheels,jeep
+wheels,backhoe
+wings,marabou
+wheels,runabout
+wings,guinea
+round,basketball
+wings,spoonbill
+wheels,taxicab
+dangerous,saxitoxin
+round,baseball

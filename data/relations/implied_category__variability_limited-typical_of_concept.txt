@@ -1,0 +1,3 @@
+yellow,cider
+square,classroom
+square,locker

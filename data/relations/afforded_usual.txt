@@ -1,0 +1,3 @@
+swim,goldeneye
+lay_eggs,platypus
+lay_eggs,stockfish

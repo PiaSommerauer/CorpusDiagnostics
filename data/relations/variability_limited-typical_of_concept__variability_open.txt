@@ -1,0 +1,6 @@
+square,lounge
+red,beet
+square,parlor
+square,rack
+red,jam
+square,foyer

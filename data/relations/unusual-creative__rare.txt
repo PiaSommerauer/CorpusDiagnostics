@@ -1,0 +1,8 @@
+red,avocado
+red,eye
+used_in_cooking,hoe
+yellow,eucalyptus
+yellow,human
+sweet,cauliflower
+red,cilantro
+dangerous,gutter

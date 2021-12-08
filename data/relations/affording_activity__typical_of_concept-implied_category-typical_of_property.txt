@@ -1,0 +1,3 @@
+made_of_wood,lumber
+dangerous,grapeshot
+wings,gull

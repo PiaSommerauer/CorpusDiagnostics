@@ -1,0 +1,93 @@
+context,evidence_type,categories
+return, ,relation
+hole, ,relation
+fed, ,relation
+solid, ,relation
+700, ,relation
+entire, ,relation
+tiny, ,relation
+charcoal, ,relation
+burning, ,relation
+iron, ,relation
+stove, ,relation
+pieces, ,relation
+large, ,relation
+pit, ,relation
+use, ,relation measure
+fired, ,relation
+technique, ,relation
+remains, ,relation
+needed, ,relation
+were, ,relation
+ground, ,hot relation
+replace, ,relation
+inside, ,relation
+invented, ,relation
+replaced, ,relation
+human, ,relation
+uses, ,relation
+total, ,relation
+revealed, ,relation
+fine, ,relation
+form, ,relation
+diamond, ,relation
+collection, ,relation
+shape, ,relation
+connected, ,relation
+sources, ,relation
+remaining, ,relation
+petrol, ,relation
+collecting, ,relation
+surrounded, ,relation
+finally, ,relation
+highly, ,relation
+point, ,relation
+william, ,relation
+27, ,relation
+ever, ,relation
+namely, ,relation
+vacuum, ,relation
+cross, ,relation
+himself, ,relation
+resembling, ,relation
+will, ,relation
+sent, ,relation
+break, ,relation
+heated, ,object
+lit, ,all object
+ceramic, ,object
+containing, ,measure
+beer, ,measure
+water, ,hot measure
+filled, ,measure
+kitchen, ,measure
+tea, ,measure
+glass, ,measure
+liquid, ,measure
+non, ,measure
+vessel, ,measure
+items, ,measure
+itself, ,measure
+rice, ,measure
+cooking, ,measure
+this, ,measure
+based, ,measure
+locally, ,measure
+hot, ,all hot
+pot, ,all food
+cook, ,all food
+provide, ,hot
+meat, ,hot
+building, ,hot
+heat, ,hot
+smoke, ,hot
+burnt, ,hot
+carry, ,hot
+ashes, ,hot
+wooden, ,hot
+traditional, ,hot
+readily, ,hot
+beneath, ,hot
+amount, ,hot
+generated, ,hot
+baked, ,food

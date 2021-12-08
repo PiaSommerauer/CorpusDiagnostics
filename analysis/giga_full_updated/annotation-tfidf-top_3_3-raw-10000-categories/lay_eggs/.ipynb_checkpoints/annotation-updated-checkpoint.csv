@@ -1,0 +1,75 @@
+context,evidence_type,categories
+duck, ,bird
+bird, ,bird
+nest, ,bird no-cat
+habitat, ,bird no-cat
+thursday, ,bird
+including, ,bird
+along, ,bird
+third, ,bird
+week, ,bird
+population, ,bird no-cat
+set, ,bird
+house, ,bird
+fall, ,bird
+populations, ,bird fish
+viewers, ,bird
+american, ,bird
+goose, ,bird
+picture, ,bird
+begins, ,bird
+would, ,bird
+because, ,bird
+14, ,bird
+eggs, ,object animal no-cat all
+fish, ,food all animal fish object
+egg, ,object animal all
+salmon, ,fish food
+lamb, ,fish food
+000, ,food
+banned, ,food
+baked, ,food
+wrapped, ,food
+smoked, ,food
+roasted, ,food
+endangered, ,no-cat
+nicknamed, ,no-cat
+covered, ,no-cat
+resembling, ,no-cat
+sandy, ,no-cat
+dark, ,no-cat
+back, ,no-cat
+words, ,no-cat
+discovered, ,no-cat
+species, ,no-cat
+river, ,no-cat
+meat, ,no-cat
+animal, ,no-cat
+spotted, ,fish no-cat
+rare, ,no-cat
+caught, ,no-cat
+bones, ,no-cat
+preserve, ,no-cat
+turtles, ,no-cat
+healthy, ,no-cat
+like, ,no-cat
+scientists, ,no-cat
+fishermen, ,fish
+fillets, ,fish
+known, ,fish
+waters, ,fish
+fishing, ,fish
+maine, ,fish
+size, ,fish
+trout, ,fish
+chicken, ,fish
+pike, ,fish
+atlantic, ,fish
+cod, ,fish
+wild, ,fish
+freshwater, ,fish
+tuna, ,fish
+swordfish, ,fish
+pound, ,fish
+seafood, ,fish
+nice, ,fish

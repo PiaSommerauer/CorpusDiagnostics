@@ -1,0 +1,706 @@
+context,evidence_type,categories
+alcohol,i,relation
+apple,i,relation no-cat
+apples,i,relation
+bamboo,i,relation
+bay,i,relation animal
+bean,i,relation
+beans,i,vegetable relation no-cat
+beef,i,relation measure
+beer,i,relation
+bread,i,measure
+butter,i,relation measure no-cat
+cabbage,i,vegetable relation measure
+cheese,i,relation measure
+chicken,i,relation
+chili,i,relation
+chips,i,relation
+chocolate,i,relation
+cinnamon,i,relation
+coffee,i,relation
+corn,i,relation
+crab,i,animal
+cream,i,relation measure
+cucumber,i,relation animal
+cucumbers,i,relation
+curry,i,relation no-cat
+dairy,i,relation
+dip,i,relation
+egg,i,relation cutlery measure animal
+eggs,i,measure
+fat,i,animal
+filling,i,relation measure
+fish,i,relation measure animal
+flour,i,relation no-cat
+fruit,i,relation no-cat
+fruits,i,relation no-cat
+garlic,i,vegetable relation plant
+ginger,i,relation
+goat,i,relation
+green,i,vegetable relation no-cat
+greens,i,relation
+herbs,i,relation
+honey,i,relation measure no-cat
+ingredient,i,relation no-cat
+ingredients,i,relation plant measure vegetable no-cat
+juice,i,relation
+lamb,i,measure animal
+leaves,i,relation measure
+lemon,i,relation
+lime,i,relation
+liquor,i,relation
+lobster,i,animal
+mango,i,no-cat
+meat,i,tool relation object measure animal all food no-cat
+milk,i,relation measure
+mustard,i,relation
+nuts,i,relation no-cat
+oil,i,relation
+olive,i,relation
+onion,i,relation
+onions,i,relation
+paste,i,relation no-cat
+peanut,i,relation no-cat
+peanuts,i,no-cat
+pepper,i,no-cat relation plant vegetable animal
+pickles,i,relation
+pie,i,relation animal
+pork,i,relation
+potato,i,relation plant measure animal vegetable no-cat
+potatoes,i,no-cat relation measure vegetable animal
+rice,i,vegetable relation measure no-cat
+roll,i,animal
+rolls,i,animal
+root,i,relation
+salmon,i,animal
+salt,i,tool relation cutlery
+sauce,i,relation plant measure animal vegetable food no-cat
+seafood,i,animal
+shrimp,i,relation animal no-cat
+soup,i,relation measure animal
+soy,i,relation
+spices,i,relation no-cat
+sugar,i,relation measure no-cat
+syrup,i,relation
+tea,i,relation
+tomato,i,vegetable relation
+tomatoes,i,vegetable
+trout,i,animal
+tuna,i,animal
+vegetable,i,vegetable relation plant no-cat
+vegetables,i,relation plant vegetable food no-cat
+vinegar,i,relation measure
+water,i,relation animal
+recipe,l,relation measure no-cat
+recipes,l,vegetable relation no-cat
+prepare,n,relation
+prepared,n,relation
+26,u,relation
+30,u,relation
+49,u,relation
+150,u,relation
+400,u,relation
+500,u,relation
+2009,u,no-cat
+1950s,u,relation
+1980s,u,relation
+19th,u,relation
+20th,u,relation
+abandoned,u,relation
+abundance,u,relation animal
+abundant,u,animal
+accompanied,u,no-cat
+action,u,relation
+added,r,relation
+addition,u,relation
+additionally,u,relation
+additions,u,relation
+adjacent,u,relation
+advertisement,u,relation
+ago,u,relation
+allegedly,u,relation
+allowed,u,relation
+almost,u,animal
+already,u,relation
+also,u,vegetable relation measure animal
+alternative,u,relation
+among,u,animal
+animals,u,animal
+another,u,measure
+application,u,relation
+applications,u,relation
+applied,u,animal
+aquaculture,u,animal
+aquatic,u,animal
+arabic,r,relation
+are,u,relation measure animal no-cat
+area,u,no-cat
+artificial,u,animal
+as,u,relation no-cat
+asian,r,relation
+associated,u,relation
+at,u,relation
+australia,u,no-cat
+australian,u,animal
+avoid,u,relation
+bacon,i,animal
+baker,r,relation
+banana,i,relation no-cat
+band,u,measure
+banks,u,relation
+bar,u,relation animal
+bark,u,relation
+barley,i,relation
+based,u,relation no-cat
+beach,u,animal no-cat
+because,u,relation
+becoming,u,relation
+been,u,relation
+beet,i,vegetable
+bennett,u,relation
+bird,i,no-cat
+black,u,no-cat
+blood,i,relation
+boat,u,measure
+boiling,r,relation
+bond,u,relation
+bone,i,relation
+breakfast,r,relation
+bring,u,relation
+california,u,animal
+call,u,no-cat
+called,u,relation measure animal no-cat
+can,u,relation measure
+candy,i,relation
+carrot,i,relation
+carrots,i,relation
+carry,u,relation
+catch,u,animal
+catches,u,animal
+catching,u,animal
+cattle,r,animal
+caught,u,animal
+cause,u,relation
+century,u,relation
+characteristic,u,relation
+characterized,u,animal
+cheap,u,relation
+cheapest,u,relation
+children,u,relation
+chinese,r,animal
+clean,u,relation
+closely,u,relation
+coated,u,relation
+coconut,i,relation
+color,u,no-cat
+combined,r,relation
+combining,r,relation
+come,u,animal
+comes,u,measure
+commercially,u,animal
+common,u,no-cat
+commonly,u,animal
+company,u,relation
+components,r,relation
+composed,r,relation no-cat
+composition,r,relation
+con,u,relation
+concentrated,r,relation
+consisted,r,relation
+consisting,r,relation
+contain,r,relation animal
+containing,r,relation animal
+coriander,i,relation
+cost,u,relation
+cotton,u,no-cat
+country,u,animal
+covering,u,relation
+cow,u,animal
+crayfish,i,animal
+created,u,no-cat
+crop,r,no-cat
+crops,r,vegetable plant no-cat
+cross,u,measure
+cuisine,r,relation animal
+cultivated,u,no-cat
+cultivation,u,animal no-cat
+customers,u,relation
+dates,i,relation
+dating,u,relation
+day,u,relation
+days,u,relation
+decades,u,relation
+demand,u,relation animal
+demolished,u,relation
+depending,u,relation
+derived,u,measure
+direct,u,relation
+discontinued,u,relation
+documented,u,animal
+does,u,animal
+dog,u,relation
+double,u,measure
+down,u,relation no-cat
+drinks,r,relation
+drop,u,relation
+du,u,relation
+duck,i,animal
+early,u,relation
+eastern,r,relation
+eaten,r,relation plant measure vegetable no-cat
+eating,r,measure
+edible,r,relation animal
+eel,i,animal
+effectively,u,relation
+either,u,relation
+elder,u,relation
+emphasis,u,relation
+england,u,animal
+enhance,r,relation
+ensemble,u,relation
+episode,u,measure
+especially,u,relation animal
+essential,u,relation
+example,u,relation
+excellent,u,relation
+exclusively,u,animal
+expanded,u,animal
+export,u,animal
+exports,u,animal
+extract,r,relation
+extracted,r,relation
+factory,u,animal
+famous,u,animal no-cat
+fan,u,animal
+fare,u,relation
+farm,u,animal
+farmers,u,animal no-cat
+fed,u,relation animal
+festival,u,relation no-cat
+fields,u,no-cat
+find,u,measure
+fire,u,relation
+fishermen,u,animal
+fishing,u,relation animal
+flavoured,r,relation
+flesh,r,relation
+floor,u,relation
+flower,u,relation
+flowers,u,relation
+food,i,cutlery tool object animal vegetable all no-cat
+foods,i,relation
+foodstuffs,i,relation
+for,u,no-cat
+forerunner,u,relation
+forms,u,relation
+found,u,no-cat
+founded,u,relation
+free,u,relation
+freshwater,u,animal
+from,u,no-cat
+further,u,relation
+girl,u,relation
+given,u,no-cat
+goods,u,relation
+grain,i,relation
+grains,i,relation
+great,u,relation
+ground,r,no-cat
+group,u,relation
+growing,u,animal
+growth,u,animal
+hall,u,relation
+has,u,no-cat
+have,u,no-cat
+hence,u,relation
+here,u,relation
+historical,u,relation
+holes,u,relation
+hours,u,relation
+house,u,relation
+household,r,relation
+however,u,relation animal
+huge,u,animal
+ice,r,relation
+identified,u,relation
+ii,u,relation
+importance,u,relation
+important,u,animal
+in,u,vegetable plant no-cat
+inc,u,relation
+include,u,relation animal
+including,u,relation measure
+increase,u,relation
+infected,u,animal
+inn,u,relation
+instead,u,no-cat
+is,u,measure
+island,u,relation
+isolated,u,relation no-cat
+issues,u,animal
+japanese,r,relation
+keen,u,relation
+keep,u,relation
+kept,u,relation
+kind,u,no-cat
+kinds,u,relation
+king,u,animal
+kingdom,u,animal
+known,u,vegetable measure
+korean,r,relation
+lake,u,relation
+large,u,measure
+larger,u,measure
+latin,u,no-cat
+layer,r,relation
+leading,u,relation
+leaf,r,relation no-cat
+like,u,measure
+line,u,relation measure
+lines,u,relation
+literally,u,relation
+little,u,relation measure
+live,u,measure animal
+lower,u,measure
+made,u,relation measure animal no-cat
+main,u,relation no-cat
+mainly,u,relation
+maize,i,no-cat
+make,u,relation
+making,u,relation no-cat
+manufactured,u,relation
+marketed,u,relation
+mass,u,relation
+material,u,relation
+materials,u,relation
+meaning,u,measure
+means,u,relation measure
+medieval,u,relation
+middle,u,relation
+millet,i,no-cat
+mint,i,no-cat
+mistakenly,u,relation
+mostly,u,relation
+mother,u,relation
+mud,u,animal
+names,u,measure animal
+national,u,no-cat
+native,u,no-cat
+north,u,measure
+not,u,relation
+notable,u,relation
+notes,u,relation
+now,u,relation
+nowadays,u,animal
+observed,u,no-cat
+occasional,u,relation
+occasions,u,relation
+octopus,i,animal
+of,u,vegetable plant
+off,u,measure
+offered,u,relation
+often,u,relation measure animal no-cat
+oliver,u,relation
+once,u,relation
+opened,u,relation
+orange,i,relation measure no-cat
+organic,r,relation
+origin,u,relation
+originally,u,relation
+originated,u,relation
+originates,u,relation
+originating,u,relation
+other,u,relation measure
+others,u,relation
+owners,u,relation
+packaged,r,relation
+particularly,u,animal
+past,u,relation
+people,u,relation
+perch,i,animal
+peruvian,r,relation
+pickled,r,relation
+pink,u,animal
+places,u,relation
+plant,r,relation no-cat
+plus,u,measure
+pod,u,relation
+popular,u,animal
+pots,i,relation
+poultry,i,relation
+preference,u,animal
+preferred,u,relation animal
+preparation,n,relation no-cat
+preparations,n,relation
+preparing,n,relation
+preserve,r,relation
+preserved,r,relation
+primary,u,relation
+problem,u,relation
+produced,u,relation
+producer,u,no-cat
+producers,u,animal
+product,u,relation
+production,u,relation animal no-cat
+products,u,relation animal
+promote,u,relation
+provide,u,relation
+provides,u,measure
+pulp,i,relation
+purchased,u,relation
+pure,r,relation
+quality,r,relation animal
+quickly,u,measure
+raised,u,relation
+ran,u,relation
+range,u,no-cat
+rapid,u,animal
+rapidly,u,relation
+recent,u,animal
+recorded,u,relation
+reduce,r,relation
+referred,u,measure
+region,u,relation
+regions,u,relation
+related,u,relation
+remains,u,relation
+replace,u,relation
+reputed,u,relation
+resembles,u,no-cat
+resembling,u,no-cat
+restaurant,r,relation
+restaurants,r,animal
+result,u,relation
+resulting,u,relation
+rich,u,relation
+roman,u,relation
+romans,u,relation
+roots,i,relation
+runs,u,relation
+salted,r,relation
+salty,r,relation
+same,u,relation
+sand,u,no-cat
+say,u,relation
+sea,u,relation
+seasonal,r,relation
+seems,u,animal
+selling,u,animal
+sells,u,animal
+settling,u,animal
+shaped,u,measure
+shares,u,animal
+shark,i,animal
+she,u,no-cat
+shellfish,i,animal
+shoots,u,relation
+signature,u,animal
+similar,u,measure
+simply,u,measure
+sixty,u,relation
+skin,r,relation no-cat
+slightly,u,measure
+small,u,measure no-cat
+smaller,u,measure
+so,u,no-cat
+soaked,r,relation
+soaking,r,relation
+sodium,r,relation
+solutions,u,relation
+some,u,relation animal no-cat
+sometimes,u,relation measure animal
+species,u,no-cat
+spirits,u,relation
+spoon,i,tool
+spread,i,animal
+squid,i,animal
+starch,i,relation
+stone,u,relation
+stones,u,relation
+stored,r,relation
+stories,u,relation
+strong,u,relation
+structure,u,relation
+substance,u,relation
+sufficient,u,relation
+suitable,u,animal
+summer,u,no-cat
+supported,u,relation
+survive,u,animal
+swim,u,animal
+swimming,u,animal
+takes,u,animal
+term,u,measure animal
+thailand,r,relation
+the,u,vegetable plant
+then,u,no-cat
+they,u,relation
+third,u,relation
+this,u,no-cat
+those,u,relation
+throwing,u,relation
+timber,u,animal
+tin,u,relation
+tiny,u,measure
+titled,u,no-cat
+together,u,animal
+town,u,relation animal
+tracks,u,relation
+traditionally,u,relation animal
+transparent,u,relation
+tree,u,relation no-cat
+turns,u,relation
+types,u,relation
+typical,u,relation measure
+typically,u,relation
+unfortunately,u,relation
+union,u,relation
+unique,u,animal
+unusual,u,relation
+used,u,relation
+useful,u,relation
+usually,u,relation measure animal
+variation,u,relation measure
+varies,u,relation
+variety,u,relation no-cat
+various,u,relation
+vermont,u,relation
+violet,i,relation
+visible,u,relation
+waters,u,animal
+way,u,measure
+weeks,u,relation
+weighing,u,animal
+well,u,measure
+when,u,measure
+whereas,u,relation
+which,u,no-cat
+widely,u,measure
+wine,i,relation
+within,u,no-cat
+women,b,relation
+won,u,measure
+wood,u,relation no-cat
+worms,u,animal
+would,u,relation
+wrapped,u,measure
+yellow,u,relation no-cat
+yield,u,no-cat
+yuca,u,relation
+cooked,p,relation plant measure animal vegetable no-cat
+cooking,p,relation no-cat
+add,r,relation no-cat
+adding,r,relation measure
+amount,r,measure
+baked,r,relation
+baking,r,relation measure
+batch,r,relation
+blend,r,relation
+boiled,r,vegetable relation
+bottles,r,relation
+brown,r,relation
+chopped,r,relation
+cold,r,relation
+contains,r,relation measure animal
+cool,r,relation
+crushed,r,relation measure
+diet,r,animal
+dish,r,relation object plant measure animal vegetable all food no-cat
+dishes,r,relation plant measure vegetable animal
+dried,r,relation animal no-cat
+drink,r,relation
+dry,r,relation
+farms,r,animal
+filled,r,relation measure animal no-cat
+finely,r,relation
+fisheries,r,animal
+fishery,r,animal
+flavor,r,relation
+flavored,r,relation
+flavors,r,relation
+fresh,r,relation animal
+fried,r,vegetable relation animal no-cat
+fry,r,relation
+hot,r,relation measure
+kitchen,r,relation
+liquid,r,relation
+locally,r,animal
+meal,r,relation no-cat
+mild,r,relation
+mix,r,relation
+mixed,r,relation no-cat
+mixing,r,relation
+mixture,r,relation measure no-cat
+pieces,r,measure
+plain,r,relation
+portion,r,relation
+pound,r,measure
+pounds,r,relation
+poured,r,relation
+powder,i,relation
+processed,r,relation
+processing,r,relation
+produces,r,animal
+raw,r,relation animal
+roasted,r,relation
+seasoned,r,relation
+served,r,relation
+serving,r,cutlery
+smell,r,relation
+soft,r,relation
+sour,r,relation no-cat
+strips,r,relation
+sweet,r,relation plant measure vegetable no-cat
+taste,r,relation
+top,r,relation
+topped,r,measure
+warm,r,relation
+wash,r,relation
+and,u,cutlery relation plant measure vegetable food no-cat
+available,u,relation animal
+bought,u,relation
+chemicals,u,relation
+combination,u,relation measure
+commercial,u,relation animal
+consumed,u,relation animal
+contained,u,relation
+deep,r,relation measure animal no-cat
+drops,u,relation
+enjoy,u,relation
+etc,u,relation
+farming,u,animal
+favored,u,relation
+grass,u,no-cat
+grow,u,animal
+half,u,measure
+industry,u,animal
+into,u,relation
+lightly,u,relation
+living,u,relation animal
+lots,u,relation
+ltd,u,relation
+naturally,u,relation
+occasionally,u,measure no-cat
+optional,u,relation
+or,u,relation measure animal
+palm,u,relation
+produce,u,animal
+quantities,u,relation animal
+seed,u,relation no-cat
+seeds,u,vegetable relation no-cat
+shells,u,animal
+single,u,relation
+southeast,u,relation
+specialty,u,relation
+such,u,no-cat relation plant vegetable animal
+texture,u,no-cat
+thick,u,relation
+thin,u,relation
+traditional,u,relation animal no-cat
+variations,u,relation
+varieties,u,relation no-cat
+washed,u,relation
+white,u,relation measure no-cat
+whole,u,relation
+wild,u,no-cat
+with,u,vegetable measure

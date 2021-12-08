@@ -1,0 +1,2 @@
+warm,attire
+hot,water

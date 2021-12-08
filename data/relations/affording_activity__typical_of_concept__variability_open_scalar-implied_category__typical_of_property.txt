@@ -1,0 +1,2 @@
+warm,earmuff
+hot,boiler

@@ -1,0 +1,46 @@
+context,evidence_type,categories
+her,i,mammal female animal communication
+she,i,female mammal all communication object
+herself,i,mammal female object all
+in,u,female
+haired,u,female
+lady,i,mammal female communication
+birth,r,mammal
+grass,u,mammal
+pregnant,l,mammal
+pregnancy,l,mammal
+actress,i,mammal animal communication
+so,u,mammal
+beautiful,b,object all
+baby,b,communication
+walk,u,communication
+like,u,communication
+sex,u,communication
+likes,u,communication
+girl,i,communication
+angel,u,communication
+fun,u,communication
+university,u,communication
+bed,u,communication
+art,u,communication
+wine,u,communication
+friends,u,communication
+45,u,communication
+grace,u,communication
+everyone,u,communication
+married,b,communication
+reading,u,communication
+becomes,u,communication
+sister,i,communication
+media,u,communication
+gambling,u,communication
+visit,u,communication
+associate,u,communication
+mind,u,communication
+original,u,communication
+quite,u,communication
+about,u,communication
+others,u,communication
+embrace,u,communication
+glimpse,u,communication
+stories,u,animal

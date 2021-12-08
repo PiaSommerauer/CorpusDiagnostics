@@ -1,0 +1,7 @@
+used_in_cooking,plier
+made_of_wood,ferrule
+made_of_wood,kickstand
+blue,moss
+blue,currant
+used_in_cooking,corkscrew
+green,water

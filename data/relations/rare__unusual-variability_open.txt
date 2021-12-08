@@ -1,0 +1,6 @@
+blue,hair
+black,pansy
+green,piano
+blue,oven
+round,samosa
+red,custard

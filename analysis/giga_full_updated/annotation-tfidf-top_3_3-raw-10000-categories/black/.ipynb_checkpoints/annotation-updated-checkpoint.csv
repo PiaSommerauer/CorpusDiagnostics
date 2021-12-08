@@ -1,0 +1,1150 @@
+context,evidence_type,categories
+suddenly, ,animal bird object all
+fire, ,object all
+enormous, ,object
+shot, ,measure no-cat
+smoked, ,measure
+cuts, ,measure
+high, ,measure no-cat
+contemporary, ,measure
+surface, ,fruit measure
+cool, ,measure no-cat
+act, ,measure no-cat
+sit, ,fruit measure no-cat
+cover, ,fruit measure
+smoke, ,measure
+heat, ,measure no-cat
+fingers, ,fruit measure
+place, ,measure
+fitting, ,measure
+gold, ,measure
+salt, ,measure
+turned, ,measure
+corp, ,measure
+watched, ,measure
+burned, ,measure
+electric, ,measure
+burning, ,measure
+shots, ,measure
+lift, ,measure no-cat
+shining, ,measure
+raw, ,measure
+vacuum, ,measure
+say, ,fruit measure
+allow, ,measure no-cat
+facing, ,measure no-cat
+bones, ,measure no-cat
+seattle, ,measure no-cat
+ever, ,bird measure no-cat
+halfway, ,measure
+loose, ,measure
+mess, ,measure
+divided, ,measure
+rainbow, ,measure
+ate, ,measure
+frozen, ,measure
+escaped, ,measure
+actors, ,measure
+coal, ,measure
+thieves, ,measure
+wet, ,measure
+legs, ,measure
+inner, ,measure
+easy, ,measure
+medical, ,measure
+minutes, ,measure
+ultimate, ,measure
+moss, ,measure
+interviewed, ,measure
+everybody, ,measure
+defense, ,measure
+jungle, ,measure
+tight, ,measure
+theory, ,measure
+abandoned, ,mammal measure no-cat
+dock, ,measure
+suburban, ,measure
+referring, ,measure
+burn, ,measure
+burns, ,measure
+pushing, ,measure
+immediately, ,measure
+fixed, ,measure
+obvious, ,measure
+escape, ,measure
+suffering, ,measure no-cat
+greg, ,measure
+clinton, ,measure
+ill, ,measure
+smoking, ,measure
+simon, ,measure
+referred, ,measure
+regular, ,measure
+problem, ,measure no-cat
+roll, ,measure
+automatically, ,measure
+bloody, ,measure
+swim, ,measure
+remained, ,measure
+swings, ,measure
+sick, ,measure
+intriguing, ,measure
+episode, ,measure
+aside, ,measure
+effects, ,measure
+broad, ,fruit measure
+handful, ,fruit measure
+terrible, ,measure
+foreign, ,measure
+died, ,fruit measure
+prepared, ,measure no-cat
+rough, ,measure
+reportedly, ,measure
+war, ,measure
+sister, ,measure
+headed, ,measure
+traditionally, ,measure
+carol, ,measure
+minute, ,measure
+deeper, ,measure
+script, ,measure
+anna, ,measure
+yeah, ,measure
+horror, ,measure
+indeed, ,measure no-cat
+hiding, ,measure
+accused, ,measure
+musicians, ,measure
+sex, ,measure
+surely, ,measure no-cat
+lawyers, ,measure
+senior, ,measure
+calling, ,bird measure
+drivers, ,measure
+media, ,measure
+hut, ,measure
+1979, ,measure
+awarded, ,measure
+results, ,measure no-cat
+met, ,measure no-cat
+apparent, ,measure
+realize, ,measure
+youngest, ,measure no-cat
+positive, ,measure
+potential, ,measure no-cat
+designated, ,measure
+backed, ,measure
+money, ,measure
+league, ,measure
+linked, ,measure
+equal, ,measure
+track, ,measure
+luck, ,measure no-cat
+limit, ,measure
+broadcast, ,measure
+worry, ,measure no-cat
+accept, ,measure
+1994, ,measure
+civil, ,measure
+college, ,measure no-cat
+brain, ,measure
+ban, ,measure
+sandy, ,measure
+bound, ,measure
+admits, ,fruit measure
+killed, ,measure
+elite, ,measure
+patients, ,measure
+fried, ,measure
+federal, ,measure
+make, ,measure
+dating, ,measure
+crush, ,fruit measure
+remaining, ,measure
+barely, ,measure no-cat
+doctor, ,measure
+truly, ,measure
+partially, ,measure
+reduce, ,measure
+classics, ,measure
+diverse, ,fruit measure
+parker, ,measure
+jeans, ,plant
+restaurants, ,fruit plant
+beach, ,plant
+call, ,fruit plant
+carries, ,plant
+lace, ,fruit plant
+chic, ,plant
+stream, ,plant
+except, ,no-cat plant
+under, ,fruit food plant
+wool, ,fruit plant
+as, ,plant
+linda, ,fruit plant
+distributors, ,fruit plant
+picker, ,fruit plant
+sam, ,plant
+picking, ,fruit food plant
+nuts, ,plant
+jersey, ,plant
+tank, ,plant
+feeling, ,plant
+maroon, ,plant
+breaks, ,fruit plant
+main, ,fruit no-cat plant
+packed, ,fruit no-cat plant
+better, ,plant
+lunch, ,plant
+three, ,food plant
+shooting, ,no-cat plant
+chains, ,fruit plant
+star, ,bird fruit plant
+chartreuse, ,plant
+darker, ,plant
+strange, ,plant
+branch, ,fruit plant
+suited, ,plant
+bar, ,fruit plant
+blends, ,fruit plant
+became, ,plant
+wine, ,fruit plant
+sherry, ,fruit plant
+best, ,fruit plant
+appeared, ,fruit food plant
+well, ,plant
+kitchen, ,no-cat plant
+breast, ,plant
+everyone, ,plant
+guest, ,plant
+la, ,plant
+fare, ,plant
+whereas, ,plant
+really, ,mammal fruit no-cat
+come, ,mammal
+bag, ,mammal no-cat
+nest, ,bird
+habitat, ,bird
+populations, ,bird
+miles, ,bird fruit
+following, ,bird no-cat
+tim, ,bird
+devastated, ,bird
+above, ,bird
+winter, ,bird
+ii, ,bird
+nearly, ,bird no-cat
+last, ,bird
+11, ,bird
+creature, ,bird
+eggs, ,bird
+15, ,bird
+colonies, ,bird
+falcon, ,bird
+nesting, ,bird
+1993, ,bird
+northern, ,bird
+operation, ,bird
+eyes, ,bird fruit no-cat
+foot, ,bird
+help, ,bird
+large, ,bird no-cat
+encounter, ,bird
+alaska, ,bird
+lawsuit, ,bird
+12, ,bird
+birth, ,bird
+curious, ,bird
+celebrated, ,bird
+columbia, ,bird
+stable, ,bird
+spotting, ,bird
+explained, ,bird
+exhibit, ,bird
+shy, ,bird
+drops, ,bird
+names, ,bird
+newly, ,bird
+puts, ,bird
+protected, ,bird
+nests, ,bird
+great, ,bird fruit no-cat
+mix, ,bird
+eat, ,bird
+extinct, ,bird
+hit, ,bird no-cat
+classic, ,bird no-cat
+largest, ,bird
+drawing, ,bird
+over, ,bird
+magazine, ,bird
+2004, ,bird no-cat
+recordings, ,bird
+actually, ,bird
+grade, ,bird fruit
+tracking, ,bird animal no-cat
+kansas, ,bird no-cat
+view, ,bird
+droppings, ,bird
+includes, ,bird
+fought, ,bird
+frequently, ,bird no-cat
+behalf, ,bird fruit
+today, ,bird
+hunting, ,bird
+collected, ,bird
+vanished, ,bird no-cat
+grandmother, ,relation
+tossed, ,relation
+neighbor, ,relation
+cloth, ,relation
+black, ,relation all
+perhaps, ,fruit relation
+cheers, ,relation
+named, ,fruit food
+species, ,food
+bearing, ,food
+size, ,fruit food
+discovered, ,fruit food
+introduction, ,animal no-cat
+likely, ,animal no-cat
+evidence, ,animal
+spread, ,no-cat
+ugly, ,fruit no-cat
+red, ,no-cat
+europe, ,no-cat
+market, ,no-cat
+past, ,no-cat
+canada, ,no-cat
+way, ,fruit no-cat
+add, ,no-cat
+lot, ,no-cat
+500, ,no-cat
+without, ,fruit no-cat
+machine, ,no-cat
+central, ,no-cat
+everything, ,no-cat
+thanks, ,no-cat
+larger, ,no-cat
+brought, ,fruit no-cat
+causing, ,no-cat
+present, ,no-cat
+emerged, ,fruit no-cat
+davis, ,fruit no-cat
+candy, ,no-cat
+growing, ,no-cat
+nothing, ,no-cat
+due, ,no-cat
+making, ,no-cat
+low, ,no-cat
+picked, ,fruit no-cat
+cold, ,no-cat
+our, ,no-cat
+job, ,no-cat
+parents, ,no-cat
+worked, ,no-cat
+slow, ,no-cat
+finally, ,no-cat
+remember, ,no-cat
+especially, ,no-cat
+because, ,no-cat
+different, ,no-cat
+third, ,no-cat
+glass, ,no-cat
+thin, ,no-cat
+ran, ,no-cat
+ready, ,no-cat
+putting, ,no-cat
+suggest, ,no-cat
+sense, ,no-cat
+turning, ,no-cat
+meaning, ,no-cat
+layer, ,no-cat
+paint, ,no-cat
+post, ,fruit no-cat
+originally, ,no-cat
+depending, ,no-cat
+disappeared, ,no-cat
+among, ,no-cat
+decade, ,no-cat
+else, ,no-cat
+either, ,no-cat
+doing, ,no-cat
+change, ,no-cat
+brings, ,no-cat
+car, ,no-cat
+engine, ,no-cat
+200, ,no-cat
+drove, ,no-cat
+mountain, ,no-cat
+1970s, ,no-cat
+color, ,no-cat
+having, ,no-cat
+proved, ,no-cat
+she, ,no-cat
+powerful, ,no-cat
+transformed, ,no-cat
+sales, ,no-cat
+inside, ,no-cat
+space, ,no-cat
+1999, ,no-cat
+era, ,no-cat
+city, ,fruit no-cat
+moving, ,no-cat
+shop, ,fruit no-cat
+south, ,no-cat
+1980s, ,no-cat
+brother, ,no-cat
+africa, ,no-cat
+nor, ,fruit no-cat
+lay, ,no-cat
+indicated, ,no-cat
+underneath, ,no-cat
+work, ,no-cat
+control, ,no-cat
+waiting, ,no-cat
+coffee, ,no-cat
+vacation, ,no-cat
+valley, ,no-cat
+product, ,no-cat
+labor, ,no-cat
+cheap, ,no-cat
+phenomenon, ,no-cat
+little, ,no-cat
+comes, ,no-cat
+every, ,no-cat
+all, ,no-cat
+food, ,no-cat
+came, ,fruit no-cat
+those, ,fruit no-cat
+probably, ,no-cat
+pop, ,no-cat
+prevent, ,no-cat
+cabin, ,no-cat
+reads, ,no-cat
+takes, ,fruit no-cat
+likes, ,no-cat
+racing, ,no-cat
+kids, ,no-cat
+compared, ,no-cat
+compete, ,no-cat
+impossible, ,no-cat
+crash, ,no-cat
+christmas, ,no-cat
+highest, ,no-cat
+managed, ,no-cat
+32, ,no-cat
+clear, ,fruit no-cat
+enter, ,no-cat
+returns, ,no-cat
+somehow, ,no-cat
+solid, ,no-cat
+fight, ,no-cat
+streets, ,fruit no-cat
+york, ,no-cat
+fine, ,fruit no-cat
+writes, ,no-cat
+father, ,no-cat
+18, ,no-cat
+stand, ,no-cat
+falling, ,no-cat
+august, ,no-cat
+european, ,no-cat
+flew, ,no-cat
+sellers, ,no-cat
+outside, ,no-cat
+rather, ,no-cat
+went, ,no-cat
+giving, ,no-cat
+korea, ,no-cat
+handling, ,no-cat
+hair, ,fruit no-cat
+grand, ,fruit no-cat
+wonderful, ,no-cat
+keeping, ,no-cat
+knew, ,no-cat
+forcing, ,no-cat
+forgotten, ,no-cat
+wrong, ,no-cat
+insisted, ,no-cat
+wife, ,no-cat
+virtually, ,no-cat
+flat, ,no-cat
+increasing, ,no-cat
+ripped, ,no-cat
+providing, ,no-cat
+pulling, ,no-cat
+reach, ,no-cat
+tends, ,no-cat
+sky, ,no-cat
+sits, ,fruit no-cat
+split, ,no-cat
+soft, ,no-cat
+suggesting, ,no-cat
+michael, ,no-cat
+treat, ,no-cat
+movies, ,no-cat
+lewis, ,no-cat
+literally, ,no-cat
+plans, ,no-cat
+police, ,no-cat
+possible, ,no-cat
+notice, ,no-cat
+traffic, ,no-cat
+organization, ,no-cat
+charles, ,no-cat
+alone, ,no-cat
+determined, ,no-cat
+dangerous, ,no-cat
+dust, ,no-cat
+aimed, ,no-cat
+capable, ,no-cat
+bright, ,no-cat
+budget, ,no-cat
+broke, ,no-cat
+considering, ,no-cat
+balance, ,no-cat
+bad, ,no-cat
+bigger, ,no-cat
+emergency, ,no-cat
+fair, ,no-cat
+facilities, ,no-cat
+68, ,no-cat
+equipment, ,no-cat
+62, ,no-cat
+land, ,fruit no-cat
+touched, ,no-cat
+big, ,no-cat
+empty, ,fruit no-cat
+bottom, ,no-cat
+mountains, ,no-cat
+celebration, ,no-cat
+ranch, ,no-cat
+losing, ,no-cat
+passed, ,no-cat
+nine, ,no-cat
+suit, ,no-cat
+rich, ,no-cat
+picture, ,no-cat
+maybe, ,no-cat
+measure, ,no-cat
+music, ,no-cat
+competition, ,no-cat
+thing, ,no-cat
+need, ,no-cat
+paris, ,no-cat
+sixth, ,no-cat
+case, ,no-cat
+seven, ,no-cat
+domestic, ,no-cat
+form, ,fruit no-cat
+feel, ,fruit no-cat
+rose, ,no-cat
+words, ,no-cat
+century, ,fruit no-cat
+country, ,fruit no-cat
+russian, ,no-cat
+self, ,no-cat
+george, ,no-cat
+hill, ,no-cat
+warm, ,no-cat
+iron, ,no-cat
+afford, ,no-cat
+train, ,no-cat
+ones, ,no-cat
+spain, ,no-cat
+estimate, ,no-cat
+simultaneously, ,no-cat
+drink, ,no-cat
+should, ,fruit no-cat
+new, ,no-cat
+lady, ,no-cat
+juice, ,no-cat
+colorado, ,no-cat
+production, ,fruit no-cat
+strip, ,no-cat
+drives, ,no-cat
+driving, ,no-cat
+launch, ,no-cat
+grain, ,no-cat
+fly, ,no-cat
+queen, ,no-cat
+this, ,no-cat
+sort, ,no-cat
+yellow, ,no-cat
+concept, ,no-cat
+brown, ,no-cat
+selling, ,no-cat
+other, ,no-cat
+does, ,no-cat
+than, ,no-cat
+books, ,no-cat
+vehicle, ,no-cat
+before, ,no-cat
+buzz, ,no-cat
+spreading, ,no-cat
+120, ,no-cat
+successful, ,no-cat
+exploding, ,no-cat
+arrive, ,no-cat
+consider, ,no-cat
+license, ,no-cat
+manufacturer, ,no-cat
+metallic, ,no-cat
+describes, ,fruit no-cat
+heaven, ,no-cat
+largely, ,no-cat
+late, ,no-cat
+looking, ,fruit no-cat
+much, ,no-cat
+very, ,fruit no-cat
+huge, ,no-cat
+however, ,no-cat
+ago, ,fruit no-cat
+remains, ,no-cat
+goes, ,no-cat
+ended, ,no-cat
+though, ,no-cat
+expected, ,no-cat
+might, ,no-cat
+across, ,fruit no-cat
+producer, ,no-cat
+los, ,no-cat
+earning, ,no-cat
+900, ,fruit no-cat
+recalls, ,no-cat
+task, ,no-cat
+push, ,no-cat
+dealer, ,no-cat
+2002, ,no-cat
+combat, ,no-cat
+difference, ,no-cat
+oldest, ,no-cat
+plants, ,no-cat
+transportation, ,no-cat
+cross, ,no-cat
+planning, ,no-cat
+word, ,no-cat
+reverse, ,no-cat
+filling, ,no-cat
+rocky, ,no-cat
+strike, ,no-cat
+students, ,no-cat
+suggested, ,no-cat
+attempt, ,no-cat
+faster, ,no-cat
+spirit, ,no-cat
+bet, ,no-cat
+often, ,no-cat
+average, ,no-cat
+costs, ,no-cat
+itself, ,no-cat
+2003, ,fruit no-cat
+test, ,no-cat
+rise, ,no-cat
+summer, ,no-cat
+good, ,no-cat
+global, ,no-cat
+history, ,fruit no-cat
+windows, ,no-cat
+fills, ,no-cat
+feared, ,no-cat
+georgia, ,no-cat
+granted, ,no-cat
+fed, ,no-cat
+growth, ,no-cat
+km, ,no-cat
+hills, ,no-cat
+whatever, ,no-cat
+forget, ,no-cat
+insurance, ,no-cat
+films, ,no-cat
+indian, ,no-cat
+walks, ,no-cat
+reminder, ,no-cat
+rent, ,no-cat
+replaced, ,no-cat
+replacement, ,no-cat
+tag, ,no-cat
+preparing, ,no-cat
+prime, ,no-cat
+temperature, ,no-cat
+smith, ,no-cat
+strikes, ,no-cat
+signs, ,no-cat
+springs, ,no-cat
+stages, ,no-cat
+somewhat, ,no-cat
+songs, ,no-cat
+stolen, ,no-cat
+spare, ,no-cat
+specialists, ,no-cat
+scattered, ,no-cat
+shift, ,no-cat
+seriously, ,no-cat
+traveled, ,no-cat
+moves, ,no-cat
+mirror, ,no-cat
+mission, ,no-cat
+lane, ,no-cat
+upside, ,no-cat
+upcoming, ,no-cat
+maintenance, ,no-cat
+lots, ,no-cat
+passengers, ,no-cat
+threat, ,no-cat
+pit, ,no-cat
+trailer, ,no-cat
+objects, ,no-cat
+needs, ,no-cat
+occur, ,no-cat
+otherwise, ,no-cat
+topped, ,no-cat
+traced, ,no-cat
+tough, ,no-cat
+descended, ,no-cat
+applied, ,no-cat
+approval, ,no-cat
+direct, ,fruit no-cat
+creates, ,no-cat
+atop, ,no-cat
+customers, ,no-cat
+disastrous, ,no-cat
+advantage, ,no-cat
+emerging, ,no-cat
+changed, ,no-cat
+cash, ,no-cat
+clark, ,no-cat
+contrast, ,no-cat
+contend, ,no-cat
+costly, ,no-cat
+computer, ,no-cat
+companion, ,no-cat
+competing, ,no-cat
+comparable, ,no-cat
+55, ,no-cat
+71, ,no-cat
+53, ,no-cat
+burst, ,no-cat
+round, ,fruit no-cat
+landing, ,no-cat
+forced, ,no-cat
+tax, ,no-cat
+up, ,no-cat
+rapidly, ,no-cat
+letting, ,no-cat
+tourists, ,no-cat
+slowly, ,no-cat
+evening, ,no-cat
+child, ,no-cat
+hung, ,no-cat
+where, ,fruit no-cat
+until, ,no-cat
+path, ,no-cat
+sept, ,no-cat
+latest, ,no-cat
+challenge, ,no-cat
+rising, ,no-cat
+suspended, ,no-cat
+climb, ,no-cat
+object, ,no-cat
+own, ,no-cat
+second, ,no-cat
+short, ,fruit no-cat
+top, ,no-cat
+included, ,no-cat
+smashed, ,no-cat
+beyond, ,no-cat
+hospital, ,no-cat
+missing, ,no-cat
+even, ,fruit no-cat
+official, ,no-cat
+told, ,no-cat
+broken, ,no-cat
+opens, ,no-cat
+happens, ,no-cat
+matter, ,no-cat
+material, ,no-cat
+stories, ,no-cat
+marking, ,no-cat
+handle, ,no-cat
+clearing, ,no-cat
+given, ,no-cat
+prepare, ,no-cat
+article, ,no-cat
+website, ,no-cat
+means, ,no-cat
+wednesday, ,no-cat
+co, ,no-cat
+easier, ,no-cat
+understand, ,no-cat
+sink, ,fruit no-cat
+shortly, ,no-cat
+aid, ,no-cat
+structure, ,no-cat
+services, ,no-cat
+crisis, ,no-cat
+failing, ,no-cat
+report, ,no-cat
+finger, ,no-cat
+risky, ,no-cat
+ms, ,no-cat
+thus, ,no-cat
+26, ,no-cat
+talking, ,no-cat
+iraq, ,no-cat
+load, ,no-cat
+throw, ,no-cat
+terms, ,no-cat
+carefully, ,no-cat
+possibility, ,no-cat
+running, ,no-cat
+estimates, ,no-cat
+mixed, ,no-cat
+naked, ,no-cat
+raising, ,no-cat
+wary, ,no-cat
+pride, ,no-cat
+african, ,no-cat
+prompted, ,no-cat
+promise, ,no-cat
+art, ,no-cat
+level, ,no-cat
+fifth, ,no-cat
+financial, ,no-cat
+52, ,no-cat
+experienced, ,no-cat
+likened, ,no-cat
+remove, ,no-cat
+boys, ,no-cat
+claim, ,no-cat
+clock, ,no-cat
+bomb, ,no-cat
+date, ,no-cat
+contains, ,no-cat
+television, ,no-cat
+news, ,no-cat
+led, ,no-cat
+cut, ,no-cat
+cast, ,no-cat
+choice, ,no-cat
+happen, ,no-cat
+carrier, ,no-cat
+presidential, ,no-cat
+stuff, ,no-cat
+prevented, ,no-cat
+husband, ,no-cat
+women, ,no-cat
+stretched, ,no-cat
+de, ,fruit no-cat
+thailand, ,no-cat
+decide, ,no-cat
+cup, ,no-cat
+triggered, ,no-cat
+trigger, ,no-cat
+banner, ,no-cat
+thick, ,no-cat
+bath, ,no-cat
+bunch, ,no-cat
+anything, ,no-cat
+fourth, ,no-cat
+manufacturers, ,no-cat
+spoke, ,no-cat
+constant, ,no-cat
+covering, ,no-cat
+oil, ,no-cat
+medium, ,no-cat
+role, ,no-cat
+provides, ,fruit no-cat
+drinking, ,no-cat
+source, ,no-cat
+major, ,no-cat
+sees, ,no-cat
+map, ,no-cat
+chances, ,no-cat
+basis, ,no-cat
+of, ,fruit
+director, ,fruit
+called, ,fruit
+young, ,fruit
+sometimes, ,fruit
+your, ,fruit
+featuring, ,fruit
+dozens, ,fruit
+caught, ,fruit
+herself, ,fruit
+labeled, ,fruit
+mother, ,fruit
+world, ,fruit
+laden, ,fruit
+season, ,fruit
+parties, ,fruit
+stage, ,fruit
+reference, ,fruit
+types, ,fruit
+oven, ,fruit
+there, ,fruit
+did, ,fruit
+ca, ,fruit
+course, ,fruit
+first, ,fruit
+find, ,fruit
+substitute, ,fruit
+works, ,fruit
+opportunity, ,fruit
+why, ,fruit
+southern, ,fruit
+gets, ,fruit
+sized, ,fruit
+vines, ,fruit
+capital, ,fruit
+pronounced, ,fruit
+garden, ,fruit
+like, ,fruit
+felt, ,fruit
+cups, ,fruit
+family, ,fruit
+beneath, ,fruit
+pickers, ,fruit
+smaller, ,fruit
+cans, ,fruit
+dubbed, ,fruit
+ocean, ,fruit
+removed, ,fruit
+am, ,fruit
+lighter, ,fruit
+them, ,fruit
+softer, ,fruit
+council, ,fruit
+played, ,fruit
+pure, ,fruit
+once, ,fruit
+known, ,fruit
+pasta, ,fruit
+floor, ,fruit
+style, ,fruit
+traces, ,fruit
+pin, ,fruit
+stones, ,fruit
+noticed, ,fruit
+age, ,fruit
+mind, ,fruit
+kind, ,fruit
+pipe, ,fruit
+figure, ,fruit
+street, ,fruit
+serves, ,fruit
+held, ,fruit
+her, ,fruit
+placed, ,fruit
+few, ,fruit
+appreciate, ,fruit
+origins, ,fruit
+blues, ,fruit
+cases, ,fruit
+elementary, ,fruit
+65, ,fruit
+scored, ,fruit
+scene, ,fruit
+wow, ,fruit
+gathered, ,fruit
+meals, ,fruit
+admit, ,fruit
+mcdonald, ,fruit
+museum, ,fruit
+shook, ,fruit
+buttons, ,fruit
+anymore, ,fruit
+preference, ,fruit
+state, ,fruit
+stopped, ,fruit
+process, ,fruit
+village, ,fruit
+seen, ,fruit
+seemed, ,fruit
+waters, ,fruit
+briefly, ,fruit
+decorative, ,fruit
+delivers, ,fruit
+trick, ,fruit
+living, ,fruit
+pungent, ,fruit
+tables, ,fruit
+certain, ,fruit
+cedar, ,fruit
+careful, ,fruit
+workers, ,fruit
+sturdy, ,fruit
+facility, ,fruit
+exported, ,fruit
+office, ,fruit
+ranges, ,fruit
+regarded, ,fruit
+125, ,fruit
+locals, ,fruit
+backdrop, ,fruit
+ruled, ,fruit
+park, ,fruit
+tucked, ,fruit
+forest, ,fruit
+mrs, ,fruit
+lovers, ,fruit
+distinctive, ,fruit
+book, ,fruit
+left, ,fruit
+poured, ,fruit
+allowed, ,fruit
+character, ,fruit
+knows, ,fruit
+james, ,fruit
+burgundy, ,fruit
+single, ,fruit
+boxes, ,fruit
+inspired, ,fruit
+pound, ,fruit
+got, ,fruit
+bagels, ,fruit
+girl, ,fruit
+premium, ,fruit
+renowned, ,fruit
+flavorful, ,fruit
+put, ,fruit
+table, ,fruit
+owner, ,fruit
+lee, ,fruit
+extension, ,fruit
+special, ,fruit
+potent, ,fruit
+bucket, ,fruit
+importance, ,fruit
+doubt, ,fruit
+saved, ,fruit
+focuses, ,fruit
+angeles, ,fruit
+vast, ,fruit
+university, ,fruit
+passing, ,fruit
+readily, ,fruit
+radio, ,fruit
+vary, ,fruit
+1950s, ,fruit
+surrounding, ,fruit
+offered, ,fruit
+collar, ,fruit
+jones, ,fruit
+town, ,fruit
+near, ,fruit
+sitting, ,fruit
+specialty, ,fruit
+old, ,fruit
+the, ,fruit
+small, ,fruit
+ll, ,fruit
+starting, ,fruit
+began, ,fruit
+exactly, ,fruit
+he, ,fruit
+can, ,fruit
+tiny, ,fruit
+harvesting, ,fruit
+many, ,fruit
+traditional, ,fruit
+union, ,fruit
+children, ,fruit
+jefferson, ,fruit
+too, ,fruit
+calls, ,fruit
+recommend, ,fruit
+famous, ,fruit
+introducing, ,fruit
+standing, ,fruit
+tone, ,fruit
+burgers, ,fruit
+beef, ,fruit
+road, ,fruit
+air, ,fruit
+two, ,fruit
+line, ,fruit
+when, ,fruit
+drain, ,fruit
+reddish, ,fruit
+american, ,fruit
+see, ,fruit
+day, ,fruit
+produced, ,fruit
+40, ,fruit
+smell, ,fruit
+turn, ,fruit
+my, ,fruit
+just, ,fruit
+instead, ,fruit
+heart, ,fruit
+linking, ,fruit
+mandate, ,fruit
+clay, ,fruit
+involved, ,fruit
+merely, ,fruit
+indigo, ,fruit
+check, ,fruit
+promised, ,fruit
+existing, ,fruit
+hands, ,fruit
+readers, ,fruit
+force, ,fruit
+writer, ,fruit
+wave, ,fruit
+sought, ,fruit
+credit, ,fruit
+holds, ,fruit
+universe, ,fruit
+taiwan, ,fruit
+drawn, ,fruit
+dropping, ,fruit
+letters, ,fruit
+wide, ,fruit
+arrived, ,fruit
+pond, ,fruit
+save, ,fruit
+study, ,fruit
+fairly, ,fruit
+general, ,fruit
+within, ,fruit
+attacking, ,fruit
+refined, ,fruit
+caused, ,fruit
+striking, ,fruit
+original, ,fruit
+washed, ,fruit
+dead, ,fruit
+loved, ,fruit
+bird, ,fruit
+believes, ,fruit
+head, ,fruit
+onto, ,fruit
+winding, ,fruit
+metal, ,fruit
+blocks, ,fruit
+volunteer, ,fruit
+people, ,fruit
+containers, ,fruit
+stands, ,fruit
+tasters, ,fruit
+whose, ,fruit
+never, ,fruit
+pair, ,fruit
+in, ,fruit
+author, ,fruit
+happy, ,fruit
+twice, ,fruit
+recent, ,fruit
+responsible, ,fruit
+officials, ,fruit
+surprised, ,fruit
+deeply, ,fruit
+stars, ,fruit
+john, ,fruit
+gave, ,fruit
+live, ,fruit
+along, ,fruit
+five, ,fruit
+heavy, ,fruit

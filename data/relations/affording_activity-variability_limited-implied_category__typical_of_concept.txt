@@ -1,0 +1,2 @@
+used_in_cooking,artichoke
+used_in_cooking,soup

@@ -1,0 +1,2 @@
+blue,spider
+made_of_wood,pulley

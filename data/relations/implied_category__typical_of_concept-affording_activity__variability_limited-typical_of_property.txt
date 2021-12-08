@@ -1,0 +1,4 @@
+used_in_cooking,cauliflower
+juicy,kumquat
+made_of_wood,hutch
+made_of_wood,barrel

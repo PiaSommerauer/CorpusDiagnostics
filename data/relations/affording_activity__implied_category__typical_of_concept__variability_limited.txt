@@ -1,0 +1,4 @@
+juicy,morello
+used_in_cooking,tablespoon
+used_in_cooking,scallop
+sweet,mangosteen

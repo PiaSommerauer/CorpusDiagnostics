@@ -1,0 +1,4 @@
+blue,hose
+blue,ring
+juicy,candy
+round,chocolate

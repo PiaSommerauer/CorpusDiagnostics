@@ -1,0 +1,4 @@
+fly,car
+black,sun
+wings,wagon
+wings,locomotive

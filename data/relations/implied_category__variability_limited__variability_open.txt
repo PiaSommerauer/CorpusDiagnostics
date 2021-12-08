@@ -1,0 +1,5 @@
+round,pancake
+made_of_wood,plough
+square,pantry
+made_of_wood,armrest
+round,matzah

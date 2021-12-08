@@ -1,0 +1,1115 @@
+context,evidence_type,categories
+operation,u,tool relation
+technique,u,tool
+used,u,tool communication weapon animal no-cat
+heart,u,tool
+kicked,r,tool
+her,u,tool
+takes,u,tool
+laid,u,tool
+hat,u,tool
+knives,i,tool
+leather,u,tool
+recalls,u,tool
+neck,u,tool
+wielding,u,tool weapon
+arm,u,tool animal relation
+stabbed,r,tool
+weapon,i,tool relation
+holding,u,tool
+crack,r,tool
+repeatedly,u,tool
+girlfriend,b,tool
+old,u,tool mammal
+throat,r,tool
+uses,u,tool
+flat,u,tool
+cutting,r,tool
+applied,u,tool
+violent,n,tool
+edged,r,tool
+firmly,u,tool
+camera,u,tool
+pattern,u,tool
+teen,u,tool
+involves,u,tool
+been,u,mammal animal relation
+him,u,mammal criminal
+on,u,mammal relation
+attacks,i,mammal animal no-cat
+500,u,mammal relation
+there,u,mammal
+are,u,mammal animal relation
+row,u,mammal animal relation
+mask,u,mammal
+threatened,r,mammal relation
+against,u,mammal animal
+driver,u,mammal
+54,u,mammal
+person,u,mammal
+demonstrated,u,mammal
+22,u,mammal
+think,u,mammal
+during,u,mammal animal relation
+nearly,u,mammal no-cat
+15,u,mammal relation
+0,u,mammal relation
+was,u,mammal relation
+garcia,u,mammal
+an,u,mammal criminal
+wildlife,i,mammal relation
+attacked,r,mammal animal relation
+paid,u,mammal
+spurs,u,mammal
+attack,i,mammal object animal relation
+dead,r,mammal communication
+where,u,mammal relation
+but,u,mammal
+knows,u,mammal
+looking,u,mammal
+area,u,mammal
+hungry,u,mammal
+perry,u,mammal
+aggressive,n,mammal
+number,u,mammal relation
+see,u,mammal
+close,u,mammal relation
+threatening,n,mammal relation
+mike,u,mammal
+report,u,mammal relation
+within,u,mammal
+loose,r,mammal relation
+boat,u,mammal relation
+400,u,mammal relation
+cast,u,mammal
+take,u,mammal
+killed,r,mammal relation all communication weapon animal no-cat object
+carrying,u,mammal weapon relation communication
+apparently,u,mammal animal relation communication
+suddenly,u,mammal communication
+say,u,mammal animal relation
+group,u,mammal
+any,u,mammal relation
+reports,u,mammal animal relation
+800,u,mammal relation
+make,u,mammal animal
+newest,u,mammal relation
+their,u,mammal
+local,u,mammal
+similar,u,mammal
+last,u,mammal relation
+parts,u,mammal no-cat
+just,u,mammal animal
+wing,u,mammal
+slam,r,mammal
+frequent,u,mammal
+complicated,u,mammal
+assigned,u,mammal
+ads,u,mammal
+worked,u,mammal relation
+stalking,i,mammal
+code,u,mammal
+nature,u,mammal
+decade,u,mammal
+feels,u,mammal
+walk,u,mammal
+drew,u,mammal relation
+700,u,mammal relation
+loss,u,mammal animal relation
+problem,u,mammal
+whale,i,mammal
+fun,u,mammal
+attempts,u,mammal animal relation
+resort,u,mammal relation
+multiple,u,mammal
+living,u,mammal
+alone,u,mammal
+needed,u,mammal
+stopped,u,mammal
+campaign,u,mammal animal no-cat
+came,u,mammal relation
+nine,u,mammal animal relation
+most,u,mammal
+toward,u,mammal relation
+reputation,u,mammal
+reported,u,mammal relation
+playing,u,mammal relation
+experts,u,mammal no-cat
+incident,i,mammal
+re,u,mammal
+put,u,mammal relation
+fourth,u,mammal relation
+referring,u,mammal
+shots,i,mammal animal
+shot,i,mammal animal relation
+only,u,mammal
+least,u,mammal no-cat relation
+31,u,mammal
+inside,u,mammal relation
+dropped,u,mammal relation
+second,u,mammal
+become,u,mammal
+western,u,mammal relation communication
+resources,u,mammal
+officials,u,mammal relation
+casual,u,mammal
+fallout,u,mammal
+subject,u,mammal
+profile,u,mammal
+spending,u,mammal
+screenplay,u,mammal
+anti,u,mammal no-cat
+aware,u,mammal
+sending,u,mammal relation
+challenge,u,mammal relation
+slot,u,mammal
+daily,u,mammal
+skill,u,mammal
+possibility,u,mammal no-cat relation communication
+neal,u,mammal
+vegas,u,mammal
+client,u,mammal
+kit,u,mammal
+tool,u,mammal
+inquiry,u,mammal
+mighty,u,mammal
+weapons,i,mammal
+favor,u,mammal
+providing,u,mammal
+arguing,u,mammal
+failing,u,mammal
+assured,u,mammal
+treated,u,mammal
+states,u,mammal relation
+dangerous,p,mammal no-cat relation communication
+current,u,mammal relation
+blamed,u,mammal relation
+crashed,r,mammal relation
+17th,u,mammal relation
+dealing,u,mammal no-cat relation
+wound,i,mammal
+speaking,u,mammal
+online,u,mammal
+somewhat,u,mammal
+figured,u,mammal
+revenge,r,mammal
+plenty,u,mammal
+fifth,u,mammal relation
+drowned,u,mammal
+worker,u,mammal
+visitor,u,mammal
+fans,u,mammal
+virtually,u,mammal
+label,u,mammal
+shown,u,mammal no-cat
+detective,r,mammal
+december,u,mammal
+tribe,u,mammal
+largest,u,mammal
+position,u,mammal
+doubled,u,mammal
+justin,u,mammal
+political,u,mammal
+clear,u,mammal
+stretch,u,mammal
+test,u,mammal relation
+professional,u,mammal
+talented,u,mammal
+afraid,r,mammal
+charged,u,mammal criminal
+teammates,u,mammal
+third,u,mammal
+broke,r,mammal relation
+nobody,u,mammal
+missed,u,mammal relation
+thousands,u,mammal no-cat relation
+proved,u,mammal communication
+injured,l,mammal
+police,r,mammal criminal relation
+indian,u,mammal relation
+saturday,u,mammal relation
+saw,u,mammal relation
+able,u,mammal relation
+money,u,mammal
+25,u,mammal
+accused,u,mammal
+effort,u,mammal relation
+capture,r,mammal
+captivity,r,mammal
+grown,u,mammal
+revealed,u,mammal
+march,u,mammal
+gone,u,mammal
+view,u,mammal
+south,u,mammal communication
+spreading,u,mammal
+helped,u,mammal relation
+spot,u,mammal relation
+sport,u,mammal
+suspected,r,mammal relation
+steps,u,mammal
+hours,u,mammal
+described,u,mammal weapon
+nasty,u,mammal
+tree,u,mammal
+lady,u,mammal
+african,u,mammal
+failed,u,mammal relation
+30,u,mammal
+want,u,mammal
+19,u,mammal
+interviewed,r,mammal
+asking,u,mammal
+apparent,u,mammal relation
+drives,u,mammal
+equally,u,mammal
+decided,u,mammal
+laughed,u,mammal
+audience,u,mammal
+conference,u,mammal
+comparing,u,mammal
+600,u,mammal relation
+authored,u,mammal
+tools,u,mammal
+has,u,mammal
+independent,u,relation
+with,u,relation
+pursuing,u,relation
+newspaper,u,weapon relation
+by,u,relation
+recorded,u,relation
+tore,u,relation
+below,u,relation
+later,u,relation
+had,u,animal relation
+thriller,u,relation
+filled,u,relation
+300,u,relation
+access,u,relation
+north,u,relation
+230,u,relation
+los,u,relation
+commission,u,relation
+which,u,relation
+confirmed,u,relation
+escape,r,relation
+have,u,relation
+arms,i,relation
+finding,u,relation
+moving,u,relation
+coast,u,relation
+said,u,relation
+tries,u,relation
+efforts,u,relation
+shooting,i,relation all weapon animal object
+mention,u,relation
+part,u,relation
+far,u,relation
+indicate,u,communication relation
+mounted,u,communication relation
+distance,u,relation
+friday,u,relation
+wednesday,u,relation
+section,u,relation
+miles,u,relation
+would,u,relation
+check,u,relation
+now,u,relation
+sign,u,relation
+200,u,relation
+knocked,u,relation
+cruise,u,relation
+facility,u,communication relation
+armed,n,communication weapon relation
+us,u,no-cat relation
+city,u,relation
+happened,u,relation
+stepped,u,relation
+struck,u,animal relation
+hits,r,communication relation
+building,u,relation
+closing,u,relation
+outside,u,relation
+eventually,u,relation
+harder,u,relation
+moment,u,relation
+guide,u,relation
+air,u,relation
+items,u,relation
+moves,u,relation
+unless,u,relation
+heavy,u,relation
+essentially,u,relation
+120,u,relation
+passed,u,relation
+project,u,relation
+try,u,relation
+yet,u,relation
+allowing,u,relation
+bay,u,relation
+concluded,u,relation
+mass,u,relation
+case,u,relation
+eight,u,communication relation
+sunday,u,relation
+1979,u,relation
+46,u,relation
+impossible,u,relation
+spark,u,relation
+congress,u,relation
+congressional,u,relation
+stunned,u,relation
+signed,u,relation
+investigators,r,relation
+tipped,u,relation
+renewed,u,relation
+travel,u,relation
+spoke,u,relation
+april,u,relation
+system,u,relation
+meeting,u,relation
+unknown,u,communication no-cat relation
+neither,u,relation
+via,u,relation
+51,u,relation
+damage,l,communication relation
+striking,u,relation
+war,i,relation
+al,u,relation
+accompanying,u,relation
+refused,u,relation
+guided,u,relation
+converted,u,relation
+agree,u,relation
+height,u,relation
+entire,u,relation
+drive,u,relation
+job,u,relation
+numerous,u,relation
+direction,u,relation
+numbers,u,relation
+camp,u,communication relation
+fly,u,relation
+thursday,u,relation
+launched,u,relation
+elsewhere,u,relation
+led,u,relation
+testing,u,relation
+reach,u,relation
+planned,u,relation
+plans,u,relation
+official,u,relation
+training,u,relation
+knock,u,relation
+transferred,u,relation
+information,u,relation
+working,u,relation
+built,u,relation
+crew,u,animal relation
+successful,u,relation
+lives,u,relation
+hundreds,u,relation
+headed,u,relation
+despite,u,relation
+occurred,u,relation
+five,u,relation
+four,u,relation
+told,u,relation
+plan,u,relation
+to,u,relation
+for,u,relation
+one,u,criminal relation
+believed,u,communication relation
+it,u,relation
+riding,u,relation
+off,u,relation
+kind,u,relation
+250,u,relation
+appeared,u,communication relation
+middle,u,relation
+between,u,relation
+10,u,relation
+whether,u,relation
+rear,u,relation
+wrong,u,relation
+aim,u,relation
+while,u,relation
+called,u,relation
+survive,r,relation
+designated,u,relation
+gray,u,relation
+display,u,relation
+nor,u,relation
+550,u,relation
+bearing,u,relation
+door,u,relation
+deter,u,relation
+powered,u,communication relation
+steel,u,relation
+1963,u,relation
+george,u,relation
+350,u,relation
+desperate,u,communication relation
+housing,u,relation
+shoot,r,object relation all
+supporters,u,relation
+carrier,u,relation
+involve,u,communication relation
+succeeded,u,relation
+studying,u,relation
+issues,u,relation
+involving,u,relation
+army,r,relation
+sky,u,relation
+poised,u,relation
+threat,i,relation
+written,u,relation
+eliminated,u,relation
+limited,u,relation
+complete,u,relation
+prepared,u,no-cat relation
+concerned,u,relation
+meanwhile,u,relation
+deadline,u,relation
+bringing,u,relation
+ready,u,relation
+intended,u,relation
+chose,u,relation
+source,u,relation
+highly,u,no-cat relation
+serious,r,relation
+alley,u,relation
+spotted,u,relation
+fatal,n,communication object relation
+lake,u,relation
+captured,r,communication criminal relation
+pit,u,relation
+in,u,relation
+pound,u,relation
+swim,u,relation
+student,u,relation
+at,u,criminal relation
+road,u,relation
+apartment,u,relation
+encounter,u,relation
+12,u,relation
+stick,i,relation
+recovered,u,relation
+belt,u,relation
+resemble,u,relation
+suits,u,relation
+existed,u,relation
+after,u,relation
+also,u,relation
+tie,u,relation
+possession,u,relation
+alive,u,communication relation
+derby,u,relation
+albert,u,relation
+submarine,u,relation
+fisherman,u,relation
+when,u,relation
+managed,u,relation
+fear,l,relation
+technically,u,relation
+catching,u,relation
+southeastern,u,relation
+crime,i,relation
+somewhere,u,relation
+monday,u,relation
+st,u,relation
+surfaced,u,communication relation
+saint,u,relation
+constructed,u,relation
+sink,u,relation
+bridge,u,relation
+waters,u,relation
+shell,u,relation
+harbor,u,relation
+releases,u,relation
+two,u,relation
+set,u,relation
+releasing,u,relation
+survived,r,communication no-cat relation
+california,u,relation
+dozens,u,relation
+died,u,animal relation
+under,u,relation
+wooden,u,relation
+tank,i,relation
+beach,u,relation
+show,u,relation
+site,u,relation
+waste,u,relation
+certainly,u,relation
+emerging,u,relation
+11,u,relation
+will,u,relation
+authorities,u,criminal animal relation
+tears,u,relation
+lawyers,u,relation
+chamber,u,relation
+incoming,u,relation
+began,u,relation
+materials,u,relation
+signing,u,relation
+afternoon,u,relation
+fierce,u,relation
+path,u,relation
+el,u,relation
+surprised,u,relation
+room,u,relation
+career,u,relation
+reportedly,u,relation
+consistent,u,relation
+thank,u,relation
+ceiling,u,relation
+warning,r,no-cat relation
+laying,u,relation
+port,u,relation
+photos,u,relation
+no,u,relation
+maintenance,u,relation
+fall,u,relation
+hold,u,relation
+resist,u,relation
+roof,u,relation
+sites,u,relation
+above,u,relation
+design,u,relation
+grow,u,no-cat relation
+walking,u,relation
+join,u,relation
+joined,u,relation
+word,u,relation
+drawn,u,relation
+pointed,u,relation
+47,u,relation
+encountered,u,relation
+night,u,relation
+rescue,r,relation
+shut,u,relation
+spokeswoman,u,relation
+late,u,relation
+unlikely,u,relation
+stay,u,relation
+saved,u,relation
+german,u,relation
+requires,u,relation
+since,u,relation
+earth,u,communication relation
+danger,p,communication relation
+order,u,relation
+chances,u,relation
+sent,u,animal relation
+placed,u,relation
+designed,u,relation
+type,u,weapon no-cat relation
+raised,u,relation
+national,u,relation
+end,u,relation
+fight,i,relation
+shootout,i,relation
+cadillac,u,relation
+scout,u,relation
+climate,u,relation
+wounding,u,relation
+swing,u,relation
+gang,i,relation
+congo,u,relation
+truck,u,relation
+attorneys,u,relation
+petersburg,u,relation
+satisfied,u,relation
+inspect,u,relation
+intend,u,relation
+documents,u,relation
+prosecutors,u,relation
+sticking,u,relation
+contract,u,relation
+defunct,u,relation
+ruled,u,relation
+suggestions,u,relation
+warfare,i,relation
+tied,u,relation
+absence,u,relation
+answering,u,relation
+bruno,u,relation
+oversees,u,relation
+nightmare,u,relation
+allies,u,relation
+capitol,u,relation
+occasion,u,relation
+worried,u,relation
+aug,u,relation
+gather,u,relation
+360,u,relation
+wreckage,u,relation
+traced,u,communication relation
+victory,u,relation
+experimental,u,relation
+desire,u,relation
+arrived,u,relation
+spent,u,relation
+midnight,u,relation
+entry,u,relation
+staff,u,relation
+boys,u,relation
+scrap,u,relation
+pitch,u,relation
+extended,u,relation
+bow,i,relation
+par,u,relation
+germany,u,relation
+officially,u,relation
+member,u,relation
+68,u,relation
+opposed,u,relation
+message,u,relation
+drove,u,relation
+luxury,u,relation
+constant,u,relation
+ripped,u,relation
+positive,u,relation
+signs,u,relation
+haul,u,relation
+ten,u,relation
+installed,u,relation
+rifle,i,relation
+fought,r,relation
+anywhere,u,relation
+completed,u,relation
+tens,u,relation
+equipped,u,weapon relation
+partial,u,relation
+fault,u,relation
+avenue,u,relation
+walls,u,relation
+approach,u,relation
+mini,u,relation
+wanted,u,animal relation
+84,u,relation
+returned,u,relation
+theater,u,relation
+homes,u,relation
+1992,u,relation
+press,u,relation
+2005,u,relation
+owners,u,relation
+responsible,u,no-cat relation
+stayed,u,relation
+purchased,u,relation
+forced,r,relation
+hurt,r,relation
+paris,u,relation
+location,u,relation
+workers,u,relation
+unique,u,relation
+650,u,relation
+sole,u,relation
+engines,u,relation
+150,u,relation
+seven,u,relation
+course,u,relation
+safety,u,relation
+turning,u,relation
+sponsored,u,relation
+following,u,relation
+complex,u,relation
+opening,u,relation
+northeast,u,relation
+dirty,u,relation
+week,u,relation
+mountain,u,relation
+went,u,relation
+allegedly,u,relation
+setting,u,relation
+attempt,u,relation
+enemy,u,relation
+reached,u,relation
+done,u,relation
+determined,u,relation
+massive,u,no-cat relation
+tested,u,relation
+control,u,no-cat relation
+news,u,relation
+country,u,no-cat relation
+joining,u,relation
+arsenal,i,relation
+french,u,relation
+match,u,relation
+announced,u,relation
+new,u,relation
+statement,u,relation
+tuesday,u,relation
+move,u,relation
+years,u,relation
+final,u,relation
+deal,u,relation
+goal,u,relation
+europe,u,no-cat relation
+until,u,relation
+international,u,relation
+ground,u,relation
+hitting,r,relation
+japan,u,relation
+could,u,relation
+charge,u,relation
+decision,u,relation
+earlier,u,relation
+july,u,relation
+fired,r,relation
+hit,r,animal relation
+suspended,u,relation
+both,u,relation
+according,u,relation
+washington,u,relation
+agreement,u,relation
+2004,u,relation
+believes,u,no-cat relation
+yards,u,relation
+ahead,u,relation
+supported,u,relation
+terms,u,relation
+nuclear,r,relation
+months,u,relation
+russian,u,relation
+mark,u,relation
+negotiations,u,relation
+1998,u,no-cat relation
+2003,u,relation
+landing,u,relation
+claimed,u,relation
+27,u,relation
+secured,u,relation
+moscow,u,relation
+france,u,relation
+stage,u,relation
+surprise,u,relation
+advanced,u,communication relation
+recent,u,no-cat relation
+allow,u,relation
+operates,u,relation
+party,u,relation
+troubled,u,relation
+high,u,relation
+replace,u,relation
+presidents,u,relation
+details,u,relation
+passing,u,relation
+claiming,u,relation
+tel,u,relation
+groups,u,relation
+injuries,l,relation
+heading,u,relation
+successfully,u,relation
+problems,u,relation
+sources,u,relation
+achieve,u,relation
+era,u,relation
+preparing,u,relation
+jan,u,relation
+staged,u,communication relation
+shortly,u,relation
+meters,u,relation
+decisions,u,relation
+believe,u,communication relation
+target,u,no-cat relation
+operated,u,relation
+endorsed,u,relation
+alleged,r,criminal relation
+blow,r,relation
+slammed,r,relation
+korean,u,relation
+planning,u,relation
+claims,u,relation
+responsibility,u,relation
+range,u,relation
+quickly,u,relation
+exploded,l,relation
+linking,u,relation
+firing,i,relation
+intends,u,relation
+allegations,r,relation
+pacific,u,relation
+killing,l,relation
+afp,u,relation
+pakistan,b,relation
+defense,u,relation
+technical,u,relation
+station,u,relation
+fire,i,weapon relation
+900,u,relation
+disclose,u,relation
+formal,u,relation
+none,u,relation
+conducted,u,relation
+postponed,u,relation
+launch,u,relation
+targets,u,communication no-cat relation
+bomb,i,relation
+negotiated,u,relation
+wings,u,relation
+showing,u,relation
+space,u,relation
+attempting,u,relation
+attempted,u,relation
+speed,u,relation
+defensive,u,relation
+amid,u,communication relation
+carried,u,communication weapon no-cat relation
+1964,u,relation
+unidentified,u,communication relation
+trading,u,relation
+questioned,u,relation
+administration,u,relation
+feared,l,relation
+carry,u,relation
+investigation,u,relation
+ties,u,relation
+ii,u,relation
+closely,u,relation
+republic,u,relation
+navy,u,relation
+hawaii,u,relation
+dropping,u,relation
+fears,l,communication relation
+landed,u,relation
+iran,b,relation
+possibly,u,relation
+internal,u,relation
+actions,u,relation
+approaching,u,relation
+blast,i,relation
+intent,u,relation
+blasted,r,relation
+response,u,relation
+korea,u,relation
+abandon,u,relation
+directly,u,relation
+opponents,u,relation
+sharing,u,relation
+blew,u,relation
+propelled,u,relation
+hammered,u,relation
+process,u,relation
+ruling,u,relation
+greece,u,relation
+defended,u,relation
+160,u,relation
+existing,u,relation
+delivering,u,relation
+absolutely,u,relation
+ship,u,communication relation
+tragedy,r,relation
+naval,u,relation
+legacy,u,relation
+aimed,u,no-cat relation
+destroyed,l,communication relation
+soviet,u,relation
+treaty,u,relation
+dismantled,u,relation
+assessment,u,relation
+missile,i,relation
+launching,u,communication relation
+terrorists,i,relation
+counted,u,relation
+strikes,u,no-cat relation
+accord,u,relation
+carries,u,communication weapon no-cat relation
+prime,u,relation
+iraqi,b,relation
+anticipated,u,relation
+communist,u,relation
+coalition,u,relation
+pursued,u,relation
+loaded,r,weapon relation
+systems,u,relation
+threaten,l,relation
+conventional,u,communication relation
+storage,u,relation
+terrorist,i,relation
+plane,b,relation
+iranian,b,relation
+devastating,l,relation
+lethal,n,communication no-cat all
+wave,u,communication
+destroying,r,communication
+worst,u,communication
+novel,u,communication
+destroy,r,communication
+were,u,communication
+deadly,n,communication weapon no-cat
+grave,u,communication
+cause,u,communication no-cat
+sparked,u,communication
+belonging,u,communication
+rounded,u,communication
+egypt,u,communication
+region,u,communication
+accidentally,u,communication
+causing,u,communication no-cat
+swept,u,communication
+uncovered,u,communication no-cat
+bound,u,communication
+device,u,communication
+turns,u,communication
+knowledge,u,communication
+british,u,communication
+possible,u,communication
+wider,u,communication
+suspicion,r,communication
+ongoing,u,communication
+potential,u,communication no-cat
+raids,i,communication
+suggesting,u,communication no-cat
+aircraft,u,communication
+describe,u,communication
+radical,u,communication
+found,u,communication
+lies,u,communication
+mysterious,u,communication
+engaged,u,communication
+followers,u,communication
+hero,u,communication
+spread,u,communication no-cat
+indicating,u,communication
+destruction,r,communication
+attributed,u,communication
+regime,u,communication
+hunt,r,communication
+resembles,u,communication
+deliberately,u,communication
+southern,u,communication
+posed,u,communication
+theory,u,communication no-cat
+leads,u,communication no-cat
+twin,u,communication
+eastern,u,communication no-cat
+remained,u,communication
+quoted,u,communication
+turkish,u,communication
+turkey,u,communication
+damaging,l,communication
+orange,u,communication
+burn,r,communication
+apart,u,communication
+scale,u,communication no-cat
+belgium,u,communication
+aboard,u,communication
+supply,u,communication no-cat
+surface,u,communication
+resulting,u,communication
+suffered,r,communication
+nose,u,communication
+death,r,weapon
+stone,u,weapon
+equipment,u,weapon
+large,u,weapon
+shotgun,i,weapon
+discovered,u,weapon no-cat
+instantly,u,weapon
+maybe,u,animal
+more,u,animal no-cat
+whip,i,animal
+grabbed,r,animal
+ill,r,animal
+born,u,animal
+he,u,criminal animal
+contained,u,no-cat
+produces,u,no-cat
+amounts,u,no-cat
+containing,u,no-cat
+seen,u,no-cat
+amount,u,no-cat
+effects,u,no-cat
+acts,u,no-cat
+affects,u,no-cat
+effective,u,no-cat
+exposed,r,no-cat
+evidence,u,no-cat
+kill,l,no-cat
+potent,u,no-cat
+causes,u,no-cat
+nervous,u,no-cat
+especially,u,no-cat
+producing,u,no-cat
+nerve,u,no-cat
+tide,u,no-cat
+threatens,u,no-cat
+reduce,u,no-cat
+rare,u,no-cat
+creates,u,no-cat
+linked,u,no-cat
+considered,u,no-cat
+majority,u,no-cat
+particularly,u,no-cat
+origin,u,no-cat
+how,u,no-cat
+might,u,no-cat
+kills,l,no-cat
+cure,u,no-cat
+chemical,i,no-cat
+of,u,no-cat
+rid,u,no-cat
+produce,u,no-cat
+contain,u,no-cat
+victim,r,no-cat
+form,u,no-cat
+given,u,no-cat
+drug,i,no-cat
+drugs,i,no-cat
+tests,u,no-cat
+identified,u,no-cat
+adding,u,no-cat
+treat,u,no-cat
+times,u,no-cat
+united,u,no-cat
+compound,u,no-cat
+major,u,no-cat
+common,u,no-cat
+toll,u,no-cat
+world,u,no-cat
+promise,u,no-cat
+develop,u,no-cat
+treating,u,no-cat
+probably,u,no-cat
+explaining,u,no-cat
+somehow,u,no-cat
+combat,u,no-cat
+spike,i,no-cat
+millions,u,no-cat
+gives,u,no-cat
+battling,i,no-cat
+brought,u,no-cat
+battle,i,no-cat
+maintains,u,no-cat
+supplying,u,no-cat
+eliminating,u,no-cat
+noting,u,no-cat
+extreme,u,no-cat
+summit,u,no-cat
+fallen,u,no-cat
+figure,u,no-cat
+delivered,u,no-cat
+widespread,u,no-cat
+sharp,u,no-cat
+declared,u,no-cat
+concern,u,no-cat
+remote,u,no-cat
+combination,u,no-cat
+capable,u,no-cat
+brings,u,no-cat
+deliver,u,no-cat
+exists,u,no-cat
+former,u,criminal
+himself,u,criminal
+white,u,criminal
+gun,i,criminal
+being,u,criminal
+ordered,u,criminal
+john,u,criminal
+story,u,criminal
+killer,i,criminal
+charges,r,criminal
+based,u,criminal

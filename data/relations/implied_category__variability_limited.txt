@@ -1,0 +1,8 @@
+juicy,anjou
+square,computer
+made_of_wood,girder
+round,onion
+roll,cart
+square,laptop
+fly,fowl
+green,fenugreek

@@ -1,0 +1,27 @@
+context,evidence_type,categories
+1993, ,relation
+sixth, ,relation
+available, ,relation
+apple, ,relation plant fruit
+2010, ,relation
+packaging, ,relation
+kingdom, ,relation
+candy, ,relation
+rare, ,relation
+brandy, ,relation
+prior, ,relation
+advertised, ,relation
+cider, ,relation
+sales, ,relation
+outstanding, ,relation
+fruit, ,object plant
+berry, ,all object fruit
+fruits, ,object food
+cherry, ,plant fruit
+raspberry, ,all food plant
+refer, ,vegetable
+winner, ,vegetable
+two, ,vegetable
+sweet, ,all
+grape, ,food
+plum, ,food

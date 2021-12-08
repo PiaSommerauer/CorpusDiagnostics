@@ -1,0 +1,2 @@
+used_in_cooking,beef
+used_in_cooking,noodle

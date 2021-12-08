@@ -1,0 +1,4 @@
+wheels,snowplow
+hot,lightning
+warm,calfskin
+warm,tunic

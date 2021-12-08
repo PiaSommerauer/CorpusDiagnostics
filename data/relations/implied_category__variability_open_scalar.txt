@@ -1,0 +1,3 @@
+warm,kimono
+warm,people
+cold,juice

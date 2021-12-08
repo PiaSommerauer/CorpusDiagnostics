@@ -1,0 +1,21 @@
+,relation,mean_tfidf,n_pairs,examples
+0,pos,0.004167729382910271,1973,warm-bootie green-frog sweet-dewberry
+1,neg,0.0006575459333736255,1331,juicy-donut swim-thresher blue-broccoli
+2,all,0.004727427225675633,1144,warm-bootie green-frog sweet-lychee
+3,some,0.003395359862857727,829,square-bookcase hot-dough square-console
+4,few,0.0006575459333736255,1331,juicy-donut swim-thresher blue-broccoli
+5,evidence,0.004701885036125559,1542,warm-bootie green-frog sweet-dewberry
+6,no_evidence_pos,0.002507719624526298,446,hot-dough cold-cake black-hose
+7,no_evidence_neg,0.0005542355862902216,1316,juicy-donut swim-thresher blue-broccoli
+8,implied_category,0.005665650269732386,301,sweet-lychee wheels-underframe made_of_wood-girder
+9,typical_of_concept,0.004965996324204467,275,blue-kingfisher green-frog wings-robin
+10,typical_of_property,0.003552987274212244,52,green-frog dangerous-venom yellow-giraffe
+11,affording_activity,0.006279843395831004,270,warm-bootie hot-firebox warm-turtleneck
+12,afforded_usual,0.005194771473640443,143,fly-albatross swim-hake swim-cichlid
+13,afforded_unusual,0.0008031974731345262,51,swim-armadillo roll-quoit roll-corkscrew
+14,variability_limited,0.0036672791672948167,658,square-bookcase sweet-asparagus juicy-cucumber
+15,variability_open,0.004137651399999519,377,hot-dough hot-tandoor cold-cake
+16,rare,0.0008407130870042945,196,warm-salwar cold-pomade red-magpie
+17,unusual,0.0007463324500900575,440,yellow-salad yellow-chocolate black-viscacha
+18,impossible,0.0006800047367492388,509,sweet-sardine lay_eggs-mankind yellow-gorilla
+19,creative,0.0008988570029205242,113,green-raccoon roll-polyurethane sweet-edda

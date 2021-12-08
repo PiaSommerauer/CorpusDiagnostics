@@ -1,0 +1,4 @@
+yellow,sun
+yellow,marigold
+green,lawn
+made_of_wood,floorboard

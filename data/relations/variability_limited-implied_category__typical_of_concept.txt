@@ -1,0 +1,5 @@
+sweet,currant
+black,raisin
+juicy,lobster
+made_of_wood,bow
+round,apple

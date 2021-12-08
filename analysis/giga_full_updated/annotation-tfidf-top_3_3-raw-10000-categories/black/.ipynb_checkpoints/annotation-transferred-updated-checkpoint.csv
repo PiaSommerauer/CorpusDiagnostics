@@ -1,0 +1,1150 @@
+context,evidence_type,categories
+suddenly,u,animal bird object all
+fire,u,object all
+enormous,u,object
+shot,u,measure no-cat
+smoked,u,measure
+cuts,u,measure
+high,u,measure no-cat
+contemporary,u,measure
+surface,u,fruit measure
+cool,u,measure no-cat
+act,u,measure no-cat
+sit,u,fruit measure no-cat
+cover,u,fruit measure
+smoke,i,measure
+heat,u,measure no-cat
+fingers,u,fruit measure
+place,u,measure
+fitting,u,measure
+gold,u,measure
+salt,u,measure
+turned,u,measure
+corp,u,measure
+watched,u,measure
+burned,NA,measure
+electric,NA,measure
+burning,NA,measure
+shots,NA,measure
+lift,NA,measure no-cat
+shining,NA,measure
+raw,NA,measure
+vacuum,NA,measure
+say,NA,fruit measure
+allow,NA,measure no-cat
+facing,NA,measure no-cat
+bones,NA,measure no-cat
+seattle,NA,measure no-cat
+ever,u,bird measure no-cat
+halfway,NA,measure
+loose,u,measure
+mess,NA,measure
+divided,NA,measure
+rainbow,NA,measure
+ate,NA,measure
+frozen,NA,measure
+escaped,NA,measure
+actors,NA,measure
+coal,NA,measure
+thieves,NA,measure
+wet,NA,measure
+legs,NA,measure
+inner,NA,measure
+easy,NA,measure
+medical,NA,measure
+minutes,NA,measure
+ultimate,NA,measure
+moss,NA,measure
+interviewed,NA,measure
+everybody,NA,measure
+defense,NA,measure
+jungle,NA,measure
+tight,u,measure
+theory,NA,measure
+abandoned,u,mammal measure no-cat
+dock,NA,measure
+suburban,NA,measure
+referring,NA,measure
+burn,NA,measure
+burns,NA,measure
+pushing,NA,measure
+immediately,NA,measure
+fixed,NA,measure
+obvious,NA,measure
+escape,NA,measure
+suffering,NA,measure no-cat
+greg,NA,measure
+clinton,NA,measure
+ill,NA,measure
+smoking,NA,measure
+simon,NA,measure
+referred,NA,measure
+regular,NA,measure
+problem,NA,measure no-cat
+roll,NA,measure
+automatically,NA,measure
+bloody,NA,measure
+swim,NA,measure
+remained,NA,measure
+swings,NA,measure
+sick,NA,measure
+intriguing,NA,measure
+episode,NA,measure
+aside,NA,measure
+effects,NA,measure
+broad,NA,fruit measure
+handful,NA,fruit measure
+terrible,NA,measure
+foreign,NA,measure
+died,NA,fruit measure
+prepared,NA,measure no-cat
+rough,NA,measure
+reportedly,NA,measure
+war,NA,measure
+sister,NA,measure
+headed,NA,measure
+traditionally,NA,measure
+carol,NA,measure
+minute,NA,measure
+deeper,NA,measure
+script,NA,measure
+anna,NA,measure
+yeah,NA,measure
+horror,NA,measure
+indeed,NA,measure no-cat
+hiding,NA,measure
+accused,NA,measure
+musicians,NA,measure
+sex,NA,measure
+surely,NA,measure no-cat
+lawyers,NA,measure
+senior,NA,measure
+calling,NA,bird measure
+drivers,NA,measure
+media,NA,measure
+hut,NA,measure
+1979,NA,measure
+awarded,NA,measure
+results,NA,measure no-cat
+met,NA,measure no-cat
+apparent,NA,measure
+realize,NA,measure
+youngest,NA,measure no-cat
+positive,NA,measure
+potential,NA,measure no-cat
+designated,NA,measure
+backed,NA,measure
+money,NA,measure
+league,NA,measure
+linked,NA,measure
+equal,NA,measure
+track,NA,measure
+luck,NA,measure no-cat
+limit,NA,measure
+broadcast,NA,measure
+worry,NA,measure no-cat
+accept,NA,measure
+1994,NA,measure
+civil,NA,measure
+college,NA,measure no-cat
+brain,NA,measure
+ban,NA,measure
+sandy,NA,measure
+bound,NA,measure
+admits,NA,fruit measure
+killed,NA,measure
+elite,NA,measure
+patients,NA,measure
+fried,NA,measure
+federal,NA,measure
+make,NA,measure
+dating,NA,measure
+crush,NA,fruit measure
+remaining,NA,measure
+barely,NA,measure no-cat
+doctor,NA,measure
+truly,NA,measure
+partially,NA,measure
+reduce,NA,measure
+classics,NA,measure
+diverse,NA,fruit measure
+parker,NA,measure
+jeans,i,plant
+restaurants,u,fruit plant
+beach,u,plant
+call,u,fruit plant
+carries,u,plant
+lace,i,fruit plant
+chic,u,plant
+stream,u,plant
+except,u,no-cat plant
+under,u,fruit food plant
+wool,i,fruit plant
+as,u,plant
+linda,u,fruit plant
+distributors,u,fruit plant
+picker,u,fruit plant
+sam,u,plant
+picking,u,fruit food plant
+nuts,u,plant
+jersey,i,plant
+tank,i,plant
+feeling,NA,plant
+maroon,NA,plant
+breaks,NA,fruit plant
+main,NA,fruit no-cat plant
+packed,NA,fruit no-cat plant
+better,NA,plant
+lunch,NA,plant
+three,u,food plant
+shooting,NA,no-cat plant
+chains,NA,fruit plant
+star,u,bird fruit plant
+chartreuse,NA,plant
+darker,NA,plant
+strange,u,plant
+branch,u,fruit plant
+suited,NA,plant
+bar,NA,fruit plant
+blends,NA,fruit plant
+became,NA,plant
+wine,NA,fruit plant
+sherry,NA,fruit plant
+best,NA,fruit plant
+appeared,u,fruit food plant
+well,NA,plant
+kitchen,NA,no-cat plant
+breast,NA,plant
+everyone,NA,plant
+guest,NA,plant
+la,u,plant
+fare,NA,plant
+whereas,NA,plant
+really,u,mammal fruit no-cat
+come,u,mammal
+bag,i,mammal no-cat
+nest,u,bird
+habitat,u,bird
+populations,u,bird
+miles,u,bird fruit
+following,u,bird no-cat
+tim,u,bird
+devastated,u,bird
+above,u,bird
+winter,u,bird
+ii,u,bird
+nearly,u,bird no-cat
+last,u,bird
+11,u,bird
+creature,u,bird
+eggs,u,bird
+15,u,bird
+colonies,NA,bird
+falcon,NA,bird
+nesting,NA,bird
+1993,NA,bird
+northern,NA,bird
+operation,NA,bird
+eyes,NA,bird fruit no-cat
+foot,NA,bird
+help,NA,bird
+large,NA,bird no-cat
+encounter,NA,bird
+alaska,NA,bird
+lawsuit,NA,bird
+12,NA,bird
+birth,NA,bird
+curious,NA,bird
+celebrated,NA,bird
+columbia,NA,bird
+stable,NA,bird
+spotting,NA,bird
+explained,NA,bird
+exhibit,NA,bird
+shy,NA,bird
+drops,NA,bird
+names,NA,bird
+newly,NA,bird
+puts,NA,bird
+protected,NA,bird
+nests,NA,bird
+great,NA,bird fruit no-cat
+mix,NA,bird
+eat,NA,bird
+extinct,NA,bird
+hit,NA,bird no-cat
+classic,NA,bird no-cat
+largest,NA,bird
+drawing,NA,bird
+over,NA,bird
+magazine,NA,bird
+2004,NA,bird no-cat
+recordings,NA,bird
+actually,NA,bird
+grade,NA,bird fruit
+tracking,u,bird animal no-cat
+kansas,NA,bird no-cat
+view,NA,bird
+droppings,NA,bird
+includes,NA,bird
+fought,NA,bird
+frequently,NA,bird no-cat
+behalf,NA,bird fruit
+today,NA,bird
+hunting,NA,bird
+collected,NA,bird
+vanished,NA,bird no-cat
+grandmother,u,relation
+tossed,u,relation
+neighbor,u,relation
+cloth,i,relation
+black,p,relation all
+perhaps,u,fruit relation
+cheers,u,relation
+named,u,fruit food
+species,u,food
+bearing,u,food
+size,u,fruit food
+discovered,u,fruit food
+introduction,u,animal no-cat
+likely,u,animal no-cat
+evidence,u,animal
+spread,u,no-cat
+ugly,u,fruit no-cat
+red,u,no-cat
+europe,u,no-cat
+market,i,no-cat
+past,i,no-cat
+canada,u,no-cat
+way,u,fruit no-cat
+add,u,no-cat
+lot,u,no-cat
+500,u,no-cat
+without,u,fruit no-cat
+machine,u,no-cat
+central,u,no-cat
+everything,u,no-cat
+thanks,u,no-cat
+larger,u,no-cat
+brought,u,fruit no-cat
+causing,u,no-cat
+present,NA,no-cat
+emerged,u,fruit no-cat
+davis,NA,fruit no-cat
+candy,NA,no-cat
+growing,NA,no-cat
+nothing,NA,no-cat
+due,NA,no-cat
+making,NA,no-cat
+low,NA,no-cat
+picked,NA,fruit no-cat
+cold,NA,no-cat
+our,NA,no-cat
+job,NA,no-cat
+parents,NA,no-cat
+worked,NA,no-cat
+slow,NA,no-cat
+finally,u,no-cat
+remember,NA,no-cat
+especially,u,no-cat
+because,NA,no-cat
+different,NA,no-cat
+third,NA,no-cat
+glass,NA,no-cat
+thin,NA,no-cat
+ran,NA,no-cat
+ready,NA,no-cat
+putting,NA,no-cat
+suggest,NA,no-cat
+sense,NA,no-cat
+turning,NA,no-cat
+meaning,NA,no-cat
+layer,NA,no-cat
+paint,NA,no-cat
+post,NA,fruit no-cat
+originally,NA,no-cat
+depending,NA,no-cat
+disappeared,u,no-cat
+among,NA,no-cat
+decade,NA,no-cat
+else,NA,no-cat
+either,NA,no-cat
+doing,NA,no-cat
+change,NA,no-cat
+brings,NA,no-cat
+car,NA,no-cat
+engine,NA,no-cat
+200,NA,no-cat
+drove,NA,no-cat
+mountain,NA,no-cat
+1970s,NA,no-cat
+color,NA,no-cat
+having,NA,no-cat
+proved,NA,no-cat
+she,NA,no-cat
+powerful,NA,no-cat
+transformed,NA,no-cat
+sales,NA,no-cat
+inside,NA,no-cat
+space,NA,no-cat
+1999,NA,no-cat
+era,NA,no-cat
+city,u,fruit no-cat
+moving,NA,no-cat
+shop,NA,fruit no-cat
+south,NA,no-cat
+1980s,NA,no-cat
+brother,NA,no-cat
+africa,NA,no-cat
+nor,NA,fruit no-cat
+lay,NA,no-cat
+indicated,NA,no-cat
+underneath,NA,no-cat
+work,NA,no-cat
+control,NA,no-cat
+waiting,NA,no-cat
+coffee,NA,no-cat
+vacation,NA,no-cat
+valley,NA,no-cat
+product,NA,no-cat
+labor,NA,no-cat
+cheap,NA,no-cat
+phenomenon,NA,no-cat
+little,u,no-cat
+comes,NA,no-cat
+every,NA,no-cat
+all,NA,no-cat
+food,NA,no-cat
+came,NA,fruit no-cat
+those,NA,fruit no-cat
+probably,NA,no-cat
+pop,NA,no-cat
+prevent,u,no-cat
+cabin,NA,no-cat
+reads,NA,no-cat
+takes,NA,fruit no-cat
+likes,NA,no-cat
+racing,NA,no-cat
+kids,NA,no-cat
+compared,NA,no-cat
+compete,NA,no-cat
+impossible,NA,no-cat
+crash,NA,no-cat
+christmas,NA,no-cat
+highest,NA,no-cat
+managed,NA,no-cat
+32,NA,no-cat
+clear,NA,fruit no-cat
+enter,NA,no-cat
+returns,NA,no-cat
+somehow,NA,no-cat
+solid,NA,no-cat
+fight,NA,no-cat
+streets,NA,fruit no-cat
+york,NA,no-cat
+fine,NA,fruit no-cat
+writes,NA,no-cat
+father,u,no-cat
+18,NA,no-cat
+stand,NA,no-cat
+falling,NA,no-cat
+august,NA,no-cat
+european,NA,no-cat
+flew,NA,no-cat
+sellers,NA,no-cat
+outside,NA,no-cat
+rather,NA,no-cat
+went,NA,no-cat
+giving,NA,no-cat
+korea,NA,no-cat
+handling,NA,no-cat
+hair,i,fruit no-cat
+grand,NA,fruit no-cat
+wonderful,NA,no-cat
+keeping,NA,no-cat
+knew,NA,no-cat
+forcing,NA,no-cat
+forgotten,NA,no-cat
+wrong,NA,no-cat
+insisted,NA,no-cat
+wife,NA,no-cat
+virtually,NA,no-cat
+flat,NA,no-cat
+increasing,NA,no-cat
+ripped,NA,no-cat
+providing,NA,no-cat
+pulling,NA,no-cat
+reach,NA,no-cat
+tends,NA,no-cat
+sky,NA,no-cat
+sits,u,fruit no-cat
+split,NA,no-cat
+soft,NA,no-cat
+suggesting,NA,no-cat
+michael,NA,no-cat
+treat,NA,no-cat
+movies,NA,no-cat
+lewis,NA,no-cat
+literally,NA,no-cat
+plans,NA,no-cat
+police,u,no-cat
+possible,NA,no-cat
+notice,NA,no-cat
+traffic,NA,no-cat
+organization,NA,no-cat
+charles,NA,no-cat
+alone,NA,no-cat
+determined,NA,no-cat
+dangerous,NA,no-cat
+dust,NA,no-cat
+aimed,NA,no-cat
+capable,NA,no-cat
+bright,NA,no-cat
+budget,NA,no-cat
+broke,NA,no-cat
+considering,NA,no-cat
+balance,NA,no-cat
+bad,NA,no-cat
+bigger,u,no-cat
+emergency,NA,no-cat
+fair,NA,no-cat
+facilities,NA,no-cat
+68,NA,no-cat
+equipment,NA,no-cat
+62,NA,no-cat
+land,NA,fruit no-cat
+touched,NA,no-cat
+big,NA,no-cat
+empty,NA,fruit no-cat
+bottom,NA,no-cat
+mountains,NA,no-cat
+celebration,NA,no-cat
+ranch,NA,no-cat
+losing,NA,no-cat
+passed,NA,no-cat
+nine,NA,no-cat
+suit,NA,no-cat
+rich,NA,no-cat
+picture,NA,no-cat
+maybe,NA,no-cat
+measure,NA,no-cat
+music,NA,no-cat
+competition,NA,no-cat
+thing,NA,no-cat
+need,NA,no-cat
+paris,NA,no-cat
+sixth,NA,no-cat
+case,NA,no-cat
+seven,NA,no-cat
+domestic,NA,no-cat
+form,NA,fruit no-cat
+feel,NA,fruit no-cat
+rose,NA,no-cat
+words,NA,no-cat
+century,NA,fruit no-cat
+country,NA,fruit no-cat
+russian,NA,no-cat
+self,NA,no-cat
+george,NA,no-cat
+hill,NA,no-cat
+warm,NA,no-cat
+iron,NA,no-cat
+afford,NA,no-cat
+train,NA,no-cat
+ones,NA,no-cat
+spain,NA,no-cat
+estimate,NA,no-cat
+simultaneously,NA,no-cat
+drink,NA,no-cat
+should,NA,fruit no-cat
+new,NA,no-cat
+lady,NA,no-cat
+juice,NA,no-cat
+colorado,NA,no-cat
+production,NA,fruit no-cat
+strip,NA,no-cat
+drives,NA,no-cat
+driving,NA,no-cat
+launch,NA,no-cat
+grain,NA,no-cat
+fly,NA,no-cat
+queen,NA,no-cat
+this,NA,no-cat
+sort,NA,no-cat
+yellow,NA,no-cat
+concept,NA,no-cat
+brown,NA,no-cat
+selling,NA,no-cat
+other,NA,no-cat
+does,NA,no-cat
+than,NA,no-cat
+books,NA,no-cat
+vehicle,NA,no-cat
+before,NA,no-cat
+buzz,NA,no-cat
+spreading,NA,no-cat
+120,NA,no-cat
+successful,NA,no-cat
+exploding,NA,no-cat
+arrive,NA,no-cat
+consider,NA,no-cat
+license,NA,no-cat
+manufacturer,NA,no-cat
+metallic,NA,no-cat
+describes,NA,fruit no-cat
+heaven,NA,no-cat
+largely,NA,no-cat
+late,NA,no-cat
+looking,NA,fruit no-cat
+much,NA,no-cat
+very,NA,fruit no-cat
+huge,NA,no-cat
+however,NA,no-cat
+ago,NA,fruit no-cat
+remains,NA,no-cat
+goes,NA,no-cat
+ended,NA,no-cat
+though,NA,no-cat
+expected,NA,no-cat
+might,NA,no-cat
+across,NA,fruit no-cat
+producer,NA,no-cat
+los,NA,no-cat
+earning,NA,no-cat
+900,NA,fruit no-cat
+recalls,NA,no-cat
+task,NA,no-cat
+push,NA,no-cat
+dealer,NA,no-cat
+2002,NA,no-cat
+combat,NA,no-cat
+difference,NA,no-cat
+oldest,NA,no-cat
+plants,NA,no-cat
+transportation,NA,no-cat
+cross,NA,no-cat
+planning,NA,no-cat
+word,NA,no-cat
+reverse,NA,no-cat
+filling,NA,no-cat
+rocky,NA,no-cat
+strike,NA,no-cat
+students,NA,no-cat
+suggested,NA,no-cat
+attempt,NA,no-cat
+faster,NA,no-cat
+spirit,NA,no-cat
+bet,NA,no-cat
+often,NA,no-cat
+average,NA,no-cat
+costs,NA,no-cat
+itself,NA,no-cat
+2003,NA,fruit no-cat
+test,NA,no-cat
+rise,NA,no-cat
+summer,NA,no-cat
+good,NA,no-cat
+global,NA,no-cat
+history,NA,fruit no-cat
+windows,NA,no-cat
+fills,NA,no-cat
+feared,NA,no-cat
+georgia,NA,no-cat
+granted,NA,no-cat
+fed,NA,no-cat
+growth,NA,no-cat
+km,NA,no-cat
+hills,NA,no-cat
+whatever,NA,no-cat
+forget,NA,no-cat
+insurance,NA,no-cat
+films,NA,no-cat
+indian,NA,no-cat
+walks,NA,no-cat
+reminder,NA,no-cat
+rent,NA,no-cat
+replaced,NA,no-cat
+replacement,NA,no-cat
+tag,NA,no-cat
+preparing,NA,no-cat
+prime,NA,no-cat
+temperature,NA,no-cat
+smith,NA,no-cat
+strikes,NA,no-cat
+signs,NA,no-cat
+springs,NA,no-cat
+stages,NA,no-cat
+somewhat,NA,no-cat
+songs,NA,no-cat
+stolen,NA,no-cat
+spare,NA,no-cat
+specialists,NA,no-cat
+scattered,NA,no-cat
+shift,NA,no-cat
+seriously,NA,no-cat
+traveled,NA,no-cat
+moves,NA,no-cat
+mirror,NA,no-cat
+mission,NA,no-cat
+lane,NA,no-cat
+upside,NA,no-cat
+upcoming,NA,no-cat
+maintenance,NA,no-cat
+lots,NA,no-cat
+passengers,NA,no-cat
+threat,NA,no-cat
+pit,NA,no-cat
+trailer,NA,no-cat
+objects,NA,no-cat
+needs,NA,no-cat
+occur,NA,no-cat
+otherwise,NA,no-cat
+topped,NA,no-cat
+traced,NA,no-cat
+tough,NA,no-cat
+descended,NA,no-cat
+applied,NA,no-cat
+approval,NA,no-cat
+direct,NA,fruit no-cat
+creates,NA,no-cat
+atop,NA,no-cat
+customers,NA,no-cat
+disastrous,NA,no-cat
+advantage,NA,no-cat
+emerging,NA,no-cat
+changed,NA,no-cat
+cash,NA,no-cat
+clark,NA,no-cat
+contrast,NA,no-cat
+contend,NA,no-cat
+costly,NA,no-cat
+computer,NA,no-cat
+companion,NA,no-cat
+competing,NA,no-cat
+comparable,NA,no-cat
+55,NA,no-cat
+71,NA,no-cat
+53,NA,no-cat
+burst,NA,no-cat
+round,NA,fruit no-cat
+landing,NA,no-cat
+forced,NA,no-cat
+tax,NA,no-cat
+up,NA,no-cat
+rapidly,NA,no-cat
+letting,NA,no-cat
+tourists,NA,no-cat
+slowly,NA,no-cat
+evening,NA,no-cat
+child,NA,no-cat
+hung,NA,no-cat
+where,NA,fruit no-cat
+until,u,no-cat
+path,NA,no-cat
+sept,NA,no-cat
+latest,NA,no-cat
+challenge,NA,no-cat
+rising,NA,no-cat
+suspended,NA,no-cat
+climb,NA,no-cat
+object,NA,no-cat
+own,NA,no-cat
+second,NA,no-cat
+short,NA,fruit no-cat
+top,NA,no-cat
+included,NA,no-cat
+smashed,NA,no-cat
+beyond,NA,no-cat
+hospital,NA,no-cat
+missing,NA,no-cat
+even,NA,fruit no-cat
+official,NA,no-cat
+told,NA,no-cat
+broken,u,no-cat
+opens,NA,no-cat
+happens,NA,no-cat
+matter,NA,no-cat
+material,NA,no-cat
+stories,NA,no-cat
+marking,NA,no-cat
+handle,NA,no-cat
+clearing,NA,no-cat
+given,NA,no-cat
+prepare,NA,no-cat
+article,NA,no-cat
+website,NA,no-cat
+means,NA,no-cat
+wednesday,NA,no-cat
+co,NA,no-cat
+easier,NA,no-cat
+understand,u,no-cat
+sink,NA,fruit no-cat
+shortly,NA,no-cat
+aid,NA,no-cat
+structure,NA,no-cat
+services,NA,no-cat
+crisis,NA,no-cat
+failing,NA,no-cat
+report,NA,no-cat
+finger,NA,no-cat
+risky,NA,no-cat
+ms,NA,no-cat
+thus,NA,no-cat
+26,NA,no-cat
+talking,NA,no-cat
+iraq,NA,no-cat
+load,NA,no-cat
+throw,NA,no-cat
+terms,NA,no-cat
+carefully,NA,no-cat
+possibility,NA,no-cat
+running,NA,no-cat
+estimates,NA,no-cat
+mixed,NA,no-cat
+naked,NA,no-cat
+raising,u,no-cat
+wary,NA,no-cat
+pride,NA,no-cat
+african,NA,no-cat
+prompted,NA,no-cat
+promise,NA,no-cat
+art,NA,no-cat
+level,NA,no-cat
+fifth,NA,no-cat
+financial,NA,no-cat
+52,NA,no-cat
+experienced,NA,no-cat
+likened,NA,no-cat
+remove,u,no-cat
+boys,NA,no-cat
+claim,NA,no-cat
+clock,NA,no-cat
+bomb,NA,no-cat
+date,NA,no-cat
+contains,NA,no-cat
+television,NA,no-cat
+news,NA,no-cat
+led,NA,no-cat
+cut,NA,no-cat
+cast,NA,no-cat
+choice,NA,no-cat
+happen,NA,no-cat
+carrier,NA,no-cat
+presidential,NA,no-cat
+stuff,NA,no-cat
+prevented,NA,no-cat
+husband,NA,no-cat
+women,NA,no-cat
+stretched,NA,no-cat
+de,NA,fruit no-cat
+thailand,NA,no-cat
+decide,NA,no-cat
+cup,NA,no-cat
+triggered,NA,no-cat
+trigger,NA,no-cat
+banner,NA,no-cat
+thick,NA,no-cat
+bath,NA,no-cat
+bunch,NA,no-cat
+anything,NA,no-cat
+fourth,NA,no-cat
+manufacturers,NA,no-cat
+spoke,NA,no-cat
+constant,NA,no-cat
+covering,NA,no-cat
+oil,NA,no-cat
+medium,NA,no-cat
+role,NA,no-cat
+provides,NA,fruit no-cat
+drinking,NA,no-cat
+source,NA,no-cat
+major,NA,no-cat
+sees,NA,no-cat
+map,NA,no-cat
+chances,NA,no-cat
+basis,NA,no-cat
+of,u,fruit
+director,u,fruit
+called,u,fruit
+young,u,fruit
+sometimes,u,fruit
+your,u,fruit
+featuring,u,fruit
+dozens,u,fruit
+caught,u,fruit
+herself,u,fruit
+labeled,u,fruit
+mother,u,fruit
+world,NA,fruit
+laden,NA,fruit
+season,NA,fruit
+parties,NA,fruit
+stage,u,fruit
+reference,NA,fruit
+types,NA,fruit
+oven,NA,fruit
+there,NA,fruit
+did,NA,fruit
+ca,NA,fruit
+course,NA,fruit
+first,u,fruit
+find,NA,fruit
+substitute,NA,fruit
+works,NA,fruit
+opportunity,NA,fruit
+why,NA,fruit
+southern,NA,fruit
+gets,NA,fruit
+sized,NA,fruit
+vines,NA,fruit
+capital,NA,fruit
+pronounced,NA,fruit
+garden,NA,fruit
+like,u,fruit
+felt,NA,fruit
+cups,NA,fruit
+family,NA,fruit
+beneath,u,fruit
+pickers,NA,fruit
+smaller,NA,fruit
+cans,NA,fruit
+dubbed,u,fruit
+ocean,NA,fruit
+removed,NA,fruit
+am,NA,fruit
+lighter,NA,fruit
+them,NA,fruit
+softer,NA,fruit
+council,NA,fruit
+played,NA,fruit
+pure,NA,fruit
+once,NA,fruit
+known,NA,fruit
+pasta,NA,fruit
+floor,NA,fruit
+style,NA,fruit
+traces,NA,fruit
+pin,NA,fruit
+stones,NA,fruit
+noticed,NA,fruit
+age,NA,fruit
+mind,NA,fruit
+kind,NA,fruit
+pipe,NA,fruit
+figure,NA,fruit
+street,NA,fruit
+serves,NA,fruit
+held,NA,fruit
+her,NA,fruit
+placed,NA,fruit
+few,NA,fruit
+appreciate,NA,fruit
+origins,NA,fruit
+blues,NA,fruit
+cases,u,fruit
+elementary,NA,fruit
+65,NA,fruit
+scored,NA,fruit
+scene,NA,fruit
+wow,NA,fruit
+gathered,NA,fruit
+meals,NA,fruit
+admit,NA,fruit
+mcdonald,NA,fruit
+museum,NA,fruit
+shook,NA,fruit
+buttons,NA,fruit
+anymore,NA,fruit
+preference,NA,fruit
+state,NA,fruit
+stopped,NA,fruit
+process,NA,fruit
+village,NA,fruit
+seen,u,fruit
+seemed,NA,fruit
+waters,NA,fruit
+briefly,NA,fruit
+decorative,NA,fruit
+delivers,NA,fruit
+trick,NA,fruit
+living,NA,fruit
+pungent,NA,fruit
+tables,NA,fruit
+certain,NA,fruit
+cedar,NA,fruit
+careful,NA,fruit
+workers,NA,fruit
+sturdy,NA,fruit
+facility,NA,fruit
+exported,NA,fruit
+office,NA,fruit
+ranges,NA,fruit
+regarded,NA,fruit
+125,NA,fruit
+locals,NA,fruit
+backdrop,NA,fruit
+ruled,NA,fruit
+park,u,fruit
+tucked,NA,fruit
+forest,NA,fruit
+mrs,NA,fruit
+lovers,NA,fruit
+distinctive,NA,fruit
+book,NA,fruit
+left,NA,fruit
+poured,NA,fruit
+allowed,NA,fruit
+character,u,fruit
+knows,NA,fruit
+james,NA,fruit
+burgundy,NA,fruit
+single,NA,fruit
+boxes,NA,fruit
+inspired,u,fruit
+pound,NA,fruit
+got,NA,fruit
+bagels,NA,fruit
+girl,NA,fruit
+premium,NA,fruit
+renowned,NA,fruit
+flavorful,NA,fruit
+put,u,fruit
+table,NA,fruit
+owner,NA,fruit
+lee,NA,fruit
+extension,NA,fruit
+special,NA,fruit
+potent,NA,fruit
+bucket,NA,fruit
+importance,NA,fruit
+doubt,NA,fruit
+saved,NA,fruit
+focuses,NA,fruit
+angeles,NA,fruit
+vast,NA,fruit
+university,NA,fruit
+passing,NA,fruit
+readily,NA,fruit
+radio,NA,fruit
+vary,NA,fruit
+1950s,NA,fruit
+surrounding,NA,fruit
+offered,NA,fruit
+collar,i,fruit
+jones,NA,fruit
+town,NA,fruit
+near,NA,fruit
+sitting,u,fruit
+specialty,NA,fruit
+old,NA,fruit
+the,NA,fruit
+small,NA,fruit
+ll,NA,fruit
+starting,NA,fruit
+began,NA,fruit
+exactly,NA,fruit
+he,NA,fruit
+can,u,fruit
+tiny,NA,fruit
+harvesting,NA,fruit
+many,NA,fruit
+traditional,NA,fruit
+union,NA,fruit
+children,NA,fruit
+jefferson,NA,fruit
+too,NA,fruit
+calls,NA,fruit
+recommend,NA,fruit
+famous,NA,fruit
+introducing,NA,fruit
+standing,NA,fruit
+tone,NA,fruit
+burgers,NA,fruit
+beef,NA,fruit
+road,NA,fruit
+air,NA,fruit
+two,NA,fruit
+line,NA,fruit
+when,NA,fruit
+drain,NA,fruit
+reddish,NA,fruit
+american,NA,fruit
+see,NA,fruit
+day,NA,fruit
+produced,NA,fruit
+40,NA,fruit
+smell,NA,fruit
+turn,NA,fruit
+my,NA,fruit
+just,NA,fruit
+instead,NA,fruit
+heart,NA,fruit
+linking,NA,fruit
+mandate,NA,fruit
+clay,NA,fruit
+involved,NA,fruit
+merely,NA,fruit
+indigo,NA,fruit
+check,NA,fruit
+promised,NA,fruit
+existing,NA,fruit
+hands,NA,fruit
+readers,NA,fruit
+force,NA,fruit
+writer,NA,fruit
+wave,NA,fruit
+sought,NA,fruit
+credit,NA,fruit
+holds,NA,fruit
+universe,NA,fruit
+taiwan,NA,fruit
+drawn,NA,fruit
+dropping,NA,fruit
+letters,NA,fruit
+wide,NA,fruit
+arrived,NA,fruit
+pond,NA,fruit
+save,NA,fruit
+study,NA,fruit
+fairly,NA,fruit
+general,NA,fruit
+within,NA,fruit
+attacking,NA,fruit
+refined,NA,fruit
+caused,NA,fruit
+striking,NA,fruit
+original,NA,fruit
+washed,NA,fruit
+dead,NA,fruit
+loved,NA,fruit
+bird,i,fruit
+believes,NA,fruit
+head,NA,fruit
+onto,NA,fruit
+winding,NA,fruit
+metal,NA,fruit
+blocks,NA,fruit
+volunteer,NA,fruit
+people,NA,fruit
+containers,NA,fruit
+stands,NA,fruit
+tasters,NA,fruit
+whose,NA,fruit
+never,NA,fruit
+pair,NA,fruit
+in,NA,fruit
+author,NA,fruit
+happy,NA,fruit
+twice,NA,fruit
+recent,NA,fruit
+responsible,NA,fruit
+officials,NA,fruit
+surprised,NA,fruit
+deeply,NA,fruit
+stars,NA,fruit
+john,NA,fruit
+gave,NA,fruit
+live,NA,fruit
+along,NA,fruit
+five,NA,fruit
+heavy,NA,fruit

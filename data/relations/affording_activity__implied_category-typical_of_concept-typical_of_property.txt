@@ -1,0 +1,12 @@
+wheels,pram
+wings,egret
+wheels,limousine
+wheels,unicycle
+wings,gnat
+warm,shawl
+dangerous,alligator
+wings,tit
+wings,drosophila
+wheels,minivan
+wings,albatross
+wheels,locomotive

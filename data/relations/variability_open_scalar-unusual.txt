@@ -1,0 +1,5 @@
+cold,soup
+warm,water
+cold,fireplace
+cold,shelf
+warm,jean

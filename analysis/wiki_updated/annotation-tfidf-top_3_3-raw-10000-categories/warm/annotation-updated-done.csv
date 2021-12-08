@@ -1,0 +1,1182 @@
+context,evidence_type,categories
+bed,i,relation food communication
+clothing,i,all relation communication
+skin,i,relation
+feet,i,relation communication
+cape,i,communication
+hat,i,communication
+jersey,i,communication warm no-cat
+mouth,i,communication
+kitchen,i,communication no-cat
+october,i,warm no-cat
+july,i,warm
+cars,i,warm no-cat
+mexico,i,warm
+california,i,warm
+sea,i,warm
+weather,i,warm
+rain,i,warm
+food,i,food no-cat
+dish,i,food
+beef,i,food
+rice,i,food no-cat
+soup,i,food no-cat
+meal,i,food no-cat
+salad,i,food
+meat,i,no-cat
+season,i,no-cat
+spring,i,no-cat
+lights,i,no-cat
+island,i,no-cat
+chicken,i,no-cat
+summer,i,no-cat
+tea,i,no-cat
+water,i,no-cat
+fish,i,no-cat
+steam,i,no-cat
+burn,l,warm
+from,u,relation
+man,u,relation
+himself,u,relation
+cross,u,relation
+thin,u,all relation communication no-cat
+men,u,relation
+entirely,u,relation
+tend,u,relation
+consists,u,relation
+hence,u,relation no-cat
+lead,u,relation
+extremely,u,relation
+reduced,u,relation warm
+animal,u,relation
+suggests,u,relation
+bound,u,relation
+rather,u,relation food
+long,u,object
+pulling,u,communication
+worn,u,communication
+giant,u,communication
+carries,u,communication
+knocked,u,communication
+resembles,u,communication
+accidentally,u,communication
+1993,u,communication
+captain,u,communication
+monkey,u,communication
+jack,u,communication
+dances,u,communication
+wear,r,communication
+johnson,u,communication
+beaten,u,communication
+concealed,u,communication
+hands,i,communication
+arm,i,communication
+edge,u,communication
+coloured,u,communication no-cat
+facial,u,communication
+spite,u,communication
+hide,u,communication
+fighting,u,communication
+pulls,u,communication
+situated,u,communication
+creek,u,communication no-cat
+silver,u,communication warm
+guns,u,communication
+gray,u,communication
+badge,u,communication
+neck,u,communication
+australian,u,communication warm no-cat
+killed,u,communication
+masks,u,communication
+canadian,u,communication
+winning,u,communication
+2014,u,communication warm no-cat
+tears,i,communication
+yard,u,communication no-cat
+loses,u,communication
+depicted,u,communication
+reminiscent,u,communication no-cat
+helmet,i,communication
+december,u,communication warm
+accompanied,u,communication
+queen,u,communication
+cone,u,communication
+enters,u,communication
+distinctive,u,communication
+awards,u,communication
+winner,u,communication
+afterwards,u,communication
+bottle,i,communication no-cat
+suspended,u,communication
+were,u,measure
+conceived,u,measure
+responsible,u,measure no-cat
+vertical,u,measure
+18th,u,measure no-cat
+ii,u,measure
+florida,u,measure
+burnt,r,measure
+initially,u,measure
+leads,u,measure
+issued,u,warm
+0,u,warm no-cat
+cafe,u,warm
+three,u,warm
+2012,u,warm
+2011,u,warm no-cat
+includes,u,food warm
+2016,u,warm no-cat
+november,u,warm no-cat
+run,u,warm no-cat
+contains,u,warm
+sold,u,warm no-cat
+1982,u,warm
+germany,u,warm
+2005,u,warm no-cat
+june,i,warm
+february,u,warm
+14,u,warm no-cat
+united,u,warm
+additional,u,warm
+kingdom,u,warm
+replaced,u,warm
+1981,u,warm
+capitol,u,warm
+wall,u,warm
+states,u,warm
+thousand,u,warm
+officially,u,warm
+consisted,u,warm
+regular,u,warm no-cat
+applied,u,warm
+ghost,u,warm
+designed,u,warm
+stones,u,warm
+thirty,u,warm
+throw,u,warm
+eleven,u,warm no-cat
+credited,u,warm no-cat
+known,u,warm
+1974,u,warm
+launched,u,warm
+larger,u,warm
+1971,u,warm
+remained,u,warm no-cat
+suburban,u,warm
+exposed,u,warm
+collect,u,warm
+1958,u,warm
+placed,u,warm
+controlled,u,warm
+stream,i,warm no-cat
+similarly,u,warm
+equivalent,u,warm
+cuts,u,warm
+notable,u,warm
+land,u,warm
+iron,i,warm
+drive,u,warm no-cat
+whereas,u,warm
+preparation,u,food warm
+sources,u,warm
+bearing,u,warm
+mobile,i,warm no-cat
+finland,u,warm
+blind,u,warm
+trans,u,warm
+96,u,warm
+north,u,warm no-cat
+warrior,u,warm
+installed,u,warm
+nuclear,u,warm
+established,u,warm
+named,u,warm
+melbourne,u,warm
+21st,u,warm
+knife,u,warm
+limits,u,warm
+legendary,u,warm
+legacy,u,warm
+properties,u,warm
+amounts,u,warm
+continues,u,warm no-cat
+ash,i,warm
+consequently,u,warm
+bronze,u,warm
+dropped,u,warm
+arrived,u,warm
+constructed,u,warm
+entered,u,warm
+rome,u,warm
+sites,u,warm
+legend,u,warm
+copper,u,warm
+moderate,u,warm
+campus,u,warm
+prairie,u,warm
+carved,u,warm
+caribbean,b,warm
+cave,u,warm
+obtained,u,warm
+negro,u,warm
+nickname,u,warm
+installation,u,warm
+37,u,warm no-cat
+42,u,warm
+born,u,warm no-cat
+filling,u,warm no-cat
+robinson,u,warm
+restored,u,warm
+raised,u,warm
+dissolved,u,warm
+ford,u,warm
+factories,u,warm
+representing,u,warm
+ross,u,warm
+roman,u,warm
+maintained,u,warm
+saint,u,warm
+blow,u,warm
+detroit,u,warm
+significantly,u,warm no-cat
+loaded,u,warm
+geographic,u,warm
+singapore,u,warm
+delta,u,warm
+africa,b,warm
+sixth,u,warm
+gordon,u,warm
+lowest,u,warm
+frequently,u,food warm no-cat
+fortress,u,warm
+1964,u,warm
+directed,u,warm
+collapse,u,warm
+1995,u,warm
+except,u,warm
+either,u,warm
+offered,u,warm
+volume,u,warm
+1970,u,warm
+italy,b,warm
+numerous,u,warm no-cat
+sweden,u,warm
+type,u,warm
+vacation,b,warm
+exception,u,warm
+request,u,warm
+1967,u,warm
+exact,u,warm
+proceed,u,warm
+shifted,u,warm
+brothers,u,warm
+surrender,u,warm
+lesser,u,warm
+closure,u,warm
+alternatively,u,warm
+wade,u,warm
+folklore,u,warm
+secured,u,warm
+manor,u,warm
+exploit,u,warm
+transition,u,warm
+bennett,u,warm
+diego,u,warm
+sixteen,u,warm
+cooked,l,food
+boiling,l,food
+this,u,food
+onions,u,food
+pot,i,food
+eaten,u,food
+baking,l,food
+beans,u,food
+cooking,l,food
+duck,i,food
+roasted,l,food
+spanish,u,food
+sometimes,u,food
+dried,u,food
+consist,u,food
+term,u,food
+plates,i,food
+usually,u,food
+leaves,u,food
+word,u,food
+mixture,u,food
+literally,u,food
+eggs,i,food
+raw,u,food no-cat
+variation,u,food no-cat
+goes,u,food
+salted,u,food
+consume,u,food
+variants,u,food
+involves,u,food
+varying,u,food
+tourists,u,food
+eastern,u,no-cat
+opening,u,no-cat
+manufacturer,u,no-cat
+advertising,u,no-cat
+dense,u,no-cat
+extend,u,no-cat
+bike,u,no-cat
+moreover,u,no-cat
+grow,u,no-cat
+roll,u,no-cat
+gas,u,no-cat
+indigenous,u,no-cat
+ports,u,no-cat
+national,u,no-cat
+nothing,u,no-cat
+northwest,u,no-cat
+supported,u,no-cat
+extension,u,no-cat
+forest,u,no-cat
+project,u,no-cat
+jean,i,no-cat
+involved,u,no-cat
+chicago,u,no-cat
+we,u,no-cat
+test,u,no-cat
+banned,u,no-cat
+vary,u,no-cat
+block,u,no-cat
+glass,i,no-cat
+seed,u,no-cat
+remembered,u,no-cat
+played,u,no-cat
+modest,u,no-cat
+achieve,u,no-cat
+musical,u,no-cat
+party,u,no-cat
+1952,u,no-cat
+remain,u,no-cat
+locally,u,no-cat
+landmark,u,no-cat
+course,u,no-cat
+songs,u,no-cat
+burns,u,no-cat
+effort,u,no-cat
+developing,u,no-cat
+development,u,no-cat
+species,u,no-cat
+circuit,u,no-cat
+distributed,u,no-cat
+stuff,u,no-cat
+centre,u,no-cat
+briefly,u,no-cat
+entering,u,no-cat
+tie,i,no-cat
+girl,u,no-cat
+fashionable,u,no-cat
+colors,u,no-cat
+slip,u,no-cat
+formal,u,no-cat
+western,u,no-cat
+tao,u,no-cat
+solid,u,no-cat
+realized,u,no-cat
+cream,i,no-cat
+slopes,u,no-cat
+stages,u,no-cat
+canopy,u,no-cat
+camera,u,no-cat
+developed,u,no-cat
+boy,u,no-cat
+direction,u,no-cat
+fleet,u,no-cat
+teenage,u,no-cat
+plateau,u,no-cat
+roads,u,no-cat
+possible,u,no-cat
+typically,u,no-cat
+generally,u,no-cat
+vintage,u,no-cat
+describes,u,no-cat
+comprises,u,no-cat
+detail,u,no-cat
+police,u,no-cat
+midst,u,no-cat
+darker,u,no-cat
+deck,u,no-cat
+shelter,u,no-cat
+illegal,u,no-cat
+shops,u,no-cat
+going,u,no-cat
+gradually,u,no-cat
+safety,u,no-cat
+fun,u,no-cat
+region,u,no-cat
+liked,u,no-cat
+press,u,no-cat
+distinct,u,no-cat
+iraq,u,no-cat
+launching,u,no-cat
+quality,u,no-cat
+us,u,no-cat
+trouble,u,no-cat
+wet,u,no-cat
+tennis,u,no-cat
+tends,u,no-cat
+1947,u,no-cat
+channel,u,no-cat
+1920s,u,no-cat
+victoria,u,no-cat
+ve,u,no-cat
+unofficial,u,no-cat
+hatch,u,no-cat
+hardware,u,no-cat
+articles,u,no-cat
+vicinity,u,no-cat
+ruined,u,no-cat
+balls,u,no-cat
+retained,u,no-cat
+variations,u,no-cat
+rituals,u,no-cat
+rival,u,no-cat
+follows,u,no-cat
+separating,u,no-cat
+billy,u,no-cat
+farm,u,no-cat
+boards,u,no-cat
+federal,u,no-cat
+fbi,u,no-cat
+scandal,u,no-cat
+basically,u,no-cat
+sculptures,u,no-cat
+posted,u,no-cat
+popularity,u,no-cat
+occupied,u,no-cat
+occupy,u,no-cat
+nomination,u,no-cat
+1875,u,no-cat
+narrator,u,no-cat
+2000s,u,no-cat
+1933,u,no-cat
+1925,u,no-cat
+1921,u,no-cat
+naturally,u,no-cat
+1954,u,no-cat
+remarked,u,no-cat
+ranging,u,no-cat
+ray,u,no-cat
+labour,u,no-cat
+andrew,u,no-cat
+interest,u,no-cat
+arch,u,no-cat
+recording,u,no-cat
+invites,u,no-cat
+whom,u,no-cat
+legal,u,no-cat
+proceeds,u,no-cat
+weak,u,no-cat
+clerk,u,no-cat
+cow,i,no-cat
+society,u,no-cat
+clarke,u,no-cat
+sound,u,no-cat
+coastal,u,no-cat
+eats,u,no-cat
+delivery,u,no-cat
+stall,u,no-cat
+celebrations,u,no-cat
+customs,u,no-cat
+exclusively,u,no-cat
+sick,u,no-cat
+eric,u,no-cat
+swiss,u,no-cat
+establishment,u,no-cat
+experiments,u,no-cat
+experienced,u,no-cat
+enabled,u,no-cat
+estate,u,no-cat
+herb,u,no-cat
+production,u,no-cat
+honey,u,no-cat
+industry,u,no-cat
+agency,u,no-cat
+family,u,no-cat
+act,u,no-cat
+caf,u,no-cat
+people,i,no-cat
+warehouse,u,no-cat
+australia,u,no-cat
+founded,u,no-cat
+2010,u,no-cat
+uk,u,no-cat
+dealer,u,no-cat
+hosts,u,no-cat
+marketing,u,no-cat
+zealand,u,no-cat
+amount,u,no-cat
+years,u,no-cat
+thai,u,no-cat
+night,u,no-cat
+promoted,u,no-cat
+clay,u,no-cat
+share,u,no-cat
+capital,u,no-cat
+inn,u,no-cat
+grounds,u,no-cat
+malaysia,u,no-cat
+meeting,u,no-cat
+public,u,no-cat
+diet,u,no-cat
+2006,u,no-cat
+visits,u,no-cat
+medical,u,no-cat
+1978,u,no-cat
+president,u,no-cat
+arriving,u,no-cat
+trust,u,no-cat
+audio,u,no-cat
+moved,u,no-cat
+facility,u,no-cat
+thailand,u,no-cat
+paid,u,no-cat
+marble,u,no-cat
+collapsed,u,no-cat
+investment,u,no-cat
+heard,u,no-cat
+independence,u,no-cat
+happy,u,no-cat
+joint,u,no-cat
+golf,u,no-cat
+oz,u,no-cat
+experience,u,no-cat
+influential,u,no-cat
+commented,u,no-cat
+audience,u,no-cat
+renamed,u,no-cat
+content,u,no-cat
+1990s,u,no-cat
+sought,u,no-cat
+2013,u,no-cat
+swamp,u,no-cat
+filmed,u,no-cat
+alley,u,no-cat
+zoo,u,no-cat
+regarding,u,no-cat
+headquarters,u,no-cat
+miller,u,no-cat
+pond,u,no-cat
+jackson,u,no-cat
+positive,u,no-cat
+1975,u,no-cat
+managing,u,no-cat
+didn,u,no-cat
+duo,u,no-cat
+college,u,no-cat
+ranks,u,no-cat
+speech,u,no-cat
+sole,u,no-cat
+jones,u,no-cat
+tracy,u,no-cat
+european,u,no-cat
+revived,u,no-cat
+dj,u,no-cat
+1894,u,no-cat
+austin,u,no-cat
+poems,u,no-cat
+praised,u,no-cat
+ocean,i,no-cat
+rolling,u,no-cat
+participating,u,no-cat
+boarding,u,no-cat
+hire,u,no-cat
+harold,u,no-cat
+capsule,u,no-cat
+vessels,u,no-cat
+agreement,u,no-cat
+1984,u,no-cat
+egypt,u,no-cat
+descent,u,no-cat
+designated,u,no-cat
+detective,u,no-cat
+struggling,u,no-cat
+spit,u,no-cat
+1930s,u,no-cat
+chess,u,no-cat
+retired,u,no-cat
+butcher,u,no-cat
+ruby,u,no-cat
+freeze,u,no-cat
+operations,u,no-cat
+hawaii,u,no-cat
+houston,u,no-cat
+kevin,u,no-cat
+jim,u,no-cat
+warmer,p,measure
+cover,r,relation
+covers,r,relation communication no-cat
+covering,r,communication warm
+covered,r,communication no-cat
+southern,r,warm no-cat
+electricity,r,warm
+cook,r,food
+south,r,no-cat
+sandy,r,no-cat
+ice,r,no-cat
+smoke,r,no-cat
+electric,r,no-cat
+are,u,relation no-cat
+dressed,u,relation
+leather,i,relation
+removed,u,relation food warm
+recommended,u,relation food
+meaning,u,relation
+well,u,relation object
+upper,u,relation
+little,u,relation no-cat
+fine,u,relation no-cat
+pieces,u,relation
+along,u,relation warm
+high,u,relation no-cat
+material,u,relation
+while,u,relation
+pair,u,relation communication
+metal,u,relation
+thick,u,relation measure communication
+suit,i,relation
+enough,u,relation
+further,u,relation
+largely,u,relation
+inside,u,relation communication
+normally,u,relation food warm no-cat
+separate,u,relation warm no-cat
+strip,u,relation warm
+collected,u,relation
+simple,u,relation food
+previously,u,relation
+floor,u,all object no-cat
+white,u,communication warm
+bag,u,communication no-cat
+blue,u,communication
+filled,u,communication
+attached,u,communication
+wearing,u,communication
+nose,i,communication
+front,u,communication warm
+orange,u,communication no-cat
+hanging,u,communication
+containing,u,communication food warm no-cat
+shot,u,communication
+beneath,u,communication
+cloth,i,communication no-cat
+inches,u,communication
+tiny,u,communication
+rubber,u,communication no-cat
+rear,u,communication
+grey,u,communication warm no-cat
+former,u,communication
+underneath,u,communication
+cap,u,communication
+six,u,communication
+featured,u,communication
+bay,u,communication no-cat
+wrapped,u,communication
+pink,u,communication no-cat
+red,u,communication warm
+mask,i,communication
+hole,u,communication no-cat
+stretched,u,communication
+ball,u,communication
+your,u,communication
+bar,u,communication warm
+pulled,u,communication
+black,u,communication no-cat
+spotted,u,communication
+plastic,u,communication no-cat
+consisting,u,communication
+tokyo,u,communication
+appeared,u,communication
+breast,u,communication
+operated,u,communication
+yellow,u,communication warm no-cat
+23,u,communication warm
+28,u,communication warm
+hair,u,communication
+dark,u,communication
+golden,u,communication
+painted,u,communication warm
+hood,u,communication
+18,u,communication warm no-cat
+appearance,u,communication
+lighter,u,communication
+chair,u,communication
+hill,u,communication warm no-cat
+continued,u,measure
+served,u,measure no-cat
+led,u,measure
+joined,u,measure no-cat
+dutch,u,measure warm no-cat
+12,u,warm no-cat
+available,u,warm
+500,u,warm
+box,u,warm
+set,u,warm
+originally,u,warm
+included,u,warm
+via,u,warm
+seven,u,warm
+45,u,warm
+contained,u,warm
+standard,u,warm
+2007,u,warm no-cat
+made,u,warm
+april,u,warm no-cat
+part,u,warm
+virgin,u,warm
+factory,u,warm no-cat
+1996,u,warm
+30,u,warm no-cat
+250,u,warm no-cat
+100,u,warm
+number,u,warm
+march,u,warm
+16,u,warm no-cat
+200,u,warm no-cat
+america,u,warm no-cat
+extended,u,warm
+europe,u,warm
+include,u,warm
+including,u,warm
+cutting,u,warm
+september,u,warm
+mini,u,warm
+2000,u,warm no-cat
+2002,u,warm
+used,u,warm
+11,u,warm
+august,u,warm
+15,u,warm
+underground,u,warm
+1992,u,warm no-cat
+distribution,u,warm no-cat
+columbia,u,warm no-cat
+1998,u,warm no-cat
+announced,u,warm
+21,u,warm no-cat
+these,u,warm
+products,u,warm
+list,u,warm
+1999,u,warm no-cat
+26,u,warm
+17,u,warm
+19,u,warm no-cat
+usa,u,warm
+1994,u,warm no-cat
+medium,u,warm
+market,u,warm no-cat
+late,u,warm
+1970s,u,warm no-cat
+fence,u,warm
+circle,u,warm
+40,u,warm no-cat
+international,u,warm no-cat
+2001,u,warm no-cat
+countries,u,warm no-cat
+various,u,warm
+compound,u,warm
+hundred,u,warm
+nine,u,warm
+listed,u,warm
+31,u,warm
+total,u,warm
+29,u,warm
+contain,u,warm no-cat
+mostly,u,warm no-cat
+cherry,u,warm
+considered,u,warm
+hall,u,warm no-cat
+industrial,u,warm no-cat
+fifth,u,warm
+surround,u,warm
+site,u,warm
+uses,u,warm
+sized,u,warm
+tree,u,warm
+according,u,warm
+directly,u,warm
+50,u,warm no-cat
+formed,u,warm
+sugar,u,warm
+annual,u,warm no-cat
+carrying,u,warm
+crystal,u,warm
+across,u,warm
+per,u,warm no-cat
+section,u,warm
+canada,u,warm
+trees,u,warm no-cat
+quarter,u,warm no-cat
+wine,u,warm
+size,u,warm
+plant,u,warm no-cat
+founder,u,warm no-cat
+excess,u,warm
+equipment,u,warm
+traditional,u,warm
+massive,u,warm
+bridge,u,warm no-cat
+square,u,warm no-cat
+continuous,u,warm
+coast,u,warm
+introduced,u,warm
+foundation,u,warm no-cat
+houses,u,warm no-cat
+newly,u,warm
+70,u,warm
+39,u,warm
+48,u,warm
+35,u,warm
+primarily,u,warm
+referred,u,warm
+permanent,u,warm
+hotel,u,warm no-cat
+acted,u,warm
+bulk,u,warm
+stone,u,warm
+spread,u,warm
+department,u,warm no-cat
+service,u,warm
+selected,u,warm
+transferred,u,warm
+cost,u,warm no-cat
+planned,u,warm
+opened,u,warm no-cat
+climbed,u,warm
+symbol,u,warm
+chain,u,warm
+workers,u,warm
+owner,u,warm
+walls,u,warm
+visible,u,warm
+flower,u,warm no-cat
+remaining,u,warm no-cat
+elizabeth,u,warm
+mainly,u,warm
+east,u,warm
+salt,u,food warm no-cat
+destination,u,warm
+welsh,u,warm
+new,u,warm
+since,u,warm
+london,u,warm no-cat
+addition,u,warm
+paper,u,warm no-cat
+current,u,warm
+biggest,u,warm
+los,u,warm
+plants,u,warm
+bush,u,warm no-cat
+1960s,u,warm
+notorious,u,warm
+forbidden,u,warm
+farmer,u,warm
+vegetables,u,food
+bowl,u,food no-cat
+table,u,food
+bean,u,food no-cat
+prepared,u,food
+sauce,u,food
+spices,u,food
+besides,u,food
+en,u,food
+sit,u,food
+large,u,food
+breakfast,u,food
+pepper,u,food
+flour,u,food
+serving,u,food no-cat
+origin,u,food
+whole,u,food no-cat
+alone,u,food
+resulting,u,food no-cat
+plain,u,food
+rapidly,u,food
+pressed,u,food
+enhanced,u,food
+commonly,u,food
+top,u,no-cat
+green,u,no-cat
+lower,u,no-cat
+hills,u,no-cat
+winter,r,no-cat
+area,u,no-cat
+multi,u,no-cat
+students,u,no-cat
+today,u,no-cat
+west,u,no-cat
+color,u,no-cat
+town,u,no-cat
+smaller,u,no-cat
+built,u,no-cat
+several,u,no-cat
+strong,u,no-cat
+structure,u,no-cat
+near,u,no-cat
+already,u,no-cat
+open,u,no-cat
+20,u,no-cat
+mountains,u,no-cat
+bars,u,no-cat
+egg,u,no-cat
+restaurant,u,no-cat
+port,u,no-cat
+natural,u,no-cat
+noted,u,no-cat
+park,u,no-cat
+surrounding,u,no-cat
+home,u,no-cat
+following,u,no-cat
+ll,u,no-cat
+sports,u,no-cat
+75,u,no-cat
+25,u,no-cat
+catch,u,no-cat
+week,u,no-cat
+window,u,no-cat
+allowing,u,no-cat
+border,u,no-cat
+row,u,no-cat
+helped,u,no-cat
+shop,u,no-cat
+festival,u,no-cat
+boats,u,no-cat
+ben,u,no-cat
+80,u,no-cat
+pictures,u,no-cat
+activities,u,no-cat
+mate,u,no-cat
+peak,u,no-cat
+1950s,u,no-cat
+la,u,no-cat
+village,u,no-cat
+county,u,no-cat
+duties,u,no-cat
+business,u,no-cat
+element,u,no-cat
+corporation,u,no-cat
+closed,u,no-cat
+develop,u,no-cat
+speaking,u,no-cat
+expected,u,no-cat
+commercial,u,no-cat
+building,u,no-cat
+girls,u,no-cat
+cotton,u,no-cat
+loose,u,no-cat
+school,u,no-cat
+brown,u,no-cat
+over,u,no-cat
+panel,u,no-cat
+mid,u,no-cat
+popular,u,no-cat
+go,u,no-cat
+slightly,u,no-cat
+reaches,u,no-cat
+pressure,u,no-cat
+small,u,no-cat
+higher,u,no-cat
+big,u,no-cat
+different,u,no-cat
+appearing,u,no-cat
+won,u,no-cat
+beginning,u,no-cat
+end,u,no-cat
+flowers,u,no-cat
+southeast,u,no-cat
+nearly,u,no-cat
+lies,u,no-cat
+issues,u,no-cat
+worker,u,no-cat
+parts,u,no-cat
+rolled,u,no-cat
+10,u,no-cat
+mountain,u,no-cat
+located,u,no-cat
+businesses,u,no-cat
+explained,u,no-cat
+coconut,u,no-cat
+plus,u,no-cat
+photo,u,no-cat
+culture,u,no-cat
+places,u,no-cat
+favorite,u,no-cat
+hot,u,no-cat
+features,u,no-cat
+exhibition,u,no-cat
+selling,u,no-cat
+price,u,no-cat
+earlier,u,no-cat
+powder,u,no-cat
+managed,u,no-cat
+manufacturers,u,no-cat
+domestic,u,no-cat
+enjoys,u,no-cat
+join,u,no-cat
+eight,u,no-cat
+elite,u,no-cat
+within,u,no-cat
+teacher,u,no-cat
+central,u,no-cat
+view,u,no-cat
+artificial,u,no-cat
+train,u,no-cat
+bad,u,no-cat
+baby,u,no-cat
+union,u,no-cat
+growth,u,no-cat
+hundreds,u,no-cat
+attention,u,no-cat
+resort,u,no-cat
+try,u,no-cat
+boss,u,no-cat
+booth,u,no-cat
+branches,u,no-cat
+feed,u,no-cat
+goat,u,no-cat
+beer,u,no-cat
+beauty,u,no-cat
+99,u,no-cat
+occasionally,u,no-cat
+opens,u,no-cat
+opera,u,no-cat
+nice,u,no-cat
+participants,u,no-cat
+read,u,no-cat
+interview,u,no-cat
+african,u,no-cat
+web,u,no-cat
+likely,u,no-cat
+producing,u,no-cat
+taylor,u,no-cat
+clock,u,no-cat
+couch,u,no-cat
+creating,u,no-cat
+convention,u,no-cat
+changing,u,no-cat
+designer,u,no-cat
+chef,u,no-cat
+store,u,no-cat
+signs,u,no-cat
+entrance,u,no-cat
+room,u,no-cat
+house,u,no-cat
+co,u,no-cat
+company,u,no-cat
+coca,u,no-cat
+oil,u,no-cat
+growing,u,no-cat
+express,u,no-cat
+guests,u,no-cat
+enjoy,u,no-cat
+companies,u,no-cat
+largest,u,no-cat
+pacific,u,no-cat
+owned,u,no-cat
+produces,u,no-cat
+trading,u,no-cat
+gathering,u,no-cat
+product,u,no-cat
+making,u,no-cat
+non,u,no-cat
+host,u,no-cat
+american,u,no-cat
+road,u,no-cat
+serves,u,no-cat
+children,u,no-cat
+valley,u,no-cat
+district,u,no-cat
+ltd,u,no-cat
+local,u,no-cat
+producer,u,no-cat
+five,u,no-cat
+2009,u,no-cat
+start,u,no-cat
+amp,u,no-cat
+candy,u,no-cat
+main,u,no-cat
+million,u,no-cat
+regions,u,no-cat
+until,u,no-cat
+talk,u,no-cat
+friends,u,no-cat
+began,u,no-cat
+global,u,no-cat
+street,u,no-cat
+worldwide,u,no-cat
+san,u,no-cat
+cultural,u,no-cat
+days,u,no-cat
+campaign,u,no-cat
+album,u,no-cat
+promote,u,no-cat
+le,u,no-cat
+followed,u,no-cat
+hour,u,no-cat
+office,u,no-cat
+association,u,no-cat
+asian,u,no-cat
+entertainment,u,no-cat
+passed,u,no-cat
+currently,u,no-cat
+conversation,u,no-cat
+pub,u,no-cat
+minute,u,no-cat
+joe,u,no-cat
+90,u,no-cat
+sales,u,no-cat
+shortly,u,no-cat
+shipping,u,no-cat
+reported,u,no-cat
+sale,u,no-cat
+miss,u,no-cat
+label,u,no-cat
+cancer,u,no-cat
+indonesia,u,no-cat
+recorded,u,no-cat
+fair,u,no-cat
+lee,u,no-cat
+berry,u,no-cat
+route,u,no-cat
+visited,u,no-cat
+stamp,u,no-cat
+asia,u,no-cat
+news,u,no-cat
+fat,u,no-cat
+met,u,no-cat
+trip,u,no-cat
+150,u,no-cat
+station,u,no-cat
+program,u,no-cat
+care,u,no-cat
+beijing,u,no-cat
+observed,u,no-cat
+attended,u,no-cat
+300,u,no-cat
+600,u,no-cat
+jane,u,no-cat
+52,u,no-cat
+planning,u,no-cat
+alliance,u,no-cat
+1989,u,no-cat
+programs,u,no-cat
+crowd,u,no-cat
+22,u,no-cat
+jar,u,no-cat
+luck,u,no-cat
+eve,u,no-cat
+centers,u,no-cat
+sailing,u,no-cat
+pop,u,no-cat
+laura,u,no-cat
+supply,u,no-cat
+palms,u,no-cat
+university,u,no-cat
+95,u,no-cat
+clubs,u,no-cat
+kelly,u,no-cat

@@ -1,0 +1,56 @@
+context,evidence_type,categories
+order,NA,no-cat
+placed,u,no-cat
+belong,NA,no-cat
+group,NA,no-cat
+true,u,no-cat
+bird,i,all object animal
+hawk,NA,all object food
+winged,NA,all object
+owl,NA,bird animal
+white,NA,bird
+nests,NA,bird
+woodpecker,NA,bird
+red,NA,bird
+green,NA,bird
+such,NA,bird
+dove,NA,bird
+birds,NA,all animal
+thrust,NA,vehicle
+demonstrate,NA,vehicle
+flown,p,vehicle
+fly,p,vehicle food
+experimental,u,vehicle
+failure,u,vehicle
+flight,p,vehicle food
+unmanned,u,vehicle
+piloted,NA,vehicle
+pilot,r,food
+land,NA,food
+painted,NA,food
+20th,NA,food
+eagle,NA,food
+heavy,NA,food
+medium,NA,food
+flew,p,food
+night,u,food
+ground,NA,food
+old,NA,food
+willow,NA,food
+shoot,u,food
+spring,NA,food
+shooting,NA,food
+mountain,NA,food
+egyptian,NA,food
+cuckoo,NA,food
+counterparts,NA,food
+jungle,NA,food
+partially,NA,food
+events,NA,food
+relatives,NA,food
+pub,NA,food
+plenty,NA,food
+habitat,u,food
+grouse,NA,food
+affected,NA,food
+manner,NA,food

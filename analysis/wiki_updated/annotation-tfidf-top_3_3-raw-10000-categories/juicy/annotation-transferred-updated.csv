@@ -1,0 +1,123 @@
+context,evidence_type,categories
+eating,u,no-cat
+eaten,u,no-cat
+corn,i,animal no-cat
+pie,i,no-cat
+fresh,r,animal no-cat
+used,NA,no-cat
+potato,u,no-cat
+sweet,r,no-cat
+sometimes,u,no-cat
+mixture,u,no-cat
+tomato,i,no-cat
+largest,u,animal no-cat
+watermelon,NA,object plant fruit all no-cat
+cold,u,no-cat
+covered,NA,no-cat
+type,u,no-cat
+flour,NA,no-cat
+farmers,NA,no-cat
+plant,u,animal no-cat
+sugar,u,no-cat
+means,NA,no-cat
+north,NA,no-cat
+less,NA,no-cat
+source,NA,no-cat
+honey,u,no-cat
+feeding,u,no-cat
+parts,NA,no-cat
+locally,NA,relation animal no-cat
+meaning,NA,no-cat
+portuguese,NA,no-cat
+located,NA,no-cat
+france,NA,no-cat
+requires,NA,no-cat
+leaf,u,relation no-cat
+slightly,u,no-cat
+lime,i,relation
+yellow,NA,relation
+preserved,NA,relation
+industrial,NA,relation
+juice,p,all relation object fruit
+citrus,NA,relation
+pineapple,i,relation
+skin,u,relation
+blend,NA,relation
+red,u,relation animal
+peel,NA,relation
+green,u,relation
+pink,NA,relation
+cultivar,NA,relation
+dressed,u,relation
+confused,NA,relation
+grounds,NA,relation
+include,u,relation animal
+naturally,NA,relation
+mostly,NA,relation
+lady,NA,relation
+orange,i,all object plant fruit
+fruit,i,food plant
+berry,NA,plant
+apple,i,fruit
+she,u,vegetable
+shrimp,i,vegetable animal
+high,NA,vegetable
+part,NA,vegetable
+fruits,i,food
+mango,i,food
+shaped,u,animal
+meat,i,animal
+seafood,i,animal
+traditional,NA,animal
+applied,NA,animal
+chicken,i,animal
+includes,NA,animal
+these,NA,animal
+small,u,animal
+large,u,animal
+or,u,animal
+catch,u,animal
+deep,u,animal
+animal,NA,animal
+are,u,animal
+boat,u,animal
+19th,NA,animal
+resembles,u,animal
+common,u,animal
+pepper,i,animal
+taste,r,animal
+diet,u,animal
+bacon,u,animal
+formerly,NA,animal
+region,NA,animal
+decline,NA,animal
+traditionally,NA,animal
+house,NA,animal
+shark,u,animal
+related,NA,animal
+island,NA,animal
+produce,NA,animal
+caught,u,animal
+mud,NA,animal
+called,u,animal
+grow,NA,animal
+such,NA,animal
+some,u,animal
+east,NA,animal
+fish,i,animal
+ranging,NA,animal
+popular,NA,animal
+restaurant,u,animal
+eat,u,animal
+kind,NA,animal
+single,NA,animal
+coast,NA,animal
+substantial,NA,animal
+brunswick,NA,animal
+example,u,animal
+especially,NA,animal
+found,u,animal
+consumed,NA,animal
+locals,u,animal
+local,u,animal
+like,u,animal

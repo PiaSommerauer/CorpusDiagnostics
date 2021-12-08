@@ -1,0 +1,53 @@
+context,evidence_type,categories
+yellow,p,object all
+island,u,object
+18,u,object
+good,u,relation plant
+poppy,u,plant
+miss,u,plant
+this,u,plant
+any,u,relation
+fashioned,u,relation
+sales,u,relation
+name,u,relation
+originally,u,relation
+quarters,u,all
+smoking,u,all
+boxes,i,all
+sipping,u,food
+apple,i,food
+bubbly,u,food
+operating,u,food
+apples,i,fruit food
+somewhat,u,food
+cents,u,food
+quarter,u,fruit food
+school,u,animal
+line,u,animal
+hit,u,animal
+money,u,animal
+built,u,animal
+sticking,u,animal
+girls,u,animal
+diced,u,fruit
+cut,u,fruit
+blueberries,u,fruit
+combined,u,fruit
+peeled,u,fruit
+medium,u,fruit
+sliced,u,fruit
+grilled,u,fruit
+sage,u,fruit
+leaving,u,fruit
+inch,u,fruit
+available,u,fruit
+place,u,fruit
+begins,u,fruit
+90,u,fruit
+perfectly,u,fruit
+intended,u,fruit
+knife,u,fruit
+alternating,u,fruit
+brush,u,fruit
+freeze,u,fruit
+fold,u,fruit

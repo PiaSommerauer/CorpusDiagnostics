@@ -1,0 +1,112 @@
+context,evidence_type,categories
+make,u,relation
+number,u,relation
+spain,u,relation
+how,u,relation
+owners,u,relation
+step,u,relation
+making,u,relation
+what,u,relation
+event,u,relation
+simply,u,relation
+we,u,relation
+started,u,relation
+barrels,u,relation
+ask,u,relation
+tours,u,relation
+continued,u,relation
+great,u,relation plant
+rule,u,relation
+discovering,u,relation
+warehouse,u,relation
+styles,u,relation
+tribe,u,all object
+lily,i,object plant fruit
+honey,i,object fruit animal
+half,u,plant fruit
+lady,u,plant
+as,u,fruit
+eat,u,fruit
+so,u,fruit
+beer,i,food fruit
+companies,u,fruit
+throwing,u,fruit
+foods,u,fruit
+tobacco,u,fruit
+spoon,u,fruit
+buy,u,fruit
+those,u,fruit
+beverage,u,fruit
+popular,u,fruit
+referred,u,fruit
+notes,u,fruit
+also,u,fruit
+based,u,fruit
+25,u,fruit
+watermelon,u,fruit
+believed,u,fruit
+face,u,fruit
+35,u,fruit
+variations,u,fruit
+breakfast,u,fruit
+hour,u,fruit
+crazy,u,fruit
+culture,u,fruit
+tart,u,fruit
+films,u,fruit
+nicknamed,u,fruit
+goat,u,fruit
+gin,u,food fruit
+whereas,u,food fruit
+aroma,u,fruit
+peas,u,fruit
+commercial,u,fruit
+products,u,fruit
+secret,u,fruit
+crisp,u,fruit
+announced,u,fruit
+reduce,u,fruit
+hold,u,fruit
+hay,i,fruit
+affected,u,fruit
+triple,u,fruit
+kiwi,i,fruit
+introducing,u,fruit
+variants,u,fruit animal
+watch,u,fruit
+suggests,u,fruit
+1920s,u,fruit
+does,u,fruit
+organic,u,fruit
+prepared,u,fruit
+steal,u,fruit
+compared,u,fruit
+slowly,u,fruit
+packing,u,fruit
+marketing,u,fruit
+cereals,u,fruit
+whiskey,u,food
+cider,i,food
+toys,u,animal
+naked,u,animal
+except,u,animal
+housed,u,animal
+seven,u,animal
+earlier,u,animal
+japanese,u,animal
+noted,u,animal
+metal,i,animal
+1960s,u,animal
+duo,u,animal
+offers,u,animal
+queens,u,animal
+armed,u,animal
+african,u,animal
+officially,u,animal
+iii,u,animal
+super,u,animal
+engine,u,animal
+bee,i,animal
+sales,u,relation
+name,u,all object
+18,u,all

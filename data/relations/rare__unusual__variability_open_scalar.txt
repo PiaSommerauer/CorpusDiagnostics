@@ -1,0 +1,5 @@
+hot,tile
+cold,nose
+warm,skirt
+warm,salwar
+hot,can

@@ -1,0 +1,5 @@
+fly,pheasant
+lay_eggs,tortoise
+lay_eggs,egret
+fly,quail
+lay_eggs,stork

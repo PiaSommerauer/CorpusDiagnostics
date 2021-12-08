@@ -1,0 +1,9 @@
+green,hose
+black,insect
+black,umbrella
+black,dress
+green,parka
+blue,paint
+red,flower
+red,sauce
+red,paint

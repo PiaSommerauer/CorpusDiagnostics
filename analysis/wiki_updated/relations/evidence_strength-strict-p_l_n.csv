@@ -1,0 +1,23 @@
+,relation,median_tfidf,n_pairs,examples
+0,pos,0.0007122725827416887,2135,dangerous-venom hot-dough red-syrup
+1,neg,5.926317146338156e-05,1545,wings-platypus lay_eggs-leopard black-heart
+2,all,0.0006545366770704302,1306,dangerous-venom female-grandmother sweet-melon
+3,some,0.0007671614344288936,829,red-cake round-table hot-dough
+4,few,5.926317146338156e-05,1545,wings-platypus lay_eggs-leopard black-heart
+5,evidence,0.0009542141117804226,1731,dangerous-venom hot-dough red-syrup
+6,no_evidence_pos,0.00048539100013575274,257,red-cake green-oven blue-pot
+7,no_evidence_neg,0.0,1692,wings-platypus lay_eggs-leopard black-heart
+8,implied_category,0.00029222895022985266,16,swim-cob swim-bay round-pepperoni
+9,typical_of_concept,0.0009655540523729514,4,fly-babbler juicy-meat wheels-wheel
+10,typical_of_property,0.0,0,
+11,affording_activity,0.0030202977531331573,4,wheels-rig wheels-axle juicy-okra
+12,afforded_usual,0.0,3,lay_eggs-platypus lay_eggs-stockfish swim-goldeneye
+13,afforded_unusual,0.00020117021822378827,20,swim-cat swim-mankind roll-pig
+14,variability_limited,0.0010782511572301828,113,round-banjo square-desk black-human
+15,variability_open,0.0010256085932123802,77,red-cake red-balloon round-candy
+16,variability_limited_scalar,0.0,1,dangerous-doodlebug
+17,variability_open_scalar,0.0006172508714410835,98,warm-gown cold-mud hot-dough
+18,rare,0.0,19,warm-strap green-brick green-tomato
+19,unusual,0.00010832029942432415,84,dangerous-pestle juicy-chile warm-cincture
+20,impossible,0.0,313,lay_eggs-leopard lay_eggs-drill roll-fireplace
+21,creative,0.00024080803866561207,23,blue-goldfish round-chicken fly-sharpie

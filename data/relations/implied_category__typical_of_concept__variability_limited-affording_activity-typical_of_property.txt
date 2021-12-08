@@ -1,0 +1,3 @@
+used_in_cooking,grater
+made_of_wood,arrow
+juicy,blackberry

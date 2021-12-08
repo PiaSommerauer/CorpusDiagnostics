@@ -1,0 +1,2 @@
+red,barn
+green,tank

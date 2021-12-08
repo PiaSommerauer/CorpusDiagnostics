@@ -1,0 +1,123 @@
+context,evidence_type,categories
+eating, ,no-cat
+eaten, ,no-cat
+corn, ,animal no-cat
+pie, ,no-cat
+fresh, ,animal no-cat
+used, ,no-cat
+potato, ,no-cat
+sweet, ,no-cat
+sometimes, ,no-cat
+mixture, ,no-cat
+tomato, ,no-cat
+largest, ,animal no-cat
+watermelon, ,object plant fruit all no-cat
+cold, ,no-cat
+covered, ,no-cat
+type, ,no-cat
+flour, ,no-cat
+farmers, ,no-cat
+plant, ,animal no-cat
+sugar, ,no-cat
+means, ,no-cat
+north, ,no-cat
+less, ,no-cat
+source, ,no-cat
+honey, ,no-cat
+feeding, ,no-cat
+parts, ,no-cat
+locally, ,relation animal no-cat
+meaning, ,no-cat
+portuguese, ,no-cat
+located, ,no-cat
+france, ,no-cat
+requires, ,no-cat
+leaf, ,relation no-cat
+slightly, ,no-cat
+lime, ,relation
+yellow, ,relation
+preserved, ,relation
+industrial, ,relation
+juice, ,all relation object fruit
+citrus, ,relation
+pineapple, ,relation
+skin, ,relation
+blend, ,relation
+red, ,relation animal
+peel, ,relation
+green, ,relation
+pink, ,relation
+cultivar, ,relation
+dressed, ,relation
+confused, ,relation
+grounds, ,relation
+include, ,relation animal
+naturally, ,relation
+mostly, ,relation
+lady, ,relation
+orange, ,all object plant fruit
+fruit, ,food plant
+berry, ,plant
+apple, ,fruit
+she, ,vegetable
+shrimp, ,vegetable animal
+high, ,vegetable
+part, ,vegetable
+fruits, ,food
+mango, ,food
+shaped, ,animal
+meat, ,animal
+seafood, ,animal
+traditional, ,animal
+applied, ,animal
+chicken, ,animal
+includes, ,animal
+these, ,animal
+small, ,animal
+large, ,animal
+or, ,animal
+catch, ,animal
+deep, ,animal
+animal, ,animal
+are, ,animal
+boat, ,animal
+19th, ,animal
+resembles, ,animal
+common, ,animal
+pepper, ,animal
+taste, ,animal
+diet, ,animal
+bacon, ,animal
+formerly, ,animal
+region, ,animal
+decline, ,animal
+traditionally, ,animal
+house, ,animal
+shark, ,animal
+related, ,animal
+island, ,animal
+produce, ,animal
+caught, ,animal
+mud, ,animal
+called, ,animal
+grow, ,animal
+such, ,animal
+some, ,animal
+east, ,animal
+fish, ,animal
+ranging, ,animal
+popular, ,animal
+restaurant, ,animal
+eat, ,animal
+kind, ,animal
+single, ,animal
+coast, ,animal
+substantial, ,animal
+brunswick, ,animal
+example, ,animal
+especially, ,animal
+found, ,animal
+consumed, ,animal
+locals, ,animal
+local, ,animal
+like, ,animal

@@ -1,0 +1,3 @@
+dangerous,blade
+dangerous,killer
+wings,sparrow

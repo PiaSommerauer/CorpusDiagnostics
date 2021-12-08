@@ -1,0 +1,7 @@
+blue,feeling
+red,bloodstone
+blue,water
+red,radish
+made_of_wood,bridge
+red,rhubarb
+square,basement

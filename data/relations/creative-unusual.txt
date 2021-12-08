@@ -1,0 +1,6 @@
+made_of_wood,cushion
+green,human
+sweet,chicken
+red,chicken
+yellow,miner
+black,heart

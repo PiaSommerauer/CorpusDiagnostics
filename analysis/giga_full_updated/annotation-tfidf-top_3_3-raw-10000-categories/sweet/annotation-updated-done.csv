@@ -1,0 +1,36 @@
+context,evidence_type,categories
+potato,i,vegetable
+nickname,u,vegetable
+lovers,u,vegetable
+sweet,p,plant fruit food all relation object
+banana,i,object plant food all fruit
+jam,i,object plant food all fruit
+berry,i,object plant
+fruit,i,fruit plant
+blueberry,i,plant
+stand,u,relation
+candy,i,relation
+peaches,i,relation
+wines,i,relation
+festival,u,relation
+grapes,i,relation
+champagne,i,relation
+wine,i,relation
+apple,i,relation
+syrup,i,relation
+caramel,i,relation
+sweeter,p,relation
+reserved,u,relation
+real,u,relation
+bubble,i,relation
+visitor,u,relation
+entirely,u,relation
+apples,i,relation
+substitute,u,relation
+holiday,u,relation
+flowing,u,relation
+rival,u,relation
+wooden,u,relation
+grape,i,fruit
+strawberry,i,fruit
+passion,u,fruit

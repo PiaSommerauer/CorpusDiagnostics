@@ -1,0 +1,56 @@
+context,evidence_type,categories
+order, ,no-cat
+placed, ,no-cat
+belong, ,no-cat
+group, ,no-cat
+true, ,no-cat
+bird, ,all object animal
+hawk, ,all object food
+winged, ,all object
+owl, ,bird animal
+white, ,bird
+nests, ,bird
+woodpecker, ,bird
+red, ,bird
+green, ,bird
+such, ,bird
+dove, ,bird
+birds, ,all animal
+thrust, ,vehicle
+demonstrate, ,vehicle
+flown, ,vehicle
+fly, ,vehicle food
+experimental, ,vehicle
+failure, ,vehicle
+flight, ,vehicle food
+unmanned, ,vehicle
+piloted, ,vehicle
+pilot, ,food
+land, ,food
+painted, ,food
+20th, ,food
+eagle, ,food
+heavy, ,food
+medium, ,food
+flew, ,food
+night, ,food
+ground, ,food
+old, ,food
+willow, ,food
+shoot, ,food
+spring, ,food
+shooting, ,food
+mountain, ,food
+egyptian, ,food
+cuckoo, ,food
+counterparts, ,food
+jungle, ,food
+partially, ,food
+events, ,food
+relatives, ,food
+pub, ,food
+plenty, ,food
+habitat, ,food
+grouse, ,food
+affected, ,food
+manner, ,food

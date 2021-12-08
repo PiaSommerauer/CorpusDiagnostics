@@ -1,0 +1,3 @@
+wings,bat
+wings,plane
+wheels,wagon

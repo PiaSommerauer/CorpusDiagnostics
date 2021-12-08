@@ -1,0 +1,5 @@
+round,coconut
+black,housefly
+black,pupil
+dangerous,phencyclidine
+wings,weaver

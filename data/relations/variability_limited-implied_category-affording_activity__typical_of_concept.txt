@@ -1,0 +1,5 @@
+made_of_wood,dowel
+sweet,pomegranate
+green,elm
+square,macintosh
+used_in_cooking,lobster

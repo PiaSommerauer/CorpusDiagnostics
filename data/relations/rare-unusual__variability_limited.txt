@@ -1,0 +1,5 @@
+made_of_wood,washtub
+red,weed
+green,pumpkin
+red,potato
+roll,acrylic

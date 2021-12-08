@@ -1,0 +1,15 @@
+juicy,dessert
+square,dresser
+square,bathroom
+green,bottle
+blue,parrot
+round,biscuit
+blue,parakeet
+square,button
+red,vegetable
+red,spice
+green,glass
+red,fruit
+round,ashtray
+sweet,puree
+red,chutney

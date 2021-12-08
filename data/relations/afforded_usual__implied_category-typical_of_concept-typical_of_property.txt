@@ -1,0 +1,10 @@
+swim,octopus
+fly,gull
+swim,blenny
+swim,cusk
+swim,anglerfish
+fly,grosbeak
+swim,herring
+fly,nightingale
+fly,tropicbird
+fly,whitethroat

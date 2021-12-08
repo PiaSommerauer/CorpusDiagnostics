@@ -1,0 +1,811 @@
+context,evidence_type,categories
+for, ,vegetable animal
+bright, ,vegetable food animal relation
+simple, ,vegetable
+60, ,vegetable
+end, ,vegetable
+pineapple, ,object plant food all fruit
+juices, ,no-cat object relation
+orange, ,object food all animal fruit
+banana, ,no-cat plant
+ripe, ,plant
+fruit, ,animal no-cat plant
+lime, ,relation
+juice, ,no-cat relation
+vinegar, ,no-cat relation
+drain, ,relation
+along, ,animal relation
+lobster, ,animal relation
+fragrant, ,relation
+grapefruit, ,relation
+tomato, ,animal relation
+garlic, ,no-cat relation
+fresh, ,no-cat animal relation
+teaspoons, ,relation
+parsley, ,relation
+canned, ,relation
+onion, ,no-cat animal relation
+grapes, ,relation
+puree, ,relation
+toss, ,no-cat animal relation
+chicken, ,no-cat animal relation
+salad, ,no-cat animal relation
+drained, ,relation
+basil, ,relation
+peaches, ,relation
+red, ,animal relation
+cucumber, ,relation
+cubes, ,relation
+vinaigrette, ,relation
+shrimp, ,animal relation
+packed, ,relation
+soaked, ,animal relation
+olives, ,relation
+light, ,relation
+salmon, ,animal relation
+salsa, ,no-cat animal relation
+turning, ,animal relation
+dressed, ,animal relation
+fry, ,animal relation
+waters, ,relation
+buried, ,relation
+green, ,no-cat relation
+dried, ,no-cat animal relation
+substitute, ,no-cat animal relation
+fruits, ,all
+mango, ,food
+papaya, ,food
+mixture, ,animal no-cat
+each, ,animal no-cat
+bacon, ,animal
+grilled, ,animal no-cat
+smoked, ,animal
+lamb, ,animal no-cat
+corn, ,animal no-cat
+stuffed, ,animal
+perfect, ,animal no-cat
+on, ,animal
+from, ,animal no-cat
+recipes, ,animal no-cat
+hook, ,animal
+90, ,animal no-cat
+plant, ,animal no-cat
+eaten, ,animal no-cat
+runs, ,animal
+prices, ,animal
+missing, ,animal
+200, ,animal no-cat
+women, ,animal
+attached, ,animal no-cat
+eating, ,animal no-cat
+their, ,animal
+beef, ,animal no-cat
+features, ,animal no-cat
+flavored, ,animal no-cat
+whole, ,animal no-cat
+there, ,animal
+bay, ,animal
+dishes, ,animal
+dish, ,animal no-cat
+soup, ,animal no-cat
+pasta, ,animal
+slices, ,animal no-cat
+cakes, ,animal
+fisheries, ,animal
+fried, ,animal no-cat
+bean, ,animal
+with, ,animal
+seafood, ,animal
+of, ,animal
+knife, ,animal
+butter, ,animal no-cat
+flavor, ,animal no-cat
+edge, ,animal
+slice, ,animal no-cat
+roll, ,animal no-cat
+industry, ,animal
+spinach, ,animal no-cat
+burgers, ,animal
+000, ,animal
+pieces, ,animal no-cat
+plate, ,animal
+sauce, ,animal no-cat
+tables, ,animal
+tuna, ,animal
+golden, ,animal no-cat
+raw, ,animal no-cat
+wrapped, ,animal
+together, ,animal
+sausage, ,animal no-cat
+sliced, ,animal no-cat
+cheese, ,animal
+seasoned, ,animal
+roasted, ,animal no-cat
+ham, ,animal
+add, ,animal no-cat
+like, ,animal
+through, ,animal
+pepper, ,animal
+catch, ,animal
+10, ,animal
+other, ,animal
+fair, ,animal no-cat
+piece, ,animal no-cat
+clean, ,animal
+which, ,animal
+22, ,animal no-cat
+them, ,animal
+flat, ,animal no-cat
+small, ,animal no-cat
+alongside, ,animal
+pie, ,animal no-cat
+95, ,animal no-cat
+place, ,animal no-cat
+cooked, ,animal no-cat
+sweet, ,animal no-cat
+or, ,animal no-cat
+hauled, ,animal
+floating, ,animal
+inch, ,animal no-cat
+hot, ,animal no-cat
+stuffing, ,animal no-cat
+ginger, ,animal no-cat
+steaks, ,animal
+tail, ,animal
+apple, ,animal no-cat
+snacks, ,animal
+homes, ,animal
+pull, ,animal
+dry, ,animal no-cat
+cook, ,animal
+cool, ,animal no-cat
+courses, ,animal
+pour, ,animal
+cottage, ,animal
+filling, ,animal no-cat
+next, ,animal
+round, ,animal
+available, ,animal no-cat
+lightly, ,animal no-cat
+needs, ,animal
+table, ,animal
+mix, ,animal no-cat
+mexican, ,animal
+ground, ,animal
+northern, ,animal
+rules, ,animal
+sugar, ,animal no-cat
+kitchen, ,animal no-cat
+tossed, ,animal no-cat
+superb, ,animal no-cat
+bites, ,animal no-cat
+mere, ,animal
+easier, ,animal
+quickly, ,animal
+hold, ,animal no-cat
+purchase, ,animal
+largest, ,animal
+drink, ,animal no-cat
+remains, ,animal no-cat
+turned, ,animal
+including, ,animal no-cat
+tightly, ,animal
+egg, ,animal
+favorites, ,animal
+serve, ,animal no-cat
+fully, ,animal
+pan, ,animal
+looks, ,animal
+serving, ,animal no-cat
+she, ,animal
+fingers, ,animal
+come, ,animal
+silver, ,animal
+pea, ,animal
+followed, ,animal
+jumped, ,animal
+opened, ,animal
+steamed, ,animal
+mary, ,animal
+offers, ,animal
+cream, ,animal
+using, ,animal no-cat
+spotted, ,animal
+catching, ,animal
+local, ,animal
+sculpture, ,animal
+carefully, ,animal
+filled, ,animal no-cat
+fish, ,animal
+then, ,animal
+you, ,animal
+at, ,animal
+are, ,animal
+warm, ,animal no-cat
+all, ,animal
+toast, ,animal no-cat
+sandwiches, ,animal
+worked, ,animal
+its, ,animal no-cat
+eat, ,animal no-cat
+off, ,animal
+beans, ,animal no-cat
+down, ,animal
+grill, ,animal
+medium, ,animal no-cat
+baby, ,animal
+baked, ,animal no-cat
+include, ,animal
+work, ,animal
+price, ,animal
+room, ,animal
+our, ,animal
+came, ,animal
+birds, ,animal
+favorite, ,animal no-cat
+mrs, ,animal
+supplies, ,animal
+young, ,animal
+served, ,animal no-cat
+dollars, ,animal
+downtown, ,animal no-cat
+alone, ,animal
+seared, ,animal
+scallops, ,animal
+fishermen, ,animal
+shaped, ,animal
+fishery, ,animal
+spicy, ,animal no-cat
+fishing, ,animal
+boat, ,animal
+fisherman, ,animal
+sea, ,animal
+ravioli, ,animal
+mousse, ,animal
+asparagus, ,animal
+sauteed, ,animal
+coconut, ,animal
+prawn, ,animal
+cod, ,animal
+meat, ,animal
+appetizer, ,animal
+rolls, ,animal
+dumplings, ,animal
+topped, ,animal
+veal, ,animal
+the, ,animal no-cat
+and, ,animal
+portion, ,animal
+search, ,animal
+has, ,animal
+octopus, ,animal
+recipe, ,animal no-cat
+that, ,animal
+her, ,animal
+avocado, ,animal
+risotto, ,animal
+clams, ,animal
+pulling, ,animal
+halibut, ,animal
+prawns, ,animal
+menu, ,animal
+carved, ,animal
+nicely, ,animal
+be, ,animal
+arrange, ,animal
+creamy, ,animal
+side, ,animal
+meal, ,animal
+pattern, ,animal no-cat
+atlantic, ,animal
+cherry, ,animal
+commercial, ,animal
+plates, ,animal
+pure, ,animal
+regulation, ,animal
+tide, ,animal
+fold, ,animal
+bass, ,animal
+cake, ,animal
+grade, ,animal
+divide, ,animal
+generally, ,animal
+caught, ,animal
+per, ,animal
+pork, ,animal
+swimming, ,animal
+ocean, ,animal
+plump, ,animal no-cat
+lovely, ,animal
+few, ,animal
+season, ,animal
+my, ,animal
+sushi, ,animal
+stew, ,animal
+big, ,animal
+had, ,animal
+sole, ,animal
+into, ,animal
+inside, ,animal
+too, ,animal
+as, ,animal
+taste, ,animal no-cat
+can, ,animal
+mushroom, ,animal
+clock, ,animal
+mac, ,animal
+coat, ,animal no-cat
+surface, ,animal
+bus, ,animal
+burger, ,animal
+bucket, ,animal
+sustainable, ,animal
+honey, ,animal no-cat
+parmesan, ,animal
+typically, ,animal
+bell, ,animal
+palm, ,animal
+board, ,animal
+package, ,animal
+pack, ,animal
+customers, ,animal
+fabulous, ,animal
+robust, ,animal
+fare, ,animal
+conservation, ,animal
+salt, ,animal
+prepare, ,animal
+fancy, ,animal
+sherry, ,animal
+doubled, ,animal
+working, ,animal
+leaf, ,animal
+14, ,animal
+blood, ,animal
+likes, ,animal
+mini, ,animal
+greens, ,animal
+until, ,animal
+21, ,animal
+breakfast, ,animal
+pressure, ,animal
+miss, ,animal
+top, ,animal
+layers, ,animal
+highlight, ,animal
+quick, ,animal
+dinner, ,animal
+rest, ,animal
+treated, ,animal
+your, ,animal
+dressing, ,animal
+desk, ,animal
+tree, ,animal
+developed, ,animal no-cat
+most, ,animal
+dig, ,animal
+duck, ,animal
+result, ,animal
+turkey, ,animal
+decorated, ,animal
+rice, ,animal
+natural, ,animal
+deep, ,animal
+right, ,animal
+encounter, ,animal
+day, ,animal
+delight, ,animal
+transfer, ,animal
+dozens, ,animal
+hearts, ,animal
+elegant, ,animal
+within, ,animal
+particularly, ,animal
+found, ,animal
+feature, ,animal
+seized, ,animal
+some, ,animal
+familiar, ,animal
+plus, ,animal
+soon, ,animal
+paper, ,animal
+25, ,animal
+see, ,animal
+places, ,animal
+perfectly, ,animal
+added, ,animal no-cat
+aboard, ,animal
+coins, ,animal
+actually, ,animal
+cold, ,animal
+shark, ,animal
+wellington, ,animal
+making, ,animal
+pay, ,animal
+about, ,animal
+above, ,animal
+peak, ,animal
+foil, ,animal
+flying, ,animal
+week, ,animal
+marine, ,animal
+chef, ,animal
+calls, ,animal
+always, ,animal
+gloves, ,animal
+course, ,animal
+53, ,animal
+sake, ,animal
+example, ,animal
+even, ,animal
+crew, ,animal
+kinds, ,animal
+ever, ,animal
+29, ,animal
+offer, ,animal
+amounts, ,animal
+30, ,animal
+good, ,animal
+stir, ,animal
+stiff, ,animal
+tourists, ,animal
+involves, ,animal
+involving, ,animal
+spots, ,animal
+version, ,animal
+out, ,animal
+carolina, ,animal
+ordering, ,animal
+say, ,animal
+600, ,animal
+poor, ,animal
+re, ,animal
+summer, ,animal
+tasted, ,animal no-cat
+la, ,animal
+live, ,animal no-cat
+cans, ,animal
+tin, ,animal
+mackerel, ,animal
+sandwich, ,animal
+stocks, ,animal
+bait, ,animal
+roof, ,animal
+size, ,animal
+little, ,animal
+bottles, ,animal
+spread, ,animal
+shop, ,animal
+mouse, ,animal
+stuff, ,animal
+hunting, ,animal
+mouth, ,animal
+common, ,animal
+scientists, ,animal
+invented, ,animal
+wait, ,animal
+large, ,animal
+thirds, ,animal
+been, ,animal
+better, ,animal
+world, ,animal
+diet, ,animal
+western, ,animal
+rolled, ,animal
+to, ,animal
+bound, ,animal
+provides, ,animal
+bar, ,animal
+louisiana, ,animal
+pound, ,animal
+trap, ,animal
+trade, ,animal
+considering, ,animal
+percent, ,animal
+contest, ,animal
+curry, ,animal
+studded, ,animal
+specialty, ,animal
+resulted, ,animal
+cheap, ,animal
+cycle, ,animal
+whale, ,animal
+time, ,animal
+ports, ,animal
+mention, ,animal
+tested, ,animal
+pit, ,animal
+horse, ,animal
+things, ,animal
+plenty, ,animal
+same, ,animal
+issue, ,animal
+lucky, ,animal
+annual, ,animal
+restaurant, ,animal
+among, ,animal
+effect, ,animal
+locals, ,animal
+while, ,animal
+famous, ,animal
+mainly, ,animal
+80, ,animal
+town, ,animal
+escape, ,animal
+many, ,animal
+instead, ,animal
+equal, ,animal
+culinary, ,animal
+truck, ,animal
+family, ,animal
+1950s, ,animal
+full, ,animal
+night, ,animal
+but, ,animal
+store, ,animal
+similarly, ,animal no-cat
+500, ,animal
+stuck, ,animal
+study, ,animal
+central, ,animal
+getting, ,animal
+odd, ,animal
+sound, ,animal
+obscure, ,animal
+go, ,animal
+sometimes, ,animal
+normally, ,animal
+camp, ,animal
+brings, ,animal
+am, ,animal
+tall, ,animal
+minor, ,animal
+feed, ,animal
+between, ,animal
+best, ,animal
+besides, ,animal
+here, ,animal
+break, ,animal
+collapsed, ,animal
+coming, ,animal
+several, ,animal
+without, ,animal
+pulled, ,animal
+worthy, ,animal
+learn, ,animal
+reduced, ,animal
+dubbed, ,animal no-cat
+may, ,animal no-cat
+legs, ,animal
+combine, ,animal no-cat
+lemon, ,animal no-cat
+boiled, ,animal
+delicious, ,animal no-cat
+steak, ,animal
+frozen, ,animal no-cat
+picked, ,animal
+mushrooms, ,animal
+50, ,animal
+chili, ,animal no-cat
+bread, ,animal no-cat
+onions, ,animal
+tomatoes, ,animal no-cat
+giant, ,animal no-cat
+bits, ,animal no-cat
+bowl, ,animal no-cat
+serves, ,animal no-cat
+remove, ,animal no-cat
+tacos, ,animal
+style, ,animal no-cat
+use, ,animal no-cat
+ribs, ,animal
+99, ,animal no-cat
+they, ,animal
+walking, ,animal
+11, ,animal
+fries, ,animal
+barbecued, ,animal
+potatoes, ,animal
+chopped, ,animal no-cat
+might, ,animal
+melted, ,animal
+cups, ,animal no-cat
+buy, ,animal
+make, ,animal
+peas, ,animal no-cat
+foods, ,animal no-cat
+cut, ,animal no-cat
+called, ,animal
+quesadillas, ,animal
+va, ,animal
+barbecue, ,animal no-cat
+24, ,animal
+picks, ,animal
+chefs, ,animal
+usually, ,animal
+ca, ,animal
+tip, ,animal
+dogs, ,animal
+selling, ,animal
+than, ,animal
+700, ,animal
+wonderful, ,animal no-cat
+front, ,animal
+limits, ,animal
+15, ,animal no-cat
+five, ,animal
+enjoy, ,animal no-cat
+tender, ,animal no-cat
+drops, ,animal no-cat
+vegetables, ,animal
+done, ,animal
+much, ,animal
+appealing, ,animal no-cat
+olive, ,animal no-cat
+feeding, ,animal
+drank, ,animal
+sharp, ,animal no-cat
+peanuts, ,animal
+cookbook, ,animal
+treat, ,animal
+mean, ,animal
+houses, ,animal
+75, ,animal no-cat
+thing, ,animal
+pizza, ,animal
+type, ,animal no-cat
+cutting, ,animal
+taco, ,animal
+market, ,animal
+19, ,animal no-cat
+pinch, ,animal
+miniature, ,animal
+smell, ,animal no-cat
+herb, ,animal
+again, ,animal
+showed, ,animal
+producing, ,animal no-cat
+plain, ,animal no-cat
+immediately, ,animal
+sits, ,animal
+ensure, ,animal
+resembles, ,animal
+minute, ,animal no-cat
+stock, ,animal
+sit, ,animal no-cat
+totally, ,animal
+pudding, ,animal no-cat
+mexico, ,animal
+microwave, ,animal
+studies, ,animal
+offered, ,animal no-cat
+couple, ,animal
+consider, ,animal
+costs, ,animal
+hard, ,animal
+dispute, ,animal
+dog, ,animal
+seller, ,animal no-cat
+please, ,animal
+easy, ,animal no-cat
+earlier, ,animal
+simply, ,animal no-cat
+demand, ,animal
+heavy, ,animal
+sounds, ,animal
+mail, ,animal
+decided, ,animal
+highly, ,animal
+everyone, ,animal
+tray, ,animal
+commission, ,animal
+anyone, ,animal
+weight, ,animal
+yourself, ,animal
+describe, ,animal
+hat, ,animal
+ear, ,animal
+companies, ,animal
+whatever, ,animal
+refer, ,animal
+happily, ,animal
+basically, ,animal
+rides, ,animal
+wood, ,animal no-cat
+accounts, ,animal
+33, ,animal no-cat
+mile, ,animal no-cat
+400, ,animal
+instance, ,animal
+purchased, ,animal
+aside, ,animal no-cat
+lane, ,animal
+answer, ,animal no-cat
+comparison, ,animal
+station, ,animal
+despite, ,animal
+stealing, ,animal
+standards, ,animal no-cat
+describes, ,animal
+tent, ,animal
+difficult, ,animal
+direct, ,animal
+converted, ,animal
+thousands, ,animal
+cooking, ,no-cat
+skin, ,no-cat
+potato, ,no-cat
+beer, ,no-cat
+cup, ,no-cat
+milk, ,no-cat
+wine, ,fruit no-cat
+biscuits, ,no-cat
+food, ,no-cat
+ounce, ,no-cat
+every, ,no-cat
+backyard, ,no-cat
+made, ,no-cat
+apples, ,no-cat
+half, ,no-cat
+thin, ,no-cat
+grain, ,no-cat
+reserved, ,no-cat
+40, ,no-cat
+tea, ,no-cat
+pick, ,no-cat
+any, ,no-cat
+nuts, ,no-cat
+removed, ,no-cat
+variety, ,no-cat
+stand, ,no-cat
+cranberry, ,no-cat
+slightly, ,no-cat
+rubbed, ,no-cat
+shallow, ,no-cat
+nearby, ,no-cat
+cotton, ,no-cat
+boxes, ,no-cat
+lighter, ,no-cat
+suits, ,no-cat
+inn, ,no-cat
+italian, ,no-cat
+cookies, ,no-cat
+tucked, ,no-cat
+drop, ,no-cat
+ice, ,no-cat
+cross, ,no-cat
+takes, ,no-cat
+throwing, ,no-cat
+across, ,no-cat
+suspended, ,no-cat
+lived, ,no-cat
+lower, ,no-cat
+freeze, ,no-cat
+garden, ,no-cat
+months, ,no-cat
+described, ,no-cat
+protect, ,no-cat
+tasting, ,no-cat
+2004, ,no-cat
+de, ,no-cat
+bunch, ,no-cat
+dust, ,no-cat
+candy, ,no-cat
+entire, ,no-cat
+acre, ,no-cat
+painting, ,no-cat
+handled, ,no-cat
+colored, ,no-cat
+harbor, ,no-cat
+cereal, ,no-cat
+lack, ,no-cat
+estimated, ,no-cat
+napa, ,no-cat
+teeth, ,no-cat
+analysis, ,no-cat
+non, ,no-cat
+painted, ,no-cat
+lemonade, ,no-cat
+stem, ,no-cat
+spokeswoman, ,no-cat
+colors, ,no-cat

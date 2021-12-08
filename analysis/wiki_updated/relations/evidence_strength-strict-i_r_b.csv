@@ -1,0 +1,21 @@
+,relation,mean_tfidf,n_pairs,examples
+0,pos,0.004167729382910271,1973,warm-bootie green-frog sweet-dewberry
+1,neg,0.0006575459333736255,1331,juicy-donut swim-thresher blue-broccoli
+2,all,0.004727427225675633,1144,warm-bootie green-frog sweet-lychee
+3,some,0.003395359862857727,829,square-bookcase hot-dough square-console
+4,few,0.0006575459333736255,1331,juicy-donut swim-thresher blue-broccoli
+5,evidence,0.004701885036125559,1542,warm-bootie green-frog sweet-dewberry
+6,no_evidence_pos,0.002507719624526298,446,hot-dough cold-cake black-hose
+7,no_evidence_neg,0.0005542355862902216,1316,juicy-donut swim-thresher blue-broccoli
+8,implied_category,0.004618621310820043,16,wheels-tank round-pepperoni round-cherry
+9,typical_of_concept,0.005644964521925227,4,wheels-wheel juicy-meat fly-babbler
+10,typical_of_property,0.0,0,
+11,affording_activity,0.0040359734111075594,4,wheels-rig sweet-allspice juicy-okra
+12,afforded_usual,0.0020554937431152146,3,lay_eggs-stockfish lay_eggs-platypus swim-goldeneye
+13,afforded_unusual,0.0008541674613477482,20,swim-armadillo roll-bolt swim-painter
+14,variability_limited,0.0026901604356090393,114,swim-runner round-egg square-server
+15,variability_open,0.0036678895147686562,175,warm-jumpsuit cold-pillow cold-mud
+16,rare,0.0017667393630068646,19,cold-pomade yellow-cloak green-brick
+17,unusual,0.00041082617152987016,84,used_in_cooking-drill black-onion juicy-donut
+18,impossible,0.0007548303942742843,313,blue-willow swim-thresher blue-broccoli
+19,creative,0.0016289437697236577,23,sweet-mussel hot-people round-chicken

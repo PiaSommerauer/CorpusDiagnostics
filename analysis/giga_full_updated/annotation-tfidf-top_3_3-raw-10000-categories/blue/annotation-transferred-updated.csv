@@ -1,0 +1,2235 @@
+context,evidence_type,categories
+various,u,object all
+alleged,u,object vehicle measure
+midnight,i,blue object vehicle measure
+wine,NA,measure
+drinking,NA,measure
+tea,NA,measure
+coffee,NA,measure
+act,NA,bird measure
+tap,NA,measure
+making,NA,measure
+would,NA,measure
+seeing,NA,measure vehicle
+allowing,NA,measure
+slowly,NA,measure vehicle
+warm,NA,blue measure
+entire,NA,measure
+tourists,NA,measure vehicle
+20th,NA,measure
+japanese,NA,measure
+heart,NA,measure vehicle
+sunny,NA,measure
+million,NA,measure
+rainbow,NA,measure
+businesses,NA,measure vehicle
+enjoyed,NA,measure
+allow,NA,measure vehicle
+these,NA,measure
+wheel,NA,measure vehicle
+pizza,NA,measure
+cooler,NA,measure
+society,NA,measure
+presented,NA,measure vehicle
+divided,NA,measure
+waiting,NA,measure vehicle
+drawn,NA,measure
+doug,NA,measure
+jungle,NA,measure vehicle
+ultimate,NA,measure
+soul,NA,blue measure
+eve,NA,measure vehicle
+roads,NA,measure vehicle
+clubs,NA,measure
+higher,NA,measure vehicle
+number,NA,measure vehicle
+brings,NA,blue measure
+means,NA,measure
+winning,NA,measure vehicle
+brother,NA,measure vehicle
+begin,NA,measure vehicle
+nation,NA,measure vehicle
+degree,NA,measure
+shared,NA,measure vehicle
+mexico,NA,measure
+movement,NA,measure
+freely,NA,measure
+1993,NA,measure vehicle
+feb,NA,measure vehicle
+tune,NA,measure
+figured,NA,measure vehicle
+1997,NA,measure vehicle
+thirds,NA,measure
+locals,NA,measure vehicle
+album,NA,measure
+forced,NA,measure vehicle
+draw,NA,measure
+staged,NA,measure
+bring,NA,measure vehicle
+mad,NA,measure
+revolution,NA,measure
+truth,NA,measure
+protest,NA,measure vehicle
+activities,NA,measure
+prince,NA,measure vehicle
+designated,NA,measure
+poor,NA,measure
+brooklyn,NA,measure
+positive,NA,measure
+barbara,NA,measure
+indoors,NA,measure
+soil,NA,blue measure
+potential,NA,measure
+excellent,NA,measure
+adults,NA,measure vehicle
+dollar,NA,measure
+competition,NA,measure vehicle
+ideas,NA,measure
+cocaine,NA,measure
+representing,NA,measure vehicle
+argument,NA,measure
+teenage,NA,measure
+football,NA,measure
+language,NA,measure
+message,NA,measure
+arabic,NA,measure
+creative,NA,measure
+millions,NA,measure
+sixth,NA,measure
+mystery,NA,blue measure
+total,NA,measure
+pinch,NA,measure
+unlikely,NA,measure
+liquor,NA,measure
+sides,NA,measure
+upside,NA,blue measure
+indoor,NA,measure
+need,NA,measure
+preferably,NA,measure
+person,NA,measure vehicle
+jumped,NA,measure vehicle
+wonderful,NA,measure
+iconic,NA,measure vehicle
+handled,NA,measure
+america,NA,measure
+tub,NA,measure
+ideal,NA,measure
+inner,NA,measure
+tries,NA,measure
+states,NA,measure
+general,NA,measure
+dollars,NA,measure
+patient,NA,measure
+nancy,NA,measure
+maple,NA,measure
+hunter,NA,measure
+forbidden,NA,measure
+term,NA,measure
+1970s,NA,measure
+gradually,NA,measure
+leadership,NA,measure
+believed,NA,measure
+ritual,NA,measure
+68,NA,measure vehicle
+character,NA,measure vehicle
+limited,NA,measure
+difficult,NA,measure
+closest,NA,measure vehicle
+increasing,NA,measure
+patients,NA,measure
+associates,NA,measure
+organization,NA,measure
+potent,NA,measure
+successfully,NA,measure
+prize,NA,measure
+guaranteed,NA,measure
+shattered,NA,blue measure
+windows,NA,measure vehicle
+broken,NA,measure vehicle
+window,NA,measure vehicle
+cocktail,NA,measure vehicle
+breaking,NA,measure
+objects,NA,measure
+drink,NA,measure vehicle
+rim,NA,measure
+full,NA,measure
+lewis,NA,measure
+museum,NA,measure
+lamps,NA,measure
+to,NA,measure
+smashing,NA,measure
+lobby,NA,measure
+into,NA,blue measure vehicle
+art,NA,measure
+displayed,NA,measure
+cracked,NA,measure
+bottom,NA,measure
+poured,NA,measure
+artist,NA,measure
+that,NA,measure
+scattered,NA,measure
+dining,NA,measure
+table,NA,measure
+orange,NA,measure
+everywhere,NA,measure vehicle
+hand,NA,measure
+boxes,NA,measure
+sealed,NA,measure
+pouring,NA,measure
+depression,NA,measure
+sand,NA,measure
+clear,NA,measure
+screen,NA,blue measure
+alice,NA,measure
+sidewalk,NA,measure
+tables,NA,measure
+hall,NA,measure
+there,NA,measure
+bubbles,NA,measure
+they,NA,measure
+slide,NA,measure
+when,NA,measure
+strain,NA,measure
+saint,NA,measure
+are,NA,measure vehicle
+high,NA,blue measure
+lamp,NA,measure
+sweeping,u,blue measure food
+lit,NA,measure
+throwing,NA,measure vehicle
+view,NA,measure
+against,NA,measure
+viewing,NA,measure
+smash,NA,measure vehicle
+lights,NA,measure vehicle
+alcohol,NA,measure
+bubble,NA,measure
+over,NA,blue measure vehicle
+specially,NA,measure vehicle
+candles,NA,measure
+placed,NA,measure
+cast,NA,measure
+cabinet,NA,measure
+streets,NA,blue measure vehicle
+spraying,NA,measure
+exhibition,NA,blue measure
+company,NA,measure vehicle
+shops,NA,measure vehicle
+towering,NA,measure
+courtyard,NA,measure
+era,u,measure relation
+industry,NA,measure
+shape,NA,measure
+lifted,NA,measure
+more,NA,measure
+three,NA,measure vehicle
+palace,NA,measure
+minor,NA,measure vehicle
+balcony,NA,measure
+along,NA,measure vehicle
+only,NA,measure vehicle
+trophy,NA,measure
+trash,NA,measure
+could,NA,measure
+this,NA,measure
+hurt,NA,measure
+music,NA,measure vehicle
+every,NA,measure vehicle
+plant,NA,measure
+downtown,NA,measure vehicle
+clay,NA,blue measure
+held,NA,measure
+breaks,NA,measure
+bulb,NA,measure
+heat,NA,measure
+garden,NA,blue measure
+11,NA,measure
+thrown,NA,measure vehicle
+feature,NA,blue measure vehicle
+very,NA,measure
+fragile,NA,measure
+deep,NA,measure
+show,NA,measure vehicle
+artistic,NA,measure
+church,NA,measure
+edge,NA,measure
+second,NA,measure
+sets,NA,measure
+created,NA,bird measure
+wife,NA,measure vehicle
+rare,NA,bird measure
+lighting,NA,blue measure
+kicked,NA,measure vehicle
+seated,NA,measure vehicle
+single,NA,measure
+collins,NA,measure
+featuring,NA,bird measure vehicle
+time,NA,measure
+swirling,NA,measure
+later,NA,measure vehicle
+bulbs,NA,measure
+york,NA,measure
+usually,NA,measure
+television,NA,measure
+stadium,NA,measure vehicle
+neon,NA,measure
+swirl,NA,measure
+inspired,NA,measure vehicle
+few,NA,measure vehicle
+special,NA,measure
+25,NA,measure vehicle
+almost,NA,measure
+many,NA,measure vehicle
+dominated,NA,measure
+reached,NA,blue measure vehicle
+since,NA,measure
+creating,NA,measure
+watching,NA,measure
+solid,NA,measure
+live,NA,measure
+world,NA,measure
+before,NA,blue measure
+years,NA,measure vehicle
+parents,NA,measure
+ordering,NA,measure
+period,NA,measure vehicle
+brilliant,NA,measure
+taped,NA,measure
+kiss,NA,measure
+glimpse,NA,blue measure vehicle
+showers,NA,measure
+may,u,bird measure
+spent,NA,bird measure
+lies,NA,measure
+level,NA,measure
+stunning,NA,measure
+thanks,NA,measure
+represents,NA,measure vehicle
+worked,NA,measure vehicle
+lane,NA,measure
+convention,NA,measure vehicle
+celebrated,NA,measure
+bars,NA,measure vehicle
+handed,NA,measure
+safely,NA,measure vehicle
+glow,NA,measure
+podium,NA,measure
+writer,NA,measure
+ordinary,NA,measure vehicle
+arranged,NA,measure vehicle
+plants,u,measure plant
+same,NA,measure
+market,NA,measure
+shows,NA,measure
+laura,NA,measure
+particularly,NA,measure
+idea,NA,measure
+throws,NA,measure
+major,NA,measure
+received,NA,measure vehicle
+invisible,NA,blue measure
+sky,NA,blue measure
+scores,NA,measure
+finest,NA,measure
+offer,NA,measure vehicle
+printed,NA,measure
+firm,NA,measure
+kansas,NA,measure
+tree,NA,measure vehicle
+come,NA,measure
+allowed,NA,measure vehicle
+opening,NA,blue measure
+remain,NA,measure
+stem,NA,measure
+spokeswoman,NA,measure
+train,NA,measure
+yet,NA,measure
+unveiled,NA,measure
+find,NA,measure vehicle
+play,NA,measure
+flower,NA,measure
+branch,NA,measure
+holders,NA,measure
+magic,u,measure all
+slipped,NA,measure vehicle
+39,NA,measure vehicle
+shadow,NA,measure
+school,NA,measure
+soon,NA,measure
+wilson,NA,measure
+call,NA,measure vehicle
+trees,NA,measure
+life,NA,measure vehicle
+29,NA,measure vehicle
+mass,NA,measure vehicle
+began,NA,blue measure vehicle
+host,NA,blue measure
+middle,NA,measure
+again,NA,measure
+virgin,NA,measure
+conversation,NA,measure
+precious,NA,measure
+played,NA,measure vehicle
+sharing,NA,measure
+dating,NA,measure
+serious,NA,measure vehicle
+celebration,NA,blue measure
+either,NA,measure
+club,NA,measure vehicle
+degrees,NA,measure
+encounter,NA,measure
+celebrate,NA,measure
+bill,NA,measure
+bible,NA,measure
+child,NA,measure vehicle
+realized,NA,measure
+dead,NA,measure vehicle
+decades,NA,measure vehicle
+jumping,NA,measure vehicle
+elaborate,NA,measure
+ask,NA,measure vehicle
+stage,NA,measure vehicle
+coming,NA,measure
+rain,NA,measure
+featured,NA,measure vehicle
+try,NA,measure
+trade,NA,measure
+lavish,NA,measure
+robert,NA,measure
+careful,NA,measure
+draws,NA,measure
+festival,NA,blue measure
+finishing,u,measure vehicle plant
+consider,NA,measure
+actors,NA,measure
+third,NA,measure
+basket,NA,measure
+radio,NA,measure
+concert,NA,blue measure vehicle
+spectacular,NA,blue measure
+remembered,NA,measure vehicle
+national,NA,measure
+finished,NA,measure
+followed,NA,measure
+reaching,NA,measure
+probably,NA,measure
+forest,NA,measure
+catch,NA,measure vehicle
+happened,NA,measure
+given,NA,measure vehicle
+state,NA,measure
+hong,NA,measure
+earthquake,NA,measure
+gordon,NA,measure
+signed,NA,measure
+impression,NA,measure
+selection,NA,measure
+step,NA,measure vehicle
+equally,NA,measure
+forming,NA,measure
+spreading,NA,measure
+service,NA,measure
+accepted,NA,measure
+flag,NA,blue measure vehicle
+stretched,NA,measure
+markets,NA,measure
+plays,NA,measure
+via,NA,measure vehicle
+temperatures,NA,measure
+parade,NA,measure vehicle
+andy,NA,measure vehicle
+reported,NA,measure
+party,NA,measure
+awards,NA,measure
+mountain,NA,measure vehicle
+due,NA,measure
+inexpensive,NA,measure
+hundred,NA,measure
+books,NA,measure
+trip,NA,measure vehicle
+however,NA,measure
+honey,NA,measure
+order,NA,measure
+atlanta,NA,measure
+added,NA,measure
+thousands,NA,measure
+gardens,NA,measure
+offering,NA,measure vehicle
+game,NA,measure
+highest,NA,measure
+tropical,NA,measure
+months,NA,measure vehicle
+admitted,NA,measure vehicle
+trail,NA,blue measure
+francisco,NA,measure
+gathered,NA,measure vehicle
+poem,NA,measure
+alley,NA,measure vehicle
+symbolic,NA,measure
+birthday,NA,measure vehicle
+singing,NA,measure
+earth,NA,measure
+introduced,NA,measure
+areas,NA,measure
+61,NA,measure vehicle
+drama,NA,measure
+capital,NA,blue measure vehicle
+interested,NA,measure
+students,NA,measure vehicle
+strike,NA,measure
+points,NA,measure
+event,NA,blue measure vehicle
+vibrant,NA,measure
+glorious,NA,measure
+opens,NA,measure vehicle
+tax,NA,measure
+press,NA,measure vehicle
+journey,NA,blue measure vehicle
+monster,NA,measure
+ends,NA,measure vehicle
+28,NA,measure vehicle
+heavily,NA,measure
+continued,NA,measure
+preferred,NA,measure vehicle
+nicholas,NA,measure
+fan,NA,measure
+bringing,NA,measure
+smoking,NA,measure vehicle
+starts,NA,blue measure
+dealer,NA,measure
+37,NA,measure vehicle
+start,NA,measure vehicle
+team,NA,measure
+stars,NA,measure
+date,NA,measure
+hook,NA,measure
+emerging,NA,measure
+wedding,NA,measure vehicle
+holy,NA,measure vehicle
+island,NA,measure
+blues,NA,measure
+opportunity,NA,measure
+award,NA,measure
+holder,NA,measure
+passion,NA,measure
+starting,NA,measure vehicle
+flags,NA,measure vehicle
+dancing,NA,blue measure vehicle
+dropped,NA,measure vehicle
+dropping,NA,blue measure
+present,NA,measure vehicle
+angeles,NA,blue measure
+amsterdam,NA,measure
+meet,NA,measure vehicle
+simultaneously,NA,measure
+connections,NA,measure
+illustrated,NA,measure
+evil,NA,measure
+speak,NA,measure
+vietnam,NA,measure
+array,NA,measure
+forth,NA,measure
+scale,u,measure animal
+planned,NA,measure
+spot,NA,measure vehicle
+choose,NA,measure vehicle
+fans,NA,measure vehicle
+twice,NA,measure vehicle
+pairs,NA,measure
+beginning,NA,measure vehicle
+films,NA,measure vehicle
+extraordinary,NA,measure
+studded,NA,measure
+complained,NA,measure
+happy,NA,measure vehicle
+pay,NA,measure vehicle
+meaning,NA,measure vehicle
+hope,NA,measure vehicle
+32,NA,measure vehicle
+entertainment,NA,measure vehicle
+annual,NA,measure
+disappear,NA,measure vehicle
+bat,NA,measure
+youths,NA,measure
+1979,NA,measure
+1992,NA,measure vehicle
+pear,NA,measure
+rogers,NA,measure
+murphy,NA,measure
+whom,NA,measure vehicle
+lists,NA,measure
+listening,NA,measure
+thus,NA,measure
+ahead,NA,measure
+reminded,NA,measure
+songs,NA,measure
+evident,NA,measure
+highlight,NA,measure
+swing,NA,measure
+frank,NA,measure
+hills,NA,measure
+drew,NA,measure
+seven,NA,measure vehicle
+fly,NA,measure
+pleasure,NA,measure
+follow,NA,measure vehicle
+holiday,NA,measure vehicle
+angels,NA,measure
+erupted,NA,measure vehicle
+childhood,NA,measure
+rested,NA,measure
+kong,NA,measure
+97,NA,measure vehicle
+cultural,NA,measure
+presidential,NA,measure
+acknowledged,NA,measure
+carolina,NA,measure
+entering,NA,measure
+miracle,NA,measure
+hits,NA,blue measure
+calling,NA,measure vehicle
+viewers,NA,measure
+met,NA,measure vehicle
+inspiration,NA,measure
+investment,NA,measure
+strangers,NA,measure
+calm,NA,measure
+stops,NA,measure vehicle
+berry,NA,measure
+1968,NA,measure
+honest,NA,measure
+sing,NA,measure
+cable,NA,measure
+jeff,NA,measure
+fourth,NA,measure
+jazz,NA,measure
+dlrs,NA,measure vehicle
+strength,NA,measure
+earliest,NA,measure
+86,NA,measure
+seller,NA,measure vehicle
+attributed,NA,measure
+weekend,NA,measure vehicle
+returning,NA,measure vehicle
+92,NA,measure
+lovers,NA,blue measure
+parks,NA,measure vehicle
+outdoors,NA,measure
+win,NA,measure
+79,NA,measure
+surprised,NA,measure vehicle
+tony,NA,measure
+kevin,NA,measure
+scent,NA,measure
+magical,NA,measure
+jam,NA,measure vehicle
+spain,NA,measure
+suicide,NA,measure vehicle
+cameron,NA,measure
+homage,NA,measure
+issue,NA,measure
+1994,NA,measure vehicle
+sponsor,NA,measure
+douglas,NA,measure
+trio,NA,measure vehicle
+appearances,NA,measure
+trips,NA,measure vehicle
+turner,NA,measure
+arrested,NA,measure vehicle
+eager,NA,measure vehicle
+charged,NA,measure vehicle
+2000,NA,measure
+romantic,NA,measure
+wins,NA,measure
+schedule,NA,measure
+hosted,NA,measure
+netherlands,NA,measure
+events,NA,blue measure
+upcoming,NA,measure
+seasons,NA,measure
+66,NA,measure vehicle
+nelson,NA,measure
+jr,NA,measure
+successful,NA,measure vehicle
+balance,NA,measure
+smart,NA,measure
+begun,NA,measure vehicle
+association,NA,measure
+laden,NA,measure vehicle
+activity,NA,measure
+college,NA,measure
+dealing,NA,measure
+chris,NA,measure
+coconut,NA,measure
+69,NA,measure
+introduction,NA,measure vehicle
+seemingly,NA,measure
+digging,NA,measure
+plan,NA,measure vehicle
+meets,NA,measure vehicle
+settled,NA,measure vehicle
+warriors,NA,measure
+sam,NA,measure
+sooner,NA,measure
+encourage,NA,measure vehicle
+accomplished,NA,measure
+benefit,NA,measure
+nationwide,NA,measure
+legend,NA,measure
+notorious,NA,measure
+kate,NA,measure
+1987,NA,measure
+experienced,NA,measure
+collective,NA,measure
+drives,NA,measure vehicle
+minds,NA,measure
+efforts,NA,measure
+promise,NA,measure
+pursuit,NA,measure
+departed,NA,measure
+demonstrations,NA,measure
+bulbous,NA,measure
+johnny,NA,measure
+feelings,NA,measure
+charges,NA,measure vehicle
+end,NA,measure vehicle
+package,NA,measure vehicle
+leader,NA,measure
+april,NA,measure
+ways,NA,measure
+romance,NA,measure
+sophomore,NA,measure
+fate,NA,measure
+additional,NA,measure vehicle
+followers,NA,measure
+knowledge,NA,measure
+1998,NA,measure vehicle
+purse,NA,measure
+formidable,NA,measure
+watering,NA,measure
+delivery,NA,measure vehicle
+municipal,NA,measure
+culture,NA,measure
+destined,NA,measure
+carrying,NA,vehicle
+passengers,NA,vehicle
+passenger,NA,vehicle
+ride,NA,vehicle
+tour,NA,blue vehicle
+boarded,NA,vehicle
+stop,NA,blue vehicle
+traveling,NA,vehicle
+accident,NA,vehicle
+crashed,NA,vehicle
+rides,NA,vehicle
+speeding,NA,vehicle
+riding,NA,vehicle
+people,NA,vehicle
+tours,NA,vehicle
+packed,NA,vehicle
+metro,NA,vehicle
+route,NA,vehicle
+heading,NA,vehicle
+traveled,NA,vehicle
+others,NA,vehicle
+took,NA,vehicle
+travel,NA,blue vehicle
+take,NA,vehicle
+caught,NA,bird vehicle
+ferry,NA,vehicle
+rush,NA,vehicle
+crossing,NA,vehicle
+his,NA,vehicle
+their,NA,vehicle
+out,NA,vehicle
+trapped,NA,vehicle
+airport,NA,vehicle
+them,NA,vehicle
+he,NA,vehicle
+taking,NA,vehicle
+got,NA,vehicle
+passing,NA,vehicle
+40,NA,vehicle
+including,NA,vehicle
+went,NA,vehicle
+travelled,NA,vehicle
+busy,NA,vehicle
+taken,NA,vehicle
+hours,NA,blue vehicle
+himself,NA,vehicle
+her,NA,vehicle
+traffic,NA,vehicle
+transported,NA,vehicle
+down,NA,vehicle
+hop,NA,vehicle
+tried,NA,blue vehicle
+dragged,NA,vehicle
+stranded,NA,vehicle
+walking,NA,vehicle
+indian,NA,blue vehicle
+yellow,u,bird animal vehicle
+shot,NA,vehicle
+behind,NA,vehicle
+lost,NA,vehicle
+street,NA,vehicle
+five,NA,vehicle
+escaped,NA,vehicle
+plowed,NA,vehicle
+red,NA,vehicle
+door,NA,vehicle
+opposite,NA,vehicle
+avoid,NA,vehicle
+31,NA,vehicle
+him,NA,vehicle
+saw,NA,vehicle
+speed,NA,vehicle
+most,NA,vehicle
+passed,NA,vehicle
+missed,NA,vehicle
+approached,NA,vehicle
+bike,NA,vehicle
+threw,NA,vehicle
+guide,NA,vehicle
+canal,NA,vehicle
+100,NA,vehicle
+travels,NA,vehicle
+just,NA,vehicle
+all,NA,vehicle
+bag,NA,vehicle
+stepped,NA,vehicle
+abandoned,NA,vehicle
+employees,NA,vehicle
+stuck,NA,vehicle
+turned,NA,vehicle
+kids,NA,vehicle
+death,NA,vehicle
+rural,NA,vehicle
+following,NA,vehicle
+pick,NA,vehicle
+bicycle,NA,vehicle
+county,NA,vehicle
+involving,NA,vehicle
+authorities,NA,vehicle
+park,NA,blue vehicle
+garage,NA,vehicle
+hybrid,NA,vehicle
+27,NA,vehicle
+eleven,NA,vehicle
+screaming,NA,vehicle
+blocked,NA,vehicle
+supporters,NA,vehicle
+arrive,NA,blue vehicle
+spotted,NA,vehicle
+42,NA,vehicle
+destination,NA,blue vehicle
+unidentified,NA,vehicle
+family,NA,vehicle
+approaching,NA,blue vehicle
+waved,NA,vehicle
+hospitalized,NA,vehicle
+dawn,NA,blue vehicle
+swept,NA,blue vehicle
+daughter,NA,vehicle
+asked,NA,vehicle
+suddenly,NA,vehicle
+excursion,NA,vehicle
+direction,NA,vehicle
+pulling,NA,vehicle
+young,NA,vehicle
+36,NA,vehicle
+sped,NA,vehicle
+suspect,NA,vehicle
+son,NA,vehicle
+arrives,NA,vehicle
+ridden,NA,vehicle
+phone,NA,vehicle
+bought,NA,vehicle
+body,NA,vehicle
+miss,NA,vehicle
+44,NA,vehicle
+looking,NA,vehicle
+roadblock,NA,vehicle
+teacher,NA,vehicle
+such,NA,vehicle
+attempted,NA,vehicle
+lunch,NA,vehicle
+65,NA,vehicle
+series,NA,vehicle
+steering,NA,vehicle
+couple,NA,vehicle
+block,NA,vehicle
+raced,NA,blue vehicle
+finally,NA,vehicle
+available,NA,vehicle
+everyone,NA,vehicle
+stay,NA,vehicle
+noticed,NA,vehicle
+freed,NA,vehicle
+runaway,NA,vehicle
+friend,NA,vehicle
+powered,NA,vehicle
+advertising,NA,vehicle
+bend,NA,vehicle
+narrow,NA,vehicle
+slow,NA,vehicle
+electric,NA,vehicle
+addition,NA,vehicle
+moments,NA,vehicle
+past,NA,vehicle
+bumped,NA,vehicle
+license,NA,vehicle
+ltd,NA,vehicle
+flee,NA,vehicle
+accompanying,NA,vehicle
+tipped,NA,vehicle
+rent,NA,vehicle
+54,NA,vehicle
+sleep,NA,vehicle
+wanted,NA,vehicle
+chased,NA,blue vehicle
+villagers,NA,vehicle
+name,NA,vehicle
+slowed,NA,vehicle
+routine,NA,vehicle
+offered,NA,vehicle
+st,NA,vehicle
+owns,NA,vehicle
+chase,NA,vehicle
+stayed,NA,vehicle
+together,NA,vehicle
+disappeared,NA,vehicle
+cousin,NA,vehicle
+licensed,NA,vehicle
+registered,NA,vehicle
+sure,NA,vehicle
+remember,NA,vehicle
+guests,NA,vehicle
+farther,NA,vehicle
+snow,NA,vehicle
+greeted,NA,vehicle
+quiet,NA,blue vehicle
+good,NA,vehicle
+yesterday,NA,vehicle
+hear,NA,vehicle
+cell,NA,vehicle
+la,NA,vehicle
+mayor,NA,vehicle
+employed,NA,vehicle
+hauled,NA,vehicle
+hoping,NA,blue vehicle
+smith,NA,vehicle
+queen,NA,vehicle
+someone,NA,vehicle
+offers,NA,vehicle
+want,NA,vehicle
+husband,NA,vehicle
+montreal,NA,vehicle
+identification,NA,vehicle
+dog,NA,vehicle
+let,NA,vehicle
+telling,NA,vehicle
+attractions,NA,vehicle
+dashed,NA,vehicle
+ms,NA,vehicle
+myself,NA,vehicle
+chasing,NA,vehicle
+really,NA,vehicle
+reporter,NA,vehicle
+apparent,NA,vehicle
+fact,NA,vehicle
+beat,NA,vehicle
+born,NA,vehicle
+1978,NA,vehicle
+theater,NA,vehicle
+wheelchair,NA,vehicle
+average,NA,vehicle
+sudden,NA,vehicle
+expensive,NA,vehicle
+famous,NA,vehicle
+shift,NA,vehicle
+yuan,NA,vehicle
+doctor,NA,vehicle
+mid,NA,vehicle
+70s,NA,vehicle
+catholic,NA,vehicle
+cash,NA,vehicle
+shootings,NA,vehicle
+gather,NA,blue vehicle
+named,NA,vehicle
+card,NA,vehicle
+cent,NA,vehicle
+else,NA,vehicle
+court,NA,vehicle
+2007,NA,vehicle
+modern,NA,vehicle
+demand,NA,vehicle
+makes,NA,vehicle
+customers,NA,vehicle
+dark,NA,blue vehicle
+declared,NA,vehicle
+adventure,NA,vehicle
+certain,NA,vehicle
+clipped,NA,vehicle
+cnn,NA,vehicle
+anywhere,NA,vehicle
+veteran,NA,vehicle
+pack,NA,vehicle
+star,NA,vehicle
+season,NA,vehicle
+fearing,NA,vehicle
+vanished,NA,vehicle
+alex,NA,vehicle
+blood,NA,vehicle
+treatment,NA,vehicle
+900,NA,vehicle
+equivalent,NA,vehicle
+mode,NA,vehicle
+urging,NA,vehicle
+horse,NA,vehicle
+leasing,NA,vehicle
+love,NA,blue vehicle
+participate,NA,vehicle
+perhaps,NA,vehicle
+familiar,NA,blue vehicle
+fake,NA,vehicle
+especially,NA,vehicle
+costing,NA,vehicle
+combined,NA,vehicle
+grabbing,NA,vehicle
+harder,NA,vehicle
+coffin,NA,vehicle
+circled,NA,vehicle
+2002,NA,vehicle
+doing,NA,vehicle
+drag,NA,vehicle
+frantically,NA,vehicle
+don,NA,vehicle
+clients,NA,vehicle
+native,NA,vehicle
+rivals,NA,vehicle
+expanding,NA,vehicle
+tens,NA,vehicle
+enjoying,NA,vehicle
+record,NA,vehicle
+complaints,NA,vehicle
+favorite,NA,vehicle
+aware,NA,vehicle
+beating,NA,vehicle
+bell,NA,vehicle
+mention,NA,vehicle
+supermarket,NA,vehicle
+lease,NA,vehicle
+brothers,NA,vehicle
+mich,NA,vehicle
+borrowed,NA,vehicle
+boss,NA,vehicle
+bump,NA,vehicle
+asks,NA,vehicle
+cow,NA,vehicle
+competitors,NA,vehicle
+relatively,NA,vehicle
+movies,NA,vehicle
+tracking,NA,vehicle
+judge,NA,vehicle
+tied,NA,vehicle
+tradition,NA,vehicle
+interesting,NA,vehicle
+introduce,NA,vehicle
+wheeled,NA,vehicle
+joe,NA,vehicle
+pages,NA,vehicle
+driver,NA,vehicle
+collided,NA,vehicle
+terminal,NA,vehicle
+injured,NA,vehicle
+bus,NA,vehicle
+overturned,NA,vehicle
+bombing,NA,vehicle
+mini,NA,blue vehicle
+crowded,NA,blue vehicle
+plunged,NA,vehicle
+travelling,NA,vehicle
+aboard,NA,vehicle
+trains,NA,vehicle
+were,NA,vehicle
+bomber,NA,vehicle
+commuter,NA,vehicle
+fare,NA,vehicle
+killing,NA,vehicle
+hijacked,NA,vehicle
+veered,NA,vehicle
+taxi,NA,vehicle
+30,NA,vehicle
+parked,NA,vehicle
+collision,NA,vehicle
+tourist,NA,vehicle
+crash,NA,vehicle
+rammed,NA,vehicle
+police,NA,vehicle
+riders,NA,blue vehicle
+highway,NA,vehicle
+stopped,NA,vehicle
+rode,NA,blue vehicle
+buses,NA,vehicle
+car,NA,vehicle
+skidded,NA,vehicle
+operators,NA,vehicle
+injuring,NA,vehicle
+hour,NA,blue vehicle
+wounding,NA,vehicle
+road,NA,vehicle
+express,NA,vehicle
+morning,NA,vehicle
+drove,NA,vehicle
+smashed,NA,vehicle
+boarding,NA,vehicle
+gunmen,NA,vehicle
+bound,NA,vehicle
+ambushed,NA,vehicle
+seat,NA,vehicle
+srinagar,NA,vehicle
+detonated,NA,vehicle
+died,NA,vehicle
+which,NA,bird vehicle
+back,NA,vehicle
+driving,NA,vehicle
+ravine,NA,vehicle
+lanes,NA,vehicle
+arrived,NA,vehicle
+get,NA,vehicle
+who,NA,vehicle
+southern,NA,vehicle
+overloaded,NA,vehicle
+pulled,NA,vehicle
+transportation,NA,vehicle
+50,NA,vehicle
+transporting,NA,vehicle
+swerved,NA,vehicle
+children,NA,vehicle
+sunday,NA,vehicle
+kashmir,NA,vehicle
+wreckage,NA,vehicle
+blown,NA,vehicle
+roof,NA,vehicle
+day,NA,vehicle
+accidents,NA,vehicle
+45,NA,vehicle
+then,u,relation vehicle
+distance,NA,vehicle
+airports,NA,vehicle
+she,NA,vehicle
+civilian,NA,vehicle
+port,u,food vehicle
+oncoming,NA,vehicle
+operator,NA,vehicle
+woman,NA,vehicle
+around,NA,vehicle
+en,NA,vehicle
+drive,NA,vehicle
+sitting,NA,vehicle
+escorted,NA,vehicle
+cars,NA,vehicle
+overtake,NA,vehicle
+parking,NA,vehicle
+home,NA,vehicle
+19,NA,vehicle
+way,NA,vehicle
+gunman,NA,vehicle
+carried,NA,vehicle
+across,NA,blue vehicle
+caravan,NA,vehicle
+elderly,NA,vehicle
+flames,NA,blue vehicle
+kabul,NA,vehicle
+fated,NA,vehicle
+operated,NA,vehicle
+35,NA,vehicle
+driven,NA,vehicle
+van,NA,vehicle
+away,NA,vehicle
+leaving,NA,vehicle
+man,NA,vehicle
+walk,NA,vehicle
+night,NA,vehicle
+brakes,NA,vehicle
+ditch,NA,vehicle
+six,NA,vehicle
+checkpoint,NA,vehicle
+arriving,NA,vehicle
+nine,NA,vehicle
+go,NA,vehicle
+settlers,NA,vehicle
+hurled,NA,vehicle
+engulfed,NA,vehicle
+commandeered,NA,vehicle
+conditioned,NA,vehicle
+interstate,NA,vehicle
+bombers,NA,vehicle
+suburban,NA,vehicle
+scene,NA,bird vehicle
+alongside,NA,vehicle
+walked,NA,vehicle
+early,NA,vehicle
+you,NA,vehicle
+sized,NA,vehicle
+set,NA,vehicle
+evening,NA,blue vehicle
+crossed,NA,vehicle
+white,NA,vehicle
+tire,NA,vehicle
+rented,NA,vehicle
+crashes,NA,blue vehicle
+india,NA,bird vehicle
+tires,NA,vehicle
+sprayed,NA,vehicle
+wrecked,NA,vehicle
+stoned,NA,vehicle
+moving,NA,vehicle
+getting,NA,vehicle
+next,NA,vehicle
+will,NA,vehicle
+victims,NA,vehicle
+00,NA,vehicle
+52,NA,vehicle
+device,NA,vehicle
+luxury,NA,vehicle
+kidnapped,NA,vehicle
+hopped,NA,vehicle
+33,NA,vehicle
+teachers,NA,vehicle
+persons,NA,vehicle
+hospital,NA,vehicle
+volkswagen,NA,vehicle
+minibus,NA,vehicle
+takes,NA,blue vehicle
+ads,NA,vehicle
+rushed,NA,vehicle
+torched,NA,vehicle
+owned,NA,vehicle
+owners,NA,vehicle
+fled,NA,vehicle
+gmt,NA,vehicle
+motor,NA,vehicle
+burnt,NA,vehicle
+escort,NA,vehicle
+rapid,NA,vehicle
+instantly,NA,vehicle
+men,NA,vehicle
+motorcycle,NA,vehicle
+attackers,NA,vehicle
+policemen,NA,vehicle
+survived,NA,vehicle
+officers,NA,vehicle
+suspected,NA,vehicle
+remote,NA,vehicle
+kandahar,NA,vehicle
+surrounded,NA,blue vehicle
+pedestrian,NA,vehicle
+toward,NA,blue vehicle
+junction,NA,vehicle
+cross,NA,blue vehicle
+intersection,NA,vehicle
+pass,NA,vehicle
+reportedly,NA,vehicle
+survivors,NA,vehicle
+commercial,NA,vehicle
+stopping,NA,vehicle
+shopping,NA,vehicle
+year,NA,vehicle
+tumbled,NA,vehicle
+policeman,NA,vehicle
+maker,NA,vehicle
+started,NA,vehicle
+women,NA,vehicle
+so,NA,vehicle
+month,NA,vehicle
+abducted,NA,vehicle
+crowd,NA,vehicle
+halted,NA,vehicle
+200,NA,vehicle
+involved,NA,vehicle
+assailants,NA,vehicle
+give,NA,vehicle
+minute,NA,vehicle
+cab,NA,vehicle
+pulls,NA,vehicle
+open,NA,blue vehicle
+refusing,NA,vehicle
+expressway,NA,vehicle
+bronx,NA,vehicle
+trying,NA,vehicle
+gunned,NA,vehicle
+queens,NA,vehicle
+feared,NA,vehicle
+guards,NA,vehicle
+touring,NA,vehicle
+interior,NA,vehicle
+taxis,NA,vehicle
+robbers,NA,vehicle
+operate,NA,vehicle
+ambulance,NA,vehicle
+shiite,NA,vehicle
+attacker,NA,vehicle
+rental,NA,vehicle
+officer,NA,vehicle
+valley,NA,vehicle
+boy,NA,vehicle
+advertisements,NA,vehicle
+crammed,NA,vehicle
+whisked,NA,vehicle
+players,NA,vehicle
+cities,NA,vehicle
+mostly,NA,vehicle
+blows,NA,vehicle
+detained,NA,vehicle
+dublin,NA,vehicle
+pickup,NA,vehicle
+operating,NA,vehicle
+me,NA,vehicle
+whose,NA,vehicle
+those,NA,vehicle
+gutted,NA,vehicle
+searched,NA,vehicle
+robbery,NA,vehicle
+hotels,NA,vehicle
+wrong,NA,vehicle
+march,NA,vehicle
+stabbed,NA,vehicle
+owner,NA,vehicle
+escorting,NA,vehicle
+49,NA,vehicle
+wreck,NA,vehicle
+badly,NA,vehicle
+short,NA,vehicle
+reach,NA,vehicle
+hired,NA,vehicle
+guides,NA,vehicle
+entered,NA,blue vehicle
+escape,NA,vehicle
+visitors,NA,blue vehicle
+historic,NA,vehicle
+windshield,NA,vehicle
+icy,NA,vehicle
+doors,NA,vehicle
+rescue,NA,vehicle
+bags,NA,vehicle
+intercepted,NA,vehicle
+twelve,NA,vehicle
+robbed,NA,vehicle
+ago,NA,vehicle
+kilometres,NA,vehicle
+occupants,NA,vehicle
+fleeing,NA,vehicle
+residents,NA,vehicle
+instead,NA,vehicle
+400,NA,vehicle
+48,NA,vehicle
+june,NA,vehicle
+minivan,NA,vehicle
+unable,NA,vehicle
+leaves,NA,vehicle
+km,NA,vehicle
+gunpoint,NA,vehicle
+colliding,NA,vehicle
+piled,NA,vehicle
+steep,NA,vehicle
+even,NA,vehicle
+refused,NA,vehicle
+increase,NA,vehicle
+identified,NA,vehicle
+rocked,NA,vehicle
+accompanied,NA,vehicle
+leased,NA,vehicle
+assailant,NA,vehicle
+jammed,NA,vehicle
+stolen,NA,vehicle
+picked,NA,vehicle
+roll,NA,vehicle
+climbing,NA,vehicle
+restored,NA,vehicle
+protesters,NA,vehicle
+crying,NA,vehicle
+hike,NA,vehicle
+mitsubishi,NA,vehicle
+watched,NA,vehicle
+suffered,NA,vehicle
+safe,NA,vehicle
+stationary,NA,vehicle
+57,NA,vehicle
+our,NA,vehicle
+exit,NA,vehicle
+mercedes,NA,vehicle
+father,NA,vehicle
+gotten,NA,vehicle
+boys,NA,vehicle
+vans,NA,vehicle
+money,NA,bird vehicle
+operates,NA,vehicle
+arrange,NA,vehicle
+motorcade,NA,vehicle
+rally,NA,vehicle
+make,NA,vehicle
+boston,NA,vehicle
+suburbs,NA,blue vehicle
+restaurants,NA,vehicle
+connect,NA,vehicle
+negotiating,NA,vehicle
+overtaking,NA,vehicle
+pelted,NA,vehicle
+connection,NA,vehicle
+casino,NA,vehicle
+location,NA,vehicle
+wound,NA,vehicle
+sites,NA,vehicle
+settler,NA,vehicle
+blocks,NA,vehicle
+lady,NA,vehicle
+scenic,NA,vehicle
+organizers,NA,vehicle
+twisted,NA,vehicle
+fatalities,NA,vehicle
+shop,NA,vehicle
+shouting,NA,vehicle
+picking,NA,vehicle
+accessible,NA,vehicle
+stands,NA,vehicle
+places,NA,vehicle
+hebron,NA,vehicle
+lake,i,food blue vehicle
+licenses,NA,vehicle
+bearing,NA,blue vehicle
+talking,NA,vehicle
+crowds,NA,blue vehicle
+ram,NA,vehicle
+employee,NA,vehicle
+unharmed,NA,vehicle
+resort,NA,blue vehicle
+ten,NA,vehicle
+mexican,NA,vehicle
+sleeping,NA,vehicle
+motorbike,NA,vehicle
+often,NA,vehicle
+tip,NA,blue vehicle
+class,NA,vehicle
+meant,NA,vehicle
+include,NA,vehicle
+gang,NA,vehicle
+snatched,NA,vehicle
+cape,NA,blue vehicle
+closed,NA,vehicle
+retired,NA,vehicle
+250,NA,vehicle
+already,NA,vehicle
+suspicious,NA,vehicle
+scheduled,NA,vehicle
+hanging,NA,vehicle
+rose,NA,vehicle
+overtook,NA,vehicle
+bumpy,NA,vehicle
+rallies,NA,vehicle
+motorcycles,NA,vehicle
+sales,NA,vehicle
+searching,NA,vehicle
+sister,NA,vehicle
+improve,NA,vehicle
+sept,NA,vehicle
+recalled,u,relation vehicle
+monthly,NA,vehicle
+raise,NA,vehicle
+paralyzed,NA,vehicle
+blocking,NA,vehicle
+nights,NA,vehicle
+kilometer,NA,vehicle
+battered,NA,vehicle
+plummeted,NA,vehicle
+detroit,NA,vehicle
+prison,NA,vehicle
+de,NA,vehicle
+jump,NA,vehicle
+angry,NA,vehicle
+female,NA,vehicle
+sign,NA,vehicle
+partially,NA,blue vehicle
+mob,NA,vehicle
+narrowly,NA,vehicle
+telephone,NA,vehicle
+ahmed,NA,vehicle
+plates,NA,vehicle
+sharp,NA,vehicle
+41,NA,vehicle
+tyre,NA,vehicle
+tossed,NA,blue vehicle
+wagon,NA,vehicle
+custody,NA,vehicle
+recovered,NA,vehicle
+pennsylvania,NA,vehicle
+thought,NA,vehicle
+loud,NA,vehicle
+wave,NA,vehicle
+uniforms,NA,vehicle
+hopping,NA,vehicle
+december,NA,vehicle
+throughout,NA,blue vehicle
+mishap,NA,vehicle
+visible,NA,blue vehicle
+knife,NA,vehicle
+cheaper,NA,vehicle
+hops,NA,vehicle
+except,NA,vehicle
+53,NA,vehicle
+dangerous,NA,vehicle
+tv,NA,vehicle
+swollen,NA,vehicle
+tyres,NA,vehicle
+quickly,NA,vehicle
+newspaper,NA,vehicle
+strewn,NA,vehicle
+embassy,NA,vehicle
+point,NA,vehicle
+breakfast,NA,blue vehicle
+sports,NA,vehicle
+must,NA,vehicle
+attend,NA,vehicle
+girlfriend,NA,vehicle
+alight,NA,vehicle
+jobs,NA,vehicle
+regularly,NA,vehicle
+flung,NA,vehicle
+guy,NA,vehicle
+guys,NA,vehicle
+giuliani,NA,vehicle
+joined,NA,vehicle
+immigrant,NA,vehicle
+parent,NA,vehicle
+agers,NA,vehicle
+upscale,NA,vehicle
+sweden,NA,vehicle
+grocery,NA,vehicle
+ad,NA,vehicle
+cheap,NA,vehicle
+symbol,NA,blue vehicle
+allegedly,NA,vehicle
+channel,NA,vehicle
+staging,NA,vehicle
+style,NA,vehicle
+stalled,NA,vehicle
+speeds,NA,vehicle
+township,NA,vehicle
+riot,NA,vehicle
+learned,NA,vehicle
+bad,NA,vehicle
+demanded,NA,vehicle
+playing,NA,vehicle
+subsidies,NA,vehicle
+meals,NA,blue vehicle
+88,NA,vehicle
+vegas,NA,vehicle
+winter,NA,vehicle
+preparing,NA,vehicle
+renting,NA,vehicle
+deserted,NA,blue vehicle
+alone,NA,vehicle
+scared,NA,vehicle
+details,NA,vehicle
+contact,NA,blue vehicle
+panic,NA,vehicle
+comfortable,NA,vehicle
+slashed,NA,vehicle
+wants,NA,vehicle
+58,NA,vehicle
+anyone,NA,vehicle
+hire,NA,vehicle
+duty,NA,vehicle
+help,NA,vehicle
+thing,NA,vehicle
+neighbors,NA,vehicle
+fatally,NA,vehicle
+median,NA,vehicle
+slogan,NA,vehicle
+alerted,NA,vehicle
+steered,NA,vehicle
+clothes,NA,vehicle
+richmond,NA,vehicle
+fog,NA,vehicle
+hometown,NA,vehicle
+promised,NA,vehicle
+ever,NA,vehicle
+mobile,NA,vehicle
+peak,NA,vehicle
+unemployed,NA,vehicle
+different,NA,vehicle
+venture,NA,vehicle
+eyes,NA,blue vehicle
+flaming,NA,vehicle
+failing,NA,vehicle
+dusty,NA,vehicle
+illegally,NA,vehicle
+expand,NA,vehicle
+expanded,NA,vehicle
+hurry,NA,vehicle
+tired,NA,vehicle
+diplomatic,NA,vehicle
+frequent,NA,vehicle
+afterwards,NA,vehicle
+course,NA,vehicle
+beach,NA,vehicle
+talked,NA,vehicle
+corners,NA,vehicle
+decided,NA,vehicle
+brazilian,NA,vehicle
+crawled,NA,vehicle
+pristina,NA,vehicle
+bundled,NA,vehicle
+continue,NA,vehicle
+alive,NA,vehicle
+protestors,NA,vehicle
+remains,NA,bird vehicle
+darkness,NA,vehicle
+waving,NA,vehicle
+cart,NA,vehicle
+seemed,NA,vehicle
+mcdonald,NA,vehicle
+cheered,NA,vehicle
+greet,NA,vehicle
+folks,NA,vehicle
+fear,NA,vehicle
+suspects,NA,vehicle
+existing,NA,vehicle
+spends,NA,vehicle
+literally,NA,vehicle
+confessed,NA,vehicle
+registration,NA,vehicle
+lose,NA,vehicle
+isolated,NA,vehicle
+plate,NA,vehicle
+wrapped,NA,vehicle
+classes,NA,vehicle
+hoped,NA,vehicle
+kidnappers,NA,vehicle
+bounced,NA,vehicle
+drop,NA,vehicle
+appear,NA,blue vehicle
+christmas,NA,vehicle
+cards,NA,vehicle
+vacation,NA,vehicle
+aimed,NA,vehicle
+singh,NA,vehicle
+flooded,NA,vehicle
+word,NA,vehicle
+clinic,NA,vehicle
+learn,NA,vehicle
+silver,NA,vehicle
+remembers,NA,vehicle
+silent,NA,vehicle
+facilities,NA,vehicle
+ruins,NA,vehicle
+flat,NA,vehicle
+choice,NA,vehicle
+micro,NA,vehicle
+mean,NA,vehicle
+baltimore,NA,vehicle
+shoot,NA,vehicle
+examination,NA,vehicle
+sedan,NA,vehicle
+department,NA,vehicle
+suspicion,NA,vehicle
+custom,NA,vehicle
+neared,NA,vehicle
+pm,NA,vehicle
+beaten,NA,vehicle
+mr,NA,vehicle
+english,NA,vehicle
+increases,NA,vehicle
+tarmac,NA,vehicle
+chosen,NA,vehicle
+longest,NA,vehicle
+unmarked,NA,vehicle
+slumped,NA,vehicle
+benz,NA,vehicle
+shaken,NA,vehicle
+rounded,NA,vehicle
+limit,NA,vehicle
+shifts,NA,vehicle
+wherever,NA,vehicle
+nowhere,NA,vehicle
+saving,NA,vehicle
+1999,NA,vehicle
+rules,NA,vehicle
+bang,NA,vehicle
+boyfriend,NA,vehicle
+tape,NA,vehicle
+movie,NA,vehicle
+convenience,NA,vehicle
+2008,NA,vehicle
+tent,NA,blue vehicle
+marriage,NA,vehicle
+easy,NA,vehicle
+isuzu,NA,vehicle
+common,NA,vehicle
+republic,NA,vehicle
+comment,NA,vehicle
+requires,NA,vehicle
+assistance,NA,vehicle
+mohammad,NA,vehicle
+complaining,NA,vehicle
+disguised,NA,vehicle
+previously,NA,vehicle
+thinking,NA,vehicle
+inspector,NA,vehicle
+dispatcher,NA,vehicle
+cup,NA,vehicle
+plaza,NA,vehicle
+daughters,NA,vehicle
+doctors,NA,vehicle
+identify,NA,vehicle
+retrieve,NA,vehicle
+surveillance,NA,vehicle
+explore,NA,vehicle
+springs,NA,vehicle
+ceremony,NA,vehicle
+icon,NA,vehicle
+collected,NA,blue vehicle
+traveler,NA,vehicle
+sharif,NA,vehicle
+vendors,NA,vehicle
+beetle,NA,vehicle
+liberty,NA,vehicle
+sold,NA,bird vehicle
+moroccan,NA,vehicle
+monument,NA,vehicle
+smile,NA,vehicle
+leaned,NA,vehicle
+grab,NA,vehicle
+groceries,NA,vehicle
+pearl,NA,vehicle
+enjoy,NA,vehicle
+passport,NA,vehicle
+release,NA,vehicle
+reaches,NA,blue vehicle
+coordinated,NA,vehicle
+random,NA,vehicle
+raped,NA,vehicle
+idling,NA,vehicle
+collect,NA,vehicle
+locked,NA,vehicle
+experience,NA,vehicle
+stockholm,NA,vehicle
+visitor,NA,vehicle
+effect,NA,vehicle
+thoroughfare,NA,vehicle
+depending,NA,vehicle
+plunge,NA,vehicle
+racing,NA,vehicle
+driveway,NA,vehicle
+cleared,NA,vehicle
+horn,NA,vehicle
+62,NA,vehicle
+nice,NA,vehicle
+struggled,NA,vehicle
+struggling,NA,vehicle
+none,NA,vehicle
+fight,NA,vehicle
+bikes,NA,vehicle
+fail,NA,vehicle
+extended,NA,vehicle
+shaking,NA,vehicle
+living,NA,vehicle
+roadblocks,NA,vehicle
+selling,NA,vehicle
+laborers,NA,vehicle
+obtain,NA,vehicle
+blindfolded,NA,vehicle
+photographers,NA,vehicle
+exited,NA,vehicle
+rely,NA,vehicle
+crazy,NA,vehicle
+closing,NA,vehicle
+investigate,NA,vehicle
+quick,NA,vehicle
+armstrong,NA,vehicle
+loved,NA,vehicle
+slight,NA,vehicle
+confused,NA,vehicle
+sheriff,NA,vehicle
+140,NA,vehicle
+trial,NA,vehicle
+basically,NA,vehicle
+beyond,NA,vehicle
+likes,NA,vehicle
+brick,NA,vehicle
+shotgun,NA,vehicle
+spotting,NA,vehicle
+avoided,NA,vehicle
+rodriguez,NA,vehicle
+robberies,NA,vehicle
+cigarettes,NA,vehicle
+tanzania,NA,vehicle
+list,NA,vehicle
+170,NA,vehicle
+awarded,NA,vehicle
+faster,NA,vehicle
+fees,NA,vehicle
+onlookers,NA,vehicle
+firms,NA,vehicle
+hurling,NA,vehicle
+oldest,NA,vehicle
+fifth,NA,vehicle
+marketing,NA,vehicle
+permit,NA,vehicle
+pays,NA,vehicle
+everything,NA,vehicle
+handful,NA,vehicle
+handing,NA,vehicle
+hearing,NA,vehicle
+hat,NA,vehicle
+happen,NA,vehicle
+mohammed,NA,vehicle
+handles,NA,vehicle
+hopes,NA,blue vehicle
+upon,NA,vehicle
+frightened,NA,vehicle
+distinctive,NA,vehicle
+dad,NA,vehicle
+thieves,NA,vehicle
+inn,NA,vehicle
+plot,NA,vehicle
+dove,NA,vehicle
+easier,NA,vehicle
+quality,NA,vehicle
+lottery,NA,vehicle
+navigate,NA,vehicle
+probe,NA,vehicle
+tonight,NA,vehicle
+records,NA,vehicle
+mirror,NA,vehicle
+modest,NA,vehicle
+rage,NA,vehicle
+subsidy,NA,vehicle
+protested,NA,vehicle
+reference,NA,vehicle
+suspend,NA,vehicle
+martin,NA,vehicle
+listed,NA,vehicle
+toyota,NA,vehicle
+plug,NA,vehicle
+notice,NA,vehicle
+squeeze,NA,vehicle
+rival,NA,vehicle
+staying,NA,vehicle
+marking,NA,vehicle
+married,NA,vehicle
+scaled,NA,vehicle
+pole,NA,vehicle
+postponed,NA,vehicle
+servicemen,NA,vehicle
+lincoln,NA,vehicle
+pocket,NA,vehicle
+organize,NA,vehicle
+represent,NA,vehicle
+waters,NA,vehicle
+utilities,NA,vehicle
+fixed,NA,vehicle
+film,NA,vehicle
+jack,NA,vehicle
+criminal,NA,vehicle
+investigated,NA,vehicle
+involve,NA,vehicle
+explaining,NA,vehicle
+contacted,NA,vehicle
+explores,NA,vehicle
+explained,NA,vehicle
+cellular,NA,vehicle
+willing,NA,vehicle
+businessman,NA,vehicle
+cameras,NA,vehicle
+brian,NA,vehicle
+gives,NA,vehicle
+bleeding,NA,vehicle
+fun,NA,vehicle
+hiding,NA,vehicle
+abdul,NA,vehicle
+england,NA,vehicle
+1960s,NA,vehicle
+declined,NA,vehicle
+account,NA,vehicle
+joseph,NA,vehicle
+laptop,NA,vehicle
+drugs,NA,vehicle
+knows,NA,vehicle
+revenue,NA,vehicle
+tools,NA,vehicle
+wheeler,NA,vehicle
+dragging,NA,vehicle
+multi,NA,vehicle
+pickups,NA,vehicle
+garcia,NA,vehicle
+certified,NA,vehicle
+changing,NA,vehicle
+names,NA,vehicle
+dream,NA,vehicle
+expenses,NA,vehicle
+packing,NA,vehicle
+otherwise,NA,vehicle
+eye,NA,vehicle
+encouraged,NA,vehicle
+rarely,NA,vehicle
+protests,NA,vehicle
+papers,NA,vehicle
+fine,NA,vehicle
+remnants,NA,vehicle
+remind,NA,vehicle
+companion,NA,vehicle
+nt,NA,vehicle
+resemble,NA,vehicle
+ok,NA,vehicle
+tightly,NA,vehicle
+theft,NA,vehicle
+temporarily,NA,blue vehicle
+donkey,NA,vehicle
+abruptly,NA,vehicle
+abandoning,NA,vehicle
+attending,NA,vehicle
+jewelry,NA,vehicle
+australia,NA,vehicle
+woods,NA,vehicle
+imagine,NA,vehicle
+automobiles,NA,vehicle
+83,NA,vehicle
+umbrella,NA,vehicle
+luck,NA,vehicle
+insisted,NA,vehicle
+involves,NA,vehicle
+smugglers,NA,vehicle
+instructions,NA,vehicle
+writing,NA,vehicle
+jean,NA,vehicle
+mandatory,NA,vehicle
+argentina,NA,vehicle
+swung,NA,vehicle
+blaring,NA,vehicle
+segment,NA,vehicle
+scenes,NA,vehicle
+uncle,NA,vehicle
+hey,NA,vehicle
+understand,NA,vehicle
+sunset,NA,vehicle
+hide,NA,vehicle
+hassan,NA,vehicle
+hardly,NA,vehicle
+unarmed,NA,vehicle
+affect,NA,vehicle
+cylinders,NA,vehicle
+polling,NA,vehicle
+prior,NA,vehicle
+sticks,NA,vehicle
+detectives,NA,vehicle
+260,NA,vehicle
+struggle,NA,vehicle
+actions,NA,vehicle
+stall,NA,vehicle
+1990s,NA,vehicle
+profits,NA,vehicle
+promises,NA,vehicle
+promptly,NA,vehicle
+clark,NA,vehicle
+client,NA,vehicle
+clogged,NA,vehicle
+schmidt,NA,vehicle
+rocky,NA,vehicle
+wider,NA,vehicle
+bread,NA,vehicle
+approved,NA,vehicle
+software,NA,vehicle
+sons,NA,vehicle
+ranch,NA,vehicle
+wondered,NA,vehicle
+competing,NA,vehicle
+com,NA,vehicle
+comedy,NA,vehicle
+wonder,NA,vehicle
+committed,NA,vehicle
+reminder,NA,vehicle
+refuses,NA,vehicle
+signaled,NA,vehicle
+similarly,NA,vehicle
+governments,NA,vehicle
+grant,NA,vehicle
+venice,NA,vehicle
+gleaming,NA,vehicle
+explain,NA,vehicle
+joke,NA,vehicle
+liu,NA,vehicle
+grey,NA,vehicle
+gunshot,NA,vehicle
+officially,NA,vehicle
+folded,NA,vehicle
+explorer,NA,vehicle
+opted,NA,vehicle
+options,NA,vehicle
+trace,NA,vehicle
+treat,NA,vehicle
+doubling,NA,vehicle
+violated,NA,vehicle
+traced,NA,vehicle
+heaven,NA,vehicle
+miniature,NA,vehicle
+wish,NA,vehicle
+roberto,NA,vehicle
+francois,NA,vehicle
+nightmare,NA,vehicle
+shooter,NA,vehicle
+sorts,NA,blue vehicle
+frantic,NA,vehicle
+fruit,NA,vehicle
+nevada,NA,blue vehicle
+bodyguard,NA,vehicle
+butler,NA,vehicle
+moss,NA,vehicle
+tough,NA,vehicle
+broadcast,NA,vehicle
+builders,NA,vehicle
+mansion,NA,vehicle
+handling,NA,vehicle
+insist,NA,vehicle
+appeal,NA,vehicle
+title,NA,vehicle
+erez,NA,vehicle
+eddie,NA,vehicle
+eagle,NA,vehicle
+ranks,NA,vehicle
+legitimate,NA,vehicle
+davis,NA,vehicle
+dance,NA,blue vehicle
+edwards,NA,vehicle
+affordable,NA,vehicle
+occasions,NA,vehicle
+compare,NA,vehicle
+sum,NA,vehicle
+competitor,NA,vehicle
+repeated,NA,vehicle
+survival,NA,vehicle
+ought,NA,vehicle
+drunken,NA,vehicle
+became,NA,vehicle
+classic,u,vehicle plant
+logo,NA,vehicle
+sport,NA,vehicle
+clearance,NA,vehicle
+hands,NA,vehicle
+worry,NA,vehicle
+sellers,NA,vehicle
+unlike,NA,vehicle
+grandfather,NA,vehicle
+attorney,NA,vehicle
+color,r,relation vehicle
+proves,NA,vehicle
+relative,NA,vehicle
+banner,NA,vehicle
+expense,NA,vehicle
+feels,NA,blue vehicle
+reporting,NA,vehicle
+20s,NA,vehicle
+employs,NA,vehicle
+conjunction,NA,vehicle
+concept,NA,vehicle
+compete,NA,vehicle
+fractured,NA,vehicle
+estate,NA,vehicle
+cloth,NA,vehicle
+comfort,NA,vehicle
+twist,NA,vehicle
+intends,NA,vehicle
+sticker,NA,vehicle
+forget,NA,vehicle
+among,u,plant
+recommends,u,plant
+instance,u,plant
+pet,NA,bird
+saved,NA,bird
+colorful,r,bird animal
+book,NA,bird
+hit,NA,bird
+bright,r,bird animal
+cage,NA,bird
+lives,NA,bird
+cats,NA,bird
+recently,NA,bird
+species,NA,bird
+girl,NA,bird
+seen,NA,bird
+150,NA,bird
+has,NA,bird
+not,NA,bird
+nicknamed,NA,bird
+between,NA,bird
+blue,p,animal blue all
+black,NA,blue
+city,NA,blue
+hotel,NA,blue
+fishing,NA,blue
+sits,NA,blue
+feet,NA,blue
+san,NA,blue
+spray,NA,blue
+mile,NA,blue
+floor,NA,blue
+surface,NA,blue
+villages,NA,blue
+beside,NA,blue
+outside,NA,blue
+foot,NA,blue
+spilled,NA,blue
+ancient,NA,blue
+territory,NA,blue
+beneath,NA,blue
+above,NA,blue
+serves,NA,blue
+gray,NA,blue
+attraction,NA,blue
+waves,i,blue food
+theme,NA,blue
+jet,NA,blue
+florida,NA,blue
+tiny,NA,blue
+smell,NA,blue
+beauty,NA,blue
+heritage,NA,blue
+directly,NA,blue
+launch,NA,blue
+temperature,NA,blue
+crystal,NA,blue
+winds,NA,blue
+burst,NA,blue
+frozen,NA,blue
+breeze,NA,blue
+sight,NA,blue
+universal,NA,blue
+delicate,NA,blue
+circle,NA,blue
+creatures,NA,blue
+los,NA,blue
+ground,NA,blue
+band,NA,blue
+ii,NA,blue
+begins,NA,blue
+flew,NA,blue
+endless,NA,blue
+filling,NA,blue
+blew,NA,blue
+spread,NA,blue
+ski,NA,blue
+visited,NA,blue
+platform,NA,blue
+flight,NA,blue
+bride,NA,blue
+mysterious,NA,blue
+magnificent,NA,blue
+described,NA,blue
+portion,NA,blue
+tends,NA,blue
+dry,NA,blue
+keeping,NA,blue
+suit,NA,blue
+welcome,NA,blue
+venue,NA,blue
+underneath,NA,blue
+squeezed,NA,blue
+pink,NA,blue
+horizon,NA,blue
+flowing,NA,blue
+flying,NA,blue
+poised,NA,blue
+prompting,NA,blue
+profile,NA,blue
+releasing,NA,blue
+enormous,NA,blue
+shortly,NA,blue
+afternoon,NA,blue
+ashes,NA,blue
+appeared,NA,blue
+constant,NA,blue
+laps,NA,blue
+spectators,NA,blue
+faithful,NA,blue
+matches,NA,blue
+arrival,NA,blue
+chest,NA,blue
+passes,NA,blue
+flesh,NA,blue
+smooth,NA,blue
+asian,NA,blue
+gentle,NA,blue
+sinking,NA,blue
+paint,i,blue relation
+path,NA,blue
+pan,NA,blue
+element,NA,blue
+embrace,NA,blue
+overnight,NA,blue
+networks,NA,blue
+espn,NA,blue
+entry,NA,blue
+entitled,NA,blue
+existence,NA,blue
+amid,NA,blue
+keeps,NA,blue
+master,NA,blue
+august,NA,blue
+longtime,NA,blue
+length,NA,blue
+lighter,NA,blue
+routes,NA,blue
+becomes,NA,blue
+italy,NA,blue
+persistent,NA,blue
+transformed,NA,blue
+disappearing,NA,blue
+directions,NA,blue
+choking,NA,blue
+topped,NA,blue
+worldwide,NA,blue
+wonders,NA,blue
+colors,NA,blue
+constantly,NA,blue
+continent,NA,blue
+continues,NA,blue
+carries,NA,blue
+deck,NA,blue
+cloud,NA,blue
+clouds,NA,blue
+the,NA,blue
+through,NA,blue
+off,NA,blue
+mark,NA,blue
+standing,NA,blue
+front,NA,blue
+headed,NA,blue
+toss,NA,blue
+squad,NA,blue
+battles,NA,blue
+glasses,NA,blue
+griffin,NA,blue
+ann,NA,blue
+fiction,NA,blue
+gathering,NA,blue
+shoes,NA,blue
+spots,NA,blue
+latin,NA,blue
+kitchen,NA,blue
+reception,NA,blue
+anonymous,NA,blue
+holds,NA,blue
+royal,NA,blue
+completed,NA,blue
+climb,NA,blue
+attached,u,relation
+hammer,u,relation
+gave,u,relation
+colored,r,animal relation
+covered,u,relation
+generations,u,food
+wildlife,u,food
+450,u,food
+specialist,u,food
+poses,u,food
+european,u,animal

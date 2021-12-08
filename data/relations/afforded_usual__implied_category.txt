@@ -1,0 +1,11 @@
+lay_eggs,salmon
+lay_eggs,char
+lay_eggs,turtle
+lay_eggs,rattlesnake
+roll,hubcap
+lay_eggs,motacilla
+lay_eggs,procellariidae
+lay_eggs,crocodile
+lay_eggs,pipefish
+swim,crab
+lay_eggs,bass

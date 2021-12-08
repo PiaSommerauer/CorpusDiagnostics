@@ -1,0 +1,3 @@
+round,shoe
+black,rain
+hot,vegetable

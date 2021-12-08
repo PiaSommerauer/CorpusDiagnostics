@@ -1,0 +1,2 @@
+black,stocking
+red,anger

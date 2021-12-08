@@ -1,0 +1,706 @@
+context,evidence_type,categories
+egg, ,relation cutlery measure animal
+food, ,cutlery tool object animal vegetable all no-cat
+serving, ,cutlery
+salt, ,tool relation cutlery
+and, ,cutlery relation plant measure vegetable food no-cat
+sweet, ,relation plant measure vegetable no-cat
+eaten, ,relation plant measure vegetable no-cat
+honey, ,relation measure no-cat
+are, ,relation measure animal no-cat
+which, ,no-cat
+mango, ,no-cat
+such, ,no-cat relation plant vegetable animal
+dish, ,relation object plant measure animal vegetable all food no-cat
+beach, ,animal no-cat
+based, ,relation no-cat
+traditional, ,relation animal no-cat
+rice, ,vegetable relation measure no-cat
+banana, ,relation no-cat
+resembling, ,no-cat
+mixture, ,relation measure no-cat
+from, ,no-cat
+created, ,no-cat
+plant, ,relation no-cat
+black, ,no-cat
+small, ,measure no-cat
+pepper, ,no-cat relation plant vegetable animal
+cotton, ,no-cat
+curry, ,relation no-cat
+add, ,relation no-cat
+called, ,relation measure animal no-cat
+fields, ,no-cat
+isolated, ,relation no-cat
+paste, ,relation no-cat
+tree, ,relation no-cat
+butter, ,relation measure no-cat
+fruit, ,relation no-cat
+flour, ,relation no-cat
+meal, ,relation no-cat
+wild, ,no-cat
+apple, ,relation no-cat
+sugar, ,relation measure no-cat
+cultivated, ,no-cat
+in, ,vegetable plant no-cat
+nuts, ,relation no-cat
+filled, ,relation measure animal no-cat
+varieties, ,relation no-cat
+fruits, ,relation no-cat
+peanut, ,relation no-cat
+production, ,relation animal no-cat
+skin, ,relation no-cat
+ingredients, ,relation plant measure vegetable no-cat
+as, ,relation no-cat
+sauce, ,relation plant measure animal vegetable food no-cat
+crop, ,no-cat
+crops, ,vegetable plant no-cat
+spices, ,relation no-cat
+mint, ,no-cat
+cultivation, ,animal no-cat
+leaf, ,relation no-cat
+white, ,relation measure no-cat
+then, ,no-cat
+potatoes, ,no-cat relation measure vegetable animal
+color, ,no-cat
+for, ,no-cat
+made, ,relation measure animal no-cat
+dried, ,relation animal no-cat
+green, ,vegetable relation no-cat
+potato, ,relation plant measure animal vegetable no-cat
+main, ,relation no-cat
+peanuts, ,no-cat
+australia, ,no-cat
+species, ,no-cat
+orange, ,relation measure no-cat
+resembles, ,no-cat
+recipe, ,relation measure no-cat
+cooked, ,relation plant measure animal vegetable no-cat
+cooking, ,relation no-cat
+native, ,no-cat
+producer, ,no-cat
+she, ,no-cat
+seed, ,relation no-cat
+farmers, ,animal no-cat
+famous, ,animal no-cat
+yellow, ,relation no-cat
+this, ,no-cat
+ingredient, ,relation no-cat
+accompanied, ,no-cat
+vegetables, ,relation plant vegetable food no-cat
+recipes, ,vegetable relation no-cat
+fried, ,vegetable relation animal no-cat
+seeds, ,vegetable relation no-cat
+common, ,no-cat
+found, ,no-cat
+instead, ,no-cat
+occasionally, ,measure no-cat
+kind, ,no-cat
+within, ,no-cat
+wood, ,relation no-cat
+festival, ,relation no-cat
+area, ,no-cat
+titled, ,no-cat
+making, ,relation no-cat
+summer, ,no-cat
+call, ,no-cat
+yield, ,no-cat
+deep, ,relation measure animal no-cat
+often, ,relation measure animal no-cat
+observed, ,no-cat
+meat, ,tool relation object measure animal all food no-cat
+maize, ,no-cat
+national, ,no-cat
+latin, ,no-cat
+millet, ,no-cat
+mixed, ,relation no-cat
+texture, ,no-cat
+so, ,no-cat
+some, ,relation animal no-cat
+sour, ,relation no-cat
+vegetable, ,vegetable relation plant no-cat
+preparation, ,relation no-cat
+range, ,no-cat
+sand, ,no-cat
+shrimp, ,relation animal no-cat
+composed, ,relation no-cat
+down, ,relation no-cat
+2009, ,no-cat
+bird, ,no-cat
+have, ,no-cat
+given, ,no-cat
+grass, ,no-cat
+ground, ,no-cat
+beans, ,vegetable relation no-cat
+has, ,no-cat
+variety, ,relation no-cat
+spoon, ,tool
+soup, ,relation measure animal
+chicken, ,relation
+kitchen, ,relation
+dishes, ,relation plant measure vegetable animal
+beef, ,relation measure
+bean, ,relation
+tomato, ,vegetable relation
+cuisine, ,relation animal
+onion, ,relation
+pork, ,relation
+boiled, ,vegetable relation
+cabbage, ,vegetable relation measure
+fish, ,relation measure animal
+hot, ,relation measure
+thick, ,relation
+boiling, ,relation
+garlic, ,vegetable relation plant
+prepared, ,relation
+cold, ,relation
+cheese, ,relation measure
+served, ,relation
+foods, ,relation
+consumed, ,relation animal
+or, ,relation measure animal
+flavor, ,relation
+cream, ,relation measure
+company, ,relation
+corn, ,relation
+soy, ,relation
+taste, ,relation
+milk, ,relation measure
+breakfast, ,relation
+stone, ,relation
+prepare, ,relation
+barley, ,relation
+thin, ,relation
+carrot, ,relation
+goat, ,relation
+usually, ,relation measure animal
+cucumber, ,relation animal
+coconut, ,relation
+literally, ,relation
+blood, ,relation
+flavored, ,relation
+fresh, ,relation animal
+added, ,relation
+warm, ,relation
+herbs, ,relation
+roasted, ,relation
+restaurant, ,relation
+rich, ,relation
+seasoned, ,relation
+can, ,relation measure
+juice, ,relation
+pickled, ,relation
+chopped, ,relation
+baked, ,relation
+sometimes, ,relation measure animal
+traditionally, ,relation animal
+powder, ,relation
+lime, ,relation
+onions, ,relation
+tea, ,relation
+coffee, ,relation
+dry, ,relation
+at, ,relation
+used, ,relation
+variations, ,relation
+bone, ,relation
+chili, ,relation
+make, ,relation
+drink, ,relation
+children, ,relation
+originating, ,relation
+girl, ,relation
+korean, ,relation
+drop, ,relation
+poured, ,relation
+include, ,relation animal
+other, ,relation measure
+mustard, ,relation
+raw, ,relation animal
+mix, ,relation
+specialty, ,relation
+packaged, ,relation
+they, ,relation
+containing, ,relation animal
+day, ,relation
+consisting, ,relation
+also, ,vegetable relation measure animal
+pickles, ,relation
+lemon, ,relation
+carrots, ,relation
+flavors, ,relation
+types, ,relation
+drinks, ,relation
+means, ,relation measure
+water, ,relation animal
+offered, ,relation
+crushed, ,relation measure
+wine, ,relation
+been, ,relation
+free, ,relation
+mixing, ,relation
+oil, ,relation
+liquid, ,relation
+ran, ,relation
+either, ,relation
+palm, ,relation
+origin, ,relation
+typically, ,relation
+pots, ,relation
+tin, ,relation
+whole, ,relation
+vinegar, ,relation measure
+people, ,relation
+filling, ,relation measure
+into, ,relation
+preparations, ,relation
+flavoured, ,relation
+originated, ,relation
+pie, ,relation animal
+beer, ,relation
+du, ,relation
+preparing, ,relation
+kinds, ,relation
+adding, ,relation measure
+once, ,relation
+brown, ,relation
+dog, ,relation
+fed, ,relation animal
+variation, ,relation measure
+mother, ,relation
+produced, ,relation
+opened, ,relation
+products, ,relation animal
+edible, ,relation animal
+cool, ,relation
+poultry, ,relation
+etc, ,relation
+soaked, ,relation
+salty, ,relation
+mainly, ,relation
+dip, ,relation
+asian, ,relation
+advertisement, ,relation
+originates, ,relation
+quality, ,relation animal
+leaves, ,relation measure
+processed, ,relation
+especially, ,relation animal
+group, ,relation
+coriander, ,relation
+salted, ,relation
+organic, ,relation
+primary, ,relation
+women, ,relation
+ginger, ,relation
+enjoy, ,relation
+contain, ,relation animal
+fare, ,relation
+customers, ,relation
+contains, ,relation measure animal
+turns, ,relation
+addition, ,relation
+contained, ,relation
+house, ,relation
+baking, ,relation measure
+bamboo, ,relation
+promote, ,relation
+depending, ,relation
+provide, ,relation
+grains, ,relation
+finely, ,relation
+olive, ,relation
+chips, ,relation
+extract, ,relation
+already, ,relation
+lightly, ,relation
+excellent, ,relation
+greens, ,relation
+quantities, ,relation animal
+however, ,relation animal
+would, ,relation
+soft, ,relation
+recorded, ,relation
+sea, ,relation
+third, ,relation
+consisted, ,relation
+plain, ,relation
+smell, ,relation
+cucumbers, ,relation
+preferred, ,relation animal
+century, ,relation
+combined, ,relation
+now, ,relation
+example, ,relation
+19th, ,relation
+line, ,relation measure
+stones, ,relation
+commercial, ,relation animal
+inn, ,relation
+weeks, ,relation
+thailand, ,relation
+town, ,relation animal
+favored, ,relation
+chemicals, ,relation
+additions, ,relation
+dairy, ,relation
+drops, ,relation
+grain, ,relation
+region, ,relation
+whereas, ,relation
+banks, ,relation
+japanese, ,relation
+sodium, ,relation
+cinnamon, ,relation
+syrup, ,relation
+starch, ,relation
+island, ,relation
+same, ,relation
+forms, ,relation
+days, ,relation
+bought, ,relation
+related, ,relation
+purchased, ,relation
+flowers, ,relation
+combination, ,relation measure
+early, ,relation
+mostly, ,relation
+stored, ,relation
+throwing, ,relation
+top, ,relation
+associated, ,relation
+30, ,relation
+strips, ,relation
+apples, ,relation
+allowed, ,relation
+pure, ,relation
+hall, ,relation
+mass, ,relation
+concentrated, ,relation
+living, ,relation animal
+con, ,relation
+dates, ,relation
+seasonal, ,relation
+spirits, ,relation
+fire, ,relation
+regions, ,relation
+substance, ,relation
+rapidly, ,relation
+notable, ,relation
+alternative, ,relation
+cheapest, ,relation
+mistakenly, ,relation
+hours, ,relation
+mild, ,relation
+ensemble, ,relation
+avoid, ,relation
+stories, ,relation
+application, ,relation
+varies, ,relation
+root, ,relation
+covering, ,relation
+occasions, ,relation
+keen, ,relation
+processing, ,relation
+essential, ,relation
+middle, ,relation
+bottles, ,relation
+remains, ,relation
+demolished, ,relation
+bay, ,relation animal
+liquor, ,relation
+lines, ,relation
+fry, ,relation
+lots, ,relation
+foodstuffs, ,relation
+pulp, ,relation
+tracks, ,relation
+optional, ,relation
+transparent, ,relation
+discontinued, ,relation
+preserved, ,relation
+layer, ,relation
+baker, ,relation
+pounds, ,relation
+lake, ,relation
+yuca, ,relation
+characteristic, ,relation
+pod, ,relation
+past, ,relation
+applications, ,relation
+bark, ,relation
+product, ,relation
+soaking, ,relation
+blend, ,relation
+material, ,relation
+strong, ,relation
+additionally, ,relation
+increase, ,relation
+components, ,relation
+reputed, ,relation
+adjacent, ,relation
+visible, ,relation
+400, ,relation
+identified, ,relation
+medieval, ,relation
+abundance, ,relation animal
+say, ,relation
+hence, ,relation
+roots, ,relation
+wash, ,relation
+ice, ,relation
+reduce, ,relation
+combining, ,relation
+occasional, ,relation
+1950s, ,relation
+ago, ,relation
+further, ,relation
+decades, ,relation
+vermont, ,relation
+roman, ,relation
+violet, ,relation
+historical, ,relation
+romans, ,relation
+coated, ,relation
+sixty, ,relation
+dating, ,relation
+unusual, ,relation
+goods, ,relation
+unfortunately, ,relation
+useful, ,relation
+action, ,relation
+structure, ,relation
+150, ,relation
+result, ,relation
+leading, ,relation
+naturally, ,relation
+ltd, ,relation
+closely, ,relation
+candy, ,relation
+household, ,relation
+500, ,relation
+49, ,relation
+solutions, ,relation
+importance, ,relation
+materials, ,relation
+26, ,relation
+washed, ,relation
+20th, ,relation
+direct, ,relation
+supported, ,relation
+elder, ,relation
+raised, ,relation
+preserve, ,relation
+owners, ,relation
+extracted, ,relation
+peruvian, ,relation
+forerunner, ,relation
+fishing, ,relation animal
+problem, ,relation
+becoming, ,relation
+alcohol, ,relation
+batch, ,relation
+portion, ,relation
+emphasis, ,relation
+sufficient, ,relation
+arabic, ,relation
+allegedly, ,relation
+oliver, ,relation
+bennett, ,relation
+including, ,relation measure
+chocolate, ,relation
+not, ,relation
+typical, ,relation measure
+eastern, ,relation
+single, ,relation
+here, ,relation
+kept, ,relation
+little, ,relation measure
+others, ,relation
+because, ,relation
+runs, ,relation
+bring, ,relation
+bar, ,relation animal
+various, ,relation
+flesh, ,relation
+southeast, ,relation
+originally, ,relation
+resulting, ,relation
+cheap, ,relation
+keep, ,relation
+notes, ,relation
+clean, ,relation
+those, ,relation
+1980s, ,relation
+available, ,relation animal
+holes, ,relation
+carry, ,relation
+founded, ,relation
+great, ,relation
+demand, ,relation animal
+inc, ,relation
+floor, ,relation
+enhance, ,relation
+shoots, ,relation
+marketed, ,relation
+union, ,relation
+ii, ,relation
+cost, ,relation
+places, ,relation
+abandoned, ,relation
+flower, ,relation
+manufactured, ,relation
+replace, ,relation
+cause, ,relation
+bond, ,relation
+composition, ,relation
+effectively, ,relation
+the, ,vegetable plant
+of, ,vegetable plant
+is, ,measure
+half, ,measure
+bread, ,measure
+topped, ,measure
+derived, ,measure
+amount, ,measure
+term, ,measure animal
+like, ,measure
+well, ,measure
+shaped, ,measure
+quickly, ,measure
+double, ,measure
+larger, ,measure
+wrapped, ,measure
+with, ,vegetable measure
+lamb, ,measure animal
+eating, ,measure
+eggs, ,measure
+similar, ,measure
+known, ,vegetable measure
+names, ,measure animal
+large, ,measure
+band, ,measure
+pound, ,measure
+tiny, ,measure
+find, ,measure
+cross, ,measure
+another, ,measure
+live, ,measure animal
+when, ,measure
+smaller, ,measure
+way, ,measure
+comes, ,measure
+off, ,measure
+episode, ,measure
+provides, ,measure
+widely, ,measure
+pieces, ,measure
+lower, ,measure
+plus, ,measure
+meaning, ,measure
+boat, ,measure
+north, ,measure
+referred, ,measure
+slightly, ,measure
+simply, ,measure
+won, ,measure
+tomatoes, ,vegetable
+beet, ,vegetable
+trout, ,animal
+eel, ,animal
+growing, ,animal
+commercially, ,animal
+freshwater, ,animal
+farms, ,animal
+farming, ,animal
+salmon, ,animal
+crab, ,animal
+seafood, ,animal
+industry, ,animal
+squid, ,animal
+california, ,animal
+fat, ,animal
+nowadays, ,animal
+swim, ,animal
+suitable, ,animal
+pink, ,animal
+commonly, ,animal
+locally, ,animal
+almost, ,animal
+applied, ,animal
+fan, ,animal
+produce, ,animal
+caught, ,animal
+diet, ,animal
+country, ,animal
+popular, ,animal
+aquatic, ,animal
+shells, ,animal
+aquaculture, ,animal
+shellfish, ,animal
+crayfish, ,animal
+duck, ,animal
+abundant, ,animal
+fishery, ,animal
+important, ,animal
+waters, ,animal
+fisheries, ,animal
+mud, ,animal
+farm, ,animal
+grow, ,animal
+settling, ,animal
+exports, ,animal
+octopus, ,animal
+spread, ,animal
+perch, ,animal
+restaurants, ,animal
+documented, ,animal
+survive, ,animal
+growth, ,animal
+swimming, ,animal
+recent, ,animal
+together, ,animal
+animals, ,animal
+does, ,animal
+worms, ,animal
+rapid, ,animal
+characterized, ,animal
+fishermen, ,animal
+shares, ,animal
+sells, ,animal
+seems, ,animal
+come, ,animal
+export, ,animal
+catching, ,animal
+infected, ,animal
+cattle, ,animal
+preference, ,animal
+factory, ,animal
+kingdom, ,animal
+huge, ,animal
+takes, ,animal
+produces, ,animal
+chinese, ,animal
+unique, ,animal
+lobster, ,animal
+king, ,animal
+catch, ,animal
+catches, ,animal
+shark, ,animal
+particularly, ,animal
+tuna, ,animal
+australian, ,animal
+bacon, ,animal
+rolls, ,animal
+roll, ,animal
+cow, ,animal
+producers, ,animal
+issues, ,animal
+weighing, ,animal
+artificial, ,animal
+timber, ,animal
+selling, ,animal
+exclusively, ,animal
+expanded, ,animal
+signature, ,animal
+england, ,animal
+among, ,animal

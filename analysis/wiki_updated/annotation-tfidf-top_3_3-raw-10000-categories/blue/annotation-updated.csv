@@ -1,0 +1,1820 @@
+context,evidence_type,categories
+hammer, ,relation
+use, ,relation
+tiny, ,relation measure
+variations, ,relation
+sizes, ,relation measure
+allows, ,relation
+develop, ,relation
+usually, ,relation
+with, ,relation
+stuck, ,vehicle relation
+fine, ,relation
+hand, ,relation measure
+outer, ,relation
+thin, ,relation
+display, ,relation
+mask, ,relation
+surface, ,relation measure
+combined, ,relation
+using, ,relation
+face, ,vehicle relation
+colours, ,relation
+different, ,vehicle relation
+enough, ,relation
+size, ,relation
+sort, ,relation
+steel, ,relation
+required, ,relation
+otherwise, ,relation
+card, ,vehicle relation
+basic, ,relation
+preferred, ,relation
+entire, ,relation
+effective, ,relation
+extent, ,relation
+comparable, ,relation
+intended, ,relation
+temperature, ,relation
+placing, ,relation
+remove, ,relation
+suspended, ,vehicle relation
+depends, ,relation
+simple, ,vehicle object
+evening, ,all vehicle object measure
+umbrella, ,all vehicle object measure
+endemic, ,plant
+uncommon, ,plant
+syn, ,plant
+species, ,plant
+philip, ,measure
+bottle, ,measure
+tube, ,measure
+000, ,measure
+by, ,vehicle measure
+drink, ,measure
+painting, ,measure
+bronze, ,measure
+furniture, ,measure
+city, ,vehicle measure
+bowl, ,measure
+gold, ,measure
+lit, ,measure
+paint, ,measure
+heart, ,vehicle measure
+hour, ,vehicle measure
+cone, ,measure
+images, ,measure
+st, ,measure
+feature, ,measure
+diamond, ,measure
+carter, ,measure
+famous, ,measure
+ancient, ,measure
+will, ,measure
+end, ,measure
+life, ,measure
+balls, ,measure
+point, ,vehicle measure
+best, ,measure
+keith, ,measure
+showcase, ,measure
+see, ,measure
+rise, ,measure
+temperatures, ,measure
+tea, ,measure
+drops, ,blue measure
+written, ,vehicle measure
+released, ,measure
+master, ,vehicle measure
+finished, ,measure
+business, ,vehicle measure
+opening, ,vehicle measure
+drawing, ,measure
+album, ,measure
+featuring, ,blue measure
+chamber, ,measure
+tv, ,vehicle measure bird
+award, ,vehicle measure
+together, ,measure
+pictures, ,measure
+disc, ,measure
+representing, ,vehicle measure
+fourth, ,measure
+walking, ,vehicle blue measure
+sky, ,measure
+view, ,measure
+opera, ,measure
+ball, ,measure
+cannot, ,vehicle measure
+play, ,vehicle measure
+drawn, ,measure
+2015, ,vehicle measure
+slowly, ,blue measure
+coffee, ,measure
+piano, ,measure
+passage, ,measure
+1978, ,vehicle measure
+chance, ,vehicle measure
+pass, ,vehicle measure
+belgium, ,measure
+selling, ,vehicle measure
+2008, ,vehicle measure
+1988, ,vehicle measure
+died, ,vehicle measure
+wrote, ,measure
+visit, ,vehicle measure
+presented, ,measure
+1950, ,measure
+45, ,vehicle measure
+sound, ,vehicle measure
+decorate, ,measure
+shopping, ,measure
+helped, ,measure
+theme, ,blue measure
+sun, ,measure
+watching, ,measure
+title, ,measure
+season, ,vehicle measure
+numerous, ,measure
+note, ,vehicle blue measure
+biggest, ,vehicle measure
+allen, ,measure
+movie, ,vehicle measure
+andy, ,measure
+gradually, ,measure
+letter, ,measure
+1964, ,measure
+1977, ,measure
+gift, ,measure
+ll, ,measure
+recent, ,measure
+event, ,measure
+reminiscent, ,measure
+folk, ,measure
+continues, ,vehicle measure
+secret, ,measure
+offering, ,vehicle measure
+buried, ,measure
+forty, ,vehicle measure
+played, ,measure
+stars, ,vehicle measure
+learned, ,vehicle measure
+periods, ,measure
+crowned, ,measure
+joy, ,measure
+singles, ,measure
+grave, ,measure
+visiting, ,vehicle measure
+students, ,vehicle measure
+richard, ,vehicle measure
+dvd, ,measure
+1992, ,blue measure
+rain, ,blue measure
+circle, ,vehicle measure
+hundreds, ,measure
+search, ,measure
+debuted, ,vehicle measure
+television, ,measure
+association, ,measure
+31, ,vehicle measure
+picks, ,vehicle measure
+visited, ,measure
+wish, ,measure
+promotional, ,measure
+ultimate, ,measure
+collect, ,food measure
+animated, ,measure
+250, ,measure
+previous, ,vehicle measure
+adam, ,measure
+spirit, ,vehicle measure
+starred, ,measure
+seated, ,measure
+draws, ,measure
+kiss, ,vehicle measure
+plot, ,measure
+pocket, ,measure
+legendary, ,measure
+persian, ,measure
+ages, ,measure
+explains, ,measure
+departure, ,measure
+cd, ,vehicle measure
+1958, ,vehicle measure
+arrangements, ,measure
+speaking, ,measure
+zone, ,vehicle blue measure
+guitar, ,measure
+winner, ,measure
+2016, ,vehicle blue measure
+reunited, ,measure
+robin, ,measure
+brian, ,vehicle measure
+passing, ,vehicle measure
+comedy, ,vehicle measure
+edition, ,vehicle measure
+emma, ,measure
+porter, ,vehicle measure
+tenth, ,measure
+essence, ,measure
+merely, ,vehicle measure
+intimate, ,measure
+documentary, ,measure
+answer, ,measure
+continuing, ,vehicle measure
+teams, ,vehicle measure
+vol, ,measure
+rises, ,blue measure
+simpson, ,measure
+bbc, ,vehicle measure
+bass, ,measure
+high, ,measure
+these, ,measure
+over, ,vehicle measure
+four, ,measure
+alice, ,measure
+sunlight, ,measure
+six, ,measure
+book, ,vehicle measure
+depict, ,measure
+jewels, ,measure
+flame, ,blue measure
+depicts, ,measure
+opened, ,vehicle measure
+limited, ,measure
+cambridge, ,measure
+jean, ,vehicle measure
+patent, ,measure
+liquor, ,measure
+those, ,measure
+depiction, ,measure
+movement, ,measure
+creation, ,measure
+become, ,vehicle measure
+brilliant, ,measure
+commercial, ,vehicle measure
+offer, ,measure
+vast, ,measure
+author, ,measure
+content, ,measure
+contrast, ,measure
+necklace, ,measure
+exit, ,measure
+1996, ,measure
+rainbow, ,blue measure bird
+australia, ,measure
+300, ,measure
+influence, ,measure
+job, ,vehicle measure
+devoted, ,measure
+ann, ,measure
+1963, ,measure
+portrait, ,measure
+why, ,vehicle measure
+1889, ,measure
+1967, ,vehicle measure
+regularly, ,vehicle measure
+adaptation, ,measure
+impression, ,measure
+tears, ,measure
+parallel, ,measure
+northwest, ,measure
+dancer, ,measure
+adapted, ,vehicle measure
+seems, ,vehicle measure
+specific, ,measure
+shoe, ,measure
+1975, ,measure
+interrupted, ,measure
+1985, ,measure
+reveal, ,measure
+maryland, ,measure
+distinguish, ,measure
+pro, ,measure
+1974, ,measure
+dont, ,measure
+freely, ,measure
+metaphor, ,measure
+samuel, ,measure
+herman, ,measure
+elite, ,measure
+pierre, ,measure
+fantasy, ,measure
+household, ,measure
+fail, ,measure
+window, ,vehicle measure
+ceiling, ,measure
+plate, ,measure
+broken, ,measure
+dome, ,measure
+tubes, ,measure
+blowing, ,measure
+art, ,measure
+works, ,measure
+panel, ,measure
+through, ,measure
+depicting, ,measure
+objects, ,measure
+tiles, ,measure
+piece, ,measure
+flat, ,measure
+making, ,measure
+sculpture, ,measure
+paintings, ,measure
+decorated, ,measure
+work, ,measure
+towers, ,measure
+industry, ,measure
+material, ,measure
+break, ,measure
+clay, ,measure
+decoration, ,measure
+cameo, ,measure
+drinks, ,measure
+saint, ,measure
+lighting, ,measure
+lamp, ,measure
+viewing, ,blue measure
+candy, ,measure
+boxes, ,measure
+bubbles, ,measure
+shape, ,measure
+wide, ,measure
+proof, ,measure
+throws, ,blue measure
+frog, ,measure
+palace, ,measure
+500, ,measure
+featured, ,measure
+film, ,measure
+cups, ,measure
+music, ,measure
+16, ,vehicle measure
+drawings, ,measure
+spin, ,measure
+forms, ,measure
+special, ,measure
+rod, ,measure
+rose, ,vehicle measure
+raise, ,vehicle measure
+ornamental, ,measure
+ruby, ,measure
+statues, ,measure
+warm, ,blue measure
+school, ,measure
+novel, ,blue measure
+pillar, ,measure
+bells, ,measure
+trade, ,measure
+cup, ,measure
+edges, ,measure
+earth, ,measure
+coins, ,measure
+apartment, ,measure
+ash, ,measure
+society, ,measure
+threw, ,measure
+viewed, ,measure
+alcohol, ,vehicle measure
+desert, ,blue measure
+writing, ,measure
+performance, ,measure
+starring, ,measure
+2007, ,vehicle measure
+invisible, ,blue measure
+1994, ,vehicle measure
+begin, ,measure
+arranged, ,vehicle measure
+lifts, ,vehicle measure
+surroundings, ,measure
+dan, ,vehicle measure
+ray, ,measure
+narrow, ,measure
+stephen, ,measure
+anchor, ,vehicle measure
+tom, ,vehicle measure
+sir, ,measure
+charlie, ,measure
+entitled, ,vehicle measure
+tour, ,vehicle measure
+solo, ,measure
+bearing, ,measure
+14, ,vehicle measure
+passes, ,vehicle measure
+suggest, ,measure
+array, ,measure
+lawrence, ,vehicle measure
+waiting, ,vehicle measure
+statue, ,measure
+2005, ,measure
+shops, ,measure
+2009, ,blue measure
+twelve, ,measure
+regular, ,measure
+bill, ,vehicle measure
+money, ,vehicle measure
+paris, ,vehicle measure
+logo, ,vehicle measure
+bees, ,measure
+1960, ,measure
+active, ,measure
+crime, ,vehicle measure
+puts, ,vehicle measure
+jewel, ,measure
+soul, ,measure
+inscribed, ,measure
+inspiration, ,measure
+transmitted, ,measure
+announced, ,vehicle measure
+offers, ,vehicle measure
+pots, ,measure
+smoking, ,vehicle measure
+pop, ,measure
+prize, ,measure
+saying, ,measure
+films, ,measure
+1991, ,blue measure
+albums, ,measure
+jumps, ,vehicle measure
+shadows, ,measure
+1966, ,measure
+poetry, ,measure
+write, ,measure
+performances, ,measure
+walks, ,vehicle blue measure
+league, ,measure
+drum, ,measure
+outstanding, ,measure
+1961, ,measure
+struggle, ,measure
+flour, ,measure
+orchestra, ,measure
+basically, ,measure
+broadcast, ,measure
+collecting, ,measure
+fan, ,measure
+1971, ,measure
+sullivan, ,measure
+gifts, ,measure
+weather, ,measure
+teamed, ,measure
+say, ,vehicle measure
+nick, ,measure
+heard, ,vehicle measure
+birmingham, ,measure
+nominated, ,measure
+sounds, ,measure bird
+ending, ,measure
+invited, ,measure
+am, ,vehicle measure
+jim, ,measure
+janet, ,measure
+grace, ,measure
+prove, ,measure
+scarlet, ,measure
+forest, ,vehicle food measure
+celebrated, ,blue measure
+greatest, ,measure
+exotic, ,measure
+sang, ,measure
+seattle, ,measure
+highest, ,vehicle measure
+hemisphere, ,measure
+trio, ,measure
+editor, ,measure
+network, ,measure
+student, ,measure
+learns, ,measure
+drew, ,measure
+imagery, ,measure
+presents, ,blue measure
+channel, ,measure
+1956, ,vehicle measure
+mile, ,vehicle measure
+celebrate, ,measure
+surprise, ,measure
+montreal, ,vehicle measure
+knowing, ,measure
+jungle, ,measure
+fog, ,measure
+acclaimed, ,measure
+mexico, ,measure
+pan, ,blue measure
+32, ,vehicle measure
+robertson, ,measure
+watches, ,vehicle measure
+encountered, ,measure
+suicide, ,measure
+emerging, ,measure
+letters, ,measure
+charlotte, ,measure
+mistress, ,measure
+charts, ,measure
+souls, ,measure
+46, ,vehicle measure
+stove, ,measure
+controversial, ,measure
+del, ,measure
+prison, ,vehicle measure
+amsterdam, ,measure
+web, ,measure
+triple, ,measure
+fee, ,measure
+festivals, ,measure
+br, ,measure
+romance, ,blue measure
+attempting, ,vehicle measure
+genre, ,measure
+show, ,measure
+every, ,vehicle measure
+time, ,vehicle measure
+last, ,measure
+10, ,measure
+club, ,vehicle measure
+15, ,measure
+game, ,measure
+23, ,vehicle measure
+middle, ,measure
+22, ,vehicle measure
+episode, ,vehicle measure
+dawn, ,measure
+stayed, ,measure
+talk, ,measure
+watched, ,measure
+19, ,vehicle measure
+21, ,vehicle measure
+came, ,measure
+journey, ,vehicle measure
+love, ,vehicle measure
+held, ,measure
+each, ,measure
+awards, ,measure
+five, ,vehicle measure
+take, ,vehicle measure
+open, ,vehicle measure
+appeared, ,measure
+party, ,measure
+month, ,measure
+however, ,vehicle measure
+goes, ,vehicle measure
+host, ,blue measure
+falls, ,vehicle blue measure
+songs, ,measure
+january, ,vehicle measure
+called, ,blue measure bird
+star, ,vehicle measure
+sketches, ,measure
+tells, ,vehicle measure
+games, ,measure
+won, ,vehicle measure
+what, ,measure
+premiered, ,measure
+attending, ,measure
+singing, ,vehicle measure
+rated, ,measure
+events, ,vehicle measure
+everyone, ,vehicle measure
+luck, ,measure
+minute, ,vehicle measure
+seven, ,vehicle measure
+2013, ,vehicle measure
+ever, ,measure
+secretly, ,measure
+win, ,vehicle measure
+episodes, ,measure
+group, ,measure
+just, ,vehicle measure
+ceremony, ,measure
+success, ,measure
+romantic, ,measure
+attend, ,measure
+friend, ,vehicle measure
+monkey, ,measure
+york, ,vehicle measure
+spot, ,measure
+soon, ,vehicle measure
+starting, ,measure
+refuses, ,vehicle measure
+fifth, ,measure
+ten, ,measure
+lover, ,measure
+follow, ,vehicle measure
+bring, ,measure
+crossed, ,measure
+takes, ,vehicle blue measure
+meets, ,vehicle blue measure
+gather, ,measure
+poem, ,measure
+dies, ,measure
+peaked, ,measure
+holy, ,measure
+compilation, ,measure
+conclusion, ,measure
+career, ,vehicle measure
+miami, ,measure
+hosts, ,measure
+dubbed, ,measure
+awarded, ,measure
+sister, ,vehicle measure
+san, ,vehicle measure
+residents, ,vehicle measure
+happy, ,vehicle measure
+competition, ,vehicle measure
+happens, ,measure
+sends, ,vehicle measure
+blind, ,measure
+knows, ,blue measure
+legend, ,measure
+die, ,measure
+neil, ,measure
+la, ,vehicle blue measure
+susan, ,measure
+sung, ,measure
+nancy, ,measure
+locals, ,measure
+prince, ,measure
+gathering, ,vehicle measure
+japan, ,measure
+online, ,measure
+clouds, ,measure
+tune, ,vehicle measure
+emerges, ,blue measure
+1976, ,vehicle blue measure
+language, ,measure
+lay, ,measure
+sings, ,vehicle measure
+teacher, ,measure
+cultural, ,measure
+bears, ,measure
+receives, ,measure
+troupe, ,measure
+runner, ,measure
+honey, ,measure
+dragon, ,measure
+forth, ,measure
+odd, ,measure
+selected, ,measure
+lily, ,blue measure
+marriage, ,measure
+shall, ,measure
+repeatedly, ,vehicle measure
+compete, ,vehicle measure
+dylan, ,measure
+translated, ,measure
+1972, ,vehicle measure
+youth, ,measure
+ensuing, ,measure
+stakes, ,measure
+friendship, ,measure
+attracts, ,measure
+shoots, ,measure
+rocky, ,measure
+merchant, ,measure
+prizes, ,measure
+connection, ,vehicle measure
+revue, ,measure
+truly, ,measure
+axe, ,measure
+chelsea, ,measure
+alternate, ,vehicle measure
+sword, ,measure
+scotland, ,measure
+seasonal, ,measure
+culture, ,measure
+psychedelic, ,measure
+summit, ,measure
+stalks, ,measure
+nursery, ,measure
+trail, ,vehicle measure
+scent, ,measure
+dealer, ,vehicle measure
+retrieve, ,vehicle measure
+politics, ,measure
+cure, ,measure
+applies, ,measure
+represents, ,measure
+parakeet, ,bird
+fact, ,bird
+previously, ,bird
+pet, ,bird
+talking, ,bird
+british, ,bird
+known, ,bird
+parrots, ,bird
+nine, ,vehicle bird
+zealand, ,bird
+hanging, ,bird animal
+said, ,bird
+grey, ,bird
+bulbul, ,bird
+green, ,vehicle bird
+pacific, ,bird
+been, ,bird
+described, ,bird
+largest, ,bird
+probably, ,bird
+tropical, ,bird
+eye, ,vehicle bird
+loud, ,bird
+similar, ,bird
+plumage, ,bird
+ornithologist, ,bird
+gave, ,bird
+prefers, ,bird
+lights, ,all vehicle
+creature, ,blue
+blue, ,blue
+side, ,blue
+pearl, ,blue
+big, ,blue
+swimming, ,blue
+off, ,vehicle blue
+length, ,vehicle blue
+underwater, ,blue
+inner, ,blue
+submerged, ,blue
+sanctuary, ,blue
+florida, ,vehicle blue
+flowing, ,blue
+opens, ,vehicle blue
+means, ,blue
+above, ,blue
+inside, ,blue
+center, ,blue
+full, ,blue
+rock, ,blue
+next, ,vehicle blue
+walk, ,vehicle blue
+sides, ,blue
+dee, ,blue
+away, ,vehicle blue
+wind, ,blue
+grass, ,blue
+july, ,blue
+provides, ,blue
+wave, ,blue
+height, ,blue
+red, ,blue
+night, ,vehicle blue
+adventure, ,blue
+february, ,blue
+spectacular, ,blue
+grow, ,blue
+except, ,blue
+stretch, ,blue
+circular, ,blue
+begins, ,vehicle blue
+pirate, ,vehicle blue
+winds, ,blue
+soundtrack, ,blue
+moved, ,blue
+temporary, ,vehicle blue
+appears, ,blue
+burst, ,blue
+sequel, ,blue
+departed, ,blue
+storm, ,blue
+becomes, ,vehicle blue
+setting, ,blue
+march, ,blue
+filming, ,vehicle blue
+caught, ,vehicle blue
+downtown, ,vehicle blue
+literally, ,blue
+rising, ,blue
+1997, ,blue
+performed, ,vehicle blue
+colour, ,blue
+winter, ,vehicle blue
+moves, ,blue
+trapped, ,blue
+releases, ,blue
+gives, ,vehicle blue
+mix, ,blue
+dancing, ,vehicle blue
+reveals, ,blue
+guided, ,blue
+escapes, ,blue
+entertainment, ,blue
+minor, ,blue
+singapore, ,vehicle blue
+campus, ,vehicle blue
+crash, ,vehicle blue
+creates, ,blue
+jump, ,blue
+ends, ,vehicle blue
+drive, ,vehicle blue
+pilot, ,blue
+orange, ,vehicle blue
+avoid, ,vehicle blue
+outdoor, ,blue
+hours, ,vehicle blue
+stationary, ,blue
+depicted, ,blue
+encounter, ,vehicle blue
+occasionally, ,vehicle blue
+lowering, ,blue
+cities, ,vehicle blue
+sets, ,blue
+landed, ,blue
+2012, ,vehicle blue
+frozen, ,blue
+gallery, ,vehicle blue
+constantly, ,blue
+ep, ,blue
+duration, ,blue
+angel, ,blue
+fate, ,blue
+effectively, ,blue
+yellow, ,vehicle blue
+1953, ,vehicle blue
+accompanying, ,blue
+focusing, ,blue
+drives, ,vehicle blue
+flying, ,vehicle blue
+hopkins, ,blue
+immense, ,blue
+measured, ,blue
+midnight, ,vehicle blue
+faces, ,blue
+eric, ,blue
+visitor, ,blue
+resembles, ,blue
+concert, ,blue
+riding, ,vehicle blue
+toured, ,blue
+darkness, ,blue
+relief, ,blue
+sports, ,blue
+summer, ,vehicle blue
+thereby, ,blue
+simultaneously, ,blue
+displays, ,blue
+degrees, ,blue
+phantom, ,blue
+monster, ,blue
+created, ,blue
+fairy, ,blue
+shoot, ,blue
+morning, ,vehicle blue
+approached, ,blue
+reed, ,blue
+arm, ,blue
+floor, ,blue
+displayed, ,blue
+loosely, ,blue
+traveling, ,vehicle blue
+monsters, ,blue
+honor, ,blue
+bermuda, ,blue
+restored, ,blue
+honour, ,blue
+homage, ,blue
+indicates, ,blue
+meter, ,blue
+possesses, ,blue
+station, ,vehicle
+route, ,vehicle
+operates, ,vehicle
+ride, ,vehicle
+passengers, ,vehicle
+terminals, ,vehicle
+distance, ,vehicle
+operate, ,vehicle
+run, ,vehicle
+travel, ,vehicle
+passenger, ,vehicle
+via, ,vehicle
+available, ,vehicle
+owned, ,vehicle
+accident, ,vehicle
+operations, ,vehicle
+travelling, ,vehicle
+highway, ,vehicle
+rides, ,vehicle
+link, ,vehicle
+mini, ,vehicle
+can, ,vehicle
+avenue, ,vehicle
+boarded, ,vehicle
+24, ,vehicle
+daily, ,vehicle
+travels, ,vehicle
+year, ,vehicle
+trip, ,vehicle
+carrying, ,vehicle
+crashed, ,vehicle
+trams, ,vehicle
+junction, ,vehicle
+island, ,vehicle
+reached, ,vehicle
+manufacturers, ,vehicle
+across, ,vehicle
+bicycle, ,vehicle
+ran, ,vehicle
+getting, ,vehicle
+manchester, ,vehicle
+gets, ,vehicle
+turns, ,vehicle
+collided, ,vehicle
+arrive, ,vehicle
+discontinued, ,vehicle
+going, ,vehicle
+started, ,vehicle
+boards, ,vehicle
+you, ,vehicle
+traveled, ,vehicle
+crashes, ,vehicle
+leave, ,vehicle
+locations, ,vehicle
+shared, ,vehicle
+tourists, ,vehicle
+who, ,vehicle
+her, ,vehicle
+bound, ,vehicle
+max, ,vehicle
+rush, ,vehicle
+reach, ,vehicle
+injured, ,vehicle
+sold, ,vehicle
+current, ,vehicle
+before, ,vehicle
+improve, ,vehicle
+closest, ,vehicle
+band, ,vehicle
+offered, ,vehicle
+popular, ,vehicle
+wheelchair, ,vehicle
+october, ,vehicle
+duty, ,vehicle
+him, ,vehicle
+bart, ,vehicle
+family, ,vehicle
+leaves, ,vehicle
+follows, ,vehicle
+los, ,vehicle
+coming, ,vehicle
+comes, ,vehicle
+1990s, ,vehicle
+arriving, ,vehicle
+trying, ,vehicle
+travelled, ,vehicle
+apart, ,vehicle
+option, ,vehicle
+father, ,vehicle
+2002, ,vehicle
+we, ,vehicle
+decides, ,vehicle
+bird, ,vehicle
+2006, ,vehicle
+traditional, ,vehicle
+customers, ,vehicle
+gang, ,vehicle
+parade, ,vehicle
+stranded, ,vehicle
+approaching, ,vehicle
+alternatively, ,vehicle
+longest, ,vehicle
+sees, ,vehicle
+buy, ,vehicle
+sales, ,vehicle
+woman, ,vehicle
+starts, ,vehicle
+advertising, ,vehicle
+others, ,vehicle
+handles, ,vehicle
+civilian, ,vehicle
+injuring, ,vehicle
+2001, ,vehicle
+returning, ,vehicle
+charging, ,vehicle
+thames, ,vehicle
+martin, ,vehicle
+forced, ,vehicle
+kilometres, ,vehicle
+rs, ,vehicle
+organised, ,vehicle
+owns, ,vehicle
+queensland, ,vehicle
+arrested, ,vehicle
+1968, ,vehicle
+send, ,vehicle
+catches, ,vehicle
+shows, ,vehicle
+ski, ,vehicle
+approach, ,vehicle
+hotel, ,vehicle
+rover, ,vehicle
+partnership, ,vehicle
+1980, ,vehicle
+giving, ,vehicle
+ralph, ,vehicle
+boy, ,vehicle
+usual, ,vehicle
+wrong, ,vehicle
+marketed, ,vehicle
+cameras, ,vehicle
+mr, ,vehicle
+finds, ,vehicle
+flag, ,vehicle
+monthly, ,vehicle
+picked, ,vehicle
+owners, ,vehicle
+miller, ,vehicle
+africa, ,vehicle
+price, ,vehicle
+baby, ,vehicle
+wright, ,vehicle
+blocked, ,vehicle
+runaway, ,vehicle
+registered, ,vehicle
+crowd, ,vehicle
+licence, ,vehicle
+map, ,vehicle
+safari, ,vehicle
+crashing, ,vehicle
+jackson, ,vehicle
+character, ,vehicle
+leased, ,vehicle
+latter, ,vehicle
+give, ,vehicle
+riley, ,vehicle
+65, ,vehicle
+marked, ,vehicle
+flee, ,vehicle
+winning, ,vehicle
+employee, ,vehicle
+handle, ,vehicle
+song, ,vehicle
+investigation, ,vehicle
+instance, ,vehicle
+maker, ,vehicle
+my, ,vehicle
+mary, ,vehicle
+revealed, ,vehicle
+radio, ,vehicle
+tire, ,vehicle
+word, ,vehicle
+guide, ,vehicle
+guy, ,vehicle
+packed, ,vehicle
+aero, ,vehicle
+buying, ,vehicle
+agrees, ,vehicle
+aside, ,vehicle
+obtain, ,vehicle
+preparation, ,vehicle
+agents, ,vehicle
+death, ,vehicle
+hands, ,vehicle
+row, ,vehicle
+stay, ,vehicle
+establishing, ,vehicle
+collins, ,vehicle
+chases, ,vehicle
+sing, ,vehicle
+snow, ,vehicle
+daughter, ,vehicle
+chose, ,vehicle
+wheelbase, ,vehicle
+son, ,vehicle
+somewhere, ,vehicle
+notice, ,vehicle
+warren, ,vehicle
+women, ,vehicle
+bob, ,vehicle
+650, ,vehicle
+credits, ,vehicle
+ryan, ,vehicle
+commandeered, ,vehicle
+leg, ,vehicle
+aware, ,vehicle
+makers, ,vehicle
+hurt, ,vehicle
+injury, ,vehicle
+english, ,vehicle
+eventual, ,vehicle
+lives, ,vehicle
+themed, ,vehicle
+teenager, ,vehicle
+theatre, ,vehicle
+iconic, ,vehicle
+doctor, ,vehicle
+finding, ,vehicle
+introduces, ,vehicle
+climbs, ,vehicle
+bus, ,vehicle
+services, ,vehicle
+service, ,vehicle
+buses, ,vehicle
+stops, ,vehicle
+stop, ,vehicle
+lines, ,vehicle
+tram, ,vehicle
+transport, ,vehicle
+transportation, ,vehicle
+driver, ,vehicle
+terminus, ,vehicle
+taxi, ,vehicle
+express, ,vehicle
+nearest, ,vehicle
+metro, ,vehicle
+trolley, ,vehicle
+local, ,vehicle
+from, ,vehicle
+garage, ,vehicle
+accessible, ,vehicle
+runs, ,vehicle
+motor, ,vehicle
+town, ,vehicle
+drivers, ,vehicle
+trips, ,vehicle
+car, ,vehicle
+airport, ,vehicle
+street, ,vehicle
+at, ,vehicle
+private, ,vehicle
+lane, ,vehicle
+which, ,vehicle
+state, ,vehicle
+contracted, ,vehicle
+manufacturer, ,vehicle
+volvo, ,vehicle
+parking, ,vehicle
+park, ,vehicle
+go, ,vehicle
+day, ,vehicle
+minutes, ,vehicle
+nearby, ,vehicle
+tramway, ,vehicle
+several, ,vehicle
+old, ,vehicle
+fixed, ,vehicle
+way, ,vehicle
+taxis, ,vehicle
+riders, ,vehicle
+catch, ,vehicle
+access, ,vehicle
+get, ,vehicle
+tours, ,vehicle
+mall, ,vehicle
+subsidiary, ,vehicle
+scheduled, ,vehicle
+accessed, ,vehicle
+driving, ,vehicle
+speed, ,vehicle
+back, ,vehicle
+onto, ,vehicle
+glasgow, ,vehicle
+introduced, ,vehicle
+electric, ,vehicle
+auto, ,vehicle
+bike, ,vehicle
+currently, ,vehicle
+select, ,vehicle
+various, ,vehicle
+their, ,vehicle
+rural, ,vehicle
+taking, ,vehicle
+mercedes, ,vehicle
+body, ,vehicle
+departs, ,vehicle
+crossing, ,vehicle
+benz, ,vehicle
+journeys, ,vehicle
+devices, ,vehicle
+58, ,vehicle
+horse, ,vehicle
+suburb, ,vehicle
+platform, ,vehicle
+arrives, ,vehicle
+privately, ,vehicle
+victoria, ,vehicle
+clock, ,vehicle
+brand, ,vehicle
+killing, ,vehicle
+ltd, ,vehicle
+streets, ,vehicle
+hybrid, ,vehicle
+33, ,vehicle
+driven, ,vehicle
+hire, ,vehicle
+branded, ,vehicle
+home, ,vehicle
+police, ,vehicle
+began, ,vehicle
+transporting, ,vehicle
+scheme, ,vehicle
+she, ,vehicle
+implemented, ,vehicle
+27, ,vehicle
+cards, ,vehicle
+2014, ,vehicle
+door, ,vehicle
+2010, ,vehicle
+parks, ,vehicle
+instead, ,vehicle
+automobile, ,vehicle
+streetcars, ,vehicle
+provider, ,vehicle
+primarily, ,vehicle
+destination, ,vehicle
+trans, ,vehicle
+contract, ,vehicle
+motors, ,vehicle
+saturday, ,vehicle
+early, ,vehicle
+consists, ,vehicle
+jerusalem, ,vehicle
+here, ,vehicle
+neighborhood, ,vehicle
+engined, ,vehicle
+collision, ,vehicle
+direction, ,vehicle
+reserved, ,vehicle
+18, ,vehicle
+39, ,vehicle
+exclusive, ,vehicle
+hotels, ,vehicle
+66, ,vehicle
+thrown, ,vehicle
+chip, ,vehicle
+today, ,vehicle
+beach, ,vehicle
+expanded, ,vehicle
+team, ,vehicle
+majority, ,vehicle
+luxury, ,vehicle
+almost, ,vehicle
+signs, ,vehicle
+philadelphia, ,vehicle
+places, ,vehicle
+volkswagen, ,vehicle
+pick, ,vehicle
+highways, ,vehicle
+parked, ,vehicle
+lots, ,vehicle
+43, ,vehicle
+51, ,vehicle
+modes, ,vehicle
+pm, ,vehicle
+52, ,vehicle
+1970s, ,vehicle
+2004, ,vehicle
+signal, ,vehicle
+vans, ,vehicle
+29, ,vehicle
+beijing, ,vehicle
+spaces, ,vehicle
+traction, ,vehicle
+prior, ,vehicle
+approximately, ,vehicle
+hall, ,vehicle
+makes, ,vehicle
+package, ,vehicle
+england, ,vehicle
+ceased, ,vehicle
+exclusively, ,vehicle
+standing, ,vehicle
+meet, ,vehicle
+convenient, ,vehicle
+barn, ,vehicle
+unveiled, ,vehicle
+does, ,vehicle
+catching, ,vehicle
+ford, ,vehicle
+toronto, ,vehicle
+rode, ,vehicle
+4km, ,vehicle
+read, ,vehicle
+87, ,vehicle
+orders, ,vehicle
+overturned, ,vehicle
+december, ,vehicle
+speeds, ,vehicle
+angeles, ,vehicle
+windshield, ,vehicle
+joins, ,vehicle
+afternoon, ,vehicle
+limits, ,vehicle
+44, ,vehicle
+rental, ,vehicle
+owner, ,vehicle
+peter, ,vehicle
+quality, ,vehicle
+custom, ,vehicle
+holiday, ,vehicle
+changed, ,vehicle
+bicycles, ,vehicle
+essex, ,vehicle
+asks, ,vehicle
+besides, ,vehicle
+ambulance, ,vehicle
+mail, ,vehicle
+weekend, ,vehicle
+stadium, ,vehicle
+incident, ,vehicle
+entry, ,vehicle
+entirely, ,vehicle
+surrey, ,vehicle
+refused, ,vehicle
+mob, ,vehicle
+mother, ,vehicle
+costs, ,vehicle
+shifted, ,vehicle
+sharing, ,vehicle
+breaks, ,vehicle
+overnight, ,vehicle
+increase, ,vehicle
+tehran, ,vehicle
+workers, ,vehicle
+lincoln, ,vehicle
+list, ,vehicle
+centers, ,vehicle
+expanding, ,vehicle
+restricted, ,vehicle
+53, ,vehicle
+van, ,vehicle
+gunmen, ,vehicle
+shop, ,vehicle
+nearly, ,vehicle
+kids, ,vehicle
+months, ,vehicle
+apple, ,vehicle
+sits, ,vehicle
+told, ,vehicle
+paved, ,vehicle
+happened, ,vehicle
+filmed, ,vehicle
+frequently, ,vehicle
+1990, ,vehicle
+manages, ,vehicle
+agreed, ,vehicle
+payment, ,vehicle
+hijacking, ,vehicle
+nissan, ,vehicle
+favor, ,vehicle
+reaches, ,vehicle
+venture, ,vehicle
+discover, ,vehicle
+isle, ,vehicle
+norway, ,vehicle
+ordinary, ,vehicle
+plunged, ,vehicle
+neighboring, ,vehicle
+73, ,vehicle
+meanwhile, ,vehicle
+merged, ,vehicle
+missing, ,vehicle
+gray, ,vehicle
+seating, ,vehicle
+straight, ,vehicle
+twice, ,vehicle
+significantly, ,vehicle
+1995, ,vehicle
+2000, ,vehicle
+shortly, ,vehicle
+scene, ,vehicle
+1998, ,vehicle
+unlimited, ,vehicle
+unlike, ,vehicle
+sale, ,vehicle
+solar, ,vehicle
+1973, ,vehicle
+curb, ,vehicle
+looks, ,vehicle
+el, ,vehicle
+centres, ,vehicle
+impact, ,vehicle
+dial, ,vehicle
+maintains, ,vehicle
+abducted, ,vehicle
+sites, ,vehicle
+fans, ,vehicle
+sign, ,vehicle
+carriage, ,vehicle
+license, ,vehicle
+young, ,vehicle
+speeding, ,vehicle
+cable, ,vehicle
+exiting, ,vehicle
+users, ,vehicle
+million, ,vehicle
+garden, ,vehicle
+1947, ,vehicle
+college, ,vehicle
+flights, ,vehicle
+accidents, ,vehicle
+2017, ,vehicle
+michigan, ,vehicle
+1987, ,vehicle
+strikes, ,vehicle
+170, ,vehicle
+berlin, ,vehicle
+telephone, ,vehicle
+chevrolet, ,vehicle
+federal, ,vehicle
+usage, ,vehicle
+exited, ,vehicle
+en, ,vehicle
+living, ,vehicle
+101, ,vehicle
+escaped, ,vehicle
+jobs, ,vehicle
+premium, ,vehicle
+accompanied, ,vehicle
+virginia, ,vehicle
+notices, ,vehicle
+video, ,vehicle
+parent, ,vehicle
+restaurant, ,vehicle
+49, ,vehicle
+rented, ,vehicle
+frankie, ,vehicle
+step, ,vehicle
+700, ,vehicle
+rammed, ,vehicle
+ve, ,vehicle
+tokyo, ,vehicle
+proceeds, ,vehicle
+injuries, ,vehicle
+instructions, ,vehicle
+waited, ,vehicle
+homer, ,vehicle
+derby, ,vehicle
+employees, ,vehicle
+serious, ,vehicle
+advertisements, ,vehicle
+frames, ,vehicle
+returns, ,vehicle
+restaurants, ,vehicle
+funds, ,vehicle
+recreational, ,vehicle
+fatal, ,vehicle
+undertaken, ,vehicle
+trial, ,vehicle
+beaten, ,vehicle
+bars, ,vehicle
+grand, ,vehicle
+moreover, ,vehicle
+steep, ,vehicle
+girls, ,vehicle
+56, ,vehicle
+victims, ,vehicle
+colored, ,vehicle
+worker, ,vehicle
+pioneer, ,vehicle
+jumping, ,vehicle
+players, ,vehicle
+passed, ,vehicle
+buffalo, ,vehicle
+citizens, ,vehicle
+albert, ,vehicle
+portions, ,vehicle
+alone, ,vehicle
+dallas, ,vehicle
+payments, ,vehicle
+coaster, ,vehicle
+dealers, ,vehicle
+guests, ,vehicle
+witnesses, ,vehicle
+shocked, ,vehicle
+inexpensive, ,vehicle
+shift, ,vehicle
+proper, ,vehicle
+profitable, ,vehicle
+products, ,vehicle
+cat, ,vehicle
+posted, ,vehicle
+likely, ,vehicle
+elsewhere, ,vehicle
+leisure, ,vehicle
+incidents, ,vehicle
+corporate, ,vehicle
+comfortable, ,vehicle
+tracking, ,vehicle
+grounds, ,vehicle
+rabbit, ,vehicle
+recorded, ,vehicle
+cables, ,vehicle
+markets, ,vehicle
+netherlands, ,vehicle
+hoping, ,vehicle
+whom, ,vehicle
+afterwards, ,vehicle
+enthusiasts, ,vehicle
+anywhere, ,vehicle
+outlets, ,vehicle
+spots, ,vehicle
+husband, ,vehicle
+springs, ,vehicle
+stockholm, ,vehicle
+workshop, ,vehicle
+chosen, ,vehicle
+clothes, ,vehicle
+sheriff, ,vehicle
+spend, ,vehicle
+simon, ,vehicle
+annual, ,vehicle
+seater, ,vehicle
+secure, ,vehicle
+wilson, ,vehicle
+oregon, ,vehicle
+opportunity, ,vehicle
+oncoming, ,vehicle
+paths, ,vehicle
+countryside, ,vehicle
+crazy, ,vehicle
+cream, ,vehicle
+officials, ,vehicle
+naked, ,vehicle
+keeping, ,vehicle
+recording, ,vehicle
+kansas, ,vehicle
+rochester, ,vehicle
+competitor, ,vehicle
+resemble, ,vehicle
+predecessor, ,vehicle
+average, ,vehicle
+licensing, ,vehicle
+barrier, ,vehicle
+lawn, ,vehicle
+gone, ,vehicle
+boyfriend, ,vehicle
+cell, ,vehicle
+sweden, ,vehicle
+1954, ,vehicle
+uncle, ,vehicle
+wants, ,vehicle
+thereafter, ,vehicle
+1984, ,vehicle
+vice, ,vehicle
+vegas, ,vehicle
+guest, ,vehicle
+1983, ,vehicle
+fix, ,vehicle
+brothers, ,vehicle
+grew, ,vehicle
+website, ,vehicle
+exactly, ,vehicle
+supplement, ,vehicle
+booth, ,vehicle
+sam, ,vehicle
+promptly, ,vehicle
+wedding, ,vehicle
+brief, ,vehicle
+boys, ,vehicle
+rachel, ,vehicle
+origins, ,vehicle
+demands, ,vehicle
+wherever, ,vehicle
+venue, ,vehicle
+william, ,vehicle
+alfa, ,vehicle
+warehouse, ,vehicle
+budget, ,vehicle
+fox, ,vehicle
+fees, ,vehicle
+philippine, ,vehicle
+court, ,vehicle
+brands, ,vehicle
+unchanged, ,vehicle
+cook, ,vehicle
+managing, ,vehicle
+ohio, ,vehicle
+nights, ,vehicle
+jam, ,vehicle
+terms, ,vehicle
+belle, ,vehicle
+sleeping, ,vehicle
+arguing, ,vehicle
+thinking, ,vehicle
+keys, ,vehicle
+ghost, ,vehicle
+ken, ,vehicle
+authorities, ,vehicle
+realizes, ,vehicle
+walker, ,vehicle
+billion, ,vehicle
+styling, ,vehicle
+signed, ,vehicle
+stole, ,vehicle
+static, ,vehicle
+sought, ,vehicle
+wanted, ,vehicle
+defined, ,vehicle
+printed, ,vehicle
+tornado, ,vehicle
+tuesday, ,vehicle
+touring, ,vehicle
+controversy, ,vehicle
+reversed, ,vehicle
+copenhagen, ,vehicle
+property, ,vehicle
+butler, ,vehicle
+relationship, ,vehicle
+contestant, ,vehicle
+ability, ,vehicle
+things, ,vehicle
+orleans, ,vehicle
+words, ,vehicle
+clown, ,vehicle
+roy, ,vehicle
+coventry, ,vehicle
+perform, ,vehicle
+perfect, ,vehicle
+scott, ,vehicle
+sarah, ,vehicle
+scenic, ,vehicle
+hate, ,vehicle
+dressed, ,vehicle
+arts, ,vehicle
+impossible, ,vehicle
+louis, ,vehicle
+gondola, ,vehicle
+dr, ,vehicle
+lunch, ,vehicle
+internationally, ,vehicle
+kidnapped, ,vehicle
+fernando, ,vehicle
+tends, ,vehicle
+testified, ,vehicle
+suspect, ,vehicle
+distinct, ,vehicle
+talked, ,vehicle
+bell, ,vehicle
+collective, ,vehicle
+promising, ,vehicle
+spending, ,vehicle
+hungary, ,vehicle
+clearly, ,vehicle
+shouting, ,vehicle
+sporting, ,vehicle
+ensures, ,vehicle
+leonard, ,vehicle
+stalls, ,vehicle
+spun, ,vehicle
+steve, ,vehicle
+postal, ,vehicle
+chest, ,vehicle
+jason, ,vehicle
+brain, ,vehicle
+flees, ,vehicle
+detail, ,vehicle
+mayor, ,vehicle
+dealership, ,vehicle
+activities, ,vehicle
+assignment, ,vehicle
+bobby, ,vehicle
+wounds, ,vehicle
+09, ,vehicle
+mexican, ,vehicle
+retirement, ,vehicle
+festival, ,vehicle
+moore, ,vehicle
+accelerate, ,vehicle
+1912, ,vehicle
+ubiquitous, ,vehicle
+tyre, ,vehicle
+ongoing, ,vehicle
+ablaze, ,vehicle
+trace, ,vehicle
+gibraltar, ,vehicle
+recover, ,vehicle
+commercially, ,vehicle
+bubble, ,vehicle
+upset, ,vehicle
+romeo, ,vehicle
+accordingly, ,vehicle
+brooks, ,vehicle
+his, ,vehicle
+up, ,vehicle
+piloted, ,vehicle
+then, ,vehicle
+airplane, ,vehicle
+took, ,vehicle
+when, ,vehicle
+chase, ,vehicle
+invented, ,vehicle
+billy, ,vehicle
+dropped, ,vehicle
+kid, ,vehicle
+classic, ,vehicle
+climb, ,vehicle
+surveillance, ,vehicle
+dog, ,vehicle
+seen, ,vehicle
+seeing, ,vehicle
+complete, ,vehicle
+found, ,vehicle
+makeshift, ,vehicle
+help, ,vehicle
+falling, ,vehicle
+attempts, ,vehicle
+successful, ,vehicle
+bringing, ,vehicle
+occupants, ,vehicle
+april, ,vehicle
+tries, ,vehicle
+neck, ,vehicle
+shown, ,vehicle
+james, ,vehicle
+drag, ,vehicle
+quickly, ,vehicle
+thousand, ,vehicle
+accidentally, ,vehicle
+escaping, ,vehicle
+stick, ,vehicle
+slide, ,vehicle
+contact, ,vehicle
+registration, ,vehicle
+upon, ,vehicle
+necessary, ,vehicle
+sonic, ,vehicle
+sally, ,vehicle
+find, ,vehicle
+comic, ,vehicle
+john, ,vehicle
+fails, ,vehicle
+dragged, ,vehicle
+mind, ,vehicle
+delivery, ,vehicle
+records, ,vehicle
+might, ,vehicle
+couldn, ,vehicle
+alan, ,vehicle
+preparing, ,vehicle
+label, ,vehicle
+page, ,vehicle
+panic, ,vehicle
+licensed, ,vehicle
+pursuit, ,vehicle
+letting, ,vehicle
+routine, ,vehicle
+participating, ,vehicle
+jerry, ,vehicle
+producers, ,vehicle
+michael, ,vehicle
+locate, ,vehicle
+says, ,vehicle
+spider, ,vehicle
+smith, ,vehicle
+pursued, ,vehicle
+pulling, ,vehicle
+1934, ,vehicle
+chasing, ,vehicle
+appearance, ,vehicle
+console, ,vehicle
+hops, ,vehicle
+unconscious, ,vehicle
+copy, ,vehicle
+playing, ,vehicle
+signature, ,vehicle
+persons, ,vehicle
+coat, ,vehicle
+thing, ,vehicle
+steals, ,vehicle
+tend, ,vehicle food
+tommy, ,vehicle
+burns, ,vehicle
+random, ,vehicle
+reporter, ,vehicle
+durable, ,vehicle
+dying, ,vehicle
+saves, ,vehicle
+envisioned, ,vehicle
+emblem, ,vehicle
+explained, ,vehicle
+robert, ,vehicle
+varied, ,vehicle
+roller, ,vehicle
+profession, ,vehicle
+posing, ,vehicle
+spends, ,vehicle
+stabbed, ,vehicle
+ordering, ,vehicle
+girlfriend, ,vehicle
+horn, ,vehicle
+trouble, ,vehicle
+differentiate, ,vehicle
+suzuki, ,vehicle
+lucky, ,vehicle
+bay, ,food
+area, ,food
+management, ,food
+lake, ,food
+projects, ,food
+beaches, ,food
+arrival, ,food
+hudson, ,food
+freshwater, ,food
+feeds, ,food
+islands, ,food
+department, ,food
+40, ,food
+bushes, ,food
+abundant, ,animal
+rare, ,animal
+juvenile, ,animal
+paradise, ,animal

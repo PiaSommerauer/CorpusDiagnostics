@@ -1,0 +1,8 @@
+square,cabinet
+square,newspaper
+used_in_cooking,bass
+used_in_cooking,chorizo
+sweet,grapefruit
+sweet,lemonade
+square,armoire
+juicy,scallop

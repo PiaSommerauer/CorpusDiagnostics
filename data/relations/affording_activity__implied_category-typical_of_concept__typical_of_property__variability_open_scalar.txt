@@ -1,0 +1,2 @@
+hot,wok
+dangerous,freebooter

@@ -1,0 +1,8 @@
+warm,cape
+warm,feather
+hot,chocolate
+cold,shoe
+dangerous,mattock
+warm,taffeta
+hot,jar
+dangerous,dose

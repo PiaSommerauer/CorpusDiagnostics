@@ -1,0 +1,5 @@
+sweet,bulgur
+red,chocolate
+juicy,pod
+round,enchiladas
+hot,utensil

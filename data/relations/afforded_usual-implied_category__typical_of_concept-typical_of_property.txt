@@ -1,0 +1,3 @@
+swim,rockfish
+swim,sunfish
+lay_eggs,redstart

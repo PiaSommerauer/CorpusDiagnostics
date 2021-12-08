@@ -1,0 +1,3 @@
+square,bookmark
+round,curd
+black,ring

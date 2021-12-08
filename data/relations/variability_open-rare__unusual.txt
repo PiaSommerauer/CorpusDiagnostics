@@ -1,0 +1,6 @@
+round,breadcrumb
+blue,glass
+red,wand
+green,ring
+blue,taxi
+green,stocking

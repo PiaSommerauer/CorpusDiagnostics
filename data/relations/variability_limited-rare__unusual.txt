@@ -1,0 +1,11 @@
+black,eye
+made_of_wood,soundbox
+square,toilet
+black,weasel
+sweet,soursop
+black,acaridae
+black,leopard
+green,grapefruit
+sweet,onion
+black,cherry
+blue,flame

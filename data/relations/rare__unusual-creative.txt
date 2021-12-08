@@ -1,0 +1,9 @@
+yellow,calf
+sweet,chickpea
+sweet,pepperoni
+blue,pyramid
+dangerous,cure
+sweet,kale
+yellow,fox
+made_of_wood,gun
+dangerous,nursing

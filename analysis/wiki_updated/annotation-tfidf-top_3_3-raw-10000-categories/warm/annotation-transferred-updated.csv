@@ -1,0 +1,1182 @@
+context,evidence_type,categories
+from,NA,relation
+bed,i,relation food communication
+are,u,relation no-cat
+man,NA,relation
+dressed,u,relation
+leather,u,relation
+removed,u,relation food warm
+recommended,u,relation food
+himself,NA,relation
+cross,NA,relation
+clothing,i,all relation communication
+skin,i,relation
+meaning,u,relation
+well,u,relation object
+upper,u,relation
+little,u,relation no-cat
+fine,u,relation no-cat
+cover,r,relation
+thin,NA,all relation communication no-cat
+pieces,u,relation
+along,u,relation warm
+men,NA,relation
+high,u,relation no-cat
+material,u,relation
+while,u,relation
+pair,u,relation communication
+metal,u,relation
+thick,u,relation measure communication
+suit,u,relation
+enough,u,relation
+entirely,NA,relation
+tend,NA,relation
+consists,NA,relation
+hence,NA,relation no-cat
+lead,NA,relation
+extremely,NA,relation
+further,u,relation
+largely,u,relation
+inside,u,relation communication
+reduced,NA,relation warm
+normally,u,relation food warm no-cat
+separate,u,relation warm no-cat
+animal,NA,relation
+covers,r,relation communication no-cat
+strip,u,relation warm
+suggests,NA,relation
+collected,u,relation
+simple,u,relation food
+feet,i,relation communication
+bound,NA,relation
+rather,NA,relation food
+previously,u,relation
+floor,u,all object no-cat
+long,NA,object
+white,u,communication warm
+bag,u,communication no-cat
+pulling,NA,communication
+blue,u,communication
+covering,r,communication warm
+covered,r,communication no-cat
+filled,u,communication
+worn,NA,communication
+attached,u,communication
+wearing,u,communication
+nose,u,communication
+front,u,communication warm
+orange,u,communication no-cat
+hanging,u,communication
+containing,u,communication food warm no-cat
+shot,u,communication
+giant,NA,communication
+beneath,u,communication
+cloth,u,communication no-cat
+inches,u,communication
+carries,NA,communication
+tiny,u,communication
+knocked,NA,communication
+rubber,u,communication no-cat
+resembles,NA,communication
+rear,u,communication
+grey,u,communication warm no-cat
+former,u,communication
+accidentally,NA,communication
+underneath,u,communication
+1993,NA,communication
+captain,NA,communication
+cap,u,communication
+six,u,communication
+cape,i,communication
+featured,u,communication
+monkey,NA,communication
+jack,NA,communication
+bay,u,communication no-cat
+wrapped,u,communication
+pink,u,communication no-cat
+red,u,communication warm
+mask,u,communication
+hole,u,communication no-cat
+stretched,u,communication
+dances,NA,communication
+ball,u,communication
+wear,NA,communication
+hat,i,communication
+your,u,communication
+bar,u,communication warm
+pulled,u,communication
+johnson,NA,communication
+black,u,communication no-cat
+beaten,NA,communication
+concealed,NA,communication
+hands,NA,communication
+arm,NA,communication
+edge,NA,communication
+coloured,NA,communication no-cat
+facial,NA,communication
+spite,NA,communication
+spotted,u,communication
+hide,NA,communication
+fighting,NA,communication
+pulls,NA,communication
+situated,NA,communication
+creek,NA,communication no-cat
+silver,NA,communication warm
+plastic,u,communication no-cat
+guns,NA,communication
+consisting,u,communication
+gray,NA,communication
+jersey,i,communication warm no-cat
+badge,NA,communication
+neck,NA,communication
+tokyo,u,communication
+mouth,i,communication
+appeared,u,communication
+australian,NA,communication warm no-cat
+killed,NA,communication
+masks,NA,communication
+canadian,NA,communication
+breast,u,communication
+operated,u,communication
+winning,NA,communication
+yellow,u,communication warm no-cat
+2014,NA,communication warm no-cat
+tears,NA,communication
+yard,NA,communication no-cat
+23,u,communication warm
+28,u,communication warm
+hair,u,communication
+dark,u,communication
+golden,u,communication
+painted,u,communication warm
+loses,NA,communication
+depicted,NA,communication
+reminiscent,NA,communication no-cat
+helmet,NA,communication
+december,NA,communication warm
+accompanied,NA,communication
+hood,u,communication
+queen,NA,communication
+18,u,communication warm no-cat
+cone,NA,communication
+appearance,u,communication
+enters,NA,communication
+distinctive,NA,communication
+awards,NA,communication
+lighter,u,communication
+kitchen,i,communication no-cat
+winner,NA,communication
+afterwards,NA,communication
+chair,u,communication
+bottle,NA,communication no-cat
+hill,u,communication warm no-cat
+suspended,NA,communication
+continued,u,measure
+were,NA,measure
+served,u,measure no-cat
+led,u,measure
+conceived,NA,measure
+responsible,NA,measure no-cat
+vertical,NA,measure
+18th,NA,measure no-cat
+ii,NA,measure
+joined,u,measure no-cat
+dutch,u,measure warm no-cat
+florida,NA,measure
+warmer,p,measure
+burnt,NA,measure
+initially,NA,measure
+leads,NA,measure
+12,u,warm no-cat
+issued,NA,warm
+000,NA,warm no-cat
+available,u,warm
+500,u,warm
+box,u,warm
+cafe,NA,warm
+set,u,warm
+originally,u,warm
+included,u,warm
+via,u,warm
+seven,u,warm
+45,u,warm
+three,NA,warm
+contained,u,warm
+standard,u,warm
+2007,u,warm no-cat
+2012,NA,warm
+made,u,warm
+april,u,warm no-cat
+2011,NA,warm no-cat
+includes,NA,food warm
+2016,NA,warm no-cat
+november,NA,warm no-cat
+run,NA,warm no-cat
+part,u,warm
+contains,NA,warm
+virgin,u,warm
+october,i,warm no-cat
+factory,u,warm no-cat
+sold,NA,warm no-cat
+1996,u,warm
+30,u,warm no-cat
+250,u,warm no-cat
+100,u,warm
+number,u,warm
+march,u,warm
+1982,NA,warm
+16,u,warm no-cat
+200,u,warm no-cat
+america,u,warm no-cat
+extended,u,warm
+europe,u,warm
+include,u,warm
+including,u,warm
+germany,NA,warm
+cutting,u,warm
+2005,NA,warm no-cat
+september,u,warm
+june,NA,warm
+february,NA,warm
+mini,u,warm
+14,NA,warm no-cat
+2000,u,warm no-cat
+2002,u,warm
+used,u,warm
+11,u,warm
+august,u,warm
+15,u,warm
+united,NA,warm
+underground,u,warm
+additional,NA,warm
+1992,u,warm no-cat
+kingdom,NA,warm
+replaced,NA,warm
+distribution,u,warm no-cat
+columbia,u,warm no-cat
+1998,u,warm no-cat
+announced,u,warm
+21,u,warm no-cat
+1981,NA,warm
+capitol,NA,warm
+these,u,warm
+products,u,warm
+list,u,warm
+july,i,warm
+1999,u,warm no-cat
+26,u,warm
+17,u,warm
+19,u,warm no-cat
+usa,u,warm
+wall,NA,warm
+1994,u,warm no-cat
+medium,u,warm
+market,u,warm no-cat
+states,NA,warm
+late,u,warm
+1970s,u,warm no-cat
+fence,u,warm
+thousand,NA,warm
+circle,u,warm
+40,u,warm no-cat
+officially,NA,warm
+international,u,warm no-cat
+2001,u,warm no-cat
+countries,u,warm no-cat
+consisted,NA,warm
+regular,NA,warm no-cat
+various,u,warm
+compound,u,warm
+hundred,u,warm
+applied,NA,warm
+ghost,NA,warm
+designed,NA,warm
+nine,u,warm
+listed,u,warm
+stones,NA,warm
+31,u,warm
+total,u,warm
+29,u,warm
+contain,u,warm no-cat
+thirty,NA,warm
+mostly,u,warm no-cat
+cherry,u,warm
+considered,u,warm
+hall,u,warm no-cat
+industrial,u,warm no-cat
+fifth,u,warm
+throw,NA,warm
+cars,i,warm no-cat
+surround,u,warm
+site,u,warm
+uses,u,warm
+sized,u,warm
+tree,u,warm
+eleven,NA,warm no-cat
+according,u,warm
+directly,u,warm
+credited,NA,warm no-cat
+known,NA,warm
+1974,NA,warm
+50,u,warm no-cat
+launched,NA,warm
+larger,NA,warm
+formed,u,warm
+mexico,i,warm
+1971,NA,warm
+remained,NA,warm no-cat
+suburban,NA,warm
+sugar,u,warm
+exposed,NA,warm
+california,i,warm
+annual,u,warm no-cat
+carrying,u,warm
+collect,NA,warm
+1958,NA,warm
+placed,NA,warm
+crystal,u,warm
+controlled,NA,warm
+across,u,warm
+per,u,warm no-cat
+stream,NA,warm no-cat
+section,u,warm
+canada,u,warm
+trees,u,warm no-cat
+similarly,NA,warm
+equivalent,NA,warm
+quarter,u,warm no-cat
+southern,r,warm no-cat
+cuts,NA,warm
+notable,NA,warm
+land,NA,warm
+iron,NA,warm
+wine,u,warm
+drive,NA,warm no-cat
+whereas,NA,warm
+preparation,NA,food warm
+size,u,warm
+plant,u,warm no-cat
+sources,NA,warm
+bearing,NA,warm
+mobile,NA,warm no-cat
+founder,u,warm no-cat
+excess,u,warm
+finland,NA,warm
+sea,i,warm
+equipment,u,warm
+traditional,u,warm
+blind,NA,warm
+massive,u,warm
+trans,NA,warm
+bridge,u,warm no-cat
+electricity,r,warm
+square,u,warm no-cat
+continuous,u,warm
+96,NA,warm
+north,NA,warm no-cat
+coast,u,warm
+introduced,u,warm
+foundation,u,warm no-cat
+warrior,NA,warm
+houses,u,warm no-cat
+newly,u,warm
+70,u,warm
+installed,NA,warm
+nuclear,NA,warm
+established,NA,warm
+named,NA,warm
+melbourne,NA,warm
+21st,NA,warm
+39,u,warm
+48,u,warm
+knife,NA,warm
+limits,NA,warm
+35,u,warm
+legendary,NA,warm
+legacy,NA,warm
+properties,NA,warm
+primarily,u,warm
+referred,u,warm
+permanent,u,warm
+hotel,u,warm no-cat
+acted,u,warm
+amounts,NA,warm
+continues,NA,warm no-cat
+bulk,u,warm
+ash,NA,warm
+consequently,NA,warm
+bronze,NA,warm
+dropped,NA,warm
+stone,u,warm
+arrived,NA,warm
+constructed,NA,warm
+spread,u,warm
+department,u,warm no-cat
+service,u,warm
+burn,l,warm
+selected,u,warm
+entered,NA,warm
+rome,NA,warm
+transferred,u,warm
+cost,u,warm no-cat
+sites,NA,warm
+legend,NA,warm
+copper,NA,warm
+moderate,NA,warm
+campus,NA,warm
+prairie,NA,warm
+planned,u,warm
+carved,NA,warm
+caribbean,NA,warm
+cave,NA,warm
+obtained,NA,warm
+opened,u,warm no-cat
+climbed,u,warm
+negro,NA,warm
+nickname,NA,warm
+symbol,u,warm
+installation,NA,warm
+chain,u,warm
+37,NA,warm no-cat
+workers,u,warm
+42,NA,warm
+owner,u,warm
+born,NA,warm no-cat
+filling,NA,warm no-cat
+robinson,NA,warm
+restored,NA,warm
+walls,u,warm
+raised,NA,warm
+dissolved,NA,warm
+ford,NA,warm
+visible,u,warm
+flower,u,warm no-cat
+factories,NA,warm
+remaining,u,warm no-cat
+elizabeth,u,warm
+representing,NA,warm
+ross,NA,warm
+roman,NA,warm
+maintained,NA,warm
+mainly,u,warm
+saint,NA,warm
+east,u,warm
+blow,NA,warm
+salt,u,food warm no-cat
+detroit,NA,warm
+significantly,NA,warm no-cat
+destination,u,warm
+loaded,NA,warm
+geographic,NA,warm
+singapore,NA,warm
+welsh,u,warm
+delta,NA,warm
+africa,NA,warm
+sixth,NA,warm
+gordon,NA,warm
+lowest,NA,warm
+frequently,NA,food warm no-cat
+fortress,NA,warm
+1964,NA,warm
+directed,NA,warm
+collapse,NA,warm
+new,u,warm
+1995,NA,warm
+since,u,warm
+london,u,warm no-cat
+weather,i,warm
+addition,u,warm
+except,NA,warm
+either,NA,warm
+offered,NA,warm
+paper,u,warm no-cat
+rain,i,warm
+volume,NA,warm
+current,u,warm
+biggest,u,warm
+1970,NA,warm
+italy,NA,warm
+numerous,NA,warm no-cat
+sweden,NA,warm
+los,u,warm
+type,NA,warm
+plants,u,warm
+bush,u,warm no-cat
+1960s,u,warm
+vacation,NA,warm
+exception,NA,warm
+request,NA,warm
+notorious,u,warm
+1967,NA,warm
+exact,NA,warm
+proceed,NA,warm
+shifted,NA,warm
+brothers,NA,warm
+surrender,NA,warm
+lesser,NA,warm
+closure,NA,warm
+alternatively,NA,warm
+wade,NA,warm
+forbidden,u,warm
+folklore,NA,warm
+secured,NA,warm
+manor,NA,warm
+exploit,NA,warm
+transition,NA,warm
+bennett,NA,warm
+farmer,u,warm
+diego,NA,warm
+sixteen,NA,warm
+cooked,NA,food
+vegetables,u,food
+food,i,food no-cat
+boiling,NA,food
+bowl,u,food no-cat
+table,u,food
+this,NA,food
+dish,i,food
+bean,u,food no-cat
+beef,i,food
+onions,NA,food
+prepared,u,food
+pot,NA,food
+eaten,NA,food
+baking,NA,food
+beans,NA,food
+cooking,NA,food
+sauce,u,food
+rice,i,food no-cat
+soup,i,food no-cat
+spices,u,food
+meal,i,food no-cat
+cook,r,food
+salad,i,food
+duck,NA,food
+roasted,NA,food
+spanish,NA,food
+sometimes,NA,food
+dried,NA,food
+besides,u,food
+en,u,food
+sit,u,food
+consist,NA,food
+term,NA,food
+plates,NA,food
+large,u,food
+breakfast,u,food
+usually,NA,food
+leaves,NA,food
+word,NA,food
+mixture,NA,food
+pepper,u,food
+flour,u,food
+literally,NA,food
+serving,u,food no-cat
+eggs,NA,food
+raw,NA,food no-cat
+origin,u,food
+variation,NA,food no-cat
+whole,u,food no-cat
+goes,NA,food
+salted,NA,food
+consume,NA,food
+variants,NA,food
+alone,u,food
+resulting,u,food no-cat
+plain,u,food
+rapidly,u,food
+involves,NA,food
+varying,NA,food
+pressed,u,food
+enhanced,u,food
+tourists,NA,food
+commonly,u,food
+top,u,no-cat
+green,u,no-cat
+lower,u,no-cat
+hills,u,no-cat
+eastern,NA,no-cat
+winter,u,no-cat
+area,u,no-cat
+multi,u,no-cat
+opening,NA,no-cat
+manufacturer,NA,no-cat
+students,u,no-cat
+today,u,no-cat
+meat,i,no-cat
+advertising,NA,no-cat
+dense,NA,no-cat
+west,u,no-cat
+color,u,no-cat
+town,u,no-cat
+season,i,no-cat
+smaller,u,no-cat
+extend,NA,no-cat
+built,u,no-cat
+several,u,no-cat
+bike,NA,no-cat
+strong,u,no-cat
+structure,u,no-cat
+near,u,no-cat
+already,u,no-cat
+moreover,NA,no-cat
+grow,NA,no-cat
+roll,NA,no-cat
+open,u,no-cat
+20,u,no-cat
+mountains,u,no-cat
+bars,u,no-cat
+egg,u,no-cat
+restaurant,u,no-cat
+gas,NA,no-cat
+indigenous,NA,no-cat
+port,u,no-cat
+ports,NA,no-cat
+natural,u,no-cat
+national,NA,no-cat
+nothing,NA,no-cat
+noted,u,no-cat
+northwest,NA,no-cat
+supported,NA,no-cat
+park,u,no-cat
+surrounding,u,no-cat
+spring,i,no-cat
+home,u,no-cat
+extension,NA,no-cat
+forest,NA,no-cat
+following,u,no-cat
+ll,u,no-cat
+project,NA,no-cat
+lights,i,no-cat
+sports,u,no-cat
+jean,NA,no-cat
+involved,NA,no-cat
+75,u,no-cat
+chicago,NA,no-cat
+25,u,no-cat
+catch,u,no-cat
+week,u,no-cat
+window,u,no-cat
+allowing,u,no-cat
+we,NA,no-cat
+test,NA,no-cat
+border,u,no-cat
+row,u,no-cat
+banned,NA,no-cat
+vary,NA,no-cat
+helped,u,no-cat
+block,NA,no-cat
+shop,u,no-cat
+festival,u,no-cat
+boats,u,no-cat
+glass,NA,no-cat
+ben,u,no-cat
+seed,NA,no-cat
+remembered,NA,no-cat
+80,u,no-cat
+played,NA,no-cat
+pictures,u,no-cat
+modest,NA,no-cat
+activities,u,no-cat
+achieve,NA,no-cat
+mate,u,no-cat
+peak,u,no-cat
+musical,NA,no-cat
+party,NA,no-cat
+1952,NA,no-cat
+1950s,u,no-cat
+la,u,no-cat
+village,u,no-cat
+remain,NA,no-cat
+island,i,no-cat
+locally,NA,no-cat
+landmark,NA,no-cat
+course,NA,no-cat
+songs,NA,no-cat
+county,u,no-cat
+duties,u,no-cat
+business,u,no-cat
+element,u,no-cat
+burns,NA,no-cat
+corporation,u,no-cat
+closed,u,no-cat
+effort,NA,no-cat
+develop,u,no-cat
+developing,NA,no-cat
+development,NA,no-cat
+chicken,i,no-cat
+species,NA,no-cat
+circuit,NA,no-cat
+distributed,NA,no-cat
+speaking,u,no-cat
+stuff,NA,no-cat
+centre,NA,no-cat
+expected,u,no-cat
+commercial,u,no-cat
+briefly,NA,no-cat
+entering,NA,no-cat
+building,u,no-cat
+girls,u,no-cat
+tie,NA,no-cat
+girl,NA,no-cat
+cotton,u,no-cat
+loose,u,no-cat
+school,u,no-cat
+fashionable,NA,no-cat
+brown,u,no-cat
+colors,NA,no-cat
+over,u,no-cat
+panel,u,no-cat
+slip,NA,no-cat
+mid,u,no-cat
+formal,NA,no-cat
+western,NA,no-cat
+south,r,no-cat
+popular,u,no-cat
+go,u,no-cat
+tao,NA,no-cat
+slightly,u,no-cat
+reaches,u,no-cat
+pressure,u,no-cat
+solid,NA,no-cat
+realized,NA,no-cat
+cream,NA,no-cat
+small,u,no-cat
+higher,u,no-cat
+big,u,no-cat
+slopes,NA,no-cat
+different,u,no-cat
+appearing,u,no-cat
+stages,NA,no-cat
+won,u,no-cat
+canopy,NA,no-cat
+summer,i,no-cat
+beginning,u,no-cat
+camera,NA,no-cat
+developed,NA,no-cat
+boy,NA,no-cat
+direction,NA,no-cat
+end,u,no-cat
+fleet,NA,no-cat
+teenage,NA,no-cat
+flowers,u,no-cat
+southeast,u,no-cat
+plateau,NA,no-cat
+nearly,u,no-cat
+lies,u,no-cat
+issues,u,no-cat
+worker,u,no-cat
+parts,u,no-cat
+roads,NA,no-cat
+rolled,u,no-cat
+10,u,no-cat
+possible,NA,no-cat
+typically,NA,no-cat
+generally,NA,no-cat
+mountain,u,no-cat
+vintage,NA,no-cat
+located,u,no-cat
+businesses,u,no-cat
+explained,u,no-cat
+coconut,u,no-cat
+describes,NA,no-cat
+plus,u,no-cat
+comprises,NA,no-cat
+detail,NA,no-cat
+police,NA,no-cat
+photo,u,no-cat
+culture,u,no-cat
+places,u,no-cat
+midst,NA,no-cat
+darker,NA,no-cat
+deck,NA,no-cat
+favorite,u,no-cat
+shelter,NA,no-cat
+hot,u,no-cat
+features,u,no-cat
+exhibition,u,no-cat
+illegal,NA,no-cat
+shops,NA,no-cat
+going,NA,no-cat
+selling,u,no-cat
+gradually,NA,no-cat
+safety,NA,no-cat
+fun,NA,no-cat
+region,NA,no-cat
+price,u,no-cat
+earlier,u,no-cat
+liked,NA,no-cat
+press,NA,no-cat
+powder,u,no-cat
+managed,u,no-cat
+manufacturers,u,no-cat
+distinct,NA,no-cat
+domestic,u,no-cat
+enjoys,u,no-cat
+join,u,no-cat
+iraq,NA,no-cat
+eight,u,no-cat
+launching,NA,no-cat
+quality,NA,no-cat
+elite,u,no-cat
+within,u,no-cat
+us,NA,no-cat
+teacher,u,no-cat
+trouble,NA,no-cat
+wet,NA,no-cat
+tennis,NA,no-cat
+tends,NA,no-cat
+1947,NA,no-cat
+channel,NA,no-cat
+1920s,NA,no-cat
+central,u,no-cat
+victoria,NA,no-cat
+view,u,no-cat
+artificial,u,no-cat
+train,u,no-cat
+ve,NA,no-cat
+bad,u,no-cat
+baby,u,no-cat
+unofficial,NA,no-cat
+hatch,NA,no-cat
+hardware,NA,no-cat
+articles,NA,no-cat
+union,u,no-cat
+growth,u,no-cat
+vicinity,NA,no-cat
+ruined,NA,no-cat
+balls,NA,no-cat
+hundreds,u,no-cat
+retained,NA,no-cat
+attention,u,no-cat
+variations,NA,no-cat
+rituals,NA,no-cat
+rival,NA,no-cat
+resort,u,no-cat
+follows,NA,no-cat
+try,u,no-cat
+separating,NA,no-cat
+billy,NA,no-cat
+boss,u,no-cat
+farm,NA,no-cat
+booth,u,no-cat
+branches,u,no-cat
+feed,u,no-cat
+boards,NA,no-cat
+federal,NA,no-cat
+fbi,NA,no-cat
+scandal,NA,no-cat
+goat,u,no-cat
+sandy,r,no-cat
+basically,NA,no-cat
+beer,u,no-cat
+sculptures,NA,no-cat
+beauty,u,no-cat
+99,u,no-cat
+posted,NA,no-cat
+popularity,NA,no-cat
+occasionally,u,no-cat
+occupied,NA,no-cat
+occupy,NA,no-cat
+nomination,NA,no-cat
+1875,NA,no-cat
+opens,u,no-cat
+opera,u,no-cat
+narrator,NA,no-cat
+2000s,NA,no-cat
+1933,NA,no-cat
+nice,u,no-cat
+1925,NA,no-cat
+participants,u,no-cat
+1921,NA,no-cat
+naturally,NA,no-cat
+1954,NA,no-cat
+remarked,NA,no-cat
+ranging,NA,no-cat
+read,u,no-cat
+ray,NA,no-cat
+labour,NA,no-cat
+andrew,NA,no-cat
+interest,NA,no-cat
+interview,u,no-cat
+arch,NA,no-cat
+recording,NA,no-cat
+invites,NA,no-cat
+african,u,no-cat
+whom,NA,no-cat
+legal,NA,no-cat
+web,u,no-cat
+likely,u,no-cat
+proceeds,NA,no-cat
+weak,NA,no-cat
+producing,u,no-cat
+clerk,NA,no-cat
+cow,NA,no-cat
+taylor,u,no-cat
+clock,u,no-cat
+couch,u,no-cat
+society,NA,no-cat
+creating,u,no-cat
+clarke,NA,no-cat
+sound,NA,no-cat
+coastal,NA,no-cat
+eats,NA,no-cat
+convention,u,no-cat
+changing,u,no-cat
+designer,u,no-cat
+delivery,NA,no-cat
+stall,NA,no-cat
+chef,u,no-cat
+celebrations,NA,no-cat
+customs,NA,no-cat
+store,u,no-cat
+exclusively,NA,no-cat
+sick,NA,no-cat
+signs,u,no-cat
+entrance,u,no-cat
+eric,NA,no-cat
+swiss,NA,no-cat
+establishment,NA,no-cat
+experiments,NA,no-cat
+experienced,NA,no-cat
+enabled,NA,no-cat
+tea,i,no-cat
+room,u,no-cat
+estate,NA,no-cat
+house,u,no-cat
+co,u,no-cat
+company,u,no-cat
+coca,u,no-cat
+herb,NA,no-cat
+oil,u,no-cat
+growing,u,no-cat
+water,i,no-cat
+production,NA,no-cat
+honey,NA,no-cat
+express,u,no-cat
+guests,u,no-cat
+enjoy,u,no-cat
+companies,u,no-cat
+ice,r,no-cat
+industry,NA,no-cat
+agency,NA,no-cat
+family,NA,no-cat
+largest,u,no-cat
+pacific,u,no-cat
+owned,u,no-cat
+produces,u,no-cat
+trading,u,no-cat
+act,NA,no-cat
+caf,NA,no-cat
+people,NA,no-cat
+gathering,u,no-cat
+warehouse,NA,no-cat
+product,u,no-cat
+making,u,no-cat
+non,u,no-cat
+australia,NA,no-cat
+host,u,no-cat
+american,u,no-cat
+road,u,no-cat
+serves,u,no-cat
+children,u,no-cat
+founded,NA,no-cat
+valley,u,no-cat
+district,u,no-cat
+2010,NA,no-cat
+uk,NA,no-cat
+ltd,u,no-cat
+dealer,NA,no-cat
+local,u,no-cat
+producer,u,no-cat
+five,u,no-cat
+2009,u,no-cat
+start,u,no-cat
+amp,u,no-cat
+candy,u,no-cat
+main,u,no-cat
+million,u,no-cat
+regions,u,no-cat
+hosts,NA,no-cat
+until,u,no-cat
+marketing,NA,no-cat
+talk,u,no-cat
+zealand,NA,no-cat
+friends,u,no-cat
+began,u,no-cat
+global,u,no-cat
+street,u,no-cat
+amount,NA,no-cat
+worldwide,u,no-cat
+san,u,no-cat
+cultural,u,no-cat
+years,NA,no-cat
+thai,NA,no-cat
+days,u,no-cat
+campaign,u,no-cat
+album,u,no-cat
+night,NA,no-cat
+promote,u,no-cat
+le,u,no-cat
+followed,u,no-cat
+promoted,NA,no-cat
+hour,u,no-cat
+clay,NA,no-cat
+office,u,no-cat
+association,u,no-cat
+asian,u,no-cat
+entertainment,u,no-cat
+smoke,r,no-cat
+share,NA,no-cat
+passed,u,no-cat
+currently,u,no-cat
+capital,NA,no-cat
+inn,NA,no-cat
+conversation,u,no-cat
+pub,u,no-cat
+grounds,NA,no-cat
+minute,u,no-cat
+joe,u,no-cat
+90,u,no-cat
+sales,u,no-cat
+malaysia,NA,no-cat
+shortly,u,no-cat
+shipping,u,no-cat
+meeting,NA,no-cat
+reported,u,no-cat
+sale,u,no-cat
+miss,u,no-cat
+public,NA,no-cat
+label,u,no-cat
+diet,NA,no-cat
+cancer,u,no-cat
+indonesia,u,no-cat
+2006,NA,no-cat
+visits,NA,no-cat
+medical,NA,no-cat
+1978,NA,no-cat
+recorded,u,no-cat
+president,NA,no-cat
+arriving,NA,no-cat
+fair,u,no-cat
+lee,u,no-cat
+trust,NA,no-cat
+audio,NA,no-cat
+moved,NA,no-cat
+facility,NA,no-cat
+berry,u,no-cat
+route,u,no-cat
+visited,u,no-cat
+thailand,NA,no-cat
+stamp,u,no-cat
+paid,NA,no-cat
+marble,NA,no-cat
+fish,i,no-cat
+asia,u,no-cat
+collapsed,NA,no-cat
+news,u,no-cat
+investment,NA,no-cat
+heard,NA,no-cat
+independence,NA,no-cat
+happy,NA,no-cat
+fat,u,no-cat
+joint,NA,no-cat
+golf,NA,no-cat
+oz,NA,no-cat
+met,u,no-cat
+trip,u,no-cat
+experience,NA,no-cat
+influential,NA,no-cat
+commented,NA,no-cat
+audience,NA,no-cat
+renamed,NA,no-cat
+content,NA,no-cat
+1990s,NA,no-cat
+150,u,no-cat
+station,u,no-cat
+sought,NA,no-cat
+2013,NA,no-cat
+swamp,NA,no-cat
+program,u,no-cat
+filmed,NA,no-cat
+alley,NA,no-cat
+zoo,NA,no-cat
+regarding,NA,no-cat
+care,u,no-cat
+beijing,u,no-cat
+headquarters,NA,no-cat
+miller,NA,no-cat
+observed,u,no-cat
+attended,u,no-cat
+pond,NA,no-cat
+jackson,NA,no-cat
+300,u,no-cat
+positive,NA,no-cat
+1975,NA,no-cat
+600,u,no-cat
+jane,u,no-cat
+52,u,no-cat
+managing,NA,no-cat
+planning,u,no-cat
+alliance,u,no-cat
+1989,u,no-cat
+didn,NA,no-cat
+programs,u,no-cat
+crowd,u,no-cat
+duo,NA,no-cat
+college,NA,no-cat
+ranks,NA,no-cat
+speech,NA,no-cat
+22,u,no-cat
+sole,NA,no-cat
+jones,NA,no-cat
+jar,u,no-cat
+tracy,NA,no-cat
+luck,u,no-cat
+eve,u,no-cat
+european,NA,no-cat
+centers,u,no-cat
+steam,i,no-cat
+revived,NA,no-cat
+dj,NA,no-cat
+sailing,u,no-cat
+pop,u,no-cat
+1894,NA,no-cat
+austin,NA,no-cat
+poems,NA,no-cat
+laura,u,no-cat
+praised,NA,no-cat
+ocean,NA,no-cat
+rolling,NA,no-cat
+supply,u,no-cat
+participating,NA,no-cat
+palms,u,no-cat
+university,u,no-cat
+boarding,NA,no-cat
+hire,NA,no-cat
+harold,NA,no-cat
+capsule,NA,no-cat
+vessels,NA,no-cat
+agreement,NA,no-cat
+1984,NA,no-cat
+egypt,NA,no-cat
+electric,r,no-cat
+descent,NA,no-cat
+designated,NA,no-cat
+detective,NA,no-cat
+struggling,NA,no-cat
+spit,NA,no-cat
+1930s,NA,no-cat
+95,u,no-cat
+chess,NA,no-cat
+retired,NA,no-cat
+clubs,u,no-cat
+butcher,NA,no-cat
+ruby,NA,no-cat
+freeze,NA,no-cat
+operations,NA,no-cat
+hawaii,NA,no-cat
+houston,NA,no-cat
+kevin,NA,no-cat
+kelly,u,no-cat
+jim,NA,no-cat

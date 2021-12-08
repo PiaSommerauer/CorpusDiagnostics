@@ -1,0 +1,112 @@
+context,evidence_type,categories
+make,NA,relation
+number,NA,relation
+spain,NA,relation
+sales,u,relation
+how,NA,relation
+owners,NA,relation
+step,NA,relation
+making,NA,relation
+what,NA,relation
+event,NA,relation
+simply,NA,relation
+we,NA,relation
+started,NA,relation
+barrels,NA,relation
+ask,NA,relation
+tours,NA,relation
+continued,NA,relation
+great,NA,relation plant
+rule,NA,relation
+discovering,NA,relation
+warehouse,NA,relation
+styles,NA,relation
+name,u,all object
+tribe,NA,all object
+lily,NA,object plant fruit
+honey,NA,object fruit animal
+half,NA,plant fruit
+lady,NA,plant
+as,NA,fruit
+eat,NA,fruit
+so,NA,fruit
+beer,NA,food fruit
+companies,NA,fruit
+throwing,NA,fruit
+foods,NA,fruit
+tobacco,NA,fruit
+spoon,NA,fruit
+buy,NA,fruit
+those,NA,fruit
+beverage,NA,fruit
+popular,NA,fruit
+referred,NA,fruit
+notes,NA,fruit
+also,NA,fruit
+based,NA,fruit
+25,NA,fruit
+watermelon,NA,fruit
+believed,NA,fruit
+face,NA,fruit
+35,NA,fruit
+variations,NA,fruit
+breakfast,NA,fruit
+hour,NA,fruit
+crazy,NA,fruit
+culture,NA,fruit
+tart,NA,fruit
+films,NA,fruit
+nicknamed,NA,fruit
+goat,NA,fruit
+gin,NA,food fruit
+whereas,NA,food fruit
+aroma,NA,fruit
+peas,NA,fruit
+commercial,NA,fruit
+products,NA,fruit
+secret,NA,fruit
+crisp,NA,fruit
+announced,NA,fruit
+reduce,NA,fruit
+hold,NA,fruit
+hay,NA,fruit
+affected,NA,fruit
+triple,NA,fruit
+kiwi,NA,fruit
+introducing,NA,fruit
+variants,NA,fruit animal
+watch,NA,fruit
+suggests,NA,fruit
+1920s,NA,fruit
+does,NA,fruit
+organic,NA,fruit
+prepared,NA,fruit
+steal,NA,fruit
+compared,NA,fruit
+slowly,NA,fruit
+packing,NA,fruit
+marketing,NA,fruit
+cereals,NA,fruit
+18,u,all
+whiskey,NA,food
+cider,NA,food
+toys,NA,animal
+naked,NA,animal
+except,NA,animal
+housed,NA,animal
+seven,NA,animal
+earlier,NA,animal
+japanese,NA,animal
+noted,NA,animal
+metal,NA,animal
+1960s,NA,animal
+duo,NA,animal
+offers,NA,animal
+queens,NA,animal
+armed,NA,animal
+african,NA,animal
+officially,NA,animal
+iii,NA,animal
+super,NA,animal
+engine,NA,animal
+bee,NA,animal

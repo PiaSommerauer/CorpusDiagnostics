@@ -1,0 +1,1082 @@
+context,evidence_type,categories
+white,u,cold measure food
+counter,u,measure
+picture,u,cold measure
+book,u,measure
+working,u,cold measure
+image,u,measure
+any,u,measure food
+goes,u,object measure food
+samples,u,communication measure
+tried,u,measure
+reference,u,measure
+actual,u,measure
+strange,u,cold measure
+word,u,measure
+variety,u,measure relation food all communication cold
+note,u,measure
+individual,u,measure
+san,u,measure
+names,u,measure
+meaning,u,cold measure
+coffee,i,cold measure
+thin,u,cold measure
+dark,u,cold measure
+holding,u,measure
+beside,u,measure
+between,u,measure
+every,u,cold measure food
+finger,i,measure
+knife,u,measure
+pale,u,communication measure
+lay,u,cold measure
+american,u,measure
+lets,u,measure
+removing,u,cold measure
+mr,u,measure
+stick,u,communication measure
+police,u,measure
+guy,u,measure
+mary,u,measure
+picked,u,communication measure
+find,u,cold measure
+smiling,u,measure
+lines,u,measure
+dr,u,measure
+couple,u,measure
+told,u,measure
+thinking,u,measure
+photos,u,cold measure
+eyed,u,communication measure
+check,u,measure
+yet,u,measure
+ask,u,measure
+decades,u,measure
+robert,u,measure
+spirit,u,measure
+suits,u,measure
+checked,u,measure
+simply,u,measure
+burns,r,measure
+fact,u,measure
+press,u,measure
+noted,u,measure
+soul,u,measure
+basically,u,measure
+grace,u,measure
+passed,u,measure
+human,u,measure
+dancing,u,communication measure
+wrote,u,cold measure
+characters,u,measure
+worth,u,cold measure
+hunt,u,measure
+recall,u,measure
+whom,u,measure
+sense,u,measure
+friendly,u,measure
+blunt,u,measure
+true,u,measure
+authorities,u,measure
+supposed,u,measure
+balancing,u,measure
+fame,u,measure
+suit,u,measure
+information,u,measure
+expression,u,measure
+proud,u,measure
+key,u,measure
+steal,u,measure
+smart,u,measure
+totally,u,measure
+guide,u,measure
+legal,u,measure
+why,u,measure
+displayed,u,measure
+boxes,u,measure
+he,u,measure food
+sat,u,measure
+eyes,i,measure
+huge,u,measure
+falling,u,communication measure
+them,u,measure
+silver,u,measure
+black,u,cold measure
+hands,u,measure
+pitcher,u,measure
+big,u,cold measure
+cigarette,u,measure
+fine,u,cold measure
+contains,u,cold object measure food
+single,u,measure
+work,u,measure
+style,u,measure food
+gold,u,measure
+lifted,u,measure
+woman,u,measure
+enormous,u,measure
+signature,u,communication measure
+grab,u,object measure
+ordinary,u,measure
+remains,u,measure
+real,u,measure
+plain,u,communication measure food
+idea,u,measure
+friend,u,measure
+faces,u,measure
+know,u,measure
+call,u,cold measure
+far,u,measure
+upside,u,communication measure
+tip,u,measure
+apple,u,measure
+spill,u,measure
+rings,u,measure
+type,u,measure
+bearing,u,measure
+twist,u,measure
+sticks,u,communication measure
+whether,u,measure
+appears,u,measure
+name,u,cold measure
+noticed,u,measure
+picking,u,communication measure
+crowd,u,measure
+received,u,measure
+figure,u,measure
+chest,u,measure
+punch,u,measure
+collected,u,communication measure
+fluid,u,measure
+photograph,u,measure
+flowing,u,cold communication measure
+boasts,u,measure
+logo,u,measure
+examine,u,measure
+jesus,u,measure
+america,u,measure
+self,u,measure
+law,u,measure
+showing,u,measure
+anyone,u,measure
+pointing,u,cold measure
+gathered,u,measure
+international,u,measure
+super,u,measure
+records,u,cold measure
+print,u,measure
+pocket,u,communication measure
+striking,u,measure
+services,u,measure
+test,u,measure
+fake,u,measure
+branches,u,communication measure
+driver,u,measure
+miller,u,measure
+knew,u,measure
+interesting,u,measure
+suggest,u,measure
+tipped,u,measure
+chinese,u,measure
+fair,u,measure
+student,u,measure
+collect,u,cold measure
+dollars,u,measure
+rub,u,measure relation
+twice,u,measure
+talk,u,measure
+memory,u,measure
+proved,u,measure
+thousand,u,measure
+award,u,measure
+flip,u,measure
+holder,u,measure
+unfortunately,u,measure
+ears,i,communication measure
+depicts,u,measure
+count,u,measure
+reasons,u,measure
+simultaneously,u,measure
+newly,u,measure
+amazing,u,measure
+subject,u,measure
+terms,u,measure
+neighbor,u,measure
+wild,u,cold measure
+instantly,u,measure
+impossible,u,cold measure
+prison,u,measure
+protest,u,measure
+strength,u,measure
+truth,u,measure
+afraid,u,measure
+testing,u,measure
+accused,u,measure
+worthy,u,measure
+strangers,u,measure
+sites,u,measure
+actor,u,measure
+nobody,u,measure
+glove,u,measure
+appearing,u,measure
+participants,u,measure
+promises,u,measure
+broadcast,u,measure
+learn,u,measure
+growth,u,measure
+explain,u,measure
+tendency,u,measure
+profile,u,measure
+eu,u,measure
+cash,u,measure
+program,u,measure
+bennett,u,measure
+nasty,u,measure
+advised,u,measure
+investigators,u,measure
+chosen,u,measure
+nationwide,u,measure
+cups,u,food
+of,u,food
+flavored,u,food
+you,u,object food
+the,u,food
+from,u,cold food
+which,u,cold food
+in,u,food
+even,u,food
+not,u,food
+lemon,u,food
+frozen,n,communication object food all
+cake,i,food
+fruit,i,food
+pour,u,food
+out,u,food
+glasses,i,food
+can,i,food
+up,u,cold food
+0,u,cold food
+had,u,food
+on,u,cold food
+fried,u,food
+at,u,food
+makes,u,food
+chilled,n,relation food
+used,u,food
+their,u,food
+favorite,u,communication food
+was,u,food
+one,u,cold food
+about,u,cold food
+cool,n,food
+says,u,food
+small,u,food
+green,u,cold food
+rice,u,food
+plastic,u,food
+10,u,food
+16,u,food
+12,u,cold food
+still,u,food
+onto,u,communication cold food
+take,u,food
+comes,u,food
+create,u,food
+looks,u,cold food
+let,u,food
+filled,u,food
+off,u,food
+beer,i,food
+cookies,u,food
+soda,i,food
+set,u,food
+sauce,i,food
+chocolate,u,food
+water,i,cold food
+wine,i,food
+orange,u,food
+mixed,u,food
+soft,u,communication relation food
+combine,u,relation food
+his,u,food
+called,u,cold food
+this,u,food
+blend,u,food
+turn,u,food
+taste,u,food
+own,u,food
+but,u,cold food
+yellow,u,food
+that,u,cold food
+try,u,cold food
+old,u,food
+who,u,food
+she,u,food
+than,u,cold food
+large,u,cold food
+turned,u,cold food
+buy,u,relation cold food
+more,u,cold food
+calories,u,food
+nice,u,food
+just,u,cold food
+go,u,food
+we,u,object cold food
+come,u,food
+well,u,food
+been,u,food
+front,u,food
+serving,u,food
+should,u,cold food
+honey,u,relation food
+too,u,food
+red,u,communication food
+if,u,food
+similar,u,cold food
+shop,u,food
+often,u,food
+popular,u,food
+family,u,food
+tips,u,food
+time,u,food
+blue,r,food
+40,u,cold food
+mom,u,food
+little,u,food
+liquid,i,food
+started,u,food
+known,u,communication food
+might,u,food
+pot,u,food
+words,u,relation food
+occasionally,u,food
+offers,u,relation cold food
+through,u,food
+there,u,food
+tossed,u,food
+temperature,r,food
+raw,u,cold food
+slices,u,food
+several,u,cold food
+created,u,food
+does,u,food
+bags,u,cold food
+ate,u,food
+15,u,cold food
+ahead,u,food
+95,u,relation cold food
+bright,u,food
+by,u,food
+include,u,relation cold food
+have,u,cold food
+long,u,cold food
+many,u,food
+learned,u,food
+leaves,u,cold food
+except,u,cold food
+fish,u,communication food
+topped,u,food
+top,u,food
+bag,u,food
+pieces,u,communication food
+dog,u,communication cold food
+day,u,food
+giant,u,cold food all
+six,u,food
+break,u,food
+based,u,relation
+dinner,i,communication relation
+stand,u,relation
+sweet,u,communication relation
+bought,u,relation
+25,u,relation
+each,u,relation
+adds,u,cold relation
+locally,u,relation
+maker,u,relation
+becomes,u,relation
+drop,u,cold relation
+concentrate,u,relation
+mix,u,relation
+making,u,relation
+champagne,i,relation
+gallons,u,relation
+served,u,relation
+cocktail,i,relation
+picnic,u,relation
+serves,u,relation
+basic,u,relation
+potato,u,relation
+lunch,u,relation
+usually,u,relation
+dubbed,u,relation
+fell,u,relation
+cheap,u,relation
+available,u,cold relation
+grade,u,relation
+together,u,relation
+tom,u,relation
+offering,u,relation
+grown,u,cold relation
+always,u,relation
+drops,u,communication cold relation
+66,u,relation
+drain,u,relation
+cost,u,cold relation
+delivered,u,communication relation
+fortified,u,relation
+placed,u,relation
+bear,u,relation
+and,u,communication
+wings,u,communication
+hair,u,communication
+into,u,communication
+down,u,communication cold
+hit,u,communication
+cap,u,communication
+edges,u,communication
+fingers,i,communication
+buried,u,communication
+feet,i,communication cold
+upper,u,communication cold
+stuffed,u,communication
+shaped,u,communication
+bump,u,communication
+wiped,u,communication cold
+horse,u,communication
+wearing,r,communication
+pick,u,communication
+painted,u,communication
+dirty,u,communication
+bent,u,communication
+pig,u,communication
+dirt,u,communication cold
+tiny,u,communication
+snapped,u,communication
+crushed,u,communication
+bite,u,communication
+below,u,communication cold
+beaten,u,communication
+days,u,communication cold
+gently,u,communication
+bowl,u,communication
+bottom,u,communication
+sand,u,communication
+pair,u,communication
+worn,u,communication cold
+finished,u,communication
+covers,r,communication cold
+hat,r,communication
+shirt,r,communication
+famous,u,communication
+underneath,u,communication
+ugly,u,communication
+picks,u,communication
+halfway,u,communication
+steep,u,communication
+replaced,u,communication
+removed,u,communication
+wash,u,communication cold
+slide,u,communication cold
+kentucky,u,communication
+sweat,r,communication cold
+won,u,communication
+roll,u,communication
+leather,u,communication
+slip,u,communication
+loose,u,communication
+shoes,u,communication
+performed,u,communication
+jacket,r,communication
+photographs,u,communication
+slipping,u,communication cold
+intact,u,communication
+bay,u,communication
+prints,u,communication
+mineral,u,communication
+spot,u,communication
+seal,u,communication
+mud,i,communication cold
+falls,u,communication
+shipped,u,communication
+cracks,u,communication
+patch,i,communication
+mile,u,communication cold
+cluster,u,communication
+bury,u,communication
+lean,u,communication
+permanently,u,communication
+sleep,u,communication
+sun,u,communication cold
+desperately,u,communication
+inspected,u,communication
+surfaces,i,communication
+practically,u,communication cold
+buffalo,u,communication
+pumped,u,communication
+embedded,u,communication
+mold,u,communication
+pants,r,communication
+airborne,u,communication
+detroit,u,communication
+walks,u,communication cold
+nick,u,communication
+waters,i,communication cold
+heated,r,communication
+chunk,u,communication
+jeans,r,communication
+smooth,u,communication
+harbor,u,communication
+sized,u,communication
+shallow,u,communication
+cotton,u,communication
+fallen,u,communication cold
+passes,u,communication
+dressed,u,communication
+reaches,u,communication
+tide,u,communication
+dig,u,communication
+tired,u,communication
+swimming,u,communication
+buck,u,communication
+affair,u,communication
+stored,u,communication
+flows,u,communication cold
+countless,u,communication
+loving,u,communication
+cement,u,communication
+skip,u,communication
+caves,i,communication
+alabama,u,communication
+palm,u,communication
+nurse,u,communication
+array,u,communication
+marks,u,communication
+crawl,u,communication
+bits,u,communication
+sells,u,communication
+crush,u,communication
+farther,u,communication cold
+shrimp,u,communication
+underwater,r,communication
+lion,u,communication
+face,u,communication
+around,u,communication
+turns,u,communication
+bones,i,communication
+sitting,u,communication
+boy,u,communication
+makeup,u,communication
+edge,u,communication cold
+ocean,i,communication
+field,u,communication
+protective,u,communication
+son,u,communication
+tears,u,communication
+stretch,u,communication
+yard,u,communication
+stern,u,communication
+alongside,u,communication
+removal,u,communication cold
+runs,u,communication
+stiff,u,communication
+spots,u,communication
+drainage,u,communication
+lands,u,communication
+dress,u,communication
+page,u,communication cold
+wrapped,u,communication
+turf,u,communication
+bend,u,communication
+canoe,u,communication
+hardest,u,communication
+chairs,u,communication
+delta,u,communication
+ranch,u,communication cold
+shadows,u,communication
+outer,u,communication
+circus,u,communication
+copper,u,communication
+sold,u,cold
+its,u,cold
+dropping,u,cold
+along,u,cold
+formed,u,cold
+stream,u,cold
+covered,u,cold
+record,u,cold
+found,u,cold
+covering,u,cold
+clear,u,cold
+most,u,cold
+million,u,cold
+lining,u,cold
+use,u,cold
+classic,u,cold
+kids,u,cold
+easier,u,cold
+song,u,cold
+washed,u,cold
+another,u,cold
+few,u,cold
+nearly,u,cold
+outside,u,cold
+garden,u,cold
+oct,u,cold
+owners,u,cold
+smell,u,cold
+virtually,u,cold
+closed,u,cold
+areas,u,cold
+trapped,u,cold
+company,u,cold
+system,u,cold
+natural,u,cold
+beginning,u,cold
+late,u,cold
+mere,u,cold
+wheel,u,cold
+shape,u,cold
+dozens,u,cold
+christmas,u,cold
+grow,u,cold
+limit,u,cold
+mountain,i,cold
+trail,u,cold
+disappeared,u,cold
+dumping,u,cold
+slightly,u,cold
+90,u,cold
+beauty,u,cold
+scientists,u,cold
+grip,u,cold
+icy,n,cold
+rail,u,cold
+flow,u,cold
+football,u,cold
+major,u,cold
+alone,u,cold
+treated,u,cold
+posed,u,cold
+millions,u,cold
+monster,u,cold
+escape,u,cold
+bears,u,cold
+eventually,u,cold
+dozen,u,cold
+city,u,cold
+moving,u,cold
+moscow,u,cold
+cold,p,cold
+suburban,u,cold
+cave,i,cold
+rubber,u,cold
+with,u,cold
+collection,u,cold
+pink,u,cold
+digital,u,cold
+painting,u,cold
+version,u,cold
+lined,u,cold
+are,u,cold
+store,u,cold
+45,u,cold
+roof,u,cold
+50,u,cold
+tracks,u,cold
+levels,u,cold
+were,u,cold
+high,u,cold
+piece,u,cold
+as,u,cold
+sliding,u,cold
+look,u,cold
+warmer,u,cold
+spin,u,cold
+clean,u,cold
+purple,u,cold
+pool,u,cold
+some,u,cold
+now,u,cold
+poles,u,cold
+99,u,cold
+rare,u,cold
+deck,u,cold
+brown,u,cold
+limited,u,cold
+concrete,u,cold
+product,u,cold
+roofs,u,cold
+180,u,cold
+band,u,cold
+square,u,cold
+building,i,cold
+those,u,cold
+all,u,cold
+strip,u,cold
+cracked,u,cold
+designed,u,cold
+track,u,cold
+homes,u,cold
+mostly,u,cold
+houses,i,cold
+plant,u,cold
+think,u,cold
+including,u,cold
+may,u,cold
+melting,r,cold
+other,u,cold
+generally,u,cold
+cut,u,cold
+sections,u,cold
+business,u,cold
+hanging,u,cold
+rock,i,cold
+600,u,cold
+300,u,cold
+packed,u,cold
+years,u,cold
+ones,u,cold
+1970s,u,cold
+apartment,u,cold
+wet,r,cold
+cars,i,cold
+outdoor,r,cold
+modest,u,cold
+160,u,cold
+normally,u,cold
+costs,u,cold
+line,u,cold
+stuff,u,cold
+looked,u,cold
+mentioned,u,cold
+blanket,r,cold
+33,u,cold
+produced,u,cold
+settled,u,cold
+battered,u,cold
+almost,u,cold
+addition,u,cold
+60,u,cold
+interior,u,cold
+largest,u,cold
+urban,u,cold
+share,u,cold
+musical,u,cold
+temporary,u,cold
+1980,u,cold
+artificial,u,cold
+cape,r,cold
+lots,u,cold
+agency,u,cold
+lips,u,cold
+besides,u,cold
+ve,u,cold
+search,u,cold
+what,u,cold
+enough,u,cold
+ohio,u,cold
+massive,u,cold
+hood,u,cold
+co,u,cold
+higher,u,cold
+200,u,cold
+celebrating,u,cold
+buses,u,cold
+poured,u,cold
+1982,u,cold
+combined,u,cold
+station,u,cold
+least,u,cold
+typically,u,cold
+floating,u,cold
+reported,u,cold
+avoid,u,cold
+amounts,u,cold
+perfect,u,cold
+hundreds,u,cold
+cuts,u,cold
+experience,u,cold
+expected,u,cold
+houston,u,cold
+truck,u,cold
+overall,u,cold
+reflection,u,cold
+physical,u,cold
+production,u,cold
+doubled,u,cold
+air,i,cold
+amount,u,cold
+less,u,cold
+18,u,cold
+medical,u,cold
+39,u,cold
+greatly,u,cold
+per,u,cold
+unusual,u,cold
+numbers,u,cold
+teens,u,cold
+warn,u,cold
+portrait,u,cold
+enjoyed,u,cold
+posts,u,cold
+equipment,u,cold
+kansas,u,cold
+bodies,i,cold
+75,u,cold
+diamond,i,cold
+stay,u,cold
+lower,u,cold
+70,u,cold
+dug,u,cold
+biggest,u,cold
+twenty,u,cold
+executive,u,cold
+rolling,u,cold
+wooden,u,cold
+odd,u,cold
+already,u,cold
+400,u,cold
+700,u,cold
+shocking,u,cold
+greatest,u,cold
+live,u,cold
+filling,u,cold
+film,u,cold
+studies,u,cold
+spring,u,cold
+spotted,u,cold
+cutting,u,cold
+sight,u,cold
+move,u,cold
+recent,u,cold
+suffered,u,cold
+list,u,cold
+believe,u,cold
+portion,u,cold
+hall,u,cold
+breaking,u,cold
+trailer,u,cold
+stepping,u,cold
+250,u,cold
+stark,u,cold
+describe,u,cold
+rendered,u,cold
+local,u,cold
+largely,u,cold
+workers,u,cold
+strong,u,cold
+safe,u,cold
+busy,u,cold
+possibly,u,cold
+ontario,u,cold
+stepped,u,cold
+62,u,cold
+searched,u,cold
+banks,u,cold
+indicating,u,cold
+rural,r,cold
+knowing,u,cold
+opens,u,cold
+snow,i,cold
+oregon,u,cold
+sneak,u,cold
+additional,u,cold
+affect,u,cold
+valley,i,cold
+features,u,cold
+dumped,u,cold
+stayed,u,cold
+estimated,u,cold
+passenger,u,cold
+folks,u,cold
+literally,u,cold
+pump,u,cold
+relatively,u,cold
+partner,u,cold
+shells,u,cold
+125,u,cold
+operator,u,cold
+120,u,cold
+korean,u,cold
+fishing,u,cold
+ending,u,cold
+impact,u,cold
+remain,u,cold
+partly,u,cold
+accustomed,u,cold
+correct,u,cold
+county,u,cold
+1990s,u,cold
+2009,u,cold
+map,u,cold
+53,u,cold
+trucks,u,cold
+science,u,cold
+competition,u,cold
+hired,u,cold
+traffic,u,cold
+columbia,u,cold
+texas,u,cold
+capitol,u,cold
+depend,u,cold
+frontier,u,cold
+notably,u,cold
+primary,u,cold
+69,u,cold
+studying,u,cold
+ideas,u,cold
+view,u,cold
+centers,u,cold
+vulnerable,u,cold
+missing,u,cold
+sunshine,u,cold
+boost,u,cold
+issued,u,cold
+rush,u,cold
+wolf,u,cold
+involve,u,cold
+headquarters,u,cold
+fall,i,cold
+rushing,u,cold
+shadow,u,cold
+resulting,u,cold
+900,u,cold
+residents,u,cold
+raised,u,cold
+fighting,u,cold
+festival,u,cold
+hospital,u,cold
+zero,u,cold
+450,u,cold
+110,u,cold
+increased,u,cold
+factor,u,cold
+allowing,u,cold
+association,u,cold
+weight,u,cold
+substance,u,cold
+ms,u,cold
+director,u,cold
+louisiana,u,cold
+places,u,cold
+stood,u,cold
+notice,u,cold
+border,u,cold
+discover,u,cold
+november,i,cold
+alarm,u,cold
+college,u,cold
+chamber,i,cold
+clinging,u,cold
+office,u,cold
+charles,u,cold
+walking,u,cold
+climbing,u,cold
+visual,u,cold
+train,i,cold
+traces,u,cold
+capacity,u,cold
+somewhere,u,cold
+perfectly,u,cold
+performance,u,cold
+elsewhere,u,cold
+barriers,u,cold
+vanished,u,cold
+sister,u,cold
+excessive,u,cold
+bed,u,cold
+blocks,u,cold
+naturally,u,cold
+boats,u,cold
+staring,u,cold
+bob,u,cold
+wide,u,cold
+dutch,u,cold
+drive,u,cold
+stands,u,cold
+eating,u,cold
+tens,u,cold
+five,u,cold
+65,u,cold
+national,u,cold
+across,u,cold
+26,u,cold
+could,u,cold
+28,u,cold
+waiting,u,cold
+part,u,cold
+town,u,cold
+near,u,cold
+accident,u,cold
+bringing,u,cold
+worried,u,cold
+news,u,cold
+running,u,cold
+land,u,cold
+meet,u,cold
+flood,u,cold
+causing,u,cold
+rubble,u,cold
+morning,u,cold
+cross,u,cold
+helped,u,cold
+remained,u,cold
+york,u,cold
+coast,u,cold
+japanese,u,cold
+overnight,u,cold
+though,u,cold
+lying,u,cold
+evening,u,cold
+parts,u,cold
+within,u,cold
+holiday,u,cold
+broke,u,cold
+helicopter,u,cold
+downtown,u,cold
+changes,u,cold
+scene,u,cold
+students,u,cold
+next,u,cold
+governor,u,cold
+annual,u,cold
+thrown,u,cold
+preventing,u,cold
+effort,u,cold
+nature,u,cold
+rise,u,cold
+port,u,cold
+birds,u,cold
+flock,u,cold
+resort,u,cold
+built,u,cold
+shut,u,cold
+sea,u,cold
+river,i,cold
+kingdom,u,cold
+systems,u,cold
+tourist,u,cold
+meanwhile,u,cold
+virginia,u,cold
+focusing,u,cold
+rising,u,cold
+pilgrims,u,cold
+deserted,u,cold
+trace,u,cold
+climb,u,cold
+volcano,u,cold
+shifted,u,cold
+atlantic,i,cold
+canyon,i,cold
+blocking,u,cold
+scrambled,u,cold
+lakes,i,cold
+extends,u,cold
+mediterranean,u,cold
+creek,i,cold
+ice,i,cold
+trails,i,cold
+fresh,n,object
+shelf,u,object
+yes,u,object

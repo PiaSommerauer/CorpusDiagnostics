@@ -1,0 +1,23 @@
+,relation,mean_tfidf,n_pairs,examples
+0,pos,0.004596333837210438,2135,fly-caracara female-mum hot-meat
+1,neg,0.0015040926458269588,1545,sweet-broccoli sweet-oilseed made_of_wood-wheel
+2,all,0.005592606661232186,1306,fly-caracara female-mum juicy-wintergreen
+3,some,0.0030268135619723364,829,hot-drink cold-toaster round-sauce
+4,few,0.0015040926458269588,1545,sweet-broccoli sweet-oilseed made_of_wood-wheel
+5,evidence,0.0048729610847241854,1525,fly-caracara made_of_wood-wheel hot-meat
+6,no_evidence_pos,0.0016066341997875724,276,yellow-bus roll-windshield black-pyramid
+7,no_evidence_neg,0.0022683870073981925,1879,sweet-broccoli sweet-oilseed female-mum
+8,implied_category,0.003848650905995019,301,dangerous-bow warm-poncho roll-tire
+9,typical_of_concept,0.006322596695407481,275,lay_eggs-yellowthroat swim-duck dangerous-racketeer
+10,typical_of_property,0.006147344803572811,57,blue-blueberry dangerous-conspiracy square-table
+11,affording_activity,0.007349821521522401,272,dangerous-bow hot-drink dangerous-hammer
+12,afforded_usual,0.00265849169536511,143,lay_eggs-yellowthroat fly-caracara lay_eggs-sardine
+13,afforded_unusual,0.00044292959165260327,51,roll-windscreen swim-reindeer swim-bloodhound
+14,variability_limited,0.0035651149809137737,640,black-weed round-sauce made_of_wood-wheel
+15,variability_open,0.0023721467218112717,186,yellow-bus round-sauce round-custard
+16,variability_limited_scalar,0.0,2,hot-atole dangerous-doodlebug
+17,variability_open_scalar,0.0025800877383173027,191,hot-drink cold-toaster hot-meat
+18,rare,0.0016220209616778624,196,green-carrot green-cherry yellow-pawpaw
+19,unusual,0.0013802618606730298,440,black-weed sweet-broccoli used_in_cooking-hatchet
+20,impossible,0.0006175285619239804,509,juicy-potato lay_eggs-humankind green-whale
+21,creative,0.001058677347747069,113,red-chive sweet-soybean yellow-night

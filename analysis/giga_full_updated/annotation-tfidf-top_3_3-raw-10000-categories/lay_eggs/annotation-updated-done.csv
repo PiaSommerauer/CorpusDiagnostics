@@ -1,0 +1,75 @@
+context,evidence_type,categories
+duck,i,bird
+bird,i,bird
+nest,r,bird no-cat
+habitat,u,bird no-cat
+thursday,u,bird
+including,u,bird
+along,u,bird
+third,u,bird
+week,u,bird
+population,u,bird no-cat
+set,u,bird
+house,u,bird
+fall,u,bird
+populations,u,bird fish
+viewers,u,bird
+american,u,bird
+goose,i,bird
+picture,u,bird
+begins,u,bird
+would,u,bird
+because,u,bird
+14,u,bird
+eggs,p,object animal no-cat all
+fish,i,food all animal fish object
+egg,p,object animal all
+salmon,i,fish food
+lamb,u,fish food
+0,u,food
+banned,u,food
+baked,u,food
+wrapped,u,food
+smoked,u,food
+roasted,u,food
+endangered,u,no-cat
+nicknamed,u,no-cat
+covered,u,no-cat
+resembling,u,no-cat
+sandy,u,no-cat
+dark,u,no-cat
+back,u,no-cat
+words,u,no-cat
+discovered,u,no-cat
+species,u,no-cat
+river,r,no-cat
+meat,u,no-cat
+animal,i,no-cat
+spotted,u,fish no-cat
+rare,u,no-cat
+caught,u,no-cat
+bones,u,no-cat
+preserve,u,no-cat
+turtles,i,no-cat
+healthy,u,no-cat
+like,u,no-cat
+scientists,u,no-cat
+fishermen,r,fish
+fillets,u,fish
+known,u,fish
+waters,r,fish
+fishing,r,fish
+maine,u,fish
+size,u,fish
+trout,i,fish
+chicken,i,fish
+pike,i,fish
+atlantic,r,fish
+cod,i,fish
+wild,u,fish
+freshwater,r,fish
+tuna,i,fish
+swordfish,i,fish
+pound,u,fish
+seafood,u,fish
+nice,u,fish

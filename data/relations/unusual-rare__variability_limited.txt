@@ -1,0 +1,11 @@
+black,sand
+sweet,pistachio
+sweet,zucchini
+black,viscacha
+red,mamey
+green,corn
+black,jade
+made_of_wood,pedal
+sweet,spinach
+sweet,coffee
+green,wine

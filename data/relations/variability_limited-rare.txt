@@ -1,0 +1,12 @@
+black,pea
+red,currant
+black,sheep
+green,pineapple
+black,pig
+sweet,nut
+red,squirrel
+made_of_wood,truss
+roll,saw
+green,blackberry
+swim,toy
+made_of_wood,spear

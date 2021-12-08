@@ -1,0 +1,23 @@
+,relation,mean_tfidf,n_pairs,examples
+0,pos,0.004596333837210438,2135,fly-caracara female-mum hot-meat
+1,neg,0.0015040926458269588,1545,sweet-broccoli sweet-oilseed made_of_wood-wheel
+2,all,0.005592606661232186,1306,fly-caracara female-mum juicy-wintergreen
+3,some,0.0030268135619723364,829,hot-drink cold-toaster round-sauce
+4,few,0.0015040926458269588,1545,sweet-broccoli sweet-oilseed made_of_wood-wheel
+5,evidence,0.004502513484782544,1731,fly-caracara made_of_wood-wheel hot-meat
+6,no_evidence_pos,0.001493132664464295,257,yellow-bus roll-windshield black-pyramid
+7,no_evidence_neg,0.002340076798653104,1692,sweet-broccoli sweet-oilseed female-mum
+8,implied_category,0.001293715807821446,16,swim-cob wings-cricket swim-bay
+9,typical_of_concept,0.007614649891454527,4,juicy-meat made_of_wood-club wheels-wheel
+10,typical_of_property,0.0,0,
+11,affording_activity,0.006053307639432479,4,wheels-axle juicy-okra wheels-rig
+12,afforded_usual,0.00927845165257774,3,lay_eggs-stockfish swim-goldeneye lay_eggs-platypus
+13,afforded_unusual,0.00039111772001438185,20,roll-windscreen swim-vervet swim-goat
+14,variability_limited,0.003991649069067174,113,juicy-beet juicy-ginger swim-mammal
+15,variability_open,0.0017693760784875444,77,yellow-bus square-kitchen round-snack
+16,variability_limited_scalar,0.0,1,dangerous-doodlebug
+17,variability_open_scalar,0.0018182933979723715,98,cold-toaster hot-jug warm-tortilla
+18,rare,0.003761402856807831,19,sweet-avocado yellow-pawpaw yellow-car
+19,unusual,0.0009252965295488199,84,used_in_cooking-gavel used_in_cooking-hatchet swim-fox
+20,impossible,0.000621861205896755,313,juicy-potato green-whale used_in_cooking-gutter
+21,creative,0.0011752238467296892,23,fly-sharpie lay_eggs-beaver sweet-mussel

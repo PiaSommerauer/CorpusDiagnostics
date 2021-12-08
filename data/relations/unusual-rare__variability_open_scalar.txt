@@ -1,0 +1,5 @@
+cold,outfit
+cold,foot
+cold,bath
+warm,sword
+cold,lip

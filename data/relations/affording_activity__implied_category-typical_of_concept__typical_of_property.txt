@@ -1,0 +1,11 @@
+wheels,bicycle
+wheels,bogie
+warm,topcoat
+wheels,motorbike
+wings,nightingale
+round,disk
+wings,drone
+wheels,cabriolet
+wheels,cab
+warm,wool
+wheels,automobile

@@ -1,0 +1,2109 @@
+context,evidence_type,categories
+cold, ,measure
+morning, ,measure no-cat
+followed, ,communication warm measure no-cat
+breaking, ,measure
+cracked, ,measure
+been, ,measure
+david, ,measure
+heated, ,measure food
+pushed, ,warm measure
+ago, ,measure
+resting, ,measure
+began, ,measure no-cat
+vice, ,measure
+entry, ,measure no-cat
+featured, ,measure
+started, ,measure no-cat
+daniel, ,measure
+joined, ,measure no-cat
+tents, ,measure
+acted, ,measure
+58, ,measure
+shortly, ,measure no-cat
+vegetable, ,food
+egg, ,no-cat food
+minute, ,no-cat food
+oven, ,food
+bean, ,food
+medium, ,food
+potatoes, ,food
+olive, ,no-cat food
+tomato, ,food
+vegetables, ,food
+microwave, ,food
+breakfast, ,food
+tablespoon, ,food
+pepper, ,food
+oil, ,warm no-cat food
+oyster, ,food
+together, ,no-cat food
+teaspoon, ,food
+flour, ,food
+soups, ,food
+whole, ,no-cat food
+yesterday, ,food
+pressing, ,food
+note, ,food
+cup, ,no-cat food
+squash, ,food
+meat, ,food
+soup, ,no-cat food
+rice, ,no-cat food
+salmon, ,food
+mushroom, ,food
+pork, ,no-cat food
+aside, ,no-cat food
+stove, ,food
+minutes, ,food
+meal, ,no-cat food
+carrots, ,food
+refrigerate, ,food
+prepared, ,food
+until, ,no-cat food
+dump, ,no-cat food
+lobster, ,food
+toast, ,food
+cooks, ,food
+fit, ,relation no-cat food
+peppers, ,food
+herbs, ,food
+sides, ,food
+excess, ,food
+tender, ,food
+warmed, ,food
+quarters, ,food
+substitute, ,no-cat food
+nicely, ,food
+heating, ,food
+paste, ,food
+lettuce, ,food
+burn, ,food
+soy, ,food
+spices, ,food
+delicate, ,no-cat food
+recommended, ,no-cat food
+enhanced, ,food
+flower, ,no-cat food
+method, ,food
+dressed, ,communication relation
+black, ,communication warm no-cat relation
+colorful, ,communication no-cat relation
+bag, ,no-cat relation
+coat, ,communication relation
+covered, ,communication warm relation
+skin, ,no-cat relation
+ground, ,no-cat relation
+look, ,no-cat relation
+piece, ,no-cat relation
+inch, ,communication relation
+wide, ,no-cat relation
+covers, ,communication no-cat relation
+heavy, ,communication object no-cat all
+traditional, ,all
+slipped, ,no-cat all
+hanging, ,communication
+beneath, ,communication
+beside, ,communication no-cat
+opened, ,communication no-cat
+sweat, ,communication
+filled, ,communication warm no-cat
+rear, ,communication
+gloves, ,communication no-cat
+rolled, ,communication
+cap, ,communication
+leather, ,communication
+lying, ,communication
+covering, ,communication warm no-cat
+floor, ,communication no-cat
+green, ,communication no-cat
+downtown, ,communication no-cat
+chair, ,communication no-cat
+nearby, ,communication
+underneath, ,communication
+height, ,communication warm
+bathroom, ,communication no-cat
+flowing, ,communication
+impressive, ,communication
+carrying, ,communication warm
+thick, ,communication no-cat
+blanket, ,communication no-cat
+landed, ,communication warm
+bedroom, ,communication
+stuffed, ,communication no-cat
+foot, ,communication
+red, ,communication warm no-cat
+gate, ,communication warm
+mouth, ,communication
+wearing, ,communication
+inside, ,communication no-cat
+shirt, ,communication no-cat
+stick, ,communication
+pulled, ,communication
+factory, ,communication no-cat
+attached, ,communication
+bed, ,communication no-cat
+nose, ,communication
+blue, ,communication
+symbol, ,communication
+wrapped, ,communication no-cat
+fake, ,communication
+mask, ,communication
+lost, ,communication
+hat, ,communication
+pink, ,communication no-cat
+rings, ,communication
+evening, ,communication no-cat
+feet, ,communication
+shaped, ,communication
+rubber, ,communication no-cat
+stretched, ,communication no-cat
+locker, ,communication
+ears, ,communication no-cat
+tightly, ,communication
+throwing, ,communication
+stuck, ,communication
+afternoon, ,communication no-cat
+dark, ,communication no-cat
+colored, ,communication warm no-cat
+jacket, ,communication
+blown, ,communication warm no-cat
+packed, ,communication warm no-cat
+sits, ,communication no-cat
+teeth, ,communication
+specialist, ,communication
+hair, ,communication
+gently, ,communication
+artificial, ,communication warm
+watched, ,communication no-cat
+13, ,communication warm no-cat
+burned, ,communication no-cat
+glasses, ,communication no-cat
+sporting, ,communication
+shade, ,communication no-cat
+broke, ,communication no-cat
+lincoln, ,communication
+lips, ,communication no-cat
+amid, ,communication
+orange, ,communication warm no-cat
+monster, ,communication
+collar, ,communication no-cat
+53, ,communication no-cat
+chest, ,communication
+wings, ,communication
+yellow, ,communication warm no-cat
+closed, ,communication warm no-cat
+rose, ,communication
+wooden, ,communication warm
+shot, ,communication
+powder, ,communication no-cat
+passenger, ,communication warm
+roof, ,communication
+29, ,communication no-cat
+footage, ,communication
+oct, ,communication warm
+meters, ,communication warm
+47, ,communication warm
+marked, ,communication warm no-cat
+inches, ,communication
+front, ,communication warm
+metal, ,communication
+chairs, ,communication no-cat
+mini, ,no-cat
+and, ,no-cat
+suit, ,no-cat
+white, ,no-cat
+top, ,no-cat
+print, ,no-cat
+tight, ,no-cat
+full, ,no-cat
+ban, ,warm no-cat
+pair, ,no-cat
+looks, ,warm no-cat
+around, ,no-cat
+bright, ,no-cat
+designer, ,no-cat
+trim, ,no-cat
+line, ,no-cat
+storm, ,no-cat
+will, ,no-cat
+train, ,warm no-cat
+coast, ,no-cat
+loose, ,no-cat
+looked, ,no-cat
+school, ,no-cat
+suggested, ,no-cat
+so, ,no-cat
+cloth, ,no-cat
+example, ,warm no-cat
+tiny, ,warm no-cat
+made, ,no-cat
+do, ,no-cat
+old, ,no-cat
+try, ,no-cat
+perfect, ,no-cat
+shirts, ,no-cat
+way, ,no-cat
+elegant, ,no-cat
+about, ,no-cat
+allowed, ,no-cat
+beautiful, ,no-cat
+has, ,no-cat
+amp, ,warm no-cat
+even, ,no-cat
+50, ,warm no-cat
+favorite, ,warm no-cat
+set, ,warm no-cat
+instead, ,object no-cat
+girls, ,no-cat
+interesting, ,no-cat
+tree, ,no-cat
+new, ,warm no-cat
+show, ,no-cat
+office, ,no-cat
+year, ,no-cat
+off, ,no-cat
+operators, ,no-cat
+expected, ,no-cat
+less, ,no-cat
+taiwan, ,no-cat
+only, ,no-cat
+walked, ,no-cat
+sitting, ,no-cat
+slightly, ,no-cat
+no, ,no-cat
+across, ,no-cat
+tail, ,no-cat
+reached, ,no-cat
+worked, ,no-cat
+proposed, ,no-cat
+country, ,no-cat
+add, ,no-cat
+label, ,no-cat
+2002, ,no-cat
+smoking, ,no-cat
+next, ,no-cat
+color, ,no-cat
+walk, ,no-cat
+very, ,no-cat
+day, ,no-cat
+such, ,no-cat
+enough, ,no-cat
+plays, ,no-cat
+all, ,no-cat
+hour, ,no-cat
+mid, ,no-cat
+both, ,no-cat
+more, ,no-cat
+making, ,no-cat
+here, ,no-cat
+another, ,no-cat
+summer, ,no-cat
+version, ,warm no-cat
+100, ,no-cat
+clothes, ,no-cat
+painted, ,no-cat
+crowd, ,no-cat
+find, ,no-cat
+adding, ,no-cat
+added, ,no-cat
+perfectly, ,no-cat
+meant, ,no-cat
+company, ,no-cat
+ms, ,no-cat
+what, ,no-cat
+best, ,no-cat
+features, ,warm no-cat
+island, ,no-cat
+really, ,no-cat
+combination, ,no-cat
+season, ,no-cat
+store, ,no-cat
+200, ,warm no-cat
+global, ,no-cat
+column, ,no-cat
+crew, ,no-cat
+midnight, ,no-cat
+ships, ,no-cat
+shopping, ,no-cat
+oscar, ,no-cat
+model, ,warm no-cat
+sell, ,no-cat
+dinner, ,no-cat
+questions, ,no-cat
+department, ,no-cat
+past, ,no-cat
+does, ,no-cat
+companies, ,no-cat
+effect, ,no-cat
+local, ,no-cat
+seen, ,no-cat
+35, ,warm no-cat
+clinton, ,no-cat
+mrs, ,no-cat
+10, ,warm no-cat
+second, ,no-cat
+baby, ,no-cat
+pretty, ,no-cat
+12, ,warm no-cat
+along, ,no-cat
+every, ,no-cat
+seat, ,no-cat
+better, ,no-cat
+today, ,no-cat
+large, ,no-cat
+referring, ,no-cat
+1950s, ,no-cat
+box, ,no-cat
+four, ,warm no-cat
+make, ,no-cat
+formed, ,no-cat
+nearly, ,no-cat
+le, ,no-cat
+latest, ,no-cat
+groups, ,no-cat
+magazine, ,no-cat
+teacher, ,no-cat
+customer, ,no-cat
+manhattan, ,warm no-cat
+conversation, ,no-cat
+export, ,no-cat
+drink, ,no-cat
+domestic, ,no-cat
+corporate, ,no-cat
+hopes, ,no-cat
+months, ,no-cat
+send, ,no-cat
+bear, ,no-cat
+bay, ,no-cat
+sales, ,no-cat
+overall, ,no-cat
+already, ,no-cat
+alternative, ,no-cat
+ann, ,no-cat
+river, ,no-cat
+17, ,warm no-cat
+creating, ,no-cat
+created, ,no-cat
+artist, ,no-cat
+fact, ,no-cat
+part, ,no-cat
+modern, ,no-cat
+playing, ,no-cat
+different, ,no-cat
+feel, ,no-cat
+appear, ,no-cat
+each, ,no-cat
+few, ,no-cat
+popular, ,no-cat
+paper, ,warm no-cat
+slowly, ,no-cat
+square, ,warm no-cat
+least, ,no-cat
+crystal, ,no-cat
+want, ,no-cat
+thing, ,no-cat
+close, ,no-cat
+huge, ,warm no-cat
+street, ,no-cat
+foreign, ,no-cat
+suddenly, ,no-cat
+16, ,no-cat
+heat, ,no-cat
+class, ,no-cat
+33, ,warm no-cat
+mom, ,no-cat
+life, ,no-cat
+32, ,no-cat
+field, ,no-cat
+higher, ,no-cat
+besides, ,no-cat
+america, ,no-cat
+york, ,no-cat
+series, ,no-cat
+earlier, ,no-cat
+became, ,no-cat
+hit, ,no-cat
+door, ,no-cat
+love, ,no-cat
+main, ,no-cat
+11, ,no-cat
+fine, ,no-cat
+dirty, ,no-cat
+rode, ,no-cat
+leave, ,no-cat
+five, ,no-cat
+looking, ,no-cat
+age, ,no-cat
+seem, ,no-cat
+important, ,no-cat
+ran, ,warm no-cat
+start, ,no-cat
+week, ,no-cat
+express, ,no-cat
+following, ,no-cat
+arranged, ,no-cat
+asks, ,no-cat
+thought, ,no-cat
+bar, ,no-cat
+later, ,no-cat
+thursday, ,no-cat
+studio, ,no-cat
+gets, ,no-cat
+pop, ,no-cat
+special, ,no-cat
+post, ,no-cat
+thousands, ,warm no-cat
+ends, ,no-cat
+alone, ,no-cat
+gap, ,no-cat
+portrait, ,no-cat
+catching, ,no-cat
+natural, ,no-cat
+calling, ,no-cat
+pacific, ,no-cat
+opens, ,no-cat
+countries, ,no-cat
+cat, ,no-cat
+coming, ,no-cat
+shop, ,warm no-cat
+business, ,no-cat
+movement, ,no-cat
+car, ,warm no-cat
+closing, ,no-cat
+parts, ,no-cat
+although, ,no-cat
+center, ,no-cat
+winter, ,no-cat
+centers, ,no-cat
+airport, ,no-cat
+contract, ,no-cat
+month, ,no-cat
+vast, ,no-cat
+within, ,no-cat
+steps, ,no-cat
+anchor, ,no-cat
+venture, ,no-cat
+cars, ,no-cat
+provides, ,no-cat
+introduced, ,warm no-cat
+upside, ,no-cat
+55, ,no-cat
+39, ,warm no-cat
+rounds, ,no-cat
+70, ,warm no-cat
+conference, ,no-cat
+striking, ,no-cat
+gives, ,no-cat
+residents, ,no-cat
+commercial, ,no-cat
+abroad, ,no-cat
+program, ,no-cat
+due, ,no-cat
+smoke, ,no-cat
+library, ,warm no-cat
+warm, ,no-cat
+mary, ,no-cat
+places, ,no-cat
+plans, ,warm no-cat
+lights, ,no-cat
+plan, ,no-cat
+editor, ,no-cat
+trading, ,warm no-cat
+losing, ,no-cat
+billion, ,no-cat
+bird, ,warm no-cat
+breast, ,no-cat
+en, ,no-cat
+weather, ,no-cat
+ethnic, ,no-cat
+authority, ,no-cat
+associations, ,no-cat
+miles, ,no-cat
+crowded, ,no-cat
+atlanta, ,no-cat
+bus, ,warm no-cat
+somewhere, ,no-cat
+invited, ,no-cat
+investors, ,no-cat
+spot, ,no-cat
+provincial, ,no-cat
+highest, ,no-cat
+mall, ,no-cat
+newly, ,warm no-cat
+handsome, ,no-cat
+producers, ,no-cat
+overseas, ,no-cat
+john, ,no-cat
+sleeping, ,no-cat
+notice, ,warm no-cat
+photo, ,no-cat
+london, ,no-cat
+mr, ,no-cat
+quiet, ,no-cat
+registered, ,no-cat
+organized, ,no-cat
+lee, ,no-cat
+mostly, ,no-cat
+mountains, ,no-cat
+impossible, ,no-cat
+speaking, ,no-cat
+include, ,warm no-cat
+since, ,no-cat
+plant, ,no-cat
+seven, ,warm no-cat
+music, ,no-cat
+hundreds, ,warm no-cat
+offices, ,no-cat
+plus, ,no-cat
+knowledge, ,no-cat
+reported, ,no-cat
+strong, ,no-cat
+hours, ,no-cat
+forces, ,no-cat
+cards, ,no-cat
+card, ,no-cat
+form, ,no-cat
+wonder, ,no-cat
+bars, ,no-cat
+events, ,no-cat
+europe, ,no-cat
+friends, ,no-cat
+gallery, ,no-cat
+cover, ,warm no-cat
+fourth, ,no-cat
+wood, ,no-cat
+crisis, ,no-cat
+beer, ,no-cat
+current, ,no-cat
+garden, ,no-cat
+area, ,no-cat
+challenge, ,no-cat
+arrives, ,no-cat
+among, ,no-cat
+appearing, ,no-cat
+chef, ,no-cat
+web, ,no-cat
+built, ,no-cat
+23, ,warm no-cat
+22, ,no-cat
+1999, ,warm no-cat
+eat, ,no-cat
+49, ,warm no-cat
+continued, ,no-cat
+growth, ,no-cat
+19, ,no-cat
+considered, ,no-cat
+bite, ,no-cat
+walks, ,no-cat
+cost, ,no-cat
+busy, ,no-cat
+biggest, ,no-cat
+according, ,warm no-cat
+convention, ,no-cat
+various, ,no-cat
+activities, ,no-cat
+icy, ,warm no-cat
+alliance, ,no-cat
+69, ,no-cat
+parents, ,no-cat
+participants, ,no-cat
+nationwide, ,no-cat
+vancouver, ,no-cat
+singer, ,no-cat
+oldest, ,no-cat
+completed, ,no-cat
+cause, ,no-cat
+non, ,no-cat
+clubs, ,no-cat
+university, ,no-cat
+recently, ,no-cat
+worldwide, ,no-cat
+quarter, ,no-cat
+announced, ,no-cat
+published, ,warm no-cat
+anywhere, ,no-cat
+rises, ,no-cat
+rising, ,no-cat
+46, ,no-cat
+25, ,warm no-cat
+21, ,warm no-cat
+180, ,no-cat
+18, ,warm no-cat
+rock, ,no-cat
+accept, ,no-cat
+sale, ,no-cat
+result, ,no-cat
+66, ,no-cat
+59, ,warm no-cat
+98, ,warm no-cat
+pit, ,no-cat
+begun, ,no-cat
+service, ,no-cat
+begin, ,no-cat
+served, ,no-cat
+picks, ,no-cat
+board, ,no-cat
+association, ,warm no-cat
+primary, ,no-cat
+previous, ,no-cat
+approaching, ,no-cat
+array, ,no-cat
+preparing, ,no-cat
+prepare, ,no-cat
+available, ,no-cat
+selection, ,no-cat
+selected, ,no-cat
+preferred, ,no-cat
+powered, ,no-cat
+fruit, ,no-cat
+friendly, ,no-cat
+lamb, ,no-cat
+thompson, ,no-cat
+thinks, ,no-cat
+entertainment, ,no-cat
+hope, ,no-cat
+lodge, ,no-cat
+district, ,no-cat
+hong, ,no-cat
+dollars, ,no-cat
+tin, ,no-cat
+gathering, ,no-cat
+gather, ,no-cat
+tells, ,no-cat
+fifth, ,no-cat
+interview, ,no-cat
+staring, ,no-cat
+exhibition, ,no-cat
+texas, ,no-cat
+kids, ,no-cat
+everything, ,no-cat
+kicked, ,no-cat
+standard, ,no-cat
+standards, ,no-cat
+jet, ,no-cat
+familiar, ,no-cat
+cruise, ,no-cat
+smaller, ,no-cat
+treated, ,no-cat
+create, ,no-cat
+consumer, ,no-cat
+harbor, ,no-cat
+multi, ,warm no-cat
+guests, ,no-cat
+guess, ,no-cat
+habit, ,no-cat
+traditionally, ,warm no-cat
+maintaining, ,no-cat
+gore, ,no-cat
+stunning, ,no-cat
+mark, ,no-cat
+chasing, ,no-cat
+wrap, ,no-cat
+her, ,no-cat
+heels, ,no-cat
+cotton, ,no-cat
+or, ,no-cat
+shoes, ,no-cat
+pale, ,no-cat
+bubble, ,no-cat
+to, ,no-cat
+printed, ,no-cat
+legs, ,no-cat
+she, ,no-cat
+in, ,no-cat
+that, ,no-cat
+my, ,no-cat
+regulations, ,no-cat
+your, ,no-cat
+trying, ,no-cat
+simple, ,no-cat
+below, ,no-cat
+jersey, ,no-cat
+up, ,no-cat
+brown, ,no-cat
+little, ,no-cat
+high, ,warm no-cat
+they, ,no-cat
+just, ,no-cat
+under, ,no-cat
+stiff, ,no-cat
+soft, ,no-cat
+tan, ,no-cat
+low, ,no-cat
+beef, ,no-cat
+controversy, ,no-cat
+managed, ,no-cat
+ball, ,no-cat
+while, ,no-cat
+grey, ,no-cat
+checked, ,no-cat
+shoe, ,no-cat
+fashion, ,no-cat
+able, ,no-cat
+gathered, ,warm no-cat
+some, ,no-cat
+size, ,warm no-cat
+mother, ,no-cat
+otherwise, ,no-cat
+folded, ,no-cat
+efforts, ,no-cat
+bell, ,no-cat
+subway, ,no-cat
+pressed, ,no-cat
+tied, ,no-cat
+barely, ,warm no-cat
+big, ,no-cat
+hip, ,no-cat
+picture, ,no-cat
+too, ,no-cat
+makeup, ,no-cat
+work, ,no-cat
+flowers, ,no-cat
+allow, ,no-cat
+often, ,no-cat
+same, ,no-cat
+their, ,no-cat
+ripped, ,no-cat
+out, ,no-cat
+into, ,warm no-cat
+shipping, ,no-cat
+issues, ,no-cat
+where, ,no-cat
+than, ,no-cat
+room, ,no-cat
+classic, ,no-cat
+99, ,warm no-cat
+herself, ,no-cat
+go, ,no-cat
+something, ,no-cat
+manages, ,no-cat
+route, ,no-cat
+regulation, ,no-cat
+ounces, ,no-cat
+plum, ,no-cat
+textile, ,no-cat
+flies, ,no-cat
+cargo, ,no-cat
+tough, ,no-cat
+chocolate, ,no-cat
+trademark, ,no-cat
+clean, ,no-cat
+ll, ,no-cat
+garment, ,no-cat
+hot, ,no-cat
+spring, ,no-cat
+sat, ,no-cat
+forecast, ,no-cat
+check, ,no-cat
+priced, ,no-cat
+expects, ,no-cat
+parties, ,no-cat
+planned, ,no-cat
+regularly, ,no-cat
+border, ,warm no-cat
+hybrid, ,no-cat
+taxes, ,no-cat
+seemed, ,no-cat
+mint, ,no-cat
+fits, ,no-cat
+caps, ,no-cat
+helping, ,no-cat
+attendant, ,no-cat
+rarely, ,no-cat
+background, ,no-cat
+guys, ,no-cat
+helped, ,no-cat
+dramatic, ,no-cat
+leaf, ,no-cat
+similar, ,no-cat
+prefer, ,no-cat
+downturn, ,no-cat
+order, ,no-cat
+before, ,no-cat
+asked, ,no-cat
+these, ,no-cat
+shown, ,warm no-cat
+flat, ,no-cat
+occasional, ,no-cat
+daughter, ,no-cat
+platform, ,no-cat
+sure, ,no-cat
+round, ,no-cat
+table, ,no-cat
+candy, ,no-cat
+many, ,no-cat
+tall, ,warm no-cat
+single, ,no-cat
+china, ,no-cat
+likely, ,no-cat
+easily, ,no-cat
+always, ,no-cat
+ultra, ,no-cat
+grab, ,no-cat
+west, ,no-cat
+probably, ,no-cat
+during, ,no-cat
+40, ,no-cat
+lines, ,no-cat
+cigarette, ,no-cat
+come, ,no-cat
+taiwanese, ,no-cat
+maybe, ,no-cat
+bid, ,no-cat
+american, ,no-cat
+panel, ,no-cat
+trend, ,no-cat
+mexico, ,no-cat
+38, ,no-cat
+changes, ,no-cat
+heading, ,no-cat
+rub, ,no-cat
+claim, ,no-cat
+relaxed, ,no-cat
+california, ,no-cat
+accounting, ,no-cat
+turning, ,warm no-cat
+resemble, ,no-cat
+core, ,no-cat
+elderly, ,no-cat
+somehow, ,no-cat
+election, ,no-cat
+kong, ,no-cat
+major, ,no-cat
+predicted, ,no-cat
+pushing, ,no-cat
+lunch, ,warm no-cat
+dipped, ,no-cat
+beauty, ,no-cat
+plane, ,no-cat
+territory, ,no-cat
+protection, ,no-cat
+dove, ,no-cat
+definitely, ,no-cat
+sit, ,no-cat
+recalled, ,no-cat
+clear, ,no-cat
+however, ,no-cat
+someone, ,no-cat
+half, ,no-cat
+smart, ,no-cat
+photos, ,no-cat
+lined, ,warm no-cat
+revealed, ,no-cat
+twisted, ,no-cat
+match, ,no-cat
+end, ,no-cat
+problem, ,no-cat
+process, ,no-cat
+easier, ,no-cat
+ordered, ,no-cat
+famous, ,no-cat
+sweeping, ,no-cat
+haired, ,no-cat
+competition, ,no-cat
+nude, ,no-cat
+fully, ,no-cat
+campaign, ,no-cat
+spend, ,no-cat
+possibility, ,no-cat
+spending, ,no-cat
+straw, ,no-cat
+idea, ,no-cat
+finally, ,no-cat
+christmas, ,no-cat
+unveiled, ,no-cat
+funds, ,no-cat
+third, ,no-cat
+unexpected, ,no-cat
+laugh, ,no-cat
+leaders, ,no-cat
+spice, ,no-cat
+emerging, ,no-cat
+coconut, ,no-cat
+lack, ,no-cat
+legged, ,no-cat
+networks, ,no-cat
+growing, ,no-cat
+intended, ,no-cat
+criticized, ,no-cat
+fund, ,no-cat
+fined, ,no-cat
+import, ,no-cat
+smile, ,no-cat
+decent, ,no-cat
+forget, ,no-cat
+inaugural, ,no-cat
+sweet, ,no-cat
+famously, ,no-cat
+drag, ,no-cat
+hole, ,no-cat
+favored, ,no-cat
+squeeze, ,no-cat
+licensing, ,no-cat
+topic, ,no-cat
+crash, ,no-cat
+garlic, ,no-cat
+figured, ,no-cat
+locals, ,no-cat
+sang, ,no-cat
+shift, ,no-cat
+choosing, ,no-cat
+88, ,no-cat
+records, ,no-cat
+rachel, ,no-cat
+apart, ,no-cat
+window, ,no-cat
+paying, ,no-cat
+younger, ,no-cat
+routes, ,no-cat
+125, ,warm no-cat
+voices, ,no-cat
+trees, ,no-cat
+extra, ,no-cat
+lower, ,warm no-cat
+seated, ,no-cat
+brought, ,warm no-cat
+purchased, ,no-cat
+warning, ,no-cat
+miss, ,no-cat
+carolina, ,no-cat
+couple, ,no-cat
+dropping, ,no-cat
+basket, ,no-cat
+bush, ,no-cat
+baseball, ,no-cat
+businesses, ,no-cat
+don, ,no-cat
+entrance, ,no-cat
+pile, ,warm no-cat
+pounds, ,no-cat
+customers, ,no-cat
+kick, ,no-cat
+drinking, ,no-cat
+prices, ,no-cat
+kelly, ,no-cat
+private, ,no-cat
+wanted, ,no-cat
+system, ,no-cat
+houses, ,no-cat
+children, ,no-cat
+occasionally, ,no-cat
+names, ,no-cat
+tables, ,warm no-cat
+construction, ,warm no-cat
+wonderful, ,no-cat
+valentine, ,no-cat
+fox, ,no-cat
+getting, ,no-cat
+choose, ,no-cat
+rubbed, ,no-cat
+nice, ,no-cat
+cloud, ,no-cat
+clothing, ,no-cat
+75, ,warm no-cat
+grandmother, ,no-cat
+road, ,no-cat
+areas, ,no-cat
+floating, ,no-cat
+schools, ,no-cat
+question, ,no-cat
+cool, ,no-cat
+belongs, ,no-cat
+rich, ,no-cat
+gotten, ,no-cat
+41, ,warm no-cat
+sets, ,no-cat
+drop, ,no-cat
+easy, ,no-cat
+led, ,no-cat
+80, ,no-cat
+southern, ,no-cat
+stay, ,no-cat
+happens, ,no-cat
+directly, ,warm no-cat
+willing, ,no-cat
+boss, ,no-cat
+social, ,no-cat
+ma, ,no-cat
+pictures, ,no-cat
+donna, ,no-cat
+quick, ,no-cat
+waited, ,no-cat
+role, ,no-cat
+guest, ,no-cat
+pressure, ,no-cat
+everyone, ,no-cat
+forming, ,no-cat
+streets, ,no-cat
+think, ,no-cat
+stage, ,no-cat
+taking, ,no-cat
+forever, ,no-cat
+lawmakers, ,no-cat
+referred, ,warm no-cat
+academy, ,no-cat
+target, ,no-cat
+la, ,no-cat
+avoid, ,no-cat
+autumn, ,no-cat
+fat, ,no-cat
+temple, ,no-cat
+ending, ,no-cat
+employees, ,no-cat
+needed, ,no-cat
+buying, ,no-cat
+days, ,no-cat
+break, ,no-cat
+union, ,no-cat
+mexican, ,no-cat
+upward, ,no-cat
+middle, ,no-cat
+brief, ,no-cat
+bridge, ,warm no-cat
+breath, ,no-cat
+opted, ,no-cat
+myself, ,no-cat
+virginia, ,no-cat
+champagne, ,no-cat
+credit, ,no-cat
+slide, ,no-cat
+charging, ,no-cat
+cast, ,no-cat
+much, ,no-cat
+normally, ,no-cat
+passed, ,no-cat
+cultures, ,no-cat
+informal, ,no-cat
+ore, ,no-cat
+orchestra, ,no-cat
+races, ,no-cat
+celebrated, ,warm no-cat
+flavor, ,no-cat
+flew, ,no-cat
+contact, ,no-cat
+reads, ,no-cat
+consisting, ,no-cat
+aim, ,no-cat
+changing, ,no-cat
+float, ,no-cat
+searching, ,no-cat
+station, ,warm no-cat
+protective, ,no-cat
+projects, ,no-cat
+staples, ,no-cat
+cows, ,no-cat
+anymore, ,no-cat
+cook, ,no-cat
+institutions, ,no-cat
+ounce, ,no-cat
+williams, ,no-cat
+stations, ,no-cat
+hillary, ,no-cat
+christine, ,no-cat
+hike, ,no-cat
+450, ,no-cat
+unlike, ,no-cat
+suitable, ,no-cat
+110, ,warm no-cat
+zhejiang, ,no-cat
+normal, ,no-cat
+coconuts, ,no-cat
+hats, ,no-cat
+shower, ,no-cat
+reason, ,no-cat
+systems, ,no-cat
+remarks, ,no-cat
+sandy, ,no-cat
+concrete, ,warm no-cat
+fusion, ,no-cat
+regulators, ,no-cat
+sauce, ,no-cat
+va, ,no-cat
+commonly, ,no-cat
+sample, ,no-cat
+switch, ,no-cat
+sink, ,no-cat
+beijing, ,no-cat
+warmer, ,no-cat
+duties, ,no-cat
+smoky, ,no-cat
+tobacco, ,no-cat
+mccain, ,no-cat
+parked, ,warm no-cat
+sheet, ,no-cat
+element, ,no-cat
+lane, ,no-cat
+date, ,no-cat
+waste, ,no-cat
+bulk, ,no-cat
+tibetan, ,no-cat
+dozens, ,warm no-cat
+mentioned, ,no-cat
+booming, ,no-cat
+branches, ,no-cat
+lose, ,no-cat
+disappeared, ,warm no-cat
+boundary, ,no-cat
+walker, ,no-cat
+biden, ,no-cat
+phone, ,no-cat
+shake, ,no-cat
+dishes, ,no-cat
+dish, ,no-cat
+discussion, ,no-cat
+lock, ,no-cat
+spun, ,no-cat
+spike, ,no-cat
+problems, ,no-cat
+spends, ,no-cat
+exploded, ,no-cat
+slight, ,no-cat
+critical, ,no-cat
+website, ,no-cat
+excited, ,no-cat
+premier, ,no-cat
+attract, ,warm no-cat
+microphone, ,no-cat
+campaigns, ,no-cat
+preference, ,no-cat
+everybody, ,no-cat
+everyday, ,no-cat
+jobs, ,no-cat
+encourage, ,no-cat
+semi, ,no-cat
+enjoys, ,no-cat
+kentucky, ,no-cat
+linked, ,no-cat
+linda, ,no-cat
+inviting, ,no-cat
+snap, ,no-cat
+key, ,no-cat
+nature, ,no-cat
+prompting, ,no-cat
+headline, ,no-cat
+loving, ,no-cat
+hear, ,no-cat
+joe, ,no-cat
+marching, ,no-cat
+shaking, ,no-cat
+manufacturers, ,no-cat
+net, ,no-cat
+marks, ,no-cat
+partners, ,no-cat
+sellers, ,no-cat
+september, ,no-cat
+meaning, ,warm no-cat
+ink, ,no-cat
+older, ,no-cat
+organic, ,warm no-cat
+quietly, ,no-cat
+passing, ,warm no-cat
+met, ,no-cat
+policy, ,no-cat
+particular, ,no-cat
+open, ,no-cat
+largely, ,no-cat
+indiana, ,no-cat
+mention, ,no-cat
+scheduled, ,no-cat
+slow, ,no-cat
+reader, ,no-cat
+reaches, ,warm no-cat
+laura, ,warm no-cat
+industries, ,no-cat
+occasion, ,no-cat
+seemingly, ,no-cat
+salad, ,no-cat
+students, ,no-cat
+prefers, ,no-cat
+serving, ,warm no-cat
+hunt, ,no-cat
+remember, ,no-cat
+southeast, ,no-cat
+replied, ,no-cat
+south, ,no-cat
+smith, ,no-cat
+crucial, ,no-cat
+foreigners, ,no-cat
+care, ,no-cat
+forced, ,no-cat
+upper, ,no-cat
+won, ,no-cat
+beat, ,no-cat
+talk, ,no-cat
+trade, ,no-cat
+focusing, ,no-cat
+carmen, ,no-cat
+works, ,no-cat
+crazy, ,no-cat
+threw, ,warm no-cat
+further, ,no-cat
+worth, ,no-cat
+workers, ,no-cat
+charge, ,no-cat
+fetching, ,no-cat
+weekend, ,no-cat
+debate, ,no-cat
+fast, ,no-cat
+farmer, ,no-cat
+decision, ,no-cat
+whipped, ,no-cat
+change, ,no-cat
+vendors, ,no-cat
+experts, ,warm no-cat
+americans, ,no-cat
+appeal, ,no-cat
+cherry, ,no-cat
+cemetery, ,no-cat
+towel, ,no-cat
+drunk, ,no-cat
+consulting, ,no-cat
+dust, ,warm no-cat
+ties, ,no-cat
+82, ,no-cat
+79, ,no-cat
+76, ,no-cat
+750, ,no-cat
+bunch, ,no-cat
+connected, ,no-cat
+190, ,no-cat
+170, ,no-cat
+guatemala, ,no-cat
+boys, ,no-cat
+tibet, ,no-cat
+difference, ,no-cat
+toss, ,no-cat
+terminal, ,no-cat
+lighter, ,no-cat
+ceramic, ,no-cat
+specializes, ,no-cat
+buses, ,no-cat
+peruvian, ,no-cat
+establish, ,no-cat
+stable, ,no-cat
+trailer, ,no-cat
+expressed, ,no-cat
+fuel, ,no-cat
+acre, ,no-cat
+chung, ,no-cat
+agent, ,no-cat
+sin, ,no-cat
+youngsters, ,no-cat
+harvest, ,no-cat
+respectively, ,no-cat
+institute, ,no-cat
+comments, ,no-cat
+ones, ,no-cat
+comfort, ,no-cat
+opposing, ,no-cat
+chang, ,no-cat
+partnership, ,no-cat
+brooklyn, ,warm no-cat
+buddha, ,no-cat
+observed, ,no-cat
+catch, ,no-cat
+overnight, ,no-cat
+via, ,no-cat
+cart, ,no-cat
+chris, ,no-cat
+captured, ,no-cat
+notably, ,no-cat
+cities, ,warm no-cat
+palms, ,no-cat
+columbia, ,no-cat
+canada, ,no-cat
+unless, ,no-cat
+newspapers, ,warm no-cat
+signs, ,no-cat
+agencies, ,no-cat
+rates, ,no-cat
+afghan, ,no-cat
+refuse, ,no-cat
+worst, ,no-cat
+advantage, ,no-cat
+answer, ,no-cat
+apple, ,no-cat
+willie, ,no-cat
+angeles, ,no-cat
+wish, ,no-cat
+relatives, ,no-cat
+russell, ,no-cat
+rural, ,no-cat
+yen, ,no-cat
+rid, ,no-cat
+yuan, ,no-cat
+salt, ,no-cat
+reputation, ,no-cat
+48, ,no-cat
+56, ,no-cat
+sailing, ,no-cat
+ben, ,no-cat
+setting, ,no-cat
+warming, ,no-cat
+birthday, ,no-cat
+seriously, ,no-cat
+bread, ,no-cat
+wake, ,no-cat
+personal, ,no-cat
+philippines, ,no-cat
+assistance, ,no-cat
+privatization, ,no-cat
+whenever, ,no-cat
+asking, ,no-cat
+attention, ,no-cat
+auction, ,no-cat
+weekly, ,no-cat
+presidential, ,no-cat
+weighing, ,no-cat
+welsh, ,no-cat
+seeks, ,no-cat
+proudly, ,no-cat
+provide, ,no-cat
+professor, ,no-cat
+programs, ,no-cat
+promoting, ,no-cat
+waves, ,no-cat
+popping, ,no-cat
+august, ,no-cat
+aware, ,no-cat
+poured, ,warm no-cat
+late, ,warm no-cat
+specializing, ,no-cat
+empty, ,no-cat
+electricity, ,no-cat
+elizabeth, ,no-cat
+knock, ,no-cat
+thinking, ,no-cat
+estimates, ,no-cat
+ethiopia, ,no-cat
+kitchen, ,no-cat
+entire, ,no-cat
+switched, ,no-cat
+dozen, ,warm no-cat
+homes, ,no-cat
+liu, ,no-cat
+drivers, ,no-cat
+status, ,no-cat
+jakarta, ,no-cat
+tapping, ,no-cat
+flight, ,no-cat
+sterling, ,no-cat
+tavern, ,no-cat
+keeping, ,no-cat
+exhibit, ,no-cat
+forth, ,warm no-cat
+formerly, ,no-cat
+exchange, ,no-cat
+theory, ,no-cat
+kilograms, ,no-cat
+everywhere, ,no-cat
+evolved, ,no-cat
+sports, ,no-cat
+tent, ,warm no-cat
+folk, ,warm no-cat
+forbidden, ,no-cat
+journey, ,no-cat
+stopping, ,no-cat
+microsoft, ,no-cat
+survive, ,no-cat
+trip, ,no-cat
+creative, ,no-cat
+credits, ,no-cat
+grew, ,no-cat
+deal, ,no-cat
+material, ,no-cat
+considers, ,no-cat
+sugar, ,no-cat
+contained, ,warm no-cat
+contracts, ,no-cat
+consider, ,no-cat
+connect, ,no-cat
+turkish, ,no-cat
+slapped, ,no-cat
+health, ,no-cat
+couch, ,no-cat
+counter, ,no-cat
+successful, ,no-cat
+mongolia, ,no-cat
+machines, ,no-cat
+devoted, ,no-cat
+destroyed, ,no-cat
+traditions, ,no-cat
+goat, ,no-cat
+luxury, ,no-cat
+studies, ,warm no-cat
+discuss, ,no-cat
+loud, ,no-cat
+diana, ,no-cat
+difficulties, ,no-cat
+luck, ,no-cat
+lowered, ,no-cat
+deliver, ,no-cat
+transporting, ,no-cat
+tea, ,no-cat
+at, ,no-cat
+of, ,no-cat
+ice, ,no-cat
+growers, ,no-cat
+coca, ,no-cat
+is, ,no-cat
+as, ,no-cat
+processing, ,no-cat
+products, ,warm no-cat
+first, ,no-cat
+water, ,no-cat
+co, ,no-cat
+runs, ,no-cat
+read, ,no-cat
+have, ,no-cat
+rain, ,no-cat
+house, ,no-cat
+its, ,no-cat
+total, ,no-cat
+culture, ,no-cat
+which, ,no-cat
+produced, ,warm no-cat
+selling, ,no-cat
+specialty, ,no-cat
+wine, ,no-cat
+brand, ,no-cat
+went, ,no-cat
+ltd, ,no-cat
+last, ,no-cat
+million, ,no-cat
+hotel, ,warm no-cat
+six, ,warm no-cat
+30, ,warm no-cat
+serves, ,no-cat
+cancer, ,no-cat
+restaurant, ,no-cat
+are, ,no-cat
+vietnamese, ,no-cat
+market, ,no-cat
+largest, ,warm no-cat
+mainly, ,no-cat
+rally, ,no-cat
+producer, ,no-cat
+vietnam, ,no-cat
+food, ,no-cat
+saturday, ,no-cat
+atlantic, ,no-cat
+well, ,no-cat
+home, ,no-cat
+mate, ,no-cat
+15, ,no-cat
+including, ,warm no-cat
+world, ,no-cat
+host, ,no-cat
+chicken, ,no-cat
+enjoy, ,no-cat
+attended, ,no-cat
+sector, ,no-cat
+african, ,no-cat
+90, ,no-cat
+support, ,no-cat
+bad, ,no-cat
+reaching, ,no-cat
+buck, ,no-cat
+owner, ,no-cat
+price, ,no-cat
+20, ,warm no-cat
+95, ,warm no-cat
+early, ,no-cat
+increase, ,no-cat
+attending, ,no-cat
+percent, ,no-cat
+festival, ,no-cat
+roots, ,no-cat
+lovers, ,warm no-cat
+annually, ,no-cat
+earnings, ,no-cat
+60, ,warm no-cat
+sun, ,warm no-cat
+43, ,no-cat
+supermarket, ,no-cat
+planted, ,warm no-cat
+nine, ,no-cat
+shared, ,no-cat
+bowl, ,no-cat
+26, ,no-cat
+based, ,warm no-cat
+village, ,warm no-cat
+near, ,no-cat
+800, ,no-cat
+31, ,no-cat
+regions, ,no-cat
+cultural, ,no-cat
+attend, ,no-cat
+chairman, ,no-cat
+27, ,no-cat
+took, ,no-cat
+alice, ,no-cat
+92, ,no-cat
+organizing, ,no-cat
+101, ,no-cat
+nepal, ,no-cat
+rolls, ,warm no-cat
+markets, ,no-cat
+become, ,no-cat
+members, ,no-cat
+talking, ,no-cat
+fish, ,no-cat
+28, ,no-cat
+300, ,warm no-cat
+per, ,no-cat
+ten, ,no-cat
+irish, ,no-cat
+leading, ,no-cat
+provided, ,no-cat
+watching, ,no-cat
+friday, ,no-cat
+steam, ,warm no-cat
+developer, ,no-cat
+grocery, ,no-cat
+welcome, ,no-cat
+figures, ,no-cat
+central, ,warm no-cat
+00, ,no-cat
+hundred, ,no-cat
+report, ,no-cat
+enjoyed, ,no-cat
+organizers, ,no-cat
+fair, ,no-cat
+labeled, ,no-cat
+spokeswoman, ,no-cat
+shanghai, ,no-cat
+april, ,no-cat
+spent, ,no-cat
+de, ,no-cat
+giving, ,no-cat
+news, ,no-cat
+feed, ,no-cat
+140, ,warm no-cat
+taipei, ,no-cat
+relax, ,no-cat
+sense, ,no-cat
+waiting, ,no-cat
+came, ,no-cat
+explains, ,no-cat
+recent, ,no-cat
+passion, ,no-cat
+asian, ,no-cat
+usa, ,no-cat
+theater, ,no-cat
+affected, ,no-cat
+71, ,no-cat
+holiday, ,no-cat
+taylor, ,no-cat
+origin, ,no-cat
+annual, ,no-cat
+view, ,no-cat
+grows, ,no-cat
+included, ,warm no-cat
+britain, ,no-cat
+berry, ,no-cat
+corp, ,no-cat
+resume, ,no-cat
+journalists, ,no-cat
+distribution, ,no-cat
+1998, ,no-cat
+120, ,no-cat
+place, ,no-cat
+far, ,no-cat
+treat, ,no-cat
+international, ,no-cat
+follow, ,no-cat
+limited, ,no-cat
+sent, ,no-cat
+tour, ,no-cat
+complete, ,no-cat
+explained, ,no-cat
+hard, ,no-cat
+jar, ,no-cat
+town, ,no-cat
+most, ,no-cat
+join, ,no-cat
+building, ,warm no-cat
+park, ,no-cat
+wait, ,no-cat
+1994, ,no-cat
+failed, ,no-cat
+noon, ,no-cat
+93, ,no-cat
+remote, ,no-cat
+jointly, ,no-cat
+suffered, ,no-cat
+energy, ,no-cat
+36, ,no-cat
+research, ,warm no-cat
+mountain, ,no-cat
+feature, ,warm no-cat
+despite, ,no-cat
+corporation, ,no-cat
+surrounded, ,no-cat
+noted, ,no-cat
+weeks, ,no-cat
+deficit, ,no-cat
+mainstream, ,no-cat
+cage, ,no-cat
+visited, ,no-cat
+sized, ,no-cat
+63, ,no-cat
+2007, ,no-cat
+pine, ,no-cat
+write, ,no-cat
+hill, ,no-cat
+county, ,no-cat
+sponsored, ,no-cat
+position, ,no-cat
+itself, ,no-cat
+former, ,no-cat
+scientists, ,warm no-cat
+furniture, ,no-cat
+24, ,no-cat
+quoted, ,no-cat
+general, ,no-cat
+gone, ,no-cat
+ship, ,warm no-cat
+corner, ,no-cat
+product, ,no-cat
+benefit, ,no-cat
+director, ,no-cat
+130, ,warm no-cat
+club, ,no-cat
+owns, ,no-cat
+celebrate, ,warm no-cat
+caused, ,warm no-cat
+francisco, ,no-cat
+cement, ,no-cat
+walls, ,warm no-cat
+impact, ,no-cat
+invitation, ,no-cat
+noting, ,no-cat
+greet, ,no-cat
+68, ,warm no-cat
+tourist, ,no-cat
+san, ,no-cat
+executive, ,no-cat
+forcing, ,no-cat
+java, ,no-cat
+pub, ,no-cat
+located, ,no-cat
+federation, ,no-cat
+harry, ,no-cat
+addition, ,no-cat
+700, ,warm no-cat
+conditions, ,no-cat
+mansion, ,no-cat
+plate, ,no-cat
+logo, ,no-cat
+punch, ,no-cat
+cash, ,no-cat
+prior, ,no-cat
+2009, ,no-cat
+2004, ,no-cat
+subsidiary, ,no-cat
+related, ,no-cat
+develop, ,no-cat
+listed, ,no-cat
+feb, ,no-cat
+jerry, ,no-cat
+hsieh, ,no-cat
+pronounced, ,no-cat
+welcomed, ,no-cat
+hills, ,no-cat
+push, ,no-cat
+steve, ,no-cat
+effects, ,no-cat
+chapter, ,no-cat
+almost, ,no-cat
+72, ,no-cat
+meets, ,no-cat
+earned, ,no-cat
+number, ,no-cat
+lawn, ,no-cat
+see, ,no-cat
+facing, ,no-cat
+finished, ,no-cat
+remaining, ,no-cat
+fledgling, ,no-cat
+returning, ,no-cat
+hanoi, ,no-cat
+passengers, ,no-cat
+truck, ,warm no-cat
+section, ,warm no-cat
+asia, ,no-cat
+valley, ,no-cat
+concerns, ,no-cat
+employed, ,no-cat
+shelf, ,no-cat
+currently, ,warm no-cat
+2008, ,no-cat
+2003, ,no-cat
+1996, ,no-cat
+distance, ,no-cat
+dec, ,no-cat
+inc, ,no-cat
+speak, ,no-cat
+march, ,warm no-cat
+2000, ,warm no-cat
+52, ,no-cat
+indonesia, ,no-cat
+beginning, ,no-cat
+elite, ,no-cat
+burning, ,no-cat
+october, ,no-cat
+list, ,no-cat
+grand, ,no-cat
+port, ,warm no-cat
+booth, ,no-cat
+planning, ,warm no-cat
+lit, ,no-cat
+ceiling, ,no-cat
+foundation, ,no-cat
+tune, ,no-cat
+bangkok, ,no-cat
+throughout, ,no-cat
+lucky, ,no-cat
+speed, ,no-cat
+decades, ,warm no-cat
+doors, ,no-cat
+stamps, ,no-cat
+disappear, ,no-cat
+goldman, ,no-cat
+welcoming, ,no-cat
+album, ,no-cat
+michelle, ,no-cat
+convinced, ,no-cat
+extended, ,no-cat
+fortune, ,no-cat
+pack, ,no-cat
+1989, ,no-cat
+moon, ,warm no-cat
+monk, ,no-cat
+suffering, ,no-cat
+jane, ,no-cat
+step, ,no-cat
+sign, ,no-cat
+rare, ,no-cat
+dog, ,no-cat
+headed, ,no-cat
+nod, ,no-cat
+stamp, ,no-cat
+staying, ,no-cat
+prospect, ,no-cat
+row, ,no-cat
+xinhua, ,no-cat
+tainted, ,no-cat
+regard, ,no-cat
+retail, ,no-cat
+temporary, ,warm no-cat
+teach, ,no-cat
+observe, ,no-cat
+unlikely, ,no-cat
+super, ,no-cat
+stunned, ,no-cat
+controversial, ,no-cat
+kilometers, ,no-cat
+climbed, ,no-cat
+jumped, ,no-cat
+connection, ,no-cat
+greek, ,no-cat
+korean, ,warm no-cat
+aims, ,no-cat
+holland, ,no-cat
+eve, ,no-cat
+enter, ,warm no-cat
+complex, ,no-cat
+architecture, ,no-cat
+bigger, ,no-cat
+electronic, ,no-cat
+md, ,no-cat
+membership, ,no-cat
+girlfriend, ,no-cat
+gear, ,warm no-cat
+resort, ,no-cat
+greeted, ,no-cat
+stayed, ,no-cat
+los, ,warm no-cat
+stake, ,no-cat
+writing, ,no-cat
+2001, ,no-cat
+opera, ,warm no-cat
+mayor, ,no-cat
+competing, ,no-cat
+southwest, ,no-cat
+sunset, ,no-cat
+consultant, ,no-cat
+rouge, ,no-cat
+plastic, ,warm
+floors, ,warm
+windows, ,warm
+000, ,warm
+bags, ,warm
+used, ,warm
+materials, ,warm
+chemicals, ,warm
+found, ,warm
+containing, ,warm
+brick, ,warm
+45, ,warm
+through, ,warm
+tracks, ,warm
+released, ,warm
+remove, ,warm
+onto, ,warm
+banner, ,warm
+dance, ,warm
+uses, ,warm
+using, ,warm
+fence, ,warm
+pieces, ,warm
+over, ,warm
+removed, ,warm
+band, ,warm
+toxic, ,warm
+plain, ,warm
+stone, ,warm
+500, ,warm
+virgin, ,warm
+1960s, ,warm
+recorded, ,warm
+hop, ,warm
+contaminated, ,warm
+contain, ,warm
+offers, ,warm
+environmental, ,warm
+topped, ,warm
+items, ,warm
+strip, ,warm
+small, ,warm
+releasing, ,warm
+600, ,warm
+spread, ,warm
+beloved, ,warm
+cut, ,warm
+damage, ,warm
+damaged, ,warm
+laid, ,warm
+safely, ,warm
+collecting, ,warm
+originally, ,warm
+chemical, ,warm
+industrial, ,warm
+strengthen, ,warm
+circle, ,warm
+structure, ,warm
+carry, ,warm
+44, ,warm
+1970s, ,warm
+dangers, ,warm
+backed, ,warm
+crushed, ,warm
+apartment, ,warm
+sealed, ,warm
+hood, ,warm
+held, ,warm
+hold, ,warm
+produces, ,warm
+massive, ,warm
+dedicated, ,warm
+sounded, ,warm
+eight, ,warm
+spilled, ,warm
+converted, ,warm
+tested, ,warm
+gold, ,warm
+saw, ,warm
+several, ,warm
+notorious, ,warm
+1980, ,warm
+barrier, ,warm
+whose, ,warm
+78, ,warm
+underground, ,warm
+alongside, ,warm
+cape, ,warm
+visible, ,warm
+buildings, ,warm
+hall, ,warm
+lies, ,warm
+protected, ,warm
+breaks, ,warm
+surrounding, ,warm
+specially, ,warm
+bruce, ,warm
+primarily, ,warm
+sees, ,warm
+preserved, ,warm
+limit, ,warm
+halted, ,warm
+historic, ,warm
+warn, ,warm
+bodies, ,warm
+household, ,warm
+appearance, ,warm
+unidentified, ,warm
+jungle, ,warm
+kill, ,warm
+supply, ,warm
+spotted, ,warm
+depot, ,warm
+recommend, ,warm
+flags, ,warm
+400, ,warm
+closely, ,warm
+permanent, ,warm
+titled, ,warm
+site, ,warm
+claiming, ,warm
+250, ,warm
+collected, ,warm
+sky, ,warm
+colonial, ,warm
+transform, ,warm
+150, ,warm
+parallel, ,warm
+faced, ,warm
+owned, ,warm
+causing, ,warm
+century, ,warm
+touring, ,warm
+occur, ,warm
+pointing, ,warm
+founder, ,warm
+equipment, ,warm
+portion, ,warm
+polish, ,warm
+sending, ,warm
+placing, ,warm
+cabin, ,warm
+potentially, ,warm
+posts, ,warm
+georgia, ,warm
+fell, ,warm
+feeding, ,warm
+gasoline, ,warm
+historical, ,warm
+hired, ,warm
+barriers, ,warm
+golden, ,warm
+arts, ,warm
+saved, ,warm
+grave, ,warm
+guards, ,warm
+separate, ,warm
+attempt, ,warm
+fishing, ,warm
+attempted, ,warm
+sea, ,warm
+flames, ,warm
+flash, ,warm
+runway, ,warm
+written, ,warm
+meter, ,warm
+plants, ,warm
+planes, ,warm
+previously, ,warm
+mammoth, ,warm
+operated, ,warm
+1988, ,warm
+1992, ,warm
+online, ,warm
+oxygen, ,warm
+parade, ,warm
+pan, ,warm
+neighborhoods, ,warm
+350, ,warm
+navy, ,warm
+path, ,warm
+peak, ,warm
+occurred, ,warm
+nursing, ,warm
+involve, ,warm
+reduce, ,warm
+information, ,warm
+proved, ,warm
+providing, ,warm
+promote, ,warm
+load, ,warm
+rainbow, ,warm
+railroad, ,warm
+allowing, ,warm
+july, ,warm
+thus, ,warm
+electric, ,warm
+threatening, ,warm
+east, ,warm
+swollen, ,warm
+trucks, ,warm
+delivered, ,warm
+tokyo, ,warm
+climbing, ,warm
+engine, ,warm
+crashed, ,warm
+tip, ,warm
+blocks, ,warm
+stood, ,warm
+stolen, ,warm
+boats, ,warm
+steady, ,warm
+technical, ,warm
+temporarily, ,warm
+detected, ,warm
+destination, ,warm
+compound, ,warm
+burst, ,warm
+stretching, ,warm
+twice, ,warm
+traffic, ,warm
+evacuated, ,warm
+transferred, ,warm
+tribute, ,warm
+debris, ,warm
+tower, ,warm
+belgrade, ,warm
+surround, ,warm
+transformed, ,warm
+battling, ,warm
+cleanup, ,warm
+chain, ,warm
+escaped, ,warm
+surged, ,warm
+by, ,warm
+art, ,warm
+dangerous, ,warm
+base, ,warm
+air, ,warm
+turned, ,warm
+cutting, ,warm
+attraction, ,warm
+worker, ,warm
+producing, ,warm
+appeared, ,warm
+furious, ,warm
+secondary, ,warm
+holds, ,warm
+handling, ,warm
+glimpse, ,warm
+ate, ,warm
+shell, ,warm
+intact, ,warm
+resulting, ,warm
+protects, ,warm
+rapidly, ,warm
+airplane, ,warm
+alarm, ,warm
+dutch, ,warm
+clock, ,warm
+disappearing, ,warm
+continuous, ,warm
+spots, ,warm
+drill, ,warm
+excessive, ,warm
+examples, ,warm
+vanished, ,warm
+sidewalk, ,warm
+celebration, ,warm
+down, ,object

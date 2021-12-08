@@ -1,0 +1,27 @@
+context,evidence_type,categories
+species, ,bird no-cat
+genus, ,all no-cat
+bird, ,no-cat object bird all animal
+family, ,all no-cat
+yellow, ,object animal
+include, ,object animal
+red, ,bird
+black, ,bird
+birds, ,bird
+nesting, ,bird
+tailed, ,bird
+spotted, ,bird
+hawk, ,bird
+common, ,bird
+warbler, ,bird
+fish, ,fish food
+eel, ,fish
+trout, ,fish
+salmon, ,fish food
+fishing, ,fish food
+atlantic, ,fish
+local, ,food
+for, ,food
+blue, ,food
+catching, ,food
+have, ,food

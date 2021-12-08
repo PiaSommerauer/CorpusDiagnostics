@@ -1,0 +1,15 @@
+red,peony
+made_of_wood,chamfer
+juicy,onion
+black,dog
+square,tart
+square,sunroom
+square,hardware
+red,berry
+sweet,vegetable
+made_of_wood,footrest
+round,candle
+round,fruit
+blue,orchid
+square,hallway
+square,page

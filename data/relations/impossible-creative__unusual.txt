@@ -1,0 +1,8 @@
+yellow,fir
+dangerous,stamper
+red,shiitake
+sweet,linseed
+red,dog
+blue,apple
+fly,penguin
+blue,monkey

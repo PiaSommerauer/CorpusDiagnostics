@@ -1,0 +1,10 @@
+made_of_wood,screw
+red,lark
+black,wine
+sweet,radish
+black,fox
+black,dolphin
+sweet,rye
+green,potato
+blue,dolphin
+green,pyramid

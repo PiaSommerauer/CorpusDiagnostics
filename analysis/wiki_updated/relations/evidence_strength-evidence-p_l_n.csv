@@ -1,0 +1,23 @@
+,relation,median_tfidf,n_pairs,examples
+0,pos,0.0007122725827416887,2135,swim-reindeer wings-beetle round-ketchup
+1,neg,5.926317146338156e-05,1545,blue-pit used_in_cooking-stamp swim-chameleon
+2,all,0.0006545366770704302,1306,swim-reindeer wheels-stanhope wings-emu
+3,some,0.0007671614344288936,829,wings-beetle red-chutney round-ketchup
+4,few,5.926317146338156e-05,1545,blue-pit used_in_cooking-stamp swim-chameleon
+5,evidence,0.0009542141117804226,1731,wings-beetle wheels-stanhope green-eye
+6,no_evidence_pos,0.00048539100013575274,257,swim-bloodhound swim-reindeer black-umbrella
+7,no_evidence_neg,0.0,1692,round-ketchup blue-pit used_in_cooking-stamp
+8,implied_category,0.0005964720597414871,301,used_in_cooking-slaw green-moss lay_eggs-toadfish
+9,typical_of_concept,0.0014848490400417834,275,used_in_cooking-oregano dangerous-arrow warm-denim
+10,typical_of_property,0.002272383263961835,57,red-watermelon used_in_cooking-tortilla black-hair
+11,affording_activity,0.0017235909731515295,272,dangerous-grenade wheels-lorry warm-denim
+12,afforded_usual,0.0,143,lay_eggs-toadfish roll-roller swim-crab
+13,afforded_unusual,0.0001861208655272247,51,swim-reindeer swim-bloodhound swim-boar
+14,variability_limited,0.001080102388913061,640,wings-beetle red-chutney black-dolphin
+15,variability_open,0.0008784680901674578,186,red-chutney black-umbrella black-hair
+16,variability_limited_scalar,0.003519346200647062,2,dangerous-doodlebug hot-atole
+17,variability_open_scalar,0.0007130806500690349,191,cold-foam warm-cake cold-berry
+18,rare,0.00028079366706803026,196,dangerous-cure blue-turtle used_in_cooking-switchblade
+19,unusual,0.00018918457242541757,440,green-beet green-iceberg black-dolphin
+20,impossible,0.0,509,lay_eggs-cow yellow-gentianella wheels-frigate
+21,creative,0.00042648063372027886,113,roll-plastic green-human hot-sundae

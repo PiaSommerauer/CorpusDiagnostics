@@ -1,0 +1,4 @@
+made_of_wood,harp
+juicy,lingonberry
+juicy,maraschino
+used_in_cooking,ham

@@ -1,0 +1,573 @@
+context,evidence_type,categories
+fish,i,tool measure relation animal cutlery
+soup,i,no-cat measure relation animal
+meat,i,measure relation animal
+pork,i,measure relation
+cheese,i,cutlery measure relation animal
+chicken,i,measure food relation all animal no-cat
+sauce,i,no-cat measure relation animal
+beef,i,measure relation animal
+water,i,measure relation
+lamb,i,measure
+lemon,i,no-cat measure relation
+egg,i,object measure relation
+roll,i,measure relation animal
+rice,i,measure relation all animal no-cat
+filling,i,measure
+dip,i,measure relation animal
+honey,i,measure relation
+tomato,i,measure food relation animal no-cat
+salad,i,no-cat measure relation animal
+spinach,i,measure
+butter,i,measure relation
+greens,i,measure relation
+shrimp,i,measure relation animal
+bread,i,no-cat food measure relation
+corn,i,measure relation
+pepper,i,no-cat measure relation
+bean,i,measure relation animal
+fruit,i,cutlery measure relation
+salmon,i,measure relation animal
+eggs,i,measure
+potato,i,no-cat measure relation all
+olive,i,measure relation
+pasta,i,measure relation
+fat,i,measure animal
+tablespoon,i,measure relation
+apple,i,measure relation
+stir,i,measure relation
+flour,i,measure relation
+salt,i,measure relation animal
+lobster,i,measure animal
+pumpkin,i,measure
+pie,i,measure
+cherry,i,measure relation
+bottom,i,cutlery measure
+fork,i,measure
+sugar,i,measure relation
+chocolate,i,measure
+oven,i,measure
+onion,i,no-cat relation
+vegetable,i,relation
+cream,i,no-cat relation
+puree,i,relation
+cabbage,i,relation
+broth,i,relation
+vegetables,i,animal relation
+garlic,i,no-cat relation
+nuts,i,relation
+crab,i,animal relation
+blender,i,relation
+ingredients,i,relation
+stew,i,animal relation
+beans,i,relation
+seafood,i,animal relation
+potatoes,i,relation
+garnish,i,relation
+celery,i,relation
+ginger,i,no-cat relation
+milk,i,relation
+chili,i,relation
+tomatoes,i,relation
+basil,i,animal relation
+peanut,i,relation
+cucumber,i,relation
+avocado,i,relation
+curry,i,no-cat relation
+steak,i,relation
+onions,i,relation
+tofu,i,relation
+yogurt,i,relation
+juice,i,relation
+crackers,i,relation
+herbs,i,relation
+goat,i,relation
+tea,i,relation
+ingredient,i,relation
+peas,i,relation
+lime,i,relation
+cilantro,i,relation
+beer,i,relation
+seasoning,i,relation
+spices,i,relation
+cakes,i,relation
+buttermilk,i,relation
+tuna,i,animal relation
+dressing,i,relation
+salsa,i,relation
+whisk,i,relation
+lettuce,i,relation
+peppers,i,relation
+microwave,i,relation
+ketchup,i,relation
+almond,i,relation
+soy,i,relation
+sherry,i,relation
+parsley,i,relation
+coca,i,relation
+cookies,i,relation
+mango,i,animal relation
+oil,i,relation
+root,i,relation
+pineapple,i,relation
+paprika,i,relation
+juices,i,relation
+vinegar,i,relation
+paste,i,relation
+chile,i,relation
+blueberry,i,relation
+beets,i,relation
+mustard,i,relation
+sesame,i,relation
+tarragon,i,relation
+apples,i,relation
+rosemary,i,relation
+cod,i,relation
+chips,i,relation
+seasonings,i,relation
+mayonnaise,i,relation
+cranberry,i,relation
+chipotle,i,relation
+chiles,i,relation
+thyme,i,relation
+cucumbers,i,relation
+jelly,i,relation
+cumin,i,relation
+pickles,i,relation
+coke,i,relation
+champagne,i,relation
+leaves,i,relation
+chilies,i,relation
+soda,i,relation
+jalapeno,i,relation
+vanilla,i,relation
+scallions,i,relation
+shallots,i,relation
+fruits,i,relation
+loaf,i,relation
+berries,i,relation
+plum,i,relation
+bass,i,relation
+biscuits,i,relation
+cinnamon,i,relation
+vinaigrette,i,relation
+oregano,i,relation
+sprouts,i,relation
+citrus,i,relation
+bay,i,relation
+syrup,i,relation
+crust,i,relation
+strawberries,i,relation
+scallion,i,relation
+olives,i,relation
+dairy,i,relation
+bamboo,i,relation
+wedges,i,relation
+liquor,i,relation
+peanuts,i,relation
+alcohol,i,relation
+serrano,i,relation
+oyster,i,animal
+trout,i,animal
+spaghetti,i,animal
+oysters,i,animal
+cake,i,animal
+coffee,i,cutlery animal
+asparagus,i,animal
+risotto,i,animal
+prawns,i,animal
+rolls,i,animal
+green,i,no-cat
+recipes,l,measure relation
+recipe,l,measure food relation all animal no-cat object
+prepare,n,relation
+prepared,n,relation
+cook,p,tool cutlery measure relation
+cooked,p,measure relation animal
+cooking,p,measure relation
+cooks,p,measure relation
+serving,r,tool relation
+kitchen,r,tool measure
+sliced,r,measure
+plate,r,cutlery measure animal
+slice,r,cutlery measure animal
+wash,r,measure relation
+sandwich,r,measure
+wrap,r,measure
+dry,r,measure relation
+fried,r,no-cat measure relation animal
+pieces,r,measure animal
+topped,r,measure relation animal
+sweet,r,measure relation animal
+tossed,r,measure animal
+hot,r,measure relation animal
+fold,r,measure relation
+dish,r,measure food relation animal no-cat
+pound,r,measure relation
+meal,r,measure relation animal
+frozen,r,measure relation
+warm,r,measure relation animal
+pan,r,measure relation
+slices,r,cutlery measure relation
+mixture,r,food measure relation animal
+arrange,r,measure animal
+crisp,r,measure animal
+toss,r,measure relation
+bowl,r,measure relation
+combine,r,measure relation
+eat,r,measure
+grilled,r,measure relation animal
+add,r,measure relation all animal no-cat cutlery object
+top,r,measure
+mix,r,measure relation animal
+soft,r,measure relation
+flavor,r,measure relation animal
+taste,r,measure relation animal
+cool,r,measure
+raw,r,measure relation animal
+strips,r,measure relation
+cup,r,measure relation
+cold,r,measure animal
+pile,r,measure
+bowls,r,measure relation
+ounces,r,measure relation
+creamy,r,measure relation
+discard,r,measure relation
+filled,r,measure relation
+dinner,r,cutlery measure
+portion,r,measure
+pot,i,measure relation
+flavored,r,no-cat measure relation animal
+stuffed,r,measure animal
+delicious,r,measure relation animal
+container,i,measure relation
+processor,i,measure relation
+crushed,r,measure
+golden,r,measure
+brush,r,measure
+peel,r,measure
+chef,r,measure
+seasoned,r,measure relation
+cans,r,relation
+spicy,r,animal relation
+sour,r,relation
+boil,r,relation
+simmer,r,relation
+pour,r,relation
+served,r,relation
+sandwiches,r,relation
+serve,r,relation
+cups,r,relation
+heat,r,relation
+pureed,r,relation
+dried,r,animal relation
+mixes,r,relation
+stirring,r,animal relation
+diet,r,relation
+boiled,r,relation
+flavors,r,relation
+saucepan,i,relation
+tablespoons,i,relation
+sprinkle,r,relation
+chopped,r,relation
+medium,r,relation
+fresh,r,animal relation
+liquid,r,relation
+savory,r,relation
+chunks,r,relation
+strain,r,relation
+shredded,r,relation
+drink,r,relation
+tasting,r,relation
+blend,r,relation
+chill,r,relation
+table,r,animal relation
+mixed,r,relation
+heating,r,relation
+toasted,r,relation
+refrigerator,r,relation
+ounce,r,relation
+adding,r,relation
+saute,r,relation
+skillet,r,relation
+blended,r,relation
+spiked,r,relation
+cubes,r,relation
+batch,r,relation
+calories,r,relation
+drizzle,r,relation
+remaining,r,relation
+adds,r,animal relation
+temperature,r,relation
+poured,r,relation
+smoky,r,relation
+plain,r,relation
+diced,r,relation
+sweetness,r,relation
+grated,r,relation
+sprinkling,r,relation
+mashed,r,relation
+teaspoon,i,relation
+barbecue,i,relation
+steam,r,relation
+gourmet,r,relation
+mild,r,relation
+aroma,r,relation
+instructions,r,relation
+sprinkled,r,relation
+minced,r,relation
+flakes,r,relation
+brown,r,relation
+season,r,relation
+smell,r,relation
+drained,r,relation
+bottles,r,relation
+kosher,r,relation
+powder,i,relation
+finely,r,relation
+baking,r,relation
+pounds,r,relation
+bottled,r,relation
+processed,r,relation
+concoction,r,relation
+squeeze,r,relation
+dipped,r,relation
+amount,r,relation
+mixing,r,relation
+acid,r,relation
+pinch,r,relation
+tops,r,animal relation
+teaspoons,i,relation
+tossing,r,relation
+whipped,r,relation
+processing,r,relation
+bitter,r,relation
+soften,r,relation
+reduces,r,relation
+amounts,r,relation
+substances,r,relation
+reduced,r,relation
+locally,r,relation
+smoke,r,relation
+dishes,r,animal
+menu,r,animal
+steamed,r,animal
+smoked,r,animal
+produces,r,animal
+fisherman,r,animal
+farms,r,animal
+baked,r,animal
+contains,r,animal
+crispy,r,animal
+fishery,r,animal
+methods,r,animal
+serves,r,animal
+fisheries,r,animal
+fry,r,animal
+courses,r,animal
+course,r,animal
+roasted,r,no-cat
+deep,r,measure
+fingers,u,measure
+or,u,measure no-cat
+into,u,measure
+lightly,u,measure
+whole,u,measure relation animal
+inch,u,measure
+half,u,measure
+thick,u,measure relation
+thin,u,measure
+with,u,measure animal
+desired,u,measure
+each,u,measure animal
+trimmed,u,measure
+atop,u,measure animal
+evenly,u,measure relation
+lay,u,measure animal
+halves,u,measure
+around,u,measure
+shallow,u,measure
+fine,u,measure relation
+heavy,u,measure
+pull,u,measure
+bright,u,measure
+minutes,u,measure relation
+plump,u,measure
+flat,u,measure
+toxic,u,relation
+smooth,u,relation
+texture,u,relation
+50,u,relation
+wild,u,relation
+makes,u,animal relation
+wonderful,u,relation
+base,u,relation
+traditional,u,relation
+laced,u,relation
+until,u,relation
+white,u,relation
+95,u,animal relation
+transfer,u,relation
+mouth,u,relation
+along,u,relation
+shelves,u,relation
+grass,u,relation
+chemicals,u,relation
+light,u,relation
+lovely,u,relation
+scented,u,relation
+elegant,u,relation
+lots,u,relation
+specialty,u,relation
+substitute,u,relation
+sitting,u,relation
+fashioned,u,relation
+variations,u,relation
+authentic,u,relation
+forget,u,relation
+reserved,u,relation
+liked,u,relation
+vat,u,relation
+dark,u,relation
+blue,u,relation
+staples,u,relation
+frequently,u,relation
+thoroughly,u,relation
+prefer,u,relation
+etc,u,relation
+lighter,u,relation
+grape,u,relation
+consumed,u,relation
+stems,u,relation
+living,u,relation
+harvest,u,relation
+bell,u,relation
+optional,u,relation
+gallon,u,relation
+enhanced,u,relation
+bars,u,relation
+river,u,relation
+buys,u,relation
+seeds,u,relation
+shells,u,relation
+directions,u,relation
+dozen,u,relation
+trick,u,relation
+quarters,u,relation
+56,u,relation
+preferably,u,relation
+snap,u,relation
+produce,u,relation
+labeled,u,relation
+favored,u,relation
+torn,u,relation
+virgin,u,relation
+steel,u,relation
+element,u,relation
+overnight,u,relation
+seed,u,relation
+naturally,u,relation
+handful,u,relation
+extra,u,relation
+combines,u,relation
+extremely,u,relation
+grow,u,animal relation
+supplied,u,relation
+sun,u,relation
+washed,u,relation
+gradually,u,relation
+wipe,u,relation
+treat,u,relation
+wonder,u,relation
+rub,u,relation
+palm,u,relation
+pale,u,relation
+paired,u,relation
+spike,u,relation
+coarse,u,relation
+equal,u,relation
+dumping,u,relation
+drops,u,relation
+69,u,relation
+copper,u,relation
+wind,u,relation
+miles,u,relation
+exception,u,relation
+quantities,u,relation
+53,u,relation
+balance,u,relation
+grinding,u,relation
+bite,u,relation
+instance,u,relation
+standing,u,relation
+enjoy,u,relation
+bought,u,relation
+contained,u,relation
+subtle,u,relation
+welcome,u,relation
+slowly,u,relation
+occasionally,u,relation
+accompanying,u,relation
+de,u,relation
+complex,u,relation
+readily,u,relation
+martha,u,relation
+saving,u,relation
+ltd,u,relation
+mr,u,relation
+tends,u,relation
+separate,u,relation
+southeast,u,relation
+bull,u,relation
+steep,u,relation
+mold,u,relation
+mountain,u,relation
+shave,u,relation
+posed,u,relation
+reasonable,u,relation
+finishes,u,relation
+bodies,u,relation
+identical,u,relation
+argue,u,relation
+crazy,u,relation
+intensity,u,relation
+and,u,animal no-cat
+business,u,animal
+all,u,animal
+farming,u,animal
+farmer,u,animal
+breeding,u,animal
+population,u,animal
+uses,u,animal
+bigger,u,animal
+single,u,animal
+completely,u,animal
+such,u,animal
+concerned,u,animal
+perhaps,u,animal
+essence,u,animal
+60,u,animal
+ban,u,animal
+lives,u,animal
+varieties,u,animal
+industry,u,animal
+treatment,u,animal
+commercial,u,animal
+per,u,animal
+few,u,animal
+10,u,animal
+29,u,animal
+available,u,animal
+purchase,u,animal
+largest,u,animal
+rest,u,animal
+item,u,animal
+offers,u,animal
+14,u,animal
+local,u,animal
+25,u,animal
+three,u,animal
+combination,u,cutlery
+replacing,u,cutlery
+gift,u,cutlery
+stand,u,cutlery

@@ -1,0 +1,9 @@
+used_in_cooking,lentil
+used_in_cooking,pepperoni
+juicy,grapefruit
+square,shelf
+used_in_cooking,croquette
+sweet,apricot
+used_in_cooking,confit
+juicy,muscat
+sweet,bacca
