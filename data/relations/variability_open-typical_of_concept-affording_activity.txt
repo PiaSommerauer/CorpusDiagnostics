@@ -1,0 +1,4 @@
+warm,towel
+hot,bulb
+hot,kitchen
+hot,toast

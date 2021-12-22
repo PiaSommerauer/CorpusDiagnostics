@@ -1,10 +1,10 @@
-used_in_cooking,blender
 juicy,gooseberry
-juicy,mango
+made_of_wood,violin
 sweet,litchi
-used_in_cooking,aubergine
-sweet,pineapple
-juicy,apricot
+juicy,mango
 sweet,nectarine
 juicy,citron
-made_of_wood,violin
+used_in_cooking,blender
+sweet,pineapple
+juicy,apricot
+used_in_cooking,aubergine

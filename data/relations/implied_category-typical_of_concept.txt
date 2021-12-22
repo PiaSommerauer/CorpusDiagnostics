@@ -1,5 +1,5 @@
+wings,cock
+dangerous,adze
 wings,weka
 round,cucurbit
-dangerous,adze
-wings,cock
 dangerous,morphine

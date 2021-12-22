@@ -1,5 +1,5 @@
-swim,basset
+swim,bloodhound
 swim,puppy
 swim,boa
 swim,wolf
-swim,bloodhound
+swim,basset

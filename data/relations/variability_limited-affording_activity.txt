@@ -1,5 +1,5 @@
+square,folder
+sweet,coconut
+juicy,pork
 green,bloodstone
 sweet,hazelnut
-sweet,coconut
-square,folder
-juicy,pork

@@ -1,4 +1,4 @@
-sweet,bacon
-sweet,lime
-red,quesadilla
 sweet,lemon
+sweet,bacon
+red,quesadilla
+sweet,lime

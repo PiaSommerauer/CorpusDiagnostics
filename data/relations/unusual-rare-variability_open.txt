@@ -1,2 +1,8 @@
-black,pyramid
+hot,cheesecloth
 sweet,salad
+black,pyramid
+warm,beer
+hot,flowerpot
+cold,tummy
+hot,countertop
+dangerous,cardinalate

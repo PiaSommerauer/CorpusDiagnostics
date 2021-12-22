@@ -1,6 +1,6 @@
 lay_eggs,roach
-swim,coypu
-lay_eggs,whitethroat
-lay_eggs,emberizidae
 lay_eggs,albatross
+lay_eggs,emberizidae
+lay_eggs,whitethroat
+swim,coypu
 fly,gallinule

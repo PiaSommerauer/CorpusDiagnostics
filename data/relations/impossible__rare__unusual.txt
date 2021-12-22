@@ -1,4 +1,4 @@
-black,dogbane
-red,blueberry
 red,rhagoletis
+black,dogbane
 yellow,gentianella
+red,blueberry

@@ -1,9 +1,9 @@
-square,blackboard
+round,pineapple
+wings,beetle
 made_of_wood,ladle
+sweet,carrot
 sweet,breadfruit
 made_of_wood,transom
 round,lemon
-wings,beetle
-sweet,carrot
-round,pineapple
 red,tongue
+square,blackboard

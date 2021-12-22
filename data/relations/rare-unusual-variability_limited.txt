@@ -1,8 +1,8 @@
+red,cowpeas
+made_of_wood,wheelbarrow
+square,tortilla
 sweet,flageolet
 black,rice
-black,lobster
-square,tortilla
 red,magpie
-made_of_wood,wheelbarrow
-red,cowpeas
 sweet,legume
+black,lobster

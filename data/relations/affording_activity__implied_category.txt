@@ -1,2 +1,2 @@
-wheels,airplane
 made_of_wood,bamboo
+wheels,airplane

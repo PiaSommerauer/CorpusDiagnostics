@@ -1,6 +1,6 @@
 square,lounge
-red,beet
-square,parlor
+square,foyer
 square,rack
 red,jam
-square,foyer
+square,parlor
+red,beet

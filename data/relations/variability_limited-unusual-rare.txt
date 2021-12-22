@@ -1,2 +1,2 @@
-made_of_wood,spade
 sweet,spud
+made_of_wood,spade

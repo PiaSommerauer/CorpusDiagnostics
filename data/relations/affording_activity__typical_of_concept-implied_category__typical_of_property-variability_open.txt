@@ -1,0 +1,6 @@
+dangerous,revolver
+warm,heating
+warm,greatcoat
+hot,burner
+hot,sauna
+hot,vapor

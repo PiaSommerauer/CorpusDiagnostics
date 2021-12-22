@@ -1,10 +1,10 @@
-sweet,ketchup
-sweet,parsnip
-blue,night
 black,owl
-red,mango
-green,radish
-sweet,rhubarb
 black,pipefish
-black,raccoon
+blue,night
+sweet,rhubarb
 red,apricot
+sweet,ketchup
+black,raccoon
+sweet,parsnip
+green,radish
+red,mango

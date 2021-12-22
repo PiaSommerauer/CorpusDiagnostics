@@ -1,1 +1,3 @@
 blue,chameleon
+dangerous,rod
+dangerous,elixir

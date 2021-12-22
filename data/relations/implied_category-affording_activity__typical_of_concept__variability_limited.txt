@@ -1,2 +1,2 @@
-juicy,mulberry
 sweet,plum
+juicy,mulberry

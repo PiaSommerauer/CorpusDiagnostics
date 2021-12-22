@@ -1,6 +1,6 @@
-swim,robin
-blue,pit
 wings,jeep
-wheels,tugboat
 blue,aubergine
+wheels,tugboat
 red,artichoke
+blue,pit
+swim,robin

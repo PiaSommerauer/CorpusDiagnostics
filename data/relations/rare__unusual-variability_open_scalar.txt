@@ -1,3 +1,0 @@
-dangerous,ciprofloxacin
-cold,quesadilla
-dangerous,gentamicin

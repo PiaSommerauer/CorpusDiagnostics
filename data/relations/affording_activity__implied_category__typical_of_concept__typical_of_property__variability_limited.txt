@@ -1,5 +1,5 @@
-used_in_cooking,blade
-sweet,cookie
-sweet,berry
-used_in_cooking,microwave
 made_of_wood,clapboard
+sweet,berry
+sweet,cookie
+used_in_cooking,blade
+used_in_cooking,microwave

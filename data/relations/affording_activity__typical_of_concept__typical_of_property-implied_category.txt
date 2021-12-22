@@ -1,5 +1,5 @@
-wings,bird
-dangerous,terrorism
-wheels,vehicle
 hot,fire
+wings,bird
 sweet,sugar
+wheels,vehicle
+dangerous,terrorism

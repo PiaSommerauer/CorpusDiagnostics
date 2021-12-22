@@ -1,2 +1,0 @@
-warm,blouse
-warm,coverall

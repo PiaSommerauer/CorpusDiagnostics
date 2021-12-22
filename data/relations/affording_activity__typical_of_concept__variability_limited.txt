@@ -1,3 +1,3 @@
+square,floppy
 square,diskette
 red,pomegranate
-square,floppy

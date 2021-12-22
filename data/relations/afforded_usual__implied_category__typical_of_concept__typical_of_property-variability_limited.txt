@@ -1,2 +1,2 @@
-lay_eggs,chicken
 lay_eggs,hen
+lay_eggs,chicken

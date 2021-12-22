@@ -1,10 +1,10 @@
-swim,seahorse
-swim,haddock
-swim,plaice
-fly,butterfly
 swim,whale
 swim,bluefin
 swim,sawfish
-roll,tyre
 fly,plane
+swim,haddock
+roll,tyre
+swim,seahorse
 swim,fish
+fly,butterfly
+swim,plaice

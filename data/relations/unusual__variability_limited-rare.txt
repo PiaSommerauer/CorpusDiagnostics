@@ -1,9 +1,9 @@
-made_of_wood,flatcar
-sweet,tabasco
-red,aubergine
-made_of_wood,grommet
-green,nectarine
 red,nectarine
-made_of_wood,aerator
-black,potoroo
 black,hornet
+black,potoroo
+sweet,tabasco
+green,nectarine
+made_of_wood,grommet
+made_of_wood,flatcar
+made_of_wood,aerator
+red,aubergine

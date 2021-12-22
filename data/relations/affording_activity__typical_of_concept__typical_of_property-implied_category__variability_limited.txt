@@ -1,4 +1,4 @@
+sweet,doughnut
 used_in_cooking,oven
 sweet,honey
-sweet,doughnut
 used_in_cooking,knife

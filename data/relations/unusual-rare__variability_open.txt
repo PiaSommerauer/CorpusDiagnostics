@@ -1,3 +1,8 @@
-blue,tank
-red,limousine
+cold,lip
 red,cereal
+cold,bath
+red,limousine
+cold,outfit
+blue,tank
+cold,foot
+warm,sword

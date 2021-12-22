@@ -1,2 +1,2 @@
-sweet,satsuma
 used_in_cooking,parer
+sweet,satsuma

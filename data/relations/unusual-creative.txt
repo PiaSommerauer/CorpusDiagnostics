@@ -1,6 +1,6 @@
 sweet,oyster
-blue,spinach
 green,quesadilla
-wings,scooter
 blue,lark
+wings,scooter
+blue,spinach
 red,garlic

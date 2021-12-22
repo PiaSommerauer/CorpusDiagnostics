@@ -1,2 +1,2 @@
-fly,mammal
 sweet,asparagus
+fly,mammal

@@ -1,2 +1,2 @@
-made_of_wood,bedstead
 black,bat
+made_of_wood,bedstead

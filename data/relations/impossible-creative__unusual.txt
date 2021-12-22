@@ -1,8 +1,8 @@
+sweet,linseed
+blue,apple
+blue,monkey
+red,dog
+red,shiitake
 yellow,fir
 dangerous,stamper
-red,shiitake
-sweet,linseed
-red,dog
-blue,apple
 fly,penguin
-blue,monkey

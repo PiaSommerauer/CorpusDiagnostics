@@ -1,8 +1,8 @@
-lay_eggs,typhlopidae
 lay_eggs,robin
-roll,wheelbarrow
-lay_eggs,charadrius
-fly,pelican
-lay_eggs,acaridae
 lay_eggs,cotingidae
+lay_eggs,typhlopidae
+fly,pelican
+lay_eggs,charadrius
 lay_eggs,currawong
+roll,wheelbarrow
+lay_eggs,acaridae

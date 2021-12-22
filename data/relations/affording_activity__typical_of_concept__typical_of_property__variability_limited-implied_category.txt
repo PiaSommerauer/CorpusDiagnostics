@@ -1,2 +1,2 @@
-used_in_cooking,condiment
 used_in_cooking,pasta
+used_in_cooking,condiment

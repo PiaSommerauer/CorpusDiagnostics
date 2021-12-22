@@ -1,6 +1,11 @@
-red,football
-red,couch
-square,marble
+warm,jean
+cold,fireplace
+cold,soup
 red,lewisia
+red,couch
 black,football
+square,marble
 red,glass
+warm,water
+cold,shelf
+red,football

@@ -1,4 +1,11 @@
-blue,hose
-blue,ring
+warm,turban
 juicy,candy
+blue,ring
+blue,hose
+hot,cake
+hot,bread
+hot,pudding
+warm,headdress
 round,chocolate
+hot,tray
+warm,pantie

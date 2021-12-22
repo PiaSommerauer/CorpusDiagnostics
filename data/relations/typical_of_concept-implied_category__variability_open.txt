@@ -1,2 +1,4 @@
-yellow,pyramid
+dangerous,scorpion
 made_of_wood,peg
+cold,river
+yellow,pyramid

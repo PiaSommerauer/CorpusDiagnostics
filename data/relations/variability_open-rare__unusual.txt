@@ -1,6 +1,13 @@
+hot,bottle
+green,stocking
+cold,eggshell
+warm,dress
+cold,coffee
 round,breadcrumb
-blue,glass
 red,wand
 green,ring
+cold,vinyl
 blue,taxi
-green,stocking
+warm,frock
+blue,glass
+cold,casserole

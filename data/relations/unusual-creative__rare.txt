@@ -1,8 +1,8 @@
-red,avocado
-red,eye
-used_in_cooking,hoe
 yellow,eucalyptus
-yellow,human
+red,eye
 sweet,cauliflower
+yellow,human
+used_in_cooking,hoe
 red,cilantro
+red,avocado
 dangerous,gutter

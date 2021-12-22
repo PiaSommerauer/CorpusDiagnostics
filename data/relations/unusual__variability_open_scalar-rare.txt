@@ -1,2 +1,0 @@
-cold,toe
-warm,linen

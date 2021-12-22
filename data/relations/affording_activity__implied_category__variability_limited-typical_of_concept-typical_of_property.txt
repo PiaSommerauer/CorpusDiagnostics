@@ -1,2 +1,2 @@
-used_in_cooking,galangal
 sweet,peach
+used_in_cooking,galangal

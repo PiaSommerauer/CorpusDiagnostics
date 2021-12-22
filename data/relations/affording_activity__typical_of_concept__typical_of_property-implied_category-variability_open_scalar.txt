@@ -1,3 +1,0 @@
-dangerous,weapon
-cold,winter
-dangerous,pistol

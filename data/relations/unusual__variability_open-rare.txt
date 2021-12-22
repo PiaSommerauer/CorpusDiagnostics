@@ -1,4 +1,6 @@
+warm,linen
 red,chameleon
-red,ring
+cold,toe
 green,limousine
 green,oven
+red,ring

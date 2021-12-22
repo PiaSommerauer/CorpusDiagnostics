@@ -1,6 +1,0 @@
-hot,sauce
-hot,pancake
-warm,atmosphere
-cold,milk
-hot,pot
-warm,smoke

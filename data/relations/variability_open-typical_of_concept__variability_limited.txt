@@ -1,2 +1,2 @@
-square,tray
 yellow,pansy
+square,tray

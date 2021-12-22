@@ -1,4 +1,4 @@
-sweet,serviceberry
-juicy,aubergine
-sweet,cherry
 made_of_wood,rafter
+sweet,cherry
+juicy,aubergine
+sweet,serviceberry

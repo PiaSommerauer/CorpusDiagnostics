@@ -1,1 +1,3 @@
 round,table
+warm,nightgown
+cold,drink

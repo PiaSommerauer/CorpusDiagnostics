@@ -1,5 +1,5 @@
-wings,duck
 wings,tropicbird
-wings,crow
-dangerous,fusil
 round,disc
+dangerous,fusil
+wings,crow
+wings,duck

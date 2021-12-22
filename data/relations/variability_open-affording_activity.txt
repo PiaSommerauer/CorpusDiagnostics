@@ -1,2 +1,7 @@
+hot,pie
+hot,drink
 made_of_wood,strake
 red,ink
+hot,coal
+warm,footwear
+hot,tortilla

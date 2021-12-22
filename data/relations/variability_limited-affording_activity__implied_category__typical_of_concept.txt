@@ -1,8 +1,8 @@
+juicy,scallop
 square,cabinet
-square,newspaper
-used_in_cooking,bass
-used_in_cooking,chorizo
-sweet,grapefruit
 sweet,lemonade
 square,armoire
-juicy,scallop
+sweet,grapefruit
+square,newspaper
+used_in_cooking,chorizo
+used_in_cooking,bass

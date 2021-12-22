@@ -1,6 +1,6 @@
-swim,lynx
 roll,quoit
-swim,pug
 swim,dog
-swim,bear
+swim,pug
 roll,wiffle
+swim,bear
+swim,lynx

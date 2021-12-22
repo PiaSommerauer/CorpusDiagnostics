@@ -1,6 +1,0 @@
-hot,cheesecloth
-hot,flowerpot
-hot,countertop
-dangerous,cardinalate
-cold,tummy
-warm,beer

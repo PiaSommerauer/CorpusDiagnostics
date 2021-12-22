@@ -1,3 +1,8 @@
-blue,wand
+hot,tile
+hot,can
+cold,nose
+warm,salwar
 red,clarinet
+warm,skirt
+blue,wand
 blue,recorder

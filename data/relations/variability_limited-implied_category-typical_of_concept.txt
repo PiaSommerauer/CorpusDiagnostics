@@ -1,5 +1,5 @@
-made_of_wood,outrigger
-made_of_wood,binnacle
 made_of_wood,trestle
-round,watermelon
 sweet,pome
+made_of_wood,outrigger
+round,watermelon
+made_of_wood,binnacle

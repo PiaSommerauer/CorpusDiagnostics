@@ -1,0 +1,7 @@
+warm,blanket
+dangerous,mafioso
+dangerous,virus
+hot,soup
+warm,mitten
+dangerous,arrow
+warm,jacket

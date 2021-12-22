@@ -1,7 +1,7 @@
-blue,cider
 blue,bear
-used_in_cooking,stylus
+blue,daffodil
+blue,cider
 yellow,herring
 blue,lawn
-blue,daffodil
+used_in_cooking,stylus
 made_of_wood,turnbuckle

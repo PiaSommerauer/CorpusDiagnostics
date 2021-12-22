@@ -1,10 +1,10 @@
-green,lion
-wings,cart
-dangerous,menthol
 sweet,ginger
-made_of_wood,carabiner
+green,lion
 swim,bonobo
-sweet,acorn
 dangerous,dip
+wings,cart
+made_of_wood,carabiner
 blue,crow
+dangerous,menthol
 hot,shoe
+sweet,acorn

@@ -1,2 +1,2 @@
-made_of_wood,deck
 yellow,cheetah
+made_of_wood,deck

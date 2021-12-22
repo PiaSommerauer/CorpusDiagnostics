@@ -1,4 +1,4 @@
 square,doorbell
 blue,parrotfish
-blue,peacock
 red,beetroot
+blue,peacock

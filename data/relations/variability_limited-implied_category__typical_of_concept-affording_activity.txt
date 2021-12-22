@@ -1,8 +1,8 @@
-sweet,pear
-juicy,sultana
-square,bookshelf
-used_in_cooking,breadcrumb
-made_of_wood,flute
-made_of_wood,trave
 sweet,yogurt
+made_of_wood,flute
+juicy,sultana
+made_of_wood,trave
+used_in_cooking,breadcrumb
 made_of_wood,fipple
+sweet,pear
+square,bookshelf

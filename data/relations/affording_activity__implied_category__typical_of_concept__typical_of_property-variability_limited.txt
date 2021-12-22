@@ -1,5 +1,5 @@
 made_of_wood,plank
-sweet,candy
-juicy,nectarine
-sweet,biscuit
 juicy,watermelon
+sweet,candy
+sweet,biscuit
+juicy,nectarine

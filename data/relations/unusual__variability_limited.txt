@@ -1,8 +1,8 @@
-sweet,condiment
-made_of_wood,pin
-sweet,fennel
 blue,iceberg
 juicy,mangold
-green,crab
+sweet,fennel
 roll,lathe
+sweet,condiment
+green,crab
+made_of_wood,pin
 swim,serpent

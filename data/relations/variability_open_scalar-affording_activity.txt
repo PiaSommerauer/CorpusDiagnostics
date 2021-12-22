@@ -1,5 +1,0 @@
-hot,coal
-warm,footwear
-hot,drink
-hot,pie
-hot,tortilla

@@ -1,5 +1,5 @@
 dangerous,crease
-red,cheetah
 blue,robin
 fly,boat
 red,hazelnut
+red,cheetah

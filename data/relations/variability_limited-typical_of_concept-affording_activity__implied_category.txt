@@ -1,2 +1,2 @@
-made_of_wood,soffit
 made_of_wood,houseboat
+made_of_wood,soffit

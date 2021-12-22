@@ -1,2 +1,2 @@
-used_in_cooking,tomato
 used_in_cooking,pimento
+used_in_cooking,tomato

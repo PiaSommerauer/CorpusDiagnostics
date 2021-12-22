@@ -1,5 +1,5 @@
-swim,duckling
-fly,budgie
-swim,otter
-fly,goldcrest
 fly,crow
+swim,duckling
+swim,otter
+fly,budgie
+fly,goldcrest

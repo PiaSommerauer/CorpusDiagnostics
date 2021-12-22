@@ -1,0 +1,4 @@
+dangerous,ointment
+dangerous,beetle
+hot,yogurt
+hot,candy
